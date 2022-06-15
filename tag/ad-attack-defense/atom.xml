@@ -1,0 +1,1138 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;ad-attack-defense&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-01-18T07:08:48.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/PenetrationTest/Reference/AD-Attack-Defense/</id>
+        <title>Active Directory Kill Chain Attack &amp; Defense【转】</title>
+        <link rel="alternate" href="https://or0kit.github.io/PenetrationTest/Reference/AD-Attack-Defense/"/>
+        <content type="html">&lt;h1 id=&#34;active-directory-kill-chain-attack-defense&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#active-directory-kill-chain-attack-defense&#34;&gt;#&lt;/a&gt; Active Directory Kill Chain Attack &amp;amp; Defense&lt;/h1&gt;
+&lt;img width=&#34;650&#34; data-src=&#34;https://camo.githubusercontent.com/9547d8152e3490a6e5e3da0279faab64340885be/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f616476616e6365642d7468726561742d616e616c79746963732f6d656469612f61747461636b2d6b696c6c2d636861696e2d736d616c6c2e6a7067&#34;&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt; Summary&lt;/h2&gt;
+&lt;p&gt;This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.&lt;/p&gt;
+&lt;h2 id=&#34;table-of-contents&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#table-of-contents&#34;&gt;#&lt;/a&gt; Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#discovery&#34;&gt;Discovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#privilege-escalation&#34;&gt;Privilege Escalation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#defense-evasion&#34;&gt;Defense Evasion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#credential-dumping&#34;&gt;Credential Dumping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lateral-movement&#34;&gt;Lateral Movement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#persistence&#34;&gt;Persistence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#defense-&amp;amp;-detection&#34;&gt;Defense &amp;amp; Detection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;discovery&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#discovery&#34;&gt;#&lt;/a&gt; Discovery&lt;/h2&gt;
+&lt;h3 id=&#34;spn-scanning&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#spn-scanning&#34;&gt;#&lt;/a&gt; SPN Scanning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNTA4&#34;&gt;SPN Scanning – Service Discovery without Network Port Scanning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zb2NpYWwudGVjaG5ldC5taWNyb3NvZnQuY29tL3dpa2kvY29udGVudHMvYXJ0aWNsZXMvMTg5OTYuYWN0aXZlLWRpcmVjdG9yeS1wb3dlcnNoZWxsLXNjcmlwdC10by1saXN0LWFsbC1zcG5zLXVzZWQuYXNweA==&#34;&gt;Active Directory: PowerShell script to list all SPNs used&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9kaXNjb3ZlcmluZy1zZXJ2aWNlLWFjY291bnRzLXdpdGhvdXQtdXNpbmctcHJpdmlsZWdlcy8=&#34;&gt;Discovering Service Accounts Without Using Privileges&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-mining&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#data-mining&#34;&gt;#&lt;/a&gt; Data Mining&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGV2aXZpLm5ldC8yMDE4LzA1LzIzL2EtZGF0YS1odW50aW5nLW92ZXJ2aWV3Lw==&#34;&gt;A Data Hunting Overview&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL3B1c2gtaXQtcHVzaC1pdC1yZWFsLWdvb2Qv&#34;&gt;Push it, Push it Real Good&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vZmluZGluZy1zZW5zaXRpdmUtZGF0YS1kb21haW4tc3FsLXNlcnZlcnMtdXNpbmctcG93ZXJ1cHNxbC8=&#34;&gt;Finding Sensitive Data on Domain SQL Servers using PowerUpSQL&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1aSU93X3hmcWtLTQ==&#34;&gt;Sensitive Data Discovery in Email with MailSniper&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZm9ydHlub3J0aHNlY3VyaXR5LmNvbS9yZW1vdGVseS1zZWFyY2gv&#34;&gt;Remotely Searching for Sensitive Files&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oYXJtajB5Lm5ldC9ibG9nL3BlbmV0ZXN0aW5nL2ktaHVudC1zeXNhZG1pbnMv&#34;&gt;I Hunt Sysadmins - harmj0y&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;user-hunting&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#user-hunting&#34;&gt;#&lt;/a&gt; User Hunting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Jvd2RzdHJpa2UuY29tL2Jsb2cvaGlkZGVuLWFkbWluaXN0cmF0aXZlLWFjY291bnRzLWJsb29kaG91bmQtdG8tdGhlLXJlc2N1ZS8=&#34;&gt;Hidden Administrative Accounts: BloodHound to the Rescue&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yNTM1&#34;&gt;Active Directory Recon Without Admin Rights&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zNzE5&#34;&gt;Gathering AD Data with the Active Directory PowerShell Module&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sYWJvZmFwZW5ldHJhdGlvbnRlc3Rlci5jb20vMjAxOC8xMC9kb21haW4tZW51bWVyYXRpb24tZnJvbS1Qb3dlclNoZWxsLUNMTS5odG1s&#34;&gt;Using ActiveDirectory module for Domain Enumeration from PowerShell Constrained Language Mode&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL05ldFNQSS9Qb3dlclVwU1FML3dpa2kvQWN0aXZlLURpcmVjdG9yeS1SZWNvbi1GdW5jdGlvbnM=&#34;&gt;PowerUpSQL Active Directory Recon Functions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2l4ZHViLm5ldC8/cD01OTE=&#34;&gt;Derivative Local Admin&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vZHVtcGluZy1hY3RpdmUtZGlyZWN0b3J5LWRvbWFpbi1pbmZvLXdpdGgtcG93ZXJ1cHNxbC8=&#34;&gt;Dumping Active Directory Domain Info – with PowerUpSQL!&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL2xvY2FsLWdyb3VwLWVudW1lcmF0aW9uLw==&#34;&gt;Local Group Enumeration&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9sb2NhbC1hZG1pbi1tYXBwaW5nLWJsb29kaG91bmQ=&#34;&gt;Attack Mapping With Bloodhound&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wZW50ZXN0bGFiLmJsb2cvMjAxOC8wNS8yOC9zaXR1YXRpb25hbC1hd2FyZW5lc3Mv&#34;&gt;Situational Awareness&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamF2ZWxpbi1uZXR3b3Jrcy5jb20vc3RhdGljLzVmY2M2ZTg0LnBkZg==&#34;&gt;Commands for Domain Network Compromise&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9hY3RpdmVkaXJlY3RvcnkvYS1wZW50ZXN0ZXJzLWd1aWRlLXRvLWdyb3VwLXNjb3Bpbmcv&#34;&gt;A Pentester’s Guide to Group Scoping&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;laps&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#laps&#34;&gt;#&lt;/a&gt; LAPS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zMTY0&#34;&gt;Microsoft LAPS Security &amp;amp; Active Directory LAPS Configuration Recon&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9wb3dlcnNoZWxsL3J1bm5pbmctbGFwcy13aXRoLXBvd2Vydmlldy8=&#34;&gt;Running LAPS with PowerView&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yYXN0YW1vdXNlLm1lL3RhZ3MvbGFwcy8=&#34;&gt;RastaMouse LAPS Part 1 &amp;amp; 2&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applocker&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#applocker&#34;&gt;#&lt;/a&gt; AppLocker&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yYXN0YW1vdXNlLm1lLzIwMTgvMDkvZW51bWVyYXRpbmctYXBwbG9ja2VyLWNvbmZpZy8=&#34;&gt;Enumerating AppLocker Config&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;azure&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#azure&#34;&gt;#&lt;/a&gt; Azure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvRGlya2phbk1vbGxlbWEvaW0taW4teW91ci1jbG91ZC1yZWFkaW5nLWV2ZXJ5b25lcy1lbWFpbC1oYWNraW5nLWF6dXJlLWFkLXZpYS1hY3RpdmUtZGlyZWN0b3J5&#34;&gt;I&#39;m in your cloud... reading everyone&#39;s email. Hacking Azure AD via Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vdXRpaWx6aW5nLWF6dXJlLWZvci1yZWQtdGVhbS1lbmdhZ2VtZW50cy8=&#34;&gt;Utilizing Azure Services for Red Team Engagements&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGVha2VyZGVjay5jb20vdHdlZWtmYXdrZXMvYmx1ZS1jbG91ZC1vZi1kZWF0aC1yZWQtdGVhbWluZy1henVyZS0x&#34;&gt;Blue Cloud of Death: Red Teaming Azure&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnhwbnNlYy5jb20vYXp1cmVhZC1jb25uZWN0LWZvci1yZWR0ZWFtLw==&#34;&gt;Azure AD Connect for Red Teamers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmxhY2toaWxsc2luZm9zZWMuY29tL3JlZC10ZWFtaW5nLW1pY3Jvc29mdC1wYXJ0LTEtYWN0aXZlLWRpcmVjdG9yeS1sZWFrcy12aWEtYXp1cmUv&#34;&gt;Red Teaming Microsoft: Part 1 – Active Directory Leaks via Azure&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wOC8yMDE5LUJsYWNrSGF0LVVTLU1ldGNhbGYtTW9yb3djenluc2tpLUF0dGFja2luZ0FuZERlZmVuZGluZ1RoZU1pY3Jvc29mdENsb3VkLnBkZg==&#34;&gt;Attacking &amp;amp; Defending the Microsoft Cloud&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;active-directory-federation-services&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#active-directory-federation-services&#34;&gt;#&lt;/a&gt; Active Directory Federation Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1vVHlMZEFVanczMA==&#34;&gt;118 Attacking ADFS Endpoints with PowerShell Karl Fosaaen&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vdXNpbmctcG93ZXJzaGVsbC1pZGVudGlmeS1mZWRlcmF0ZWQtZG9tYWlucy8=&#34;&gt;Using PowerShell to Identify Federated Domains&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL21kc2VjcmVzZWFyY2gvTHluY1NuaXBlcg==&#34;&gt;LyncSniper: A tool for penetration testing Skype for Business and Lync deployments&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvRG91Z2xhc0JpZW5zdG9jay90cm9vcGVycy0xOS1pLWFtLWFkLWZzLWFuZC1zby1jYW4teW91&#34;&gt;Troopers 19 - I am AD FS and So Can You&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;privilege-escalation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#privilege-escalation&#34;&gt;#&lt;/a&gt; Privilege Escalation&lt;/h2&gt;
+&lt;h3 id=&#34;zerologon&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zerologon&#34;&gt;#&lt;/a&gt; Zerologon&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3JzbXVkZ2UvWmVyb0xvZ29uLUJPRg==&#34;&gt;Cobalt Strike ZeroLogon-BOF&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2RpcmtqYW5tL0NWRS0yMDIwLTE0NzI=&#34;&gt;CVE-2020-1472 POC&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2VjdXJhLmNvbS9ibG9nL3plcm8tbG9nb24=&#34;&gt;Zerologon: instantly become domain admin by subverting Netlogon cryptography (CVE-2020-1472)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;passwords-in-sysvol-group-policy-preferences&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#passwords-in-sysvol-group-policy-preferences&#34;&gt;#&lt;/a&gt; Passwords in SYSVOL &amp;amp; Group Policy Preferences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yMjg4&#34;&gt;Finding Passwords in SYSVOL &amp;amp; Exploiting Group Policy Preferences&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnJhcGlkNy5jb20vMjAxNi8wNy8yNy9wZW50ZXN0aW5nLWluLXRoZS1yZWFsLXdvcmxkLWdyb3VwLXBvbGljeS1wd25hZ2Uv&#34;&gt;Pentesting in the Real World: Group Policy Pwnage&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ms14-068-kerberos-vulnerability&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ms14-068-kerberos-vulnerability&#34;&gt;#&lt;/a&gt; MS14-068 Kerberos Vulnerability&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD01MjU=&#34;&gt;MS14-068: Vulnerability in (Active Directory) Kerberos Could Allow Elevation of Privilege&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sYWJzLm13cmluZm9zZWN1cml0eS5jb20vYmxvZy9kaWdnaW5nLWludG8tbXMxNC0wNjgtZXhwbG9pdGF0aW9uLWFuZC1kZWZlbmNlLw==&#34;&gt;Digging into MS14-068, Exploitation and Defence&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHJ1c3RlZHNlYy5jb20vMjAxNC8xMi9tczE0LTA2OC1mdWxsLWNvbXByb21pc2Utc3RlcC1zdGVwLw==&#34;&gt;From MS14-068 to Full Compromise – Step by Step&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dnsadmins&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dnsadmins&#34;&gt;#&lt;/a&gt; DNSAdmins&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sYWJvZmFwZW5ldHJhdGlvbnRlc3Rlci5jb20vMjAxNy8wNS9hYnVzaW5nLWRuc2FkbWlucy1wcml2aWxlZ2UtZm9yLWVzY2FsYXRpb24taW4tYWN0aXZlLWRpcmVjdG9yeS5odG1s&#34;&gt;Abusing DNSAdmins privilege for escalation in Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD00MDY0&#34;&gt;From DNSAdmins to Domain Admin, When DNSAdmins is More than Just DNS Administration&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kerberos-delegation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#kerberos-delegation&#34;&gt;#&lt;/a&gt; Kerberos Delegation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaGVuYW5pZ2Fuc2xhYnMuaW8vbWVkaWEvQ29uc3RydWN0aW5nJTIwS2VyYmVyb3MlMjBBdHRhY2tzJTIwd2l0aCUyMERlbGVnYXRpb24lMjBQcmltaXRpdmVzLnBkZg==&#34;&gt;Constructing Kerberos Attacks with Delegation Primitives&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Jsb2cucmVkeG9yYmx1ZS5jb20vMjAxOS8xMi9uby1zaGVsbHMtcmVxdWlyZWQtdXNpbmctaW1wYWNrZXQtdG8uaHRtbA==&#34;&gt;No Shells Required - a Walkthrough on Using Impacket and Kerberos to Delegate Your Way to DA&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vY3ZlLTIwMjAtMTcwNDkta2VyYmVyb3MtYnJvbnplLWJpdC1vdmVydmlldy8=&#34;&gt;CVE-2020-17049: Kerberos Bronze Bit Attack – Overview&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;unconstrained-delegation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#unconstrained-delegation&#34;&gt;#&lt;/a&gt; Unconstrained Delegation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD00MDU2&#34;&gt;Domain Controller Print Server + Unconstrained Kerberos Delegation = Pwned Active Directory Forest&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNjY3&#34;&gt;Active Directory Security Risk #101: Kerberos Unconstrained Delegation (or How Compromise of a Single Server Can Compromise the Domain)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS91bmNvbnN0cmFpbmVkLWRlbGVnYXRpb24tcGVybWlzc2lvbnMv&#34;&gt;Unconstrained Delegation Permissions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sYWJzLm13cmluZm9zZWN1cml0eS5jb20vYmxvZy90cnVzdC15ZWFycy10by1lYXJuLXNlY29uZHMtdG8tYnJlYWsv&#34;&gt;Trust? Years to earn, seconds to break&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3N0cy5zcGVjdGVyb3BzLmlvL2h1bnRpbmctaW4tYWN0aXZlLWRpcmVjdG9yeS11bmNvbnN0cmFpbmVkLWRlbGVnYXRpb24tZm9yZXN0cy10cnVzdHMtNzFmMmIzMzY4OGUx&#34;&gt;Hunting in Active Directory: Unconstrained Delegation &amp;amp; Forests Trusts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmljY2FyZG9hbmNhcmFuaS5pdC9leHBsb2l0aW5nLXVuY29uc3RyYWluZWQtZGVsZWdhdGlvbi8=&#34;&gt;Exploiting Unconstrained Delegation&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;constrained-delegation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#constrained-delegation&#34;&gt;#&lt;/a&gt; Constrained Delegation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL2Fub3RoZXItd29yZC1vbi1kZWxlZ2F0aW9uLw==&#34;&gt;Another Word on Delegation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL2Zyb20ta2VrZW8tdG8tcnViZXVzLw==&#34;&gt;From Kekeo to Rubeus&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oYXJtajB5Lm5ldC9ibG9nL2FjdGl2ZWRpcmVjdG9yeS9zNHUycHduYWdlLw==&#34;&gt;S4U2Pwnage&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2VjdXJlYXV0aC5jb20vYmxvZy9rZXJiZXJvcy1kZWxlZ2F0aW9uLXNwbnMtYW5kLW1vcmU=&#34;&gt;Kerberos Delegation, Spns And More...&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;resource-based-constrained-delegation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#resource-based-constrained-delegation&#34;&gt;#&lt;/a&gt; Resource-Based Constrained Delegation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaGVuYW5pZ2Fuc2xhYnMuaW8vMjAxOS8wMS8yOC9XYWdnaW5nLXRoZS1Eb2cuaHRtbA==&#34;&gt;Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pcmVkLnRlYW0vb2ZmZW5zaXZlLXNlY3VyaXR5LWV4cGVyaW1lbnRzL2FjdGl2ZS1kaXJlY3Rvcnkta2VyYmVyb3MtYWJ1c2UvcmVzb3VyY2UtYmFzZWQtY29uc3RyYWluZWQtZGVsZWdhdGlvbi1hZC1jb21wdXRlci1vYmplY3QtdGFrZS1vdmVyLWFuZC1wcml2aWxnZWQtY29kZS1leGVjdXRpb24=&#34;&gt;Kerberos Resource-based Constrained Delegation: Computer Object Take Over&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9yZXNvdXJjZS1iYXNlZC1jb25zdHJhaW5lZC1kZWxlZ2F0aW9uLWFidXNlLw==&#34;&gt;Resource Based Constrained Delegation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oYXJtajB5Lm5ldC9ibG9nL2FjdGl2ZWRpcmVjdG9yeS9hLWNhc2Utc3R1ZHktaW4td2FnZ2luZy10aGUtZG9nLWNvbXB1dGVyLXRha2VvdmVyLw==&#34;&gt;A Case Study in Wagging the Dog: Computer Takeover&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1SVWJBREhjQkxLZw==&#34;&gt;BloodHound 2.1&#39;s New Computer Takeover Attack&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;insecure-group-policy-object-permission-rights&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#insecure-group-policy-object-permission-rights&#34;&gt;#&lt;/a&gt; Insecure Group Policy Object Permission Rights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL2FidXNpbmctZ3BvLXBlcm1pc3Npb25zLw==&#34;&gt;Abusing GPO Permissions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93YWxkMC5jb20vP3A9MTc5&#34;&gt;A Red Teamer’s Guide to GPOs and OUs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Jhc3RhLW1vdXNlL0dQTy1BYnVzZQ==&#34;&gt;File templates for GPO Abuse&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yYXN0YW1vdXNlLm1lLzIwMTkvMDEvZ3BvLWFidXNlLXBhcnQtMS8=&#34;&gt;GPO Abuse - Part 1&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL213cmxhYnMvU2hhcnBHUE9BYnVzZQ==&#34;&gt;SharpGPOAbuse&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;insecure-acls-permission-rights&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#insecure-acls-permission-rights&#34;&gt;#&lt;/a&gt; Insecure ACLs Permission Rights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9leHBsb2l0aW5nLXdlYWstYWN0aXZlLWRpcmVjdG9yeS1wZXJtaXNzaW9ucy13aXRoLXBvd2Vyc3Bsb2l0Lw==&#34;&gt;Exploiting Weak Active Directory Permissions With Powersploit&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/&#34;&gt;Escalating privileges with ACLs in Active Directory&lt;br /&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/&#34;&gt;Abusing Active Directory Permissions with PowerView&lt;br /&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93YWxkMC5jb20vP3A9MTEy&#34;&gt;BloodHound 1.3 – The ACL Attack Path Update&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zNjU4&#34;&gt;Scanning for Active Directory Privileges &amp;amp; Privileged Accounts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90ZWNoY29tbXVuaXR5Lm1pY3Jvc29mdC5jb20vdDUvRW50ZXJwcmlzZS1Nb2JpbGl0eS1TZWN1cml0eS9BY3RpdmUtRGlyZWN0b3J5LUFjY2Vzcy1Db250cm9sLUxpc3QtODIxMS1BdHRhY2tzLWFuZC1EZWZlbnNlL2JhLXAvMjUwMzE1&#34;&gt;Active Directory Access Control List – Attacks and Defense&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvRGlya2phbk1vbGxlbWEvYWNscHduLWFjdGl2ZS1kaXJlY3RvcnktYWNsLWV4cGxvaXRhdGlvbi13aXRoLWJsb29kaG91bmQ=&#34;&gt;aclpwn - Active Directory ACL exploitation with BloodHound&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;domain-trusts&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#domain-trusts&#34;&gt;#&lt;/a&gt; Domain Trusts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oYXJtajB5Lm5ldC9ibG9nL3JlZHRlYW1pbmcvYS1ndWlkZS10by1hdHRhY2tpbmctZG9tYWluLXRydXN0cy8=&#34;&gt;A Guide to Attacking Domain Trusts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNTg4&#34;&gt;It&#39;s All About Trust – Forging Kerberos Trust Tickets to Spoof Access across Active Directory Trusts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kaXJramFubS5pby9hY3RpdmUtZGlyZWN0b3J5LWZvcmVzdC10cnVzdHMtcGFydC1vbmUtaG93LWRvZXMtc2lkLWZpbHRlcmluZy13b3Jr&#34;&gt;Active Directory forest trusts part 1 - How does SID filtering work?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWNrbWFnLmNvbS9zZWN1cml0eS9hZC1mb3Jlc3Qv&#34;&gt;The Forest Is Under Control. Taking over the entire Active Directory forest&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3N0cy5zcGVjdGVyb3BzLmlvL25vdC1hLXNlY3VyaXR5LWJvdW5kYXJ5LWJyZWFraW5nLWZvcmVzdC10cnVzdHMtY2QxMjU4Mjk1MThk&#34;&gt;Not A Security Boundary: Breaking Forest Trusts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oYXJtajB5Lm5ldC9ibG9nL3JlZHRlYW1pbmcvdGhlLXRydXN0cG9jYWx5cHNlLw==&#34;&gt;The Trustpocalypse&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy9pbHpqdGxvMHZieXUxdTAvQ2FybG9zJTIwR2FyY2lhJTIwLSUyMFJvb3RlZDIwMTklMjAtJTIwUGVudGVzdGluZyUyMEFjdGl2ZSUyMERpcmVjdG9yeSUyMEZvcmVzdHMlMjBwdWJsaWMucGRmP2RsPTA=&#34;&gt;Pentesting Active Directory Forests&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yODI=&#34;&gt;Security Considerations for Active Directory (AD) Trusts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNjQw&#34;&gt;Kerberos Golden Tickets are Now More Golden&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dcshadow&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dcshadow&#34;&gt;#&lt;/a&gt; DCShadow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9wcml2aWxlZ2UtZXNjYWxhdGlvbi13aXRoLWRjc2hhZG93Lw==&#34;&gt;Privilege Escalation With DCShadow&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wZW50ZXN0bGFiLmJsb2cvMjAxOC8wNC8xNi9kY3NoYWRvdy8=&#34;&gt;DCShadow&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmFsc2lkLmV1L2Rjc2hhZG93LWV4cGxhaW5lZC00NTEwZjUyZmMxOWQ=&#34;&gt;DCShadow explained: A technical deep dive into the latest AD attack technique&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sYWJvZmFwZW5ldHJhdGlvbnRlc3Rlci5jb20vMjAxOC8wNS9kY3NoYWRvdy1zYWNsLmh0bWw=&#34;&gt;DCShadow - Silently turn off Active Directory Auditing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sYWJvZmFwZW5ldHJhdGlvbnRlc3Rlci5jb20vMjAxOC8wNC9kY3NoYWRvdy5odG1s&#34;&gt;DCShadow - Minimal permissions, Active Directory Deception, Shadowception and more&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rid&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rid&#34;&gt;#&lt;/a&gt; RID&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9yaWQtaGlqYWNraW5nLXdoZW4tZ3Vlc3RzLWJlY29tZS1hZG1pbnMv&#34;&gt;Rid Hijacking: When Guests Become Admins&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;microsoft-sql-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#microsoft-sql-server&#34;&gt;#&lt;/a&gt; Microsoft SQL Server&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vZ2V0LXNxbC1zZXJ2ZXItc3lzYWRtaW4tcHJpdmlsZWdlcy1sb2NhbC1hZG1pbi1wb3dlcnVwc3FsLw==&#34;&gt;How to get SQL Server Sysadmin Privileges as a Local Admin with PowerUpSQL&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9jb21wcm9taXNlLXdpdGgtcG93ZXJ1cHNxbC1zcWwtYXR0YWNrcy8=&#34;&gt;Compromise With Powerupsql – Sql Attacks&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;red-forest&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#red-forest&#34;&gt;#&lt;/a&gt; Red Forest&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5lcm53LWluc2lnaHQuZGUvdHJvb3BlcnMvdHIxOC9zbGlkZXMvVFIxOF9BRF9BdHRhY2stYW5kLURlZmVuZC1NaWNyb3NvZnQtRW5oYW5jZWQtU2VjdXJpdHkucGRm&#34;&gt;Attack and defend Microsoft Enhanced Security Administrative&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;exchange&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#exchange&#34;&gt;#&lt;/a&gt; Exchange&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2dkZWRyb3Vhcy9FeGNoYW5nZS1BRC1Qcml2ZXNj&#34;&gt;Exchange-AD-Privesc&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kaXJramFubS5pby9hYnVzaW5nLWV4Y2hhbmdlLW9uZS1hcGktY2FsbC1hd2F5LWZyb20tZG9tYWluLWFkbWluLw==&#34;&gt;Abusing Exchange: One API call away from Domain Admin&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0Fybm8weC9OdGxtUmVsYXlUb0VXUw==&#34;&gt;NtlmRelayToEWS&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;llmnrnbns&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#llmnrnbns&#34;&gt;#&lt;/a&gt; LLMNR/NBNS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubm90c29zZWN1cmUuY29tL3B3bmluZy13aXRoLXJlc3BvbmRlci1hLXBlbnRlc3RlcnMtZ3VpZGUv&#34;&gt;Pwning with Responder – A Pentester’s Guide&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ieXQzYmwzM2Qzci5naXRodWIuaW8vcHJhY3RpY2FsLWd1aWRlLXRvLW50bG0tcmVsYXlpbmctaW4tMjAxNy1ha2EtZ2V0dGluZy1hLWZvb3Rob2xkLWluLXVuZGVyLTUtbWludXRlcy5odG1s&#34;&gt;Practical guide to NTLM Relaying in 2017 (A.K.A getting a foothold in under 5 minutes)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZm94LWl0LmNvbS9lbi9pbnNpZ2h0cy9ibG9ncy9ibG9nL2luc2lkZS13aW5kb3dzLW5ldHdvcmsv&#34;&gt;Relaying credentials everywhere with ntlmrelayx&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vZXhwbG9pdGluZy1hZGlkbnMv&#34;&gt;Beyond LLMNR/NBNS Spoofing – Exploiting Active Directory-Integrated DNS&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;lateral-movement&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lateral-movement&#34;&gt;#&lt;/a&gt; Lateral Movement&lt;/h2&gt;
+&lt;h3 id=&#34;microsoft-sql-server-database-links&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#microsoft-sql-server-database-links&#34;&gt;#&lt;/a&gt; Microsoft SQL Server Database links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vaG93LXRvLWhhY2stZGF0YWJhc2UtbGlua3MtaW4tc3FsLXNlcnZlci8=&#34;&gt;SQL Server – Link… Link… Link… and Shell: How to Hack Database Links in SQL Server!&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5ldHNwaS5jb20vc3FsLXNlcnZlci1saW5rLWNyYXdsaW5nLXBvd2VydXBzcWwv&#34;&gt;SQL Server Link Crawling with PowerUpSQL&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pass-the-hash&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pass-the-hash&#34;&gt;#&lt;/a&gt; Pass The Hash&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9wYXNzaW5nLXRoZS1oYXNoLXdpdGgtbWltaWthdHo=&#34;&gt;Performing Pass-the-hash Attacks With Mimikatz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNvYmFsdHN0cmlrZS5jb20vMjAxNS8wNS8yMS9ob3ctdG8tcGFzcy10aGUtaGFzaC13aXRoLW1pbWlrYXR6Lw==&#34;&gt;How to Pass-the-Hash with Mimikatz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL3Bhc3MtdGhlLWhhc2gtaXMtZGVhZC1sb25nLWxpdmUtbG9jYWxhY2NvdW50dG9rZW5maWx0ZXJwb2xpY3kv&#34;&gt;Pass-the-Hash Is Dead: Long Live LocalAccountTokenFilterPolicy&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;system-center-configuration-manager-sccm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#system-center-configuration-manager-sccm&#34;&gt;#&lt;/a&gt; System Center Configuration Manager (SCCM)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lbmlnbWEweDMubmV0LzIwMTUvMTAvMjcvdGFyZ2V0ZWQtd29ya3N0YXRpb24tY29tcHJvbWlzZS13aXRoLXNjY20v&#34;&gt;Targeted Workstation Compromise With Sccm&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1Bvd2VyU2hlbGxNYWZpYS9Qb3dlclNDQ00=&#34;&gt;PowerSCCM - PowerShell module to interact with SCCM deployments&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wsus&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#wsus&#34;&gt;#&lt;/a&gt; WSUS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2l4ZHViLm5ldC8/cD02MjM=&#34;&gt;Remote Weaponization of WSUS MITM&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmxhY2toYXQuY29tL2RvY3MvdXMtMTcvd2VkbmVzZGF5L3VzLTE3LUNvbHRlbC1XU1VTcGVuZHUtVXNlLVdTVVMtVG8tSGFuZy1JdHMtQ2xpZW50cy13cC5wZGY=&#34;&gt;WSUSpendu&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9panVzdHdhbm5hcmVkLnRlYW0vMjAxOC8xMC8xNS9sZXZlcmFnaW5nLXdzdXMtcGFydC1vbmUv&#34;&gt;Leveraging WSUS – Part One&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;password-spraying&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#password-spraying&#34;&gt;#&lt;/a&gt; Password Spraying&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj14QjI2UWhuTDY0Yw==&#34;&gt;Password Spraying Windows Active Directory Accounts - Tradecraft Security Weekly #5&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmxhY2toaWxsc2luZm9zZWMuY29tL2F0dGFja2luZy1leGNoYW5nZS13aXRoLW1haWxzbmlwZXIv&#34;&gt;Attacking Exchange with MailSniper&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1NwaWRlckxhYnMvU3ByYXk=&#34;&gt;A Password Spraying tool for Active Directory Credentials by Jacob Wilkin&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2J5dDNibDMzZDNyL1NwcmF5aW5nVG9vbGtpdA==&#34;&gt;SprayingToolkit&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;automated-lateral-movement&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#automated-lateral-movement&#34;&gt;#&lt;/a&gt; Automated Lateral Movement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dvRmV0Y2hBRC9Hb0ZldGNo&#34;&gt;GoFetch is a tool to automatically exercise an attack plan generated by the BloodHound application&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2J5dDNibDMzZDNyL0RlYXRoU3Rhcg==&#34;&gt;DeathStar - Automate getting Domain Admin using Empire&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Z5c2VjL0FOR1JZUFVQUFk=&#34;&gt;ANGRYPUPPY - Bloodhound Attack Path Automation in CobaltStrike&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;defense-evasion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#defense-evasion&#34;&gt;#&lt;/a&gt; Defense Evasion&lt;/h2&gt;
+&lt;h3 id=&#34;in-memory-evasion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#in-memory-evasion&#34;&gt;#&lt;/a&gt; In-Memory Evasion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sYWJzLm13cmluZm9zZWN1cml0eS5jb20vYmxvZy9leHBlcmltZW50aW5nLWJ5cGFzc2luZy1tZW1vcnktc2Nhbm5lcnMtd2l0aC1jb2JhbHQtc3RyaWtlLWFuZC1nYXJnb3lsZS8=&#34;&gt;Bypassing Memory Scanners with Cobalt Strike and Gargoyle&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vcGxheWxpc3Q/bGlzdD1QTDlITzZNX01VMm5jNVEzMXFkMkN3cFo4SjRLRk1oZ25L&#34;&gt;In-Memory Evasions Course&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZmlyZWV5ZS5jb20vYmxvZy90aHJlYXQtcmVzZWFyY2gvMjAxOC8wNi9icmluZy15b3VyLW93bi1sYW5kLW5vdmVsLXJlZC10ZWFtaW5nLXRlY2huaXF1ZS5odG1s&#34;&gt;Bring Your Own Land (BYOL) – A Novel Red Teaming Technique&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;endpoint-detection-and-response-edr-evasion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#endpoint-detection-and-response-edr-evasion&#34;&gt;#&lt;/a&gt; Endpoint Detection and Response (EDR) Evasion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95b3V0dS5iZS9sOG5rWENPWVFDNA==&#34;&gt;Red Teaming in the EDR age&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0Z1enp5U2VjdXJpdHkvU2hhcnAtU3VpdGU=&#34;&gt;Sharp-Suite - Process Argument Spoofing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vdXRmbGFuay5ubC9ibG9nLzIwMTkvMDYvMTkvcmVkLXRlYW0tdGFjdGljcy1jb21iaW5pbmctZGlyZWN0LXN5c3RlbS1jYWxscy1hbmQtc3JkaS10by1ieXBhc3MtYXYtZWRyLw==&#34;&gt;Red Team Tactics: Combining Direct System Calls and sRDI to bypass AV/EDR&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY291bnRlcmNlcHQuY29tL2Jsb2cvZGVjaGFpbmluZy1tYWNyb3MtYW5kLWV2YWRpbmctZWRyLw==&#34;&gt;Dechaining Macros and Evading EDR&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tZWRpdW0uY29tL0Bmc3gzMC9ieXBhc3MtZWRycy1tZW1vcnktcHJvdGVjdGlvbi1pbnRyb2R1Y3Rpb24tdG8taG9va2luZy0yZWZiMjFhY2ZmZDY=&#34;&gt;Bypass EDR’s memory protection, introduction to hooking&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pcmVkLnRlYW0vb2ZmZW5zaXZlLXNlY3VyaXR5L2RlZmVuc2UtZXZhc2lvbi9ieXBhc3NpbmctY3lsYW5jZS1hbmQtb3RoZXItYXZzLWVkcnMtYnktdW5ob29raW5nLXdpbmRvd3MtYXBpcw==&#34;&gt;Bypassing Cylance and other AVs/EDRs by Unhooking Windows APIs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWRzZWMuY28udWsvMjAxOS8wMy9zaWxlbmNpbmctY3lsYW5jZS1hLWNhc2Utc3R1ZHktaW4tbW9kZXJuLWVkcnMv&#34;&gt;Silencing Cylance: A Case Study in Modern EDRs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;opsec&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#opsec&#34;&gt;#&lt;/a&gt; OPSEC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNvYmFsdHN0cmlrZS5jb20vMjAxNy8xMC8yNS9tb2Rlcm4tZGVmZW5zZXMtYW5kLXlvdS8=&#34;&gt;Modern Defenses and YOU!&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNvYmFsdHN0cmlrZS5jb20vMjAxNy8wNi8yMy9vcHNlYy1jb25zaWRlcmF0aW9ucy1mb3ItYmVhY29uLWNvbW1hbmRzLw==&#34;&gt;OPSEC Considerations for Beacon Commands&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWM1NjQuY29tLyMhZG9jcy90cmFkZWNyYWZ0Lm1k&#34;&gt;Red Team Tradecraft and TTP Guidance&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Sb3FWdW5YX3NxQQ==&#34;&gt;Fighting the Toolset&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;microsoft-ata-atp-evasion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#microsoft-ata-atp-evasion&#34;&gt;#&lt;/a&gt; Microsoft ATA &amp;amp; ATP Evasion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf&#34;&gt;Red Team Techniques for Evading, Bypassing, and Disabling MS&lt;br /&gt;
+Advanced Threat Protection and Advanced Threat Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvbmlraGlsX21pdHRhbC9yZWQtdGVhbS1yZXZlbmdlLWF0dGFja2luZy1taWNyb3NvZnQtYXRh&#34;&gt;Red Team Revenge - Attacking Microsoft ATA&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvbmlraGlsX21pdHRhbC9ldmFkaW5nLW1pY3Jvc29mdC1hdGEtZm9yLWFjdGl2ZS1kaXJlY3RvcnktZG9taW5hdGlvbg==&#34;&gt;Evading Microsoft ATA for Active Directory Domination&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;powershell-scriptblock-logging-bypass&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#powershell-scriptblock-logging-bypass&#34;&gt;#&lt;/a&gt; PowerShell ScriptBlock Logging Bypass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2Jici5pby9TY3JpcHRCbG9jay1Mb2dnaW5nLUJ5cGFzcy5odG1s&#34;&gt;PowerShell ScriptBlock Logging Bypass&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;powershell-anti-malware-scan-interface-amsi-bypass&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#powershell-anti-malware-scan-interface-amsi-bypass&#34;&gt;#&lt;/a&gt; PowerShell Anti-Malware Scan Interface (AMSI) Bypass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly8weDAwLTB4MDAuZ2l0aHViLmlvL3Jlc2VhcmNoLzIwMTgvMTAvMjgvSG93LXRvLWJ5cGFzcy1BTVNJLWFuZC1FeGVjdXRlLUFOWS1tYWxpY2lvdXMtcG93ZXJzaGVsbC1jb2RlLmh0bWw=&#34;&gt;How to bypass AMSI and execute ANY malicious Powershell code&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmxhY2toYXQuY29tL2RvY3MvdXMtMTYvbWF0ZXJpYWxzL3VzLTE2LU1pdHRhbC1BTVNJLUhvdy1XaW5kb3dzLTEwLVBsYW5zLVRvLVN0b3AtU2NyaXB0LUJhc2VkLUF0dGFja3MtQW5kLUhvdy1XZWxsLUl0LURvZXMtSXQucGRm&#34;&gt;AMSI: How Windows 10 Plans to Stop Script-Based Attacks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3liZXJhcmsuY29tL3RocmVhdC1yZXNlYXJjaC1ibG9nL2Ftc2ktYnlwYXNzLXBhdGNoaW5nLXRlY2huaXF1ZS8=&#34;&gt;AMSI Bypass: Patching Technique&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL09tZXJZYS9JbnZpc2ktU2hlbGw=&#34;&gt;Invisi-Shell - Hide your Powershell script in plain sight. Bypass all Powershell security features&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWN1cmV5b3VyaXQuY28udWsvd3AvMjAxOS8wNS8xMC9keW5hbWljLW1pY3Jvc29mdC1vZmZpY2UtMzY1LWFtc2ktaW4tbWVtb3J5LWJ5cGFzcy11c2luZy12YmEv&#34;&gt;Dynamic Microsoft Office 365 AMSI In Memory Bypass Using VBA&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yYXN0YW1vdXNlLm1lLzIwMTgvMTAvYW1zaXNjYW5idWZmZXItYnlwYXNzLS0tcGFydC0xLw==&#34;&gt;AmsiScanBuffer Bypass - Part 1&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29udGV4dGlzLmNvbS9lbi9ibG9nL2Ftc2ktYnlwYXNz&#34;&gt;AMSI Bypass&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;loading-net-assemblies-anti-malware-scan-interface-amsi-bypass&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#loading-net-assemblies-anti-malware-scan-interface-amsi-bypass&#34;&gt;#&lt;/a&gt; Loading .NET Assemblies Anti-Malware Scan Interface (AMSI) Bypass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vbWF0dGlmZXN0YXRpb24vZWYwMTMyYmE0YWUzY2MxMzY5MTRkYTMyYTg4MTA2Yjk=&#34;&gt;A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applocker-device-guard-bypass&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#applocker-device-guard-bypass&#34;&gt;#&lt;/a&gt; AppLocker &amp;amp; Device Guard Bypass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sb2xiYXMtcHJvamVjdC5naXRodWIuaW8v&#34;&gt;Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sysmon-evasion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sysmon-evasion&#34;&gt;#&lt;/a&gt; Sysmon Evasion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL21hdHRpZmVzdGF0aW9uL0JIVVNBMjAxOF9TeXNtb24=&#34;&gt;Subverting Sysmon: Application of a Formalized Security Product Evasion Methodology&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL21rb3JtYW45MC9zeXNtb24tY29uZmlnLWJ5cGFzcy1maW5kZXI=&#34;&gt;sysmon-config-bypass-finder&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3N0cy5zcGVjdGVyb3BzLmlvL3NoaG1vbi1zaWxlbmNpbmctc3lzbW9uLXZpYS1kcml2ZXItdW5sb2FkLTY4MmI1YmU1NzY1MA==&#34;&gt;Shhmon — Silencing Sysmon via Driver Unload&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;honeytokens-evasion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#honeytokens-evasion&#34;&gt;#&lt;/a&gt; HoneyTokens Evasion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sYWJvZmFwZW5ldHJhdGlvbnRlc3Rlci5jb20vMjAxOC8xMC9kZXBsb3ktZGVjZXB0aW9uLmh0bWw=&#34;&gt;Forging Trusts for Deception in Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9qYmxvZy5qYXZlbGluLW5ldHdvcmtzLmNvbS9ibG9nL3RoZS1ob25leXBvdC1idXN0ZXIv&#34;&gt;Honeypot Buster: A Unique Red-Team Tool&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;disabling-security-tools&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#disabling-security-tools&#34;&gt;#&lt;/a&gt; Disabling Security Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hsbGR6L0ludm9rZS1QaGFudDBt&#34;&gt;Invoke-Phant0m - Windows Event Log Killer&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;credential-dumping&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#credential-dumping&#34;&gt;#&lt;/a&gt; Credential Dumping&lt;/h2&gt;
+&lt;h3 id=&#34;ntdsdit-password-extraction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ntdsdit-password-extraction&#34;&gt;#&lt;/a&gt; NTDS.DIT Password Extraction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD00NTE=&#34;&gt;How Attackers Pull the Active Directory Database (NTDS.dit) from a Domain Controller&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9leHRyYWN0aW5nLXBhc3N3b3JkLWhhc2hlcy1mcm9tLXRoZS1udGRzLWRpdC1maWxlLw==&#34;&gt;Extracting Password Hashes From The Ntds.dit File&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sam-security-accounts-manager&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sam-security-accounts-manager&#34;&gt;#&lt;/a&gt; SAM (Security Accounts Manager)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2VsYWRzaGFtaXIvSW50ZXJuYWwtTW9ub2xvZ3Vl&#34;&gt;Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kerberoasting&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#kerberoasting&#34;&gt;#&lt;/a&gt; Kerberoasting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9wb3dlcnNoZWxsL2tlcmJlcm9hc3Rpbmctd2l0aG91dC1taW1pa2F0ei8=&#34;&gt;Kerberoasting Without Mimikatz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yMjkz&#34;&gt;Cracking Kerberos TGS Tickets Using Kerberoast – Exploiting Kerberos to Compromise the Active Directory Domain&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9leHRyYWN0aW5nLXNlcnZpY2UtYWNjb3VudC1wYXNzd29yZHMtd2l0aC1rZXJiZXJvYXN0aW5nLw==&#34;&gt;Extracting Service Account Passwords With Kerberoasting&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3liZXJhcmsuY29tL2Jsb2cvY3JhY2tpbmctc2VydmljZS1hY2NvdW50LXBhc3N3b3Jkcy1rZXJiZXJvYXN0aW5nLw==&#34;&gt;Cracking Service Account Passwords with Kerberoasting&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZWRlcm1pL2Y4YjE0M2IxMWRjMDIwYjg1NDE3OGQzODA5Y2Y5MWI1&#34;&gt;Kerberoast PW list for cracking passwords with complexity requirements&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvaGFybWoweS9kZXJieWNvbi0yMDE5LWtlcmJlcm9hc3RpbmctcmV2aXNpdGVk&#34;&gt;DerbyCon 2019 - Kerberoasting Revisited&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kerberos-ap-rep-roasting&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#kerberos-ap-rep-roasting&#34;&gt;#&lt;/a&gt; Kerberos AP-REP Roasting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oYXJtajB5Lm5ldC9ibG9nL2FjdGl2ZWRpcmVjdG9yeS9yb2FzdGluZy1hcy1yZXBzLw==&#34;&gt;Roasting AS-REPs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;windows-credential-managervault&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows-credential-managervault&#34;&gt;#&lt;/a&gt; Windows Credential Manager/Vault&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL29wZXJhdGlvbmFsLWd1aWRhbmNlLWZvci1vZmZlbnNpdmUtdXNlci1kcGFwaS1hYnVzZS8=&#34;&gt;Operational Guidance for Offensive User DPAPI Abuse&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yYXN0YW1vdXNlLm1lLzIwMTcvMDgvanVtcGluZy1uZXR3b3JrLXNlZ3JlZ2F0aW9uLXdpdGgtcmRwLw==&#34;&gt;Jumping Network Segregation with RDP&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dcsync&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dcsync&#34;&gt;#&lt;/a&gt; DCSync&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9yZWR0ZWFtaW5nL21pbWlrYXR6LWFuZC1kY3N5bmMtYW5kLWV4dHJhc2lkcy1vaC1teS8=&#34;&gt;Mimikatz and DCSync and ExtraSids, Oh My&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNzI5&#34;&gt;Mimikatz DCSync Usage, Exploitation, and Detection&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yMDUz&#34;&gt;Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;llmnrnbt-ns-poisoning&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#llmnrnbt-ns-poisoning&#34;&gt;#&lt;/a&gt; LLMNR/NBT-NS Poisoning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuNGFybWVkLmNvbS9ibG9nL2xsbW5yLW5idG5zLXBvaXNvbmluZy11c2luZy1yZXNwb25kZXIv&#34;&gt;LLMNR/NBT-NS Poisoning Using Responder&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;others&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#others&#34;&gt;#&lt;/a&gt; Others&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9jb21wcm9taXNpbmctcGxhaW4tdGV4dC1wYXNzd29yZHMtaW4tYWN0aXZlLWRpcmVjdG9yeQ==&#34;&gt;Compromising Plain Text Passwords In Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZmlyZWV5ZS5jb20vYmxvZy90aHJlYXQtcmVzZWFyY2gvMjAyMC8wNC9rZXJiZXJvcy10aWNrZXRzLW9uLWxpbnV4LXJlZC10ZWFtcy5odG1s&#34;&gt;Kerberos Tickets on Linux Red Teams&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;persistence&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#persistence&#34;&gt;#&lt;/a&gt; Persistence&lt;/h2&gt;
+&lt;h3 id=&#34;golden-ticket&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#golden-ticket&#34;&gt;#&lt;/a&gt; Golden Ticket&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wZW50ZXN0bGFiLmJsb2cvMjAxOC8wNC8wOS9nb2xkZW4tdGlja2V0Lw==&#34;&gt;Golden Ticket&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNjQw&#34;&gt;Kerberos Golden Tickets are Now More Golden&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sid-history&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sid-history&#34;&gt;#&lt;/a&gt; SID History&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNzcy&#34;&gt;Sneaky Active Directory Persistence #14: SID History&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;silver-ticket&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#silver-ticket&#34;&gt;#&lt;/a&gt; Silver Ticket&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yMDEx&#34;&gt;How Attackers Use Kerberos Silver Tickets to Exploit Systems&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yNzUz&#34;&gt;Sneaky Active Directory Persistence #16: Computer Accounts &amp;amp; Domain Controller Silver Tickets&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dcshadow-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dcshadow-2&#34;&gt;#&lt;/a&gt; DCShadow&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9jcmVhdGluZy1wZXJzaXN0ZW5jZS13aXRoLWRjc2hhZG93Lw==&#34;&gt;Creating Persistence With Dcshadow&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;adminsdholder&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#adminsdholder&#34;&gt;#&lt;/a&gt; AdminSDHolder&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xOTA2&#34;&gt;Sneaky Active Directory Persistence #15: Leverage AdminSDHolder &amp;amp; SDProp to (Re)Gain Domain Admin Rights&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS9wZXJzaXN0ZW5jZS11c2luZy1hZG1pbnNkaG9sZGVyLWFuZC1zZHByb3Av&#34;&gt;Persistence Using Adminsdholder And Sdprop&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;group-policy-object&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#group-policy-object&#34;&gt;#&lt;/a&gt; Group Policy Object&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yNzE2&#34;&gt;Sneaky Active Directory Persistence #17: Group Policy&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;skeleton-keys&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#skeleton-keys&#34;&gt;#&lt;/a&gt; Skeleton Keys&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnN0ZWFsdGhiaXRzLmNvbS91bmxvY2tpbmctYWxsLXRoZS1kb29ycy10by1hY3RpdmUtZGlyZWN0b3J5LXdpdGgtdGhlLXNrZWxldG9uLWtleS1hdHRhY2sv&#34;&gt;Unlocking All The Doors To Active Directory With The Skeleton Key Attack&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wZW50ZXN0bGFiLmJsb2cvMjAxOC8wNC8xMC9za2VsZXRvbi1rZXkv&#34;&gt;Skeleton Key&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xMjc1&#34;&gt;Attackers Can Now Use Mimikatz to Implant Skeleton Key on Domain Controllers &amp;amp; BackDoor Your Active Directory Forest&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;seenabledelegationprivilege&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#seenabledelegationprivilege&#34;&gt;#&lt;/a&gt; SeEnableDelegationPrivilege&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFybWoweS5uZXQvYmxvZy9hY3RpdmVkaXJlY3RvcnkvdGhlLW1vc3QtZGFuZ2Vyb3VzLXVzZXItcmlnaHQteW91LXByb2JhYmx5LWhhdmUtbmV2ZXItaGVhcmQtb2Yv&#34;&gt;The Most Dangerous User Right You (Probably) Have Never Heard Of&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1PaXFhTzlSSHNrVQ==&#34;&gt;SeEnableDelegationPrivilege Active Directory Backdoor&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security-support-provider&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#security-support-provider&#34;&gt;#&lt;/a&gt; Security Support Provider&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNzYw&#34;&gt;Sneaky Active Directory Persistence #12: Malicious Security Support Provider (SSP)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;directory-services-restore-mode&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#directory-services-restore-mode&#34;&gt;#&lt;/a&gt; Directory Services Restore Mode&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNzE0&#34;&gt;Sneaky Active Directory Persistence #11: Directory Service Restore Mode (DSRM)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNzg1&#34;&gt;Sneaky Active Directory Persistence #13: DSRM Persistence v2&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acls-security-descriptors&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#acls-security-descriptors&#34;&gt;#&lt;/a&gt; ACLs &amp;amp; Security Descriptors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmxhY2toYXQuY29tL2RvY3MvdXMtMTcvd2VkbmVzZGF5L3VzLTE3LVJvYmJpbnMtQW4tQUNFLVVwLVRoZS1TbGVldmUtRGVzaWduaW5nLUFjdGl2ZS1EaXJlY3RvcnktREFDTC1CYWNrZG9vcnMtd3AucGRm&#34;&gt;An ACE Up the Sleeve: Designing Active Directory DACL Backdoors&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3liZXJhcmsuY29tL3RocmVhdC1yZXNlYXJjaC1ibG9nL3NoYWRvdy1hZG1pbnMtc3RlYWx0aHktYWNjb3VudHMtZmVhci8=&#34;&gt;Shadow Admins – The Stealthy Accounts That You Should Fear The Most&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvaGFybWoweS90aGUtdW5pbnRlbmRlZC1yaXNrcy1vZi10cnVzdGluZy1hY3RpdmUtZGlyZWN0b3J5&#34;&gt;The Unintended Risks of Trusting Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools-scripts&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tools-scripts&#34;&gt;#&lt;/a&gt; Tools &amp;amp; Scripts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1Bvd2VyU2hlbGxNYWZpYS9Qb3dlclNwbG9pdC9ibG9iL21hc3Rlci9SZWNvbi9Qb3dlclZpZXcucHMx&#34;&gt;PowerView&lt;/span&gt; - Situational Awareness PowerShell framework&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0Jsb29kSG91bmRBRC9CbG9vZEhvdW5k&#34;&gt;BloodHound&lt;/span&gt; - Six Degrees of Domain Admin&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1NlY3VyZUF1dGhDb3JwL2ltcGFja2V0&#34;&gt;Impacket&lt;/span&gt; - Impacket is a collection of Python classes for working with network protocols&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZveC1pdC9hY2xwd24ucHk=&#34;&gt;aclpwn.py&lt;/span&gt; - Active Directory ACL exploitation with BloodHound&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2J5dDNibDMzZDNyL0NyYWNrTWFwRXhlYw==&#34;&gt;CrackMapExec&lt;/span&gt; - A swiss army knife for pentesting networks&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2Nhbml4MS9BREFDTFNjYW5uZXI=&#34;&gt;ADACLScanner&lt;/span&gt; - A tool with GUI or command linte used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2N5YmVyYXJrL3pCYW5n&#34;&gt;zBang&lt;/span&gt; - zBang is a risk assessment tool that detects potential privileged account threats&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dob3N0UGFjay9TYWZldHlLYXR6&#34;&gt;SafetyKatz&lt;/span&gt; - SafetyKatz is a combination of slightly modified version of @gentilkiwi&#39;s Mimikatz project and @subTee&#39;s .NET PE Loader.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dob3N0UGFjay9TaGFycER1bXA=&#34;&gt;SharpDump&lt;/span&gt; - SharpDump is a C# port of PowerSploit&#39;s Out-Minidump.ps1 functionality.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL05ldFNQSS9Qb3dlclVwU1FM&#34;&gt;PowerUpSQL&lt;/span&gt; - A PowerShell Toolkit for Attacking SQL Server&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dob3N0UGFjay9SdWJldXM=&#34;&gt;Rubeus&lt;/span&gt; -  Rubeus is a C# toolset for raw Kerberos interaction and abuses&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NlbnNlLW9mLXNlY3VyaXR5L0FEUmVjb24=&#34;&gt;ADRecon&lt;/span&gt; - A tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2dlbnRpbGtpd2kvbWltaWthdHo=&#34;&gt;Mimikatz&lt;/span&gt; - Utility to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory but also perform pass-the-hash, pass-the-ticket or build Golden tickets&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2wwc3MvR3JvdXBlcg==&#34;&gt;Grouper&lt;/span&gt; - A PowerShell script for helping to find vulnerable settings in AD Group Policy.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0tldmluLVJvYmVydHNvbi9Qb3dlcm1hZA==&#34;&gt;Powermad&lt;/span&gt; - PowerShell MachineAccountQuota and DNS exploit tools&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NhbXJhdGFzaG9rL1JBQ0U=&#34;&gt;RACE&lt;/span&gt; - RACE is a PowerShell module for executing ACL attacks against Windows targets.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL21kYXZpczMzMi9Eb21haW5QYXNzd29yZFNwcmF5&#34;&gt;DomainPasswordSpray&lt;/span&gt; - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2RhZnRoYWNrL01haWxTbmlwZXI=&#34;&gt;MailSniper&lt;/span&gt; - MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xlb2xvb2JlZWsvTEFQU1Rvb2xraXQ=&#34;&gt;LAPSToolkit&lt;/span&gt; - Tool to audit and attack LAPS environments.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0NyZWREZWZlbnNlL0NyZWREZWZlbnNl&#34;&gt;CredDefense&lt;/span&gt; - Credential and Red Teaming Defense for Windows Environments&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2RpcmtqYW5tL2xkYXBkb21haW5kdW1w&#34;&gt;ldapdomaindump&lt;/span&gt; - Active Directory information dumper via LDAP&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xlZWNocmlzdGVuc2VuL1Nwb29sU2FtcGxlLw==&#34;&gt;SpoolSample&lt;/span&gt; - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ebooks&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ebooks&#34;&gt;#&lt;/a&gt; Ebooks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZXJudy5kZS9kb3dubG9hZC9CbG9vZEhvdW5kV29ya3Nob3AvRVJOV19Eb2dXaGlzcGVyZXJIYW5kYm9vay5wZGY=&#34;&gt;The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudmFyb25pcy5jb20vYmxvZy92YXJvbmlzLWVib29rLXBlbi10ZXN0aW5nLWFjdGl2ZS1kaXJlY3RvcnktZW52aXJvbm1lbnRzLw==&#34;&gt;Varonis eBook: Pen Testing Active Directory Environments&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cheat-sheets&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cheat-sheets&#34;&gt;#&lt;/a&gt; Cheat Sheets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0hhcm1KMHkvQ2hlYXRTaGVldHM=&#34;&gt;Tools Cheat Sheets&lt;/span&gt; - Tools (PowerView, PowerUp, Empire, and PowerSploit)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1NhZFByb2Nlc3Nvci9DaGVhdHMvYmxvYi9tYXN0ZXIvRG9nV2hpc3BlcmVyVjIubWQ=&#34;&gt;DogWhisperer - BloodHound Cypher Cheat Sheet (v2)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vSGFybUoweS8xODRmOTgyMmIxOTVjNTJkZDUwYzM3OWVkMzExNzk5Mw==&#34;&gt;PowerView-3.0 tips and tricks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vSGFybUoweS8zMzI4ZDk1NDYwN2Q3MTM2MmUzYw==&#34;&gt;PowerView-2.0 tips and tricks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1Njb3ViaS9CbG9vZGhvdW5kQUQtUXVlcmllcw==&#34;&gt;BloodhoundAD-Queries&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vVGFybG9naWNTZWN1cml0eS8yZjIyMTkyNGZlZjhjMTRhMWQ4ZTI5ZjNjYjVjNWM0YQ==&#34;&gt;Kerberos Attacks Cheat Sheet&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYXVzZWMuY29tLzIwMTkvMDkvMDkvYmxvb2Rob3VuZC1jeXBoZXItY2hlYXRzaGVldC8=&#34;&gt;Bloodhound Cypher Cheatsheet&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20va25ldGh0ZW8vMmZjOGFmNmVhMjgxOTlmZDYzYTUyOWE3M2E0MTc2Yzc=&#34;&gt;Kerberos cheatsheet&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0ludGVncmF0aW9uLUlUL0FjdGl2ZS1EaXJlY3RvcnktRXhwbG9pdGF0aW9uLUNoZWF0LVNoZWV0&#34;&gt;Active Directory Exploitation Cheat Sheet&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-resources&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#other-resources&#34;&gt;#&lt;/a&gt; Other Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vcHJlc2VudGF0aW9uL2QvMWoyblcwNUgtaVJ6Ny1GVlRSaC1MQlhRbTZNNllJQlFOV2E0Vjd0cDk5WVEv&#34;&gt;Tactics, Techniques and Procedures for Attacking Active Directory BlackHat Asia 2019&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGVudGVzdHBhcnRuZXJzLmNvbS9zZWN1cml0eS1ibG9nL2Jsb29kaG91bmQtd2Fsa3Rocm91Z2gtYS10b29sLWZvci1tYW55LXRyYWRlY3JhZnRzLw==&#34;&gt;Bloodhound walkthrough. A Tool for Many Tradecrafts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yMzYy&#34;&gt;Attack Methods for Gaining Domain Admin Rights in Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvbmV0dGl0dWRlX2xhYnMvcG93ZXJzaGVsbGlzZGVhZGVwaWNsZWFybmluZ3Nsb25kb24=&#34;&gt;PowerShell Is Dead Epic Learnings&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vcHJlc2VudGF0aW9uL2QvMWxRSFRxWFpJRHh3YUlVblhkTy1FZHZHcDc5UnpIMXJiTTR6RTQ1S2tpMkkvZWRpdCNzbGlkZT1pZC5nMzVmMzkxMTkyXzAw&#34;&gt;Finding Our Path: How We’re Trying to Improve Active Directory Security&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1KY0ZkTkFsZUlrNCZhbXA7ZmVhdHVyZT15b3V0dS5iZQ==&#34;&gt;SteelCon 2019: Getting Splunky With Kerberos - Ross Bingham and Tom MacDonald&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;defense-detection&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#defense-detection&#34;&gt;#&lt;/a&gt; Defense &amp;amp; Detection&lt;/h2&gt;
+&lt;h3 id=&#34;tools-scripts-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tools-scripts-2&#34;&gt;#&lt;/a&gt; Tools &amp;amp; Scripts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nb2ZpbGUuaW8vZC9JQUtETG4=&#34;&gt;Invoke-TrimarcADChecks&lt;/span&gt; - The Invoke-TrimarcADChecks.ps1 PowerShell script is designed to gather data from a single domain AD forest to performed Active Directory Security Assessment (ADSA).&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2RhdmlkcHJvd2UvQURfU2VjX1Rvb2xz&#34;&gt;Create-Tiers in AD&lt;/span&gt; - Project Title Active Directory Auto Deployment of Tiers in any environment&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYWxsZXJ5LnRlY2huZXQubWljcm9zb2Z0LmNvbS9TQU1SaTEwLUhhcmRlbmluZy1SZW1vdGUtNDhkOTRiNWI=&#34;&gt;SAMRi10&lt;/span&gt;  - Hardening SAM Remote Access in Windows 10/Server 2016&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYWxsZXJ5LnRlY2huZXQubWljcm9zb2Z0LmNvbS9OZXQtQ2Vhc2UtQmxvY2tpbmctTmV0LTFlOGRjYjVi&#34;&gt;Net Cease&lt;/span&gt;  - Hardening Net Session Enumeration&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGluZ2Nhc3RsZS5jb20v&#34;&gt;PingCastle&lt;/span&gt; - A tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYWxsZXJ5LnRlY2huZXQubWljcm9zb2Z0LmNvbS9Bb3JhdG8tU2tlbGV0b24tS2V5LTI0ZTQ2Yjcz&#34;&gt;Aorato Skeleton Key Malware Remote DC Scanner&lt;/span&gt; - Remotely scans for the existence of the Skeleton Key Malware&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYWxsZXJ5LnRlY2huZXQubWljcm9zb2Z0LmNvbS9SZXNldC10aGUta3JidGd0LWFjY291bnQtNTgxYTllNTE=&#34;&gt;Reset the krbtgt account password/keys&lt;/span&gt; - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYWxsZXJ5LnRlY2huZXQubWljcm9zb2Z0LmNvbS9SZXNldC1UaGUtS3JiVGd0LUFjY291bnQtNWY0NWE0MTQ=&#34;&gt;Reset The KrbTgt Account Password/Keys For RWDCs/RODCs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2N5YmVyYXJrL1Jpc2t5U1BO&#34;&gt;RiskySPN&lt;/span&gt; - RiskySPNs is a collection of PowerShell scripts focused on detecting and abusing accounts associated with SPNs (Service Principal Name).&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NhbXJhdGFzaG9rL0RlcGxveS1EZWNlcHRpb24=&#34;&gt;Deploy-Deception&lt;/span&gt; -  A PowerShell module to deploy active directory decoy objects&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3ZsZXRvdXgvU3Bvb2xlclNjYW5uZXI=&#34;&gt;SpoolerScanner&lt;/span&gt; - Check if MS-RPRN is remotely available with powershell/c#&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NlY3VyZXdvcmtzL2RjZXB0&#34;&gt;dcept&lt;/span&gt; - A tool for deploying and detecting use of Active Directory honeytokens&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0pQQ0VSVENDL0xvZ29uVHJhY2Vy&#34;&gt;LogonTracer&lt;/span&gt; - Investigate malicious Windows logon by visualizing and analyzing Windows event log&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NoZWxsc3Rlci9EQ1NZTkNNb25pdG9y&#34;&gt;DCSYNCMonitor&lt;/span&gt; - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL05lbzIzeDAvc2lnbWEv&#34;&gt;Sigma&lt;/span&gt; - Generic Signature Format for SIEM Systems&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvc3lzaW50ZXJuYWxzL2Rvd25sb2Fkcy9zeXNtb24=&#34;&gt;Sysmon&lt;/span&gt; - System Monitor (Sysmon) is a Windows system service and device driver that, once installed on a system, remains resident across system reboots to monitor and log system activity to the Windows event log.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0pQQ0VSVENDL1N5c21vblNlYXJjaA==&#34;&gt;SysmonSearch&lt;/span&gt; - Investigate suspicious activity by visualizing Sysmon&#39;s event log&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2VuZGdhbWVpbmMvQ2xyR3VhcmQ=&#34;&gt;ClrGuard&lt;/span&gt; - ClrGuard is a proof of concept project to explore instrumenting the Common Language Runtime (CLR) for security purposes.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZGV6aHViLzI4NzVmYTZkYzc4MDgzY2VkZWFiMTBhYmM1NTFjYjU4&#34;&gt;Get-ClrReflection&lt;/span&gt; - Detects memory-only CLR (.NET) modules.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vamFyZWRjYXRraW5zb24vMjM5MDVkMzQ1MzdjZTRiNWIxODE4YzNlNjQwNWMxZDI=&#34;&gt;Get-InjectedThread&lt;/span&gt; - Get-InjectedThread looks at each running thread to determine if it is the result of memory injection.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZpcmVleWUvU2lsa0VUVw==&#34;&gt;SilkETW&lt;/span&gt; - SilkETW &amp;amp; SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tLzBLZWUtVGVhbS9XYXRjaEFE&#34;&gt;WatchAD&lt;/span&gt; - AD Security Intrusion Detection System&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sysmon-configuration&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sysmon-configuration&#34;&gt;#&lt;/a&gt; Sysmon Configuration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL29sYWZoYXJ0b25nL3N5c21vbi1tb2R1bGFy&#34;&gt;sysmon-modular&lt;/span&gt; - A Sysmon configuration repository for everybody to customise&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL01IYWdnaXMvc3lzbW9uLWRmaXI=&#34;&gt;sysmon-dfir&lt;/span&gt; - Sources, configuration and how to detect evil things utilizing Microsoft Sysmon.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1N3aWZ0T25TZWN1cml0eS9zeXNtb24tY29uZmln&#34;&gt;sysmon-config&lt;/span&gt; - Sysmon configuration file template with default high-quality event tracing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;active-directory-security-checks-by-sean-metcalf-pyrotek3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#active-directory-security-checks-by-sean-metcalf-pyrotek3&#34;&gt;#&lt;/a&gt; Active Directory Security Checks (by Sean Metcalf - @Pyrotek3)&lt;/h3&gt;
+&lt;h4 id=&#34;general-recommendations&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#general-recommendations&#34;&gt;#&lt;/a&gt; General Recommendations&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage local Administrator passwords (LAPS).&lt;/li&gt;
+&lt;li&gt;Implement RDP Restricted Admin mode (as needed).&lt;/li&gt;
+&lt;li&gt;Remove unsupported OSs from the network.&lt;/li&gt;
+&lt;li&gt;Monitor scheduled tasks on sensitive systems (DCs, etc.).&lt;/li&gt;
+&lt;li&gt;Ensure that OOB management passwords (DSRM) are changed regularly &amp;amp; securely stored.&lt;/li&gt;
+&lt;li&gt;Use SMB v2/v3+&lt;/li&gt;
+&lt;li&gt;Default domain Administrator &amp;amp; KRBTGT password should be changed every year &amp;amp; when an AD admin leaves.&lt;/li&gt;
+&lt;li&gt;Remove trusts that are no longer necessary &amp;amp; enable SID filtering as appropriate.&lt;/li&gt;
+&lt;li&gt;All domain authentications should be set (when possible) to: &amp;quot;Send NTLMv2 response onlyrefuse LM &amp;amp; NTLM.&amp;quot;&lt;/li&gt;
+&lt;li&gt;Block internet access for DCs, servers, &amp;amp; all administration systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;protect-admin-credentials&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#protect-admin-credentials&#34;&gt;#&lt;/a&gt; Protect Admin Credentials&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;No &amp;quot;user&amp;quot; or computer accounts in admin groups.&lt;/li&gt;
+&lt;li&gt;Ensure all admin accounts are &amp;quot;sensitive &amp;amp; cannot be delegated&amp;quot;.&lt;/li&gt;
+&lt;li&gt;Add admin accounts to &amp;quot;Protected Users&amp;quot; group (requires Windows Server 2012 R2 Domain Controllers, 2012R2 DFL for domain protection).&lt;/li&gt;
+&lt;li&gt;Disable all inactive admin accounts and remove from privileged groups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;protect-ad-admin-credentials&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#protect-ad-admin-credentials&#34;&gt;#&lt;/a&gt; Protect AD Admin Credentials&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Limit AD admin membership (DA, EA, Schema Admins, etc.) &amp;amp; only use custom delegation groups.&lt;/li&gt;
+&lt;li&gt;‘Tiered’ Administration mitigating credential theft impact.&lt;/li&gt;
+&lt;li&gt;Ensure admins only logon to approved admin workstations &amp;amp; servers.&lt;/li&gt;
+&lt;li&gt;Leverage time-based, temporary group membership for all admin accounts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;protect-service-account-credentials&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#protect-service-account-credentials&#34;&gt;#&lt;/a&gt; Protect Service Account Credentials&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Limit to systems of the same security level.&lt;/li&gt;
+&lt;li&gt;Leverage “(Group) Managed Service Accounts” (or PW &amp;gt;20 characters) to mitigate credential theft (kerberoast).&lt;/li&gt;
+&lt;li&gt;Implement FGPP (DFL =&amp;gt;2008) to increase PW requirements for SAs and administrators.&lt;/li&gt;
+&lt;li&gt;Logon restrictions – prevent interactive logon &amp;amp; limit logon capability to specific computers.&lt;/li&gt;
+&lt;li&gt;Disable inactive SAs &amp;amp; remove from privileged groups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;protect-resources&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#protect-resources&#34;&gt;#&lt;/a&gt; Protect Resources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Segment network to protect admin &amp;amp; critical systems.&lt;/li&gt;
+&lt;li&gt;Deploy IDS to monitor the internal corporate network.&lt;/li&gt;
+&lt;li&gt;Network device &amp;amp; OOB management on separate network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;protect-domain-controllers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#protect-domain-controllers&#34;&gt;#&lt;/a&gt; Protect Domain Controllers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Only run software &amp;amp; services to support AD.&lt;/li&gt;
+&lt;li&gt;Minimal groups (&amp;amp; users) with DC admin/logon rights.&lt;/li&gt;
+&lt;li&gt;Ensure patches are applied before running DCPromo (especially MS14-068 and other critical patches).&lt;/li&gt;
+&lt;li&gt;Validate scheduled tasks &amp;amp; scripts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;protect-workstations-servers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#protect-workstations-servers&#34;&gt;#&lt;/a&gt; Protect Workstations (&amp;amp; Servers)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Patch quickly, especially privilege escalation vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Deploy security back-port patch (KB2871997).&lt;/li&gt;
+&lt;li&gt;Set Wdigest reg key to 0 (KB2871997/Windows 8.1/2012R2+): HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlSecurityProvidersWdigest&lt;/li&gt;
+&lt;li&gt;Deploy workstation whitelisting (Microsoft AppLocker) to block code exec in user folders – home dir &amp;amp; profile path.&lt;/li&gt;
+&lt;li&gt;Deploy workstation app sandboxing technology (EMET) to mitigate application memory exploits (0-days).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;logging&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#logging&#34;&gt;#&lt;/a&gt; Logging&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Enable enhanced auditing&lt;/li&gt;
+&lt;li&gt;“Audit: Force audit policy subcategory settings (Windows Vista or later) to override audit policy category settings”&lt;/li&gt;
+&lt;li&gt;Enable PowerShell module logging (“*”) &amp;amp; forward logs to central log server (WEF or other method).&lt;/li&gt;
+&lt;li&gt;Enable CMD Process logging &amp;amp; enhancement (KB3004375) and forward logs to central log server.&lt;/li&gt;
+&lt;li&gt;SIEM or equivalent to centralize as much log data as possible.&lt;/li&gt;
+&lt;li&gt;User Behavioural Analysis system for enhanced knowledge of user activity (such as Microsoft ATA).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;security-pros-checks&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#security-pros-checks&#34;&gt;#&lt;/a&gt; Security Pro’s Checks&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify who has AD admin rights (domain/forest).&lt;/li&gt;
+&lt;li&gt;Identify who can logon to Domain Controllers (&amp;amp; admin rights to virtual environment hosting virtual DCs).&lt;/li&gt;
+&lt;li&gt;Scan Active Directory Domains, OUs, AdminSDHolder, &amp;amp; GPOs for inappropriate custom permissions.&lt;/li&gt;
+&lt;li&gt;Ensure AD admins (aka Domain Admins) protect their credentials by not logging into untrusted systems (workstations).&lt;/li&gt;
+&lt;li&gt;Limit service account rights that are currently DA (or equivalent).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;important-security-updates&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#important-security-updates&#34;&gt;#&lt;/a&gt; Important Security Updates&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;CVE&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2020-1472&lt;/td&gt;
+&lt;td&gt;Netlogon Elevation of Privilege Vulnerability&lt;/td&gt;
+&lt;td&gt;An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC). An attacker who successfully exploited the vulnerability could run a specially crafted application on a device on the network.&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDIwLTE0NzI=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2019-1040&lt;/td&gt;
+&lt;td&gt;Windows NTLM Tampering Vulnerability&lt;/td&gt;
+&lt;td&gt;A tampering vulnerability exists in Microsoft Windows when a man-in-the-middle attacker is able to successfully bypass the NTLM MIC (Message Integrity Check) protection, aka &#39;Windows NTLM Tampering Vulnerability&#39;.&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDE5LTEwNDA=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1040&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2019-0683&lt;/td&gt;
+&lt;td&gt;Active Directory Elevation of Privilege Vulnerability&lt;/td&gt;
+&lt;td&gt;An elevation of privilege vulnerability exists in Active Directory Forest trusts due to a default setting that lets an attacker in the trusting forest request delegation of a TGT for an identity from the trusted forest, aka &#39;Active Directory Elevation of Privilege Vulnerability&#39;.&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDE5LTA2ODM=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0683&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2019-0708&lt;/td&gt;
+&lt;td&gt;Remote Desktop Services Remote Code Execution Vulnerability&lt;/td&gt;
+&lt;td&gt;A remote code execution vulnerability exists in Remote Desktop Services formerly known as Terminal Services when an unauthenticated attacker connects to the target system using RDP and sends specially crafted requests, aka &#39;Remote Desktop Services Remote Code Execution Vulnerability&#39;.&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDE5LTA3MDg=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2018-8581&lt;/td&gt;
+&lt;td&gt;Microsoft Exchange Server Elevation of Privilege Vulnerability&lt;/td&gt;
+&lt;td&gt;An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka &amp;quot;Microsoft Exchange Server Elevation of Privilege Vulnerability.&amp;quot; This affects Microsoft Exchange Server.&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDE4LTg1MTg=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8518&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2017-0143&lt;/td&gt;
+&lt;td&gt;Windows SMB Remote Code Execution Vulnerability&lt;/td&gt;
+&lt;td&gt;The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to execute arbitrary code via crafted packets, aka &amp;quot;Windows SMB Remote Code Execution Vulnerability.&amp;quot; This vulnerability is different from those described in CVE-2017-0144, CVE-2017-0145, CVE-2017-0146, and CVE-2017-0148.&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDE3LTAxNDM=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-0143&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2016-0128&lt;/td&gt;
+&lt;td&gt;Windows SAM and LSAD Downgrade Vulnerability&lt;/td&gt;
+&lt;td&gt;The SAM and LSAD protocol implementations in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, and Windows 10 Gold and 1511 do not properly establish an RPC channel, which allows man-in-the-middle attackers to perform protocol-downgrade attacks and impersonate users by modifying the client-server data stream, aka &amp;quot;Windows SAM and LSAD Downgrade Vulnerability&amp;quot; or &amp;quot;BADLOCK.&amp;quot;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0NWRS0yMDE2LTAxMjg=&#34;&gt;https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2016-0128&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2014-6324&lt;/td&gt;
+&lt;td&gt;Vulnerability in Kerberos Could Allow Elevation of Privilege (3011780)&lt;/td&gt;
+&lt;td&gt;The Kerberos Key Distribution Center (KDC) in Microsoft Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, and Windows Server 2012 Gold and R2 allows remote authenticated domain users to obtain domain administrator privileges via a forged signature in a ticket, as exploited in the wild in November 2014, aka &amp;quot;Kerberos Checksum Vulnerability.&amp;quot;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvc2VjdXJpdHktdXBkYXRlcy9zZWN1cml0eWJ1bGxldGlucy8yMDE0L21zMTQtMDY4&#34;&gt;https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-068&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CVE-2014-1812&lt;/td&gt;
+&lt;td&gt;Vulnerability in Group Policy Preferences could allow elevation of privilege&lt;/td&gt;
+&lt;td&gt;The Group Policy implementation in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, and Windows Server 2012 Gold and R2 does not properly handle distribution of passwords, which allows remote authenticated users to obtain sensitive credential information and consequently gain privileges by leveraging access to the SYSVOL share, as exploited in the wild in May 2014, aka &amp;quot;Group Policy Preferences Password Elevation of Privilege Vulnerability.&amp;quot;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvaGVscC8yOTYyNDg2L21zMTQtMDI1LXZ1bG5lcmFiaWxpdHktaW4tZ3JvdXAtcG9saWN5LXByZWZlcmVuY2VzLWNvdWxkLWFsbG93LWVsZXZhdGk=&#34;&gt;https://support.microsoft.com/en-us/help/2962486/ms14-025-vulnerability-in-group-policy-preferences-could-allow-elevati&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;detection&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#detection&#34;&gt;#&lt;/a&gt; Detection&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Attack&lt;/th&gt;
+&lt;th&gt;Event ID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Account and Group Enumeration&lt;/td&gt;
+&lt;td&gt;4798: A user&#39;s local group membership was enumerated&lt;br&gt;4799: A security-enabled local group membership was enumerated&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AdminSDHolder&lt;/td&gt;
+&lt;td&gt;4780: The ACL was set on accounts which are members of administrators groups&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kekeo&lt;/td&gt;
+&lt;td&gt;4624: Account Logon&lt;br&gt;4672: Admin Logon&lt;br&gt;4768: Kerberos TGS Request&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Silver	Ticket&lt;/td&gt;
+&lt;td&gt;4624: Account Logon&lt;br&gt;4634: Account Logoff&lt;br&gt;4672: Admin Logon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Golden	Ticket&lt;/td&gt;
+&lt;td&gt;4624: Account Logon&lt;br&gt;4672: Admin Logon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PowerShell&lt;/td&gt;
+&lt;td&gt;4103: Script Block Logging&lt;br&gt;400: Engine Lifecycle&lt;br&gt;403: Engine Lifecycle&lt;br&gt;4103: Module Logging&lt;br&gt;600: Provider Lifecycle&lt;br&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DCShadow&lt;/td&gt;
+&lt;td&gt;4742: A computer account was changed&lt;br&gt;5137: A directory service object was created&lt;br&gt;5141: A directory service object was deleted&lt;br&gt;4929: An Active Directory replica source naming context was removed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Skeleton Keys&lt;/td&gt;
+&lt;td&gt;4673: A privileged service was called&lt;br&gt;4611: A trusted logon process has been registered with the Local Security Authority&lt;br&gt;4688: A new process has been created&lt;br&gt;4689: A new process has exited&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PYKEK MS14-068&lt;/td&gt;
+&lt;td&gt;4672: Admin Logon&lt;br&gt;4624: Account Logon&lt;br&gt;4768: Kerberos TGS Request&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kerberoasting&lt;/td&gt;
+&lt;td&gt;4769: A Kerberos ticket was requested&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;S4U2Proxy&lt;/td&gt;
+&lt;td&gt;4769: A Kerberos ticket was requested&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lateral Movement&lt;/td&gt;
+&lt;td&gt;4688: A new process has been created&lt;br&gt;4689: A process has exited&lt;br&gt;4624: An account was successfully logged on&lt;br&gt;4625: An account failed to log on&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DNSAdmin&lt;/td&gt;
+&lt;td&gt;770: DNS Server plugin DLL has been loaded&lt;br&gt;541: The setting serverlevelplugindll on scope . has been set to  &lt;code&gt;&amp;lt;dll path&amp;gt;&lt;/code&gt; &lt;br&gt;150: DNS Server could not load or initialize the plug-in DLL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DCSync&lt;/td&gt;
+&lt;td&gt;4662: An operation was performed on an object&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Password Spraying&lt;/td&gt;
+&lt;td&gt;4625: An account failed to log on&lt;br&gt;4771: Kerberos pre-authentication failed&lt;br&gt;4648: A logon was attempted using explicit credentials&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;resources&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#resources&#34;&gt;#&lt;/a&gt; Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvaGVscC80NTU3MjIyL2hvdy10by1tYW5hZ2UtdGhlLWNoYW5nZXMtaW4tbmV0bG9nb24tc2VjdXJlLWNoYW5uZWwtY29ubmVjdGlvbnMtYXNzb2M=&#34;&gt;How to manage the changes in Netlogon secure channel connections associated with CVE-2020-1472&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaHViLnRyaW1hcmNzZWN1cml0eS5jb20vcG9zdC9zZWN1cmluZy1hY3RpdmUtZGlyZWN0b3J5LXBlcmZvcm1pbmctYW4tYWN0aXZlLWRpcmVjdG9yeS1zZWN1cml0eS1yZXZpZXc=&#34;&gt;Securing Active Directory: Performing an Active Directory Security Review&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY2VydC5zc2kuZ291di5mci91cGxvYWRzL2d1aWRlLWFkLmh0bWw=&#34;&gt;ACTIVE DIRECTORY SECURITY ASSESSMENT CHECKLIST&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hY3NjLmdvdi5hdS9wdWJsaWNhdGlvbnMvTWl0aWdhdGlvbl9TdHJhdGVnaWVzXzIwMTcucGRm&#34;&gt;ASD Strategies to Mitigate Cyber Security Incidents&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy1zZXJ2ZXIvaWRlbnRpdHkvYWQtZHMvcGxhbi9zZWN1cml0eS1iZXN0LXByYWN0aWNlcy9yZWR1Y2luZy10aGUtYWN0aXZlLWRpcmVjdG9yeS1hdHRhY2stc3VyZmFjZQ==&#34;&gt;Reducing the Active Directory Attack Surface&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90ZWNoY29tbXVuaXR5Lm1pY3Jvc29mdC5jb20vdDUvUHJlbWllci1GaWVsZC1FbmdpbmVlcmluZy9DaGFuZ2VzLXRvLVRpY2tldC1HcmFudGluZy1UaWNrZXQtVEdULURlbGVnYXRpb24tQWNyb3NzLVRydXN0cy9iYS1wLzQ0MDI4Mw==&#34;&gt;Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (AskPFEPlat edition)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLXVzL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0FEVjE5MDAwNg==&#34;&gt;ADV190006 | Guidance to mitigate unconstrained delegation vulnerabilities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3J0YWwubXNyYy5taWNyb3NvZnQuY29tL2VuLVVTL3NlY3VyaXR5LWd1aWRhbmNlL2Fkdmlzb3J5L0FEVjE5MDAyMw==&#34;&gt;ADV190023 | Microsoft Guidance for Enabling LDAP Channel Binding and LDAP Signing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zb2NpYWwudGVjaG5ldC5taWNyb3NvZnQuY29tL3dpa2kvY29udGVudHMvYXJ0aWNsZXMvMjA5NjQuYWN0aXZlLWRpcmVjdG9yeS11bHRpbWF0ZS1yZWFkaW5nLWNvbGxlY3Rpb24uYXNweA==&#34;&gt;Active Directory: Ultimate Reading Collection&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zb2NpYWwudGVjaG5ldC5taWNyb3NvZnQuY29tL3dpa2kvY29udGVudHMvYXJ0aWNsZXMvMTg5MzEuc2VjdXJpdHktaGFyZGVuaW5nLXRpcHMtYW5kLXJlY29tbWVuZGF0aW9ucy5hc3B4&#34;&gt;Security Hardening Tips and Recommendations&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zMzc3&#34;&gt;Securing Domain Controllers to Improve Active Directory Security&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zMjk5&#34;&gt;Securing Windows Workstations: Developing a Secure Baseline&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy1zZXJ2ZXIvaWRlbnRpdHkvYWQtZHMvcGxhbi9zZWN1cml0eS1iZXN0LXByYWN0aWNlcy9pbXBsZW1lbnRpbmctc2VjdXJlLWFkbWluaXN0cmF0aXZlLWhvc3Rz&#34;&gt;Implementing Secure Administrative Hosts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvbWljcm9zb2Z0LWlkZW50aXR5LW1hbmFnZXIvcGFtL3ByaXZpbGVnZWQtaWRlbnRpdHktbWFuYWdlbWVudC1mb3ItYWN0aXZlLWRpcmVjdG9yeS1kb21haW4tc2VydmljZXM=&#34;&gt;Privileged Access Management for Active Directory Domain Services&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1BhdWxTZWMvYXdlc29tZS13aW5kb3dzLWRvbWFpbi1oYXJkZW5pbmc=&#34;&gt;Awesome Windows Domain Hardening&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy1zZXJ2ZXIvaWRlbnRpdHkvYWQtZHMvcGxhbi9zZWN1cml0eS1iZXN0LXByYWN0aWNlcy9iZXN0LXByYWN0aWNlcy1mb3Itc2VjdXJpbmctYWN0aXZlLWRpcmVjdG9yeQ==&#34;&gt;Best Practices for Securing Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3N0cy5zcGVjdGVyb3BzLmlvL2ludHJvZHVjaW5nLXRoZS1hZHZlcnNhcnktcmVzaWxpZW5jZS1tZXRob2RvbG9neS1wYXJ0LW9uZS1lMzhlMDZmZmQ2MDQ=&#34;&gt;Introducing the Adversary Resilience Methodology — Part One&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3N0cy5zcGVjdGVyb3BzLmlvL2ludHJvZHVjaW5nLXRoZS1hZHZlcnNhcnktcmVzaWxpZW5jZS1tZXRob2RvbG9neS1wYXJ0LXR3by0yNzlhMWVkNzg2M2Q=&#34;&gt;Introducing the Adversary Resilience Methodology — Part Two&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzcvNy9BLzc3QUJDNUJELTgzMjAtNDFBRi04NjNDLTZFQ0ZCMTBDQjRCOS9NaXRpZ2F0aW5nLVBhc3MtdGhlLUhhc2gtQXR0YWNrcy1hbmQtT3RoZXItQ3JlZGVudGlhbC1UaGVmdC1WZXJzaW9uLTIucGRm&#34;&gt;Mitigating Pass-the-Hash and Other Credential Theft, version 2&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL25zYWN5YmVyL1dpbmRvd3MtU2VjdXJlLUhvc3QtQmFzZWxpbmU=&#34;&gt;Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy1zZXJ2ZXIvaWRlbnRpdHkvYWQtZHMvcGxhbi9zZWN1cml0eS1iZXN0LXByYWN0aWNlcy9tb25pdG9yaW5nLWFjdGl2ZS1kaXJlY3RvcnktZm9yLXNpZ25zLW9mLWNvbXByb21pc2U=&#34;&gt;Monitoring Active Directory for Signs of Compromise&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuanBjZXJ0Lm9yLmpwL2VuZ2xpc2gvcHViL3NyL0RldGVjdGluZyUyMExhdGVyYWwlMjBNb3ZlbWVudCUyMHRocm91Z2glMjBUcmFja2luZyUyMEV2ZW50JTIwTG9nc192ZXJzaW9uMi5wZGY=&#34;&gt;Detecting Lateral Movement through Tracking Event Logs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jZXJ0LmV1cm9wYS5ldS9zdGF0aWMvV2hpdGVQYXBlcnMvVVBEQVRFRCUyMC0lMjBDRVJULUVVX1NlY3VyaXR5X1doaXRlcGFwZXJfMjAxNC0wMDdfS2VyYmVyb3NfR29sZGVuX1RpY2tldF9Qcm90ZWN0aW9uX3YxXzQucGRm&#34;&gt;Kerberos Golden Ticket Protection Mitigating Pass-the-Ticket on Active Directory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kaWdpdGFsLWZvcmVuc2ljcy5zYW5zLm9yZy9ibG9nLzIwMTMvMDYvMjAvb3ZlcnZpZXctb2YtbWljcm9zb2Z0cy1iZXN0LXByYWN0aWNlcy1mb3Itc2VjdXJpbmctYWN0aXZlLWRpcmVjdG9yeQ==&#34;&gt;Overview of Microsoft&#39;s &amp;quot;Best Practices for Securing Active Directory&amp;quot;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kc2ltZy51Ym0tdXMubmV0L2VudmVsb3BlLzE1NTQyMi8zMTQyMDIvMTMzMDUzNzkxMl9LZXlzX3RvX3RoZV9LaW5nZG9tX0xpbWl0aW5nX0FEX0FkbWlucy5wZGY=&#34;&gt;The Keys to the Kingdom: Limiting Active Directory Administrators&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9ncy5zYW5zLm9yZy9jeWJlci1kZWZlbnNlLzIwMTgvMDkvMTAvcHJvdGVjdC1wcml2aWxlZ2VkLWFkLWFjY291bnRzLXdpdGgtZml2ZS1mcmVlLWNvbnRyb2xzLw==&#34;&gt;Protect Privileged AD Accounts With Five Free Controls&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0xNjg0&#34;&gt;The Most Common Active Directory Security Issues and What You Can Do to Fix Them&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL25zYWN5YmVyL0V2ZW50LUZvcndhcmRpbmctR3VpZGFuY2U=&#34;&gt;Event Forwarding Guidance&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXdyaW5mb3NlY3VyaXR5LmNvbS9vdXItdGhpbmtpbmcvcGxhbnRpbmctdGhlLXJlZC1mb3Jlc3QtaW1wcm92aW5nLWFkLW9uLXRoZS1yb2FkLXRvLWVzYWUv&#34;&gt;Planting the Red Forest: Improving AD on the Road to ESAE&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zNDU4&#34;&gt;Detecting Kerberoasting Activity&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vcHQtcHQvcHJldmlvdXMtdmVyc2lvbnMvd2luZG93cy9zZXJ2ZXIvY2M3NTUzMjEodj13cy4xMCk=&#34;&gt;Security Considerations for Trusts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvYWR2YW5jZWQtdGhyZWF0LWFuYWx5dGljcy9zdXNwaWNpb3VzLWFjdGl2aXR5LWd1aWRl&#34;&gt;Advanced Threat Analytics suspicious activity guide&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jZXJ0LmV1cm9wYS5ldS9zdGF0aWMvV2hpdGVQYXBlcnMvQ0VSVC1FVS1TV1BfMTRfMDdfUGFzc1RoZUdvbGRlbl9UaWNrZXRfdjFfMS5wZGY=&#34;&gt;Protection from Kerberos Golden Ticket&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkL0MvMS80L0MxNDU3OUNBLUU1NjQtNDc0My04QjUxLTYxQzA4ODI2NjJBQy9XaW5kb3dzJTIwMTAlMjBjcmVkZW50aWFsJTIwdGhlZnQlMjBtaXRpZ2F0aW9uJTIwZ3VpZGUuZG9jeA==&#34;&gt;Windows 10 Credential Theft Mitigation Guide&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmphdmVsaW4tbmV0d29ya3MuY29tL2RldGVjdGluZy1wYXNzLXRoZS10aWNrZXQtYW5kLXBhc3MtdGhlLWhhc2gtYXR0YWNrLXVzaW5nLXNpbXBsZS13bWktY29tbWFuZHMtMmM0NjEwMmI3NmJj&#34;&gt;Detecting Pass-The- Ticket and Pass-The- Hash Attack Using Simple WMI Commands&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYWxsZXJ5LnRlY2huZXQubWljcm9zb2Z0LmNvbS9TdGVwLWJ5LVN0ZXAtRGVwbG95LUxvY2FsLTdjOWVmNzcy&#34;&gt;Step by Step Deploy Microsoft Local Administrator Password Solution&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHJvb3BlcnMuZGUvZG93bmxvYWRzL3Ryb29wZXJzMTcvVFIxN19BRF9zaWduZWQucGRm&#34;&gt;Active Directory Security Best Practices&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9ncy50ZWNobmV0Lm1pY3Jvc29mdC5jb20vam9uc2gvMjAxOC8xMC8wMy9maW5hbGx5LWRlcGxveS1hbmQtYXVkaXQtbGFwcy13aXRoLXByb2plY3QtdmFzdC1wYXJ0LTEtb2YtMi8=&#34;&gt;Finally Deploy and Audit LAPS with Project VAST, Part 1 of 2&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudWx0aW1hdGV3aW5kb3dzc2VjdXJpdHkuY29tL3NlY3VyaXR5bG9nL2VuY3ljbG9wZWRpYS9kZWZhdWx0LmFzcHg=&#34;&gt;Windows Security Log Events&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHJpbWFyY3NlY3VyaXR5LmNvbS9zaW5nbGUtcG9zdC9EZXRlY3RpbmctdGhlLUVsdXNpdmUtQWN0aXZlLURpcmVjdG9yeS1UaHJlYXQtSHVudGluZw==&#34;&gt;Talk Transcript BSidesCharm Detecting the Elusive: Active Directory Threat Hunting&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tZWRpdW0uY29tL2JsdWUtdGVhbS9wcmV2ZW50aW5nLW1pbWlrYXR6LWF0dGFja3MtZWQyODNlN2ViZGQ1&#34;&gt;Preventing Mimikatz Attacks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvUXVlc3RTb2Z0d2FyZS91bmRlcnN0YW5kaW5nLXJlZC1mb3Jlc3QtdGhlLTN0aWVyLWVzYWUtYW5kLWFsdGVybmF0aXZlLXdheXMtdG8tcHJvdGVjdC1wcml2aWxlZ2VkLWNyZWRlbnRpYWxz&#34;&gt;Understanding &amp;quot;Red Forest&amp;quot; - The 3-Tier ESAE and Alternative Ways to Protect Privileged Credentials&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0zNzgy&#34;&gt;Securing Microsoft Active Directory Federation Server (ADFS)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtMzY1L2Jsb2cvMjAxOC8wMy8wNS9henVyZS1hZC1hbmQtYWRmcy1iZXN0LXByYWN0aWNlcy1kZWZlbmRpbmctYWdhaW5zdC1wYXNzd29yZC1zcHJheS1hdHRhY2tzLw==&#34;&gt;Azure AD and ADFS best practices: Defending against password spray attacks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHNlY3VyaXR5Lm9yZy8/cD0yMg==&#34;&gt;AD Reading: Active Directory Backup and Disaster Recovery&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZW5kZ2FtZS5jb20vYmxvZy90ZWNobmljYWwtYmxvZy90ZW4tcHJvY2Vzcy1pbmplY3Rpb24tdGVjaG5pcXVlcy10ZWNobmljYWwtc3VydmV5LWNvbW1vbi1hbmQtdHJlbmRpbmctcHJvY2Vzcw==&#34;&gt;Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZW5kZ2FtZS5jb20vYmxvZy90ZWNobmljYWwtYmxvZy9odW50aW5nLW1lbW9yeS1uZXQtYXR0YWNrcw==&#34;&gt;Hunting For In-Memory .NET Attacks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2Fucy5vcmcvcmVhZGluZy1yb29tL3doaXRlcGFwZXJzL2RldGVjdGlvbi9taW1pa2F0ei1vdmVydmlldy1kZWZlbnNlcy1kZXRlY3Rpb24tMzY3ODA=&#34;&gt;Mimikatz Overview, Defenses and Detection&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHJpbWFyY3NlY3VyaXR5LmNvbS9zaW5nbGUtcG9zdC8yMDE4LzA1LzA2L1RyaW1hcmMtUmVzZWFyY2gtRGV0ZWN0aW5nLVBhc3N3b3JkLVNwcmF5aW5nLXdpdGgtU2VjdXJpdHktRXZlbnQtQXVkaXRpbmc=&#34;&gt;Trimarc Research: Detecting Password Spraying with Security Event Auditing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY291bnRlcmNlcHQuY29tL2Jsb2cvaHVudGluZy1mb3ItZ2FyZ295bGUv&#34;&gt;Hunting for Gargoyle Memory Scanning Evasion&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy9zZWN1cml0eS90aHJlYXQtcHJvdGVjdGlvbi93aW5kb3dzLWRlZmVuZGVyLWFwcGxpY2F0aW9uLWNvbnRyb2wvd2luZG93cy1kZWZlbmRlci1hcHBsaWNhdGlvbi1jb250cm9sLWRlcGxveW1lbnQtZ3VpZGU=&#34;&gt;Planning and getting started on the Windows Defender Application Control deployment process&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tZWRpdW0uY29tL3RoaW5rLXN0YWNrL3ByZXZlbnRpbmctbGF0ZXJhbC1tb3ZlbWVudC11c2luZy1uZXR3b3JrLWFjY2Vzcy1ncm91cHMtN2U4ZDUzOWE5MDI5&#34;&gt;Preventing Lateral Movement Using Network Access Groups&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS92aWV3LmFzcHg/cmVzaWQ9RDAyNkI0Njk5MTkwRjFFNiEyODQzJmFtcDtpdGhpbnQ9ZmlsZSUyY3BwdHgmYW1wO2FwcD1Qb3dlclBvaW50JmFtcDthdXRoa2V5PSFBTXZDUlRLQl9WMUo1b3c=&#34;&gt;How to Go from Responding to Hunting with Sysinternals Sysmon&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3BhbGFudGlyL3dpbmRvd3MtZXZlbnQtZm9yd2FyZGluZw==&#34;&gt;Windows Event Forwarding Guidance&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RocmVhdGV4cHJlc3MuY29tLzIwMTgvMDUvdGhyZWF0LW1pdGlnYXRpb24tc3RyYXRlZ2llcy10ZWNobmljYWwtcmVjb21tZW5kYXRpb25zLWFuZC1pbmZvLXBhcnQtMi8=&#34;&gt;Threat Mitigation Strategies: Part 2 – Technical Recommendations and Information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGFubmVsOS5tc2RuLmNvbS9FdmVudHMvSWduaXRlLzIwMTUvQlJLMzQ4Ng==&#34;&gt;Modern Hardening: Lessons Learned on Hardening Applications and Services&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3B1YmxpY2F0aW9ucy5nYy5jYS9jb2xsZWN0aW9ucy9jb2xsZWN0aW9uXzIwMTkvY3N0Yy1jc2VjL0Q5Ny0zLTcwLTEyLTIwMTktZW5nLnBkZg==&#34;&gt;ITSP.70.012 Guidance for Hardening Microsoft Windows 10 Enterprise&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc25lYWt5bW9ua2V5Lm5ldC8yMDE4LzA2LzI1L2JsdWUtdGVhbS10aXBzLw==&#34;&gt;Blue Team Tips&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc3RpZ3ZpZXdlci5jb20vc3RpZy9hY3RpdmVfZGlyZWN0b3J5X2RvbWFpbi8=&#34;&gt;Active Directory Domain Security Technical Implementation Guide (STIG)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvSHV5S2hhMi9hZHN0Zy12MjAtZ3VpZGFuY2U=&#34;&gt;Active Directory Security Testing Guide - v2.0&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy1zZXJ2ZXIvaWRlbnRpdHkvYWQtZnMvZGVwbG95bWVudC9iZXN0LXByYWN0aWNlcy1zZWN1cmluZy1hZC1mcw==&#34;&gt;Best practices for securing Active Directory Federation Services&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;license&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#license&#34;&gt;#&lt;/a&gt; License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://creativecommons.org/publicdomain/zero/1.0&#34;&gt;&lt;img data-src=&#34;http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg&#34; alt=&#34;CC0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To the extent possible under law, Rahmat Nurfauzi &amp;quot;@infosecn1nja&amp;quot; has waived all copyright and related or neighboring rights to this work.&lt;/p&gt;
+</content>
+        <category term="AD-Attack-Defense" />
+        <updated>2021-01-18T07:08:48.000Z</updated>
+    </entry>
+</feed>

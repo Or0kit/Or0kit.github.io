@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"mysql\" category",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/PenetrationTest/Web-Security/get%E4%B8%80%E4%B8%AAmysql%E7%9F%A5%E8%AF%86/",
+            "url": "https://or0kit.github.io/PenetrationTest/Web-Security/get%E4%B8%80%E4%B8%AAmysql%E7%9F%A5%E8%AF%86/",
+            "title": "get一个mysql知识",
+            "date_published": "2020-12-04T11:40:17.000Z",
+            "content_html": "<h1 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h1>\n<blockquote>\n<p>当初没细心，今天忽然发现了</p>\n</blockquote>\n<h1 id=\"get一个mysql的知识\"><a class=\"anchor\" href=\"#get一个mysql的知识\">#</a> get 一个 mysql 的知识</h1>\n<p>设置主键<br />\n一个表中只能有一个主键，但这一个主键可以由多个字段组成。<br />\n两种创建主键的方法：</p>\n<ol>\n<li>创建表时直接在字段之后，跟 primary key 关键字。</li>\n</ol>\n<pre><code>CREATE TABLE `stu` (\n   `id` tinyint unsiged primary key, \n  `sno` int(5) unsigned zerofill DEFAULT NULL,\n  `sname` char(8) DEFAULT NULL,\n  `ssex` char(2) DEFAULT NULL\n) ENGINE=MyISAM DEFAULT CHARSET=utf8\n</code></pre>\n<p>优点：直接 缺点：只能使用一个字段作为主键<br />\n 2. 创建表时直接在<em>所有</em>字段之后，使用 primary key (要设为主键的字段的名字 1，字段 2...)</p>\n<pre><code>CREATE TABLE `stu` (\n   `id` tinyint unsiged, \n  `sno` int(5) unsigned zerofill DEFAULT NULL,\n  `sname` char(8) DEFAULT NULL,\n  `ssex` char(2) DEFAULT NULL,\n  primary key(id,sno)\n) ENGINE=MyISAM DEFAULT CHARSET=utf8\n</code></pre>\n<h1 id=\"按照字符串排序\"><a class=\"anchor\" href=\"#按照字符串排序\">#</a> 按照字符串排序</h1>\n<blockquote>\n<p>又一个</p>\n</blockquote>\n<p>排序字符串的话，会从字符串的开头开始排序。首部若一样的话，会从下一位开始比较。<br />\n例如：</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>asd</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>bsd</pre></td></tr><tr><td data-num=\"3\"></td><td><pre>csd</pre></td></tr><tr><td data-num=\"4\"></td><td><pre>csf</pre></td></tr><tr><td data-num=\"5\"></td><td><pre>cvf</pre></td></tr></table></figure>",
+            "tags": [
+                "mysql主键"
+            ]
+        }
+    ]
+}

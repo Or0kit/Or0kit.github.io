@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;全局区内存&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 15 Apr 2022 15:16:55 +0800</pubDate>
+        <lastBuildDate>Fri, 15 Apr 2022 15:16:55 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Bin/Core/WindowsXp/MemoryManagement/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-02Private%20Memory/</guid>
+            <title>内存管理-02Private Memory</title>
+            <link>https://or0kit.github.io/Bin/Core/WindowsXp/MemoryManagement/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-02Private%20Memory/</link>
+            <category>VirtualAlloc</category>
+            <category>MEM_COMMIT与MEM_RESERVE</category>
+            <category>malloc</category>
+            <category>堆内存</category>
+            <category>栈内存</category>
+            <category>全局区内存</category>
+            <pubDate>Fri, 15 Apr 2022 15:16:55 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;申请内存的两种方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#申请内存的两种方式&#34;&gt;#&lt;/a&gt; 申请内存的两种方式&lt;/h1&gt;
+&lt;p&gt;&amp;lt;1&amp;gt; 通过  &lt;code&gt;VirtualAlloc&lt;/code&gt;  /  &lt;code&gt;VirtualAllocEx&lt;/code&gt;  申请的：Private Memory&lt;/p&gt;
+&lt;p&gt;&amp;lt;2&amp;gt; 通过  &lt;code&gt;CreateFileMapping&lt;/code&gt;  映射的：Mapped Memory&lt;/p&gt;
+&lt;h2 id=&#34;验证内存种类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#验证内存种类&#34;&gt;#&lt;/a&gt; 验证内存种类&lt;/h2&gt;
+&lt;p&gt;接下来写代码去验证上面的两种内存种类。&lt;/p&gt;
+&lt;p&gt;在复习一下  &lt;code&gt;VirtualAlloc&lt;/code&gt;  函数：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LPVOID VirtualAlloc&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	LPVOID lpAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; 	&lt;span class=&#34;token comment&#34;&gt;// 要分配的内存区域的地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	DWORD dwSize&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; 		&lt;span class=&#34;token comment&#34;&gt;// 分配的大小&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	DWORD flAllocationType&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; 	&lt;span class=&#34;token comment&#34;&gt;// 分配的类型&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	DWORD flProtect 	&lt;span class=&#34;token comment&#34;&gt;// 该内存的初始保护属性&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;参数介绍：&lt;/p&gt;
+&lt;p&gt;申请内存的地址。可以指定地址，但是物理页我们不知道哪里的地址是否可用，所以一般为 NULL 。&lt;br /&gt;
+申请内存的大小。一般以页的整数倍进行申请，如：两页 0x1000*2 。&lt;br /&gt;
+申请内存的类型。&lt;br /&gt;
+常用的有两种类型：&lt;br /&gt;
+ &lt;code&gt;MEM_RESERVE&lt;/code&gt;  : 先申请线性内存，但不占用物理内存&lt;br /&gt;
+ &lt;code&gt;MEM_COMMIT&lt;/code&gt;  : 占用线性内存和物理内存。&lt;strong&gt;一会就打破这个认知！&lt;/strong&gt;&lt;br /&gt;
+内存的状态。可读、可写、可执行。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;stdio.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;Windows.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; argc&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;char&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; argv&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; p&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	p &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;VirtualAlloc&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x1000&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;MEM_COMMIT&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;PAGE_READWRITE&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;p:%p\t\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;p&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token function&#34;&gt;VirtualFree&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;p&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;MEM_FREE&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;先运行，不申请内存，查看此进程的内存结构：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;申请后：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;验证-mem_reserve-与-mem_commit&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#验证-mem_reserve-与-mem_commit&#34;&gt;#&lt;/a&gt; 验证 MEM_RESERVE 与 MEM_COMMIT&lt;/h2&gt;
+&lt;p&gt;我们使用 VirtualAlloc 这个函数的时候，第三个参数要传分配的类型，常见的一个是  &lt;code&gt;MEM_COMMIT&lt;/code&gt;  ，另一个是  &lt;code&gt;MEM_RESERVE&lt;/code&gt;  。&lt;/p&gt;
+&lt;p&gt;前者申请后就会提供一个物理页，而后者会有记录但不会给你物理页，真的是这样的吗？&lt;/p&gt;
+&lt;p&gt;之前的代码里我们传递的参数是 &lt;code&gt;MEM_COMMIT&lt;/code&gt; ，但我们并没有给申请的地址赋值，我们来查看一下是否有物理页：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以看到并没有 PTE，也就是没有挂物理页。&lt;/p&gt;
+&lt;p&gt;更改上面的代码，给申请的地址赋值：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;stdio.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;Windows.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; argc&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;char&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; argv&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; p&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	p &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;VirtualAlloc&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x1000&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;MEM_COMMIT&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;PAGE_READWRITE&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;p:%p\t\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;p&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;p&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;666&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token function&#34;&gt;VirtualFree&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;p&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;MEM_FREE&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;可以看到：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; !vtop 0aac01e0 0x3c0000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;X86VtoP: Virt 00000000003c0000, pagedir 000000000aac01e0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;X86VtoP: PAE PDPE 000000000aac01e0 - 000000004e48a801&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;X86VtoP: PAE PDE 000000004e48a008 - 000000004e723867&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;X86VtoP: PAE PTE 000000004e723e00 - 800000004ea37867&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;X86VtoP: PAE Mapped phys 000000004ea37000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Virtual address 3c0000 translates to physical address 4ea37000.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;可以看到挂上物理页了。也就是说，就算使用 MEM_COMMIT 参数，如果不用的话，物理页也不会给你的。&lt;/p&gt;
+&lt;h1 id=&#34;堆与栈&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#堆与栈&#34;&gt;#&lt;/a&gt; 堆与栈&lt;/h1&gt;
+&lt;p&gt;一个由 C/C++ 编译的程序占用的内存分为以下几个部分&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;栈区（stack）: 由编译器自动分配释放 ，存放函数的参数值，局部变量的值等。其操作方式类似于数据结构中的栈&lt;/li&gt;
+&lt;li&gt;堆区（heap）: 一般由程序员分配释放， 若程序员不释放，程序结束时可能由 OS 回收 。注意它与数据结构中的堆是两回事，分配方式倒是类似于链表。&lt;/li&gt;
+&lt;li&gt;全局区（静态区）（static）: 全局变量和静态变量的存储是放在一块的，初始化的全局变量和静态变量在一块区域， 未初始化的全局变量和未初始化的静态变量在相邻的另一块区域。  程序结束后有系统释放&lt;/li&gt;
+&lt;li&gt;文字常量区：常量字符串就是放在这里的。 程序结束后由系统释放&lt;/li&gt;
+&lt;li&gt;程序代码区：存放函数体的二进制代码。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;堆内存与-malloc-分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#堆内存与-malloc-分析&#34;&gt;#&lt;/a&gt; 堆内存与 malloc 分析&lt;/h2&gt;
+&lt;p&gt;在 c 程序中我们经常用 malloc 来 “申请内存”。&lt;br /&gt;
+但它不是真正申请内存，它的底层实现是  &lt;code&gt;HeapAlloc&lt;/code&gt;  ，就是申请堆内存，而这堆内存是进程创建好后操作系统就分配好了的。&lt;br /&gt;
+我们来做个实验验证一下：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;stdio.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;Windows.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; argc&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;char&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; argv&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	LPVOID p&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    p &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;malloc&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;p: 0x%X\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;p&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;free&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;p&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;在没执行 malloc 前看一下进程的内存结构：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; !vad 0x8a0fdfc0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;VAD   Level     Start       End Commit&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a1ce638  1        10        10      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a056258  2        20        20      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0fdfc0  0        30       12f      4 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a074aa0  3       130       132      0 Mapped       READONLY           Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d0eb38  2       140       23f      9 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89e05778  4       240       24f      6 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0dfa00  3       250       25f      0 Mapped       READWRITE          Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ace2a8  5       260       275      0 Mapped       READONLY           \WINDOWS\system32\unicode.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a09a2e8  4       280       2c0      0 Mapped       READONLY           \WINDOWS\system32\locale.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a112a20  6       2d0       310      0 Mapped       READONLY           \WINDOWS\system32\sortkey.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad4380  5       320       325      0 Mapped       READONLY           \WINDOWS\system32\sorttbls.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d1bcb8  7       330       370      0 Mapped       READONLY           Pagefile section, shared commit 0x41&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a09be68  6       380       38f      3 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a167bd0  7       390       392      0 Mapped       READONLY           \WINDOWS\system32\ctype.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d91d08  8       3a0       3ad      0 Mapped       READWRITE          Pagefile section, shared commit 0xe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a04df30  9       3b0       3b0      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ac7148  1       400       42d      7 Mapped  Exe  EXECUTE_WRITECOPY  \Documents and Settings\Administrator\My Documents\TestHeapAndStack\Debug\TestHeapAndStack.exe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a1f8b78  4     76d70     76d91      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\apphelp.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad66a8  5     77bd0     77bd7      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\version.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a19ad48  6     77da0     77e48      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\advapi32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a16f5b8  7     77e50     77ee2      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\rpcrt4.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad5388  8     77fc0     77fd0      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\secur32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89dbbc00  3     7c800     7c91d      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\kernel32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d11fd8  2     7c920     7c9b2      5 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\ntdll.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad1d20  4     7f6f0     7f7ef      0 Mapped       EXECUTE_READ       Pagefile section, shared commit 0x7&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a175400  3     7ffa0     7ffd2      0 Mapped       READONLY           Pagefile section, shared commit 0x33&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0a5dc8  4     7ffdd     7ffdd      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d18918  5     7ffdf     7ffdf      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;执行 malloc 后，程序打印出的地址为： &lt;code&gt;p: 003807A8&lt;/code&gt; ，此时再看内存结构：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; !vad 0x8a0fdfc0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;VAD   Level     Start       End Commit&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a1ce638  1        10        10      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a056258  2        20        20      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0fdfc0  0        30       12f      4 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a074aa0  3       130       132      0 Mapped       READONLY           Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d0eb38  2       140       23f      9 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89e05778  4       240       24f      6 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0dfa00  3       250       25f      0 Mapped       READWRITE          Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ace2a8  5       260       275      0 Mapped       READONLY           \WINDOWS\system32\unicode.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a09a2e8  4       280       2c0      0 Mapped       READONLY           \WINDOWS\system32\locale.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a112a20  6       2d0       310      0 Mapped       READONLY           \WINDOWS\system32\sortkey.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad4380  5       320       325      0 Mapped       READONLY           \WINDOWS\system32\sorttbls.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d1bcb8  7       330       370      0 Mapped       READONLY           Pagefile section, shared commit 0x41&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a09be68  6       380       38f      5 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a167bd0  7       390       392      0 Mapped       READONLY           \WINDOWS\system32\ctype.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d91d08  8       3a0       3ad      0 Mapped       READWRITE          Pagefile section, shared commit 0xe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a04df30  9       3b0       3b0      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ac7148  1       400       42d      7 Mapped  Exe  EXECUTE_WRITECOPY  \Documents and Settings\Administrator\My Documents\TestHeapAndStack\Debug\TestHeapAndStack.exe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a1f8b78  4     76d70     76d91      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\apphelp.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad66a8  5     77bd0     77bd7      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\version.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a19ad48  6     77da0     77e48      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\advapi32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a16f5b8  7     77e50     77ee2      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\rpcrt4.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad5388  8     77fc0     77fd0      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\secur32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89dbbc00  3     7c800     7c91d      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\kernel32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d11fd8  2     7c920     7c9b2      5 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\ntdll.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad1d20  4     7f6f0     7f7ef      0 Mapped       EXECUTE_READ       Pagefile section, shared commit 0x7&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a175400  3     7ffa0     7ffd2      0 Mapped       READONLY           Pagefile section, shared commit 0x33&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0a5dc8  4     7ffdd     7ffdd      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d18918  5     7ffdf     7ffdf      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;code&gt;8a09be68  6       380       38f      5 Private      READWRITE &lt;/code&gt;  这个线性地址早已存在。&lt;br /&gt;
+所以 malloc 就是从已经分配好的线性地址也就是堆内存中取出地址来用。&lt;/p&gt;
+&lt;h2 id=&#34;栈内存与全局变量区的内存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#栈内存与全局变量区的内存&#34;&gt;#&lt;/a&gt; 栈内存与全局变量区的内存&lt;/h2&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;stdio.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;Windows.h&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; x&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; argc&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;char&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; argv&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;system&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;pause&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; y &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0x12345678&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;x:%x y:%x \n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;y&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;getchar&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;在运行前 (可以下断点) 查看进程的内存结构：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;VAD   Level     Start       End Commit&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a108ef0  1        10        10      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d0f8e8  2        20        20      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a1d4360  0        30       12f      4 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d1ef10  3       130       132      0 Mapped       READONLY           Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89e01950  2       140       23f      8 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a056258  4       240       24f      6 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a19ef10  3       250       25f      0 Mapped       READWRITE          Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a16f160  5       260       275      0 Mapped       READONLY           \WINDOWS\system32\unicode.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d19408  4       280       2c0      0 Mapped       READONLY           \WINDOWS\system32\locale.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89dabd28  6       2d0       310      0 Mapped       READONLY           \WINDOWS\system32\sortkey.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad47b8  5       320       325      0 Mapped       READONLY           \WINDOWS\system32\sorttbls.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a12e820  7       330       370      0 Mapped       READONLY           Pagefile section, shared commit 0x41&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d79bc8  6       380       38f      3 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a062d58  7       390       392      0 Mapped       READONLY           \WINDOWS\system32\ctype.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d9a2a8  8       3a0       3ad      0 Mapped       READWRITE          Pagefile section, shared commit 0xe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d0eb38  9       3b0       3b0      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0348b8  1       400       42e      8 Mapped  Exe  EXECUTE_WRITECOPY  \Documents and Settings\Administrator\My Documents\TestHeapAndStack\Debug\TestHeapAndStack.exe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a065420  4     76d70     76d91      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\apphelp.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d1ad68  5     77bd0     77bd7      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\version.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a034a78  6     77da0     77e48      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\advapi32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d03940  7     77e50     77ee2      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\rpcrt4.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89dbc488  8     77fc0     77fd0      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\secur32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89cf8798  3     7c800     7c91d      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\kernel32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0348e8  2     7c920     7c9b2      5 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\ntdll.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89cf87c8  4     7f6f0     7f7ef      0 Mapped       EXECUTE_READ       Pagefile section, shared commit 0x7&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad22e8  3     7ffa0     7ffd2      0 Mapped       READONLY           Pagefile section, shared commit 0x33&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a072a00  4     7ffdb     7ffdb      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89da64c0  5     7ffdf     7ffdf      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;运行后打印信息如下： &lt;code&gt;x:0042AC50 y:0012FF7C&lt;/code&gt;  其内存结构如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a108ef0  1        10        10      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d0f8e8  2        20        20      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a1d4360  0        30       12f      4 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d1ef10  3       130       132      0 Mapped       READONLY           Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89e01950  2       140       23f      8 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a056258  4       240       24f      6 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a19ef10  3       250       25f      0 Mapped       READWRITE          Pagefile section, shared commit 0x3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a16f160  5       260       275      0 Mapped       READONLY           \WINDOWS\system32\unicode.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d19408  4       280       2c0      0 Mapped       READONLY           \WINDOWS\system32\locale.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89dabd28  6       2d0       310      0 Mapped       READONLY           \WINDOWS\system32\sortkey.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad47b8  5       320       325      0 Mapped       READONLY           \WINDOWS\system32\sorttbls.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a12e820  7       330       370      0 Mapped       READONLY           Pagefile section, shared commit 0x41&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d79bc8  6       380       38f      5 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a062d58  7       390       392      0 Mapped       READONLY           \WINDOWS\system32\ctype.nls&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d9a2a8  8       3a0       3ad      0 Mapped       READWRITE          Pagefile section, shared commit 0xe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d0eb38  9       3b0       3b0      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0348b8  1       400       42e      8 Mapped  Exe  EXECUTE_WRITECOPY  \Documents and Settings\Administrator\My Documents\TestHeapAndStack\Debug\TestHeapAndStack.exe&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a065420  4     76d70     76d91      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\apphelp.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d1ad68  5     77bd0     77bd7      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\version.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a034a78  6     77da0     77e48      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\advapi32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89d03940  7     77e50     77ee2      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\rpcrt4.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89dbc488  8     77fc0     77fd0      2 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\secur32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89cf8798  3     7c800     7c91d      6 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\kernel32.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a0348e8  2     7c920     7c9b2      5 Mapped  Exe  EXECUTE_WRITECOPY  \WINDOWS\system32\ntdll.dll&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89cf87c8  4     7f6f0     7f7ef      0 Mapped       EXECUTE_READ       Pagefile section, shared commit 0x7&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89ad22e8  3     7ffa0     7ffd2      0 Mapped       READONLY           Pagefile section, shared commit 0x33&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8a072a00  4     7ffdb     7ffdb      1 Private      READWRITE          &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89da64c0  5     7ffdf     7ffdf      1 Private      READWRITE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;可以发现这两处内存地址也是提前申请好的。&lt;/p&gt;
+&lt;p&gt;至此结束。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

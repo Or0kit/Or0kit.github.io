@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;消息类型&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 05 Jul 2021 22:48:49 +0800</pubDate>
+        <lastBuildDate>Mon, 05 Jul 2021 22:48:49 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Bin/Win32/Win%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6%E5%92%8C%E6%B6%88%E6%81%AF%E7%B1%BB%E5%9E%8B/</guid>
+            <title>Win消息机制和消息类型</title>
+            <link>https://or0kit.github.io/Bin/Win32/Win%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6%E5%92%8C%E6%B6%88%E6%81%AF%E7%B1%BB%E5%9E%8B/</link>
+            <category>窗口程序</category>
+            <category>消息机制</category>
+            <category>消息类型</category>
+            <pubDate>Mon, 05 Jul 2021 22:48:49 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;事件和消息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#事件和消息&#34;&gt;#&lt;/a&gt; 事件和消息&lt;/h1&gt;
+&lt;p&gt;Windows 中的事件是一个 &amp;quot;动作&amp;quot;，这个动作可能是用户操作应用程序产生的，也可能是 Windows 自己产生的.&lt;br /&gt;
+ 而消息，就是用来描述这些 &amp;quot;动作&amp;quot; 的，比如：&lt;/p&gt;
+&lt;p&gt;1 这个动作是什么时候产生的？&lt;br /&gt;
+2 哪个应用程序产生的？&lt;br /&gt;
+3 在什么位置产生的？&lt;br /&gt;
+等等。。。&lt;/p&gt;
+&lt;h2 id=&#34;事件驱动消息-消息封装事件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#事件驱动消息-消息封装事件&#34;&gt;#&lt;/a&gt; 事件驱动消息 消息封装事件&lt;/h2&gt;
+&lt;p&gt;Windows 为了能够准确的描述这些信息，提供了一个结构体：MSG，该结构体里面记录的事件的详细信息。&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;tagMSG&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            HWND hwnd&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 窗口句柄&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            UINT message&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 消息类型&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            WPARAM wParam&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 对消息类型进一步描述&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            LPARAM lParam&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 同上&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            DWORD time&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 动作发生时间&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            POINT pt&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 坐标，结构体封装了，内部是 x，y&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; MSG&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;PMSG&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;说明：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1、hwnd&lt;br /&gt;
+ 表示消息所属的窗口&lt;br /&gt;
+一个消息一般都是与某个窗口相关联的&lt;br /&gt;
+在 Windows 中 HWND 类型的变量通常用来标识窗口。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2、message&lt;br /&gt;
+ 在 Windows 中，消息是由一个数值来表示的&lt;br /&gt;
+但是由于数值不便于记忆，所以 Windows 将消息对应的数值定义为 WM_XXX 宏（WM == Window Message）&lt;br /&gt;
+鼠标左键按下 WM_LBUTTONDOWN        键盘按下 WM_KEYDOWN&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3、wParam 和 lParam&lt;br /&gt;
+32 位消息的特定附加信息，具体表示什么处决于 message&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;4、time&lt;br /&gt;
+ 消息创建时的时间&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;5、消息创建时的鼠标位置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;具体来说：如下图，用户输入后，封装成消息，加入系统的消息队列，然后应用程序那还有队列&lt;/p&gt;
+&lt;p&gt;用来存储自己的消息队列，所以系统队列到应用程序队列是分流而治的过程。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;从队列中取出消息，使用的是循环机制，就是不停的取出消息，而后面的判断消息类型是不是我们关心的意思其实是&lt;/p&gt;
+&lt;p&gt;我们是否写了该消息下的响应函数，或者说回调函数。&lt;/p&gt;
+&lt;p&gt;具体流程如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;消息机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#消息机制&#34;&gt;#&lt;/a&gt; 消息机制&lt;/h1&gt;
+&lt;p&gt;我们了解了窗口其实是绘制出来的，而且是不断绘制的过程，所以窗口的本质是绘制， 但是我们现在看到的窗口程序，都可以点击关闭按钮 使用鼠标点击会有反应.&lt;/p&gt;
+&lt;p&gt;而我们要怎么实现呢？&lt;/p&gt;
+&lt;p&gt;其实鼠标点击是产生了一个消息。window 把这个消息封装成了消息结构体。 发送给了我们的窗口程序。&lt;/p&gt;
+&lt;p&gt;那么 windows 怎么知道你点击的那个窗口呢？&lt;/p&gt;
+&lt;p&gt;是这样的 当我们点击的时候 会记录点击坐标。消息。等等 windows 系统会接受到 然后遍历内核中的 WINOBJ 结构 而这个结构中存储着窗口对象 窗口对象对应着消息线程.&lt;/p&gt;
+&lt;p&gt;所以 windows 一层一层的遍历。则找到了对应的窗口以及窗口对应的线程。然后发送给我们的应用程序&lt;/p&gt;
+&lt;p&gt;上面说的我们需要了解 要知道消息怎么产生的 怎么传递的。那么下面编程就明白了.&lt;/p&gt;
+&lt;p&gt;例如下图:&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;每个应用程序都有一个线程对象 而这个线程对象如果创建窗口。那么内核中就有这个窗口对象.&lt;/p&gt;
+&lt;p&gt;如果我们有鼠标点击的消息。键盘消息等等。操作系统都会遍历窗口对象 而窗口对象也会保存着创建这个窗口对象对应的线程对象 而这个线程对象中则有消息队列.&lt;/p&gt;
+&lt;p&gt;这样的话操作系统则会封装消息发送给我们窗口对象&lt;/p&gt;
+&lt;h1 id=&#34;消息类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#消息类型&#34;&gt;#&lt;/a&gt; 消息类型&lt;/h1&gt;
+&lt;p&gt;我们回调中有我们的消息类型，我们可以判断消息类型进行我们不同的操作。&lt;/p&gt;
+&lt;p&gt;比如菜单消息&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WM_COMMAND&lt;/code&gt; ， 如果是这个消息。那么回调函数的 &lt;code&gt;wparam&lt;/code&gt;  等附加信息就是 &lt;code&gt;WM_COMMAND&lt;/code&gt;  的附加消息了 我们可以取低位得出操作的菜单 ID. 进而进行消息处理.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WM_PAINT&lt;/code&gt;  这个消息是绘制的消息。我们知道。窗口是不断绘制的。所以绘制消息会一直来.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WM_DESTROY&lt;/code&gt;   窗口关闭消息 如果接受到这个消息。则调用 API 往消息队列中 (MSG) 中传递退出消息 此时外层主线程就会结束.&lt;/p&gt;
+&lt;p&gt;具体 API:&lt;br /&gt;
+ &lt;code&gt;postQuitMessage(0);&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;当前具体的消息还要查询 MSDN, 因为消息种类很多.&lt;/p&gt;
+&lt;p&gt;windows 消息都是 WM 开头的&lt;/p&gt;
+&lt;p&gt;比如查询 &lt;code&gt;WM_COMMAND&lt;/code&gt;  消息&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以清楚的看到它会告诉你如果是 &lt;code&gt;WM_COMMAND&lt;/code&gt;  消息来了那么回调函数的参数分别代表的是什么意思。&lt;/p&gt;
+&lt;h1 id=&#34;窗口类结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#窗口类结构&#34;&gt;#&lt;/a&gt; 窗口类结构&lt;/h1&gt;
+&lt;p&gt;创建窗口程序&lt;/p&gt;
+&lt;h2 id=&#34;进行窗口编程需要注意的问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进行窗口编程需要注意的问题&#34;&gt;#&lt;/a&gt; 进行窗口编程需要注意的问题&lt;/h2&gt;
+&lt;p&gt;在 Windows 中进行窗口编程，入口点已经改成 WinMain 了 有四个参数&lt;/p&gt;
+&lt;p&gt;如以下代码所示&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; APIENTRY &lt;span class=&#34;token function&#34;&gt;wWinMain&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;_In_ HINSTANCE hInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;               &lt;span class=&#34;token comment&#34;&gt;// 窗口的实例句柄 hinstance 代表模块意思 HWND 代表窗口意思 HANDLE 代表内核对象 HDC 设备上下文&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                     _In_opt_ HINSTANCE hPrevInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 父窗口句柄   已淘汰&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                     _In_ LPWSTR    lpCmdLine&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                &lt;span class=&#34;token comment&#34;&gt;// 命令行参数&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                     _In_ &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;       nCmdShow&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;                 &lt;span class=&#34;token comment&#34;&gt;// 命令 最大化命令还是最小化命令&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;code&gt;wWinMain&lt;/code&gt;  因为有 &lt;code&gt;UNICODE&lt;/code&gt;  跟 &lt;code&gt;ASCII&lt;/code&gt;  区别，所以 &lt;code&gt;UNICODE&lt;/code&gt;  使用 &lt;code&gt;wWinMain&lt;/code&gt; ， &lt;code&gt;ASCII&lt;/code&gt;  版就是用 &lt;code&gt;WinMain&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这里我上网上查了一下&lt;/p&gt;
+&lt;p&gt;其实并不是程序中有中文时就必须用 &lt;code&gt;Unicode&lt;/code&gt;  字符集，当 &lt;code&gt;windows&lt;/code&gt;  系统语言为中文时，不管你选择哪个字符集都是可以正常显示中文的，但是系统语言不为中文时就会出现乱码了。所以如果你的软件需要适应多语言的 &lt;code&gt;windows&lt;/code&gt;  系统的话就得用 &lt;code&gt;Unicode&lt;/code&gt;  字符集。&lt;/p&gt;
+&lt;p&gt;另外需要说明的是，当字符集为 &lt;code&gt;Unicode&lt;/code&gt;  时，向 api 函数传递的一个字符串的时候应该将该字符串转换为 &lt;code&gt;Unicode&lt;/code&gt;  编码的，可用 L 转换：&lt;br /&gt;
+ &lt;code&gt;CreateWindow(wndClass, L&amp;quot;这是窗口标题&amp;quot;, ......);&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;进行windows编程的调试手法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进行windows编程的调试手法&#34;&gt;#&lt;/a&gt; 进行 Windows 编程的调试手法&lt;/h2&gt;
+&lt;p&gt;在 Windows 中我们调试程序不能简单的使用 printf 进行调试。或者打印输出了 我们可以使用两个 API 进行操作.&lt;/p&gt;
+&lt;p&gt;1  &lt;code&gt;wsprintf()&lt;/code&gt;  格式化字符串&lt;/p&gt;
+&lt;p&gt;2  &lt;code&gt;OutPutDebugString()&lt;/code&gt;  输出调试字符串&lt;/p&gt;
+&lt;p&gt;详细参见百科：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS93c3ByaW50Zg==&#34;&gt;https://baike.baidu.com/item/wsprintf&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS9PdXRwdXREZWJ1Z1N0cmluZw==&#34;&gt;https://baike.baidu.com/item/OutputDebugString&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;因为 &lt;code&gt;OutPutDebugString()&lt;/code&gt;  只能打印固定字符串&lt;/p&gt;
+&lt;p&gt;所以使用 wsprintf 进行格式化字符串，如下面代码&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; APIENTRY &lt;span class=&#34;token function&#34;&gt;wWinMain&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;_In_ HINSTANCE hInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    _In_opt_ HINSTANCE hPrevInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    _In_ LPWSTR    lpCmdLine&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    _In_ &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;       nCmdShow&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    TCHAR str&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;30&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;wsprintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;str&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; L&lt;span class=&#34;token string&#34;&gt;&#34;%s&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; L&lt;span class=&#34;token string&#34;&gt;&#34;HelloWin32&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;//MessageBox (0, str, 0, MB_OK);// 也可以弹个窗&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;OutputDebugString&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;str&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;我们编译出程序之后，可以使用 DebugView 这款工具查看，也可以在编译器的调试窗口看&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;窗口编程的步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#窗口编程的步骤&#34;&gt;#&lt;/a&gt; 窗口编程的步骤&lt;/h2&gt;
+&lt;p&gt;1 创建窗口类&lt;br /&gt;
+ windows 提供的窗口样式。我们需要给定.&lt;/p&gt;
+&lt;p&gt;2 注册窗口类&lt;br /&gt;
+创建了窗口我们需要注册到 windows 系统中.&lt;/p&gt;
+&lt;p&gt;3 创建窗口&lt;/p&gt;
+&lt;p&gt;如果注册窗口成功。那么我们需要创建出来这个窗口。并且显示跟更新.&lt;/p&gt;
+&lt;p&gt;4 消息处理&lt;/p&gt;
+&lt;h2 id=&#34;窗口编程需要的主要结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#窗口编程需要的主要结构&#34;&gt;#&lt;/a&gt; 窗口编程需要的主要结构&lt;/h2&gt;
+&lt;p&gt;窗口的创建 Windows 已经为我们提供了，这个结构就是 &lt;code&gt;WNDCLASSEX&lt;/code&gt;  结构&lt;/p&gt;
+&lt;p&gt;看下这个结构中的内容吧&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_WNDCLASSEX&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    UINT       cbSize&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                   扩展的大小 既自己WndClass本身大小&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    UINT       style&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                    风格&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    WNDPROC    lpfnWndProc&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;              窗口回调&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;消息都要进入这个回调&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;        cbClsExtra&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;              &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;        cbWndExtra&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    HINSTANCE  hInstance&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                实例句柄&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    HICON      hIcon&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                    图标&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    HCURSOR    hCursor&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                  光标&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    HBRUSH     hbrBackground&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;            背景&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    LPCTSTR    lpszMenuName&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;             菜单名称&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    LPCTSTR    lpszClassName&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;            类名称&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    HICON      hIconSm&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                  最小化图标&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; WNDCLASSEX&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;PWNDCLASSEX&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;你的窗口是什么样式、 大小、是否有图标、 消息处理函数在哪里等等，需要我们给指定。&lt;br /&gt;
+还有一个 &lt;code&gt;WNDCLASS&lt;/code&gt;  结构，这个是兼容老版本的。如今一般用 &lt;code&gt;WNDCLASSEX&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;详细见&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMjQzMDY1L2FydGljbGUvZGV0YWlscy84MzUxMzc5NQ==&#34;&gt; https://blog.csdn.net/qq_31243065/article/details/83513795&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;创建一个窗口程序的详细步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建一个窗口程序的详细步骤&#34;&gt;#&lt;/a&gt; 创建一个窗口程序的详细步骤&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;步骤 1：创建 Windows 应用程序 选择空项目&lt;br /&gt;
+步骤 2：在新建项窗口中选 C++ 代码文件 创建一个新的 cpp 文件&lt;br /&gt;
+步骤 3：在新的 cpp 文件中添加: &lt;code&gt;#include &amp;lt;Windows.h&amp;gt;&lt;/code&gt; &lt;br /&gt;
+ 并添加入口函数：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; CALLBACK &lt;span class=&#34;token function&#34;&gt;WinMain&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;                 &lt;span class=&#34;token comment&#34;&gt;// CALLBACK 是一个宏  #define CALLBACK __stdcall   所有的 Win32 API 函数都遵循该约定 此外 #define WINAPI __stdcall  #define APIENTRY    WINAPI        &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            _In_ HINSTANCE hInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 应用程序当前实例的句柄&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            _In_ HINSTANCE hPrevInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            _In_ LPSTR lpCmdLine&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            _In_ &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; nCmdShow&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;步骤 4：设计窗口类&lt;br /&gt;
+既能用 &lt;code&gt;WNDCLASS&lt;/code&gt;  也能用 &lt;code&gt;WNDCLASSEX&lt;/code&gt; &lt;br /&gt;
+ 例：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 窗口的类名    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;TCHAR className&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;My First Window&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 创建窗口类的对象     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WNDCLASS wndclass &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 一定要先将所有值赋值&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;wndclass&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;hbrBackground &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;HBRUSH&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;COLOR_MENU&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 窗口的背景色    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;wndclass&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;lpfnWndProc &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; WindowProc&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 窗口过程函数 也叫回调函数   &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;wndclass&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;lpszClassName &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; className&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 窗口类的名字    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;wndclass&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;hInstance &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; hInstance&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 标识该窗口所在的实例&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;步骤 5：注册窗口类    (这是什么？哈哈哈，就是把结构体赋值后传参调用)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;RegisterClass&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;wndclass&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;步骤 6：创建窗口&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 创建窗口     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;HWND hwnd &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;CreateWindow&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            className&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                    &lt;span class=&#34;token comment&#34;&gt;// 类名    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;TEXT&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;我的第一个窗口&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 窗口标题    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            WS_OVERLAPPEDWINDOW&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;          &lt;span class=&#34;token comment&#34;&gt;// 窗口外观样式     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                           &lt;span class=&#34;token comment&#34;&gt;// 相对于父窗口的 X 坐标    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                           &lt;span class=&#34;token comment&#34;&gt;// 相对于父窗口的 Y 坐标    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token number&#34;&gt;600&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                          &lt;span class=&#34;token comment&#34;&gt;// 窗口的宽度     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token number&#34;&gt;300&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                          &lt;span class=&#34;token comment&#34;&gt;// 窗口的高度     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                         &lt;span class=&#34;token comment&#34;&gt;// 父窗口句柄，为 NULL     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                         &lt;span class=&#34;token comment&#34;&gt;// 菜单句柄，为 NULL     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            hInstance&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;                    &lt;span class=&#34;token comment&#34;&gt;// 当前应用程序的句柄     &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;                          &lt;span class=&#34;token comment&#34;&gt;// 附加数据一般为 NULL&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;hwnd &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	TCHAR str&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;30&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;wsprintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;str&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; L&lt;span class=&#34;token string&#34;&gt;&#34;%s&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; L&lt;span class=&#34;token string&#34;&gt;&#34;HelloWin32&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;OutputDebugString&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;str&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;步骤 7：显示窗口&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 显示窗口&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;ShowWindow&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;hwnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; SW_SHOW&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;步骤 8：消息循环&lt;br /&gt;
+ GetMessage 函数说明：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS9HZXRNZXNzYWdl&#34;&gt;https://baike.baidu.com/item/GetMessage&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;MSG msg&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;BOOL bRet&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;while&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;bRet&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;GetMessage&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;msg&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;hwnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;!=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;//TranslateMessage (&amp;amp;msg);      // 键盘消息转换为小写.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;DispatchMessage&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;msg&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;      &lt;span class=&#34;token comment&#34;&gt;// 分发消息。将我们的消息传递给我们的回调函数处理 重要函数。此消息会将 Windows 的消息。发送给我们 定义窗口类的时候给的回调函数。这样我们就可以根据消息执行我们代码了.    &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;步骤 9：回调函数&lt;br /&gt;
+例：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/*                        &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;窗口消息处理程序 窗口回调函数：            &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;1、窗口回调函数处理过的消息，必须传回 0.        &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2、窗口回调不处理的消息，由 DefWindowProc 来处理.    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;*/&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//  函数: WndProc (HWND, UINT, WPARAM, LPARAM)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//  目的：处理主窗口的消息。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//  WM_COMMAND  - 处理应用程序菜单&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//  WM_PAINT    - 绘制主窗口&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//  WM_DESTROY  - 发送退出消息并返回&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LRESULT CALLBACK &lt;span class=&#34;token function&#34;&gt;WindowProc&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;         &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            IN HWND hwnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            IN UINT uMsg&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            IN WPARAM wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            IN LPARAM lParam     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;switch&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;uMsg&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token comment&#34;&gt;// 窗口消息&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_COMMAND&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;                           &lt;span class=&#34;token comment&#34;&gt;// 菜单消息类型&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; wmId &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;LOWORD&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;           &lt;span class=&#34;token comment&#34;&gt;// 取低两位为菜单 ID. 根据菜单 ID 可以进行操作我们的窗口&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token comment&#34;&gt;// 分析菜单选择:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;switch&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;wmId&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;				&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; IDM_EXIT&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;					&lt;span class=&#34;token function&#34;&gt;DestroyWindow&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;hWnd&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;					&lt;span class=&#34;token keyword&#34;&gt;break&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;				&lt;span class=&#34;token keyword&#34;&gt;default&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;					&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;DefWindowProc&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;hWnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; message&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 如果不处理。则必须调用这个函数教给默认的窗口回调处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;break&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_CREATE&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_CREATE %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			CREATESTRUCT&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; createst &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;CREATESTRUCT&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;CREATESTRUCT %s\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;createst&lt;span class=&#34;token operator&#34;&gt;-&gt;&lt;/span&gt;lpszClass&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_MOVE&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_MOVE %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;58&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;59&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			POINTS points &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;MAKEPOINTS&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;60&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;61&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;X Y %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;points&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;points&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;y&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;62&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;63&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;64&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;65&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;66&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;67&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_SIZE&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;68&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;69&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;70&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;71&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_SIZE %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;72&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;73&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; newWidth &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;short&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;LOWORD&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;74&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;75&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; newHeight &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;short&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;HIWORD&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;76&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;77&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_SIZE %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;newWidth&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;newHeight&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;78&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;79&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;80&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;81&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;82&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;83&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_DESTROY&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;    &lt;span class=&#34;token comment&#34;&gt;// 销毁&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;84&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;85&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;86&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;87&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_DESTROY %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;88&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;89&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;PostQuitMessage&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;90&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;91&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;92&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;93&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;94&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;95&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token comment&#34;&gt;// 键盘消息&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;96&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_KEYUP&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;97&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;98&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;99&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;100&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_KEYUP %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;101&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;102&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;103&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;104&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;105&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;106&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_KEYDOWN&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;107&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;108&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;109&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;110&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_KEYDOWN %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;111&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;112&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;113&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;114&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;115&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;116&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token comment&#34;&gt;// 鼠标消息&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;117&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;118&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;case&lt;/span&gt; WM_LBUTTONDOWN&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;119&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;120&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;121&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;122&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_LBUTTONDOWN %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;123&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;124&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			POINTS points &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;MAKEPOINTS&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;125&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;126&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token function&#34;&gt;DbgPrintf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;WM_LBUTTONDOWN %d %d\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;points&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;points&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;y&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;127&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;128&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;			&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;129&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;130&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;131&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;132&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//default:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;133&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//       return DefWindowProc (hWnd, message, wParam, lParam);// 扔给 windows 处理其他消息&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;134&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;135&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;136&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;DefWindowProc&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;hwnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;uMsg&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;lParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;    &lt;span class=&#34;token comment&#34;&gt;// 扔给 windows 处理其他消息&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;137&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;138&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;MFC 就是基于此封装&lt;/p&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;滴水逆向课件&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vaUJpbmFyeS9wLzk1ODAyNjguaHRtbA==&#34;&gt; https://www.cnblogs.com/iBinary/p/9580268.html&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RmZzA4MjMvYXJ0aWNsZS9kZXRhaWxzLzEwMTk2NDQyMw==&#34;&gt;https://blog.csdn.net/dfg0823/article/details/101964423&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1p6MjIzMzMvYXJ0aWNsZS9kZXRhaWxzLzg5MDg0NTYy&#34;&gt;https://blog.csdn.net/Zz22333/article/details/89084562&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

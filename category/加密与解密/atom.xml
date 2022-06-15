@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;加密与解密&#34; category</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-01-20T04:24:48.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/%E3%80%8A%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
+        <title>《加密与解密》第一章</title>
+        <link rel="alternate" href="https://or0kit.github.io/%E3%80%8A%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
+        <content type="html">&lt;h1 id=&#34;windows操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows操作系统&#34;&gt;#&lt;/a&gt; Windows 操作系统&lt;/h1&gt;
+&lt;p&gt;本书研究 Windows 平台上的加密与解密，因此要求读者必须对操作系统有所了解。建议读者阅读 Windows 操作系统原理方面的书籍，这对深入理解本书的后续内容很有帮助。&lt;/p&gt;
+&lt;h2 id=&#34;win32-api函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#win32-api函数&#34;&gt;#&lt;/a&gt; Win32 API 函数&lt;/h2&gt;
+&lt;p&gt;现在很多讲程序设计的书都基于 MFC 库和 OWL 库的 Windows 设计，对 Windows 实现细节鲜有讨论，而调试程序是要和系统底层打交道的，所以有必要掌握一些 API 函数的知识。&lt;/p&gt;
+&lt;p&gt;对初学者来说，API 函数也许是一个时常耳闻却感觉有些神秘的东西。 API 的英文全称为 &amp;quot;Application Programming Interface&amp;quot; (应用程序编程接口), 要想理解这个定义，需要追溯操作系统的发展历史。 当 Windows 操作系统开始占据主导地位的时候，开发 Windows 平台上的应用程序成为人们的需要。 而在 Windows 程序设计发展的初期，Windows 程序员能够使用的编程工具只有 API 函数。这些函数提供应用程序运行所需要的窗口管理、图形设备接口、内存管理等服务功能。 这些功能以函数库的形式组织在一起，形成了 Windows 应用程序编程接口，简称 &amp;quot;Win API&amp;quot;, Win API 子系统负责将 API 调用转换成 Windows 操作系统的系统服务调用。 所以，可以认为 API 函数是整个 Windows 框架的基石，它的下面是 Windows 操作系统核心，它的上面则是 Windows 应用程序，如图 1.3 所示。 应用程序开发人员看到的 Windows 操作系统实际上就是 Win API, Windows 操作系统的其他部分对开发人员来说是完全透明的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;用于 16 位 Windows 的 API (Windows 1.0~Windows 3.1) 称作 &amp;quot;Win16&amp;quot;, 用于 32 位 Windows 的 API ( Windows 9x/NT/2000/XP/7/10 ) 称作 &amp;quot;Win32&amp;quot;, 64 位 Windows API 的名称和功能基本没有变化，还是使用 Win32 的函数名，只不过是用 64 位代码实现的。 API 函数调用在从 Win16 到 Win32 的转变中保持兼容，并在数量和功能上不断增强 - Windows 1.0 只支持不到 450 个函数调用，现在已有几千个函数了。&lt;/p&gt;
+&lt;p&gt;所有 32 位 Windows 都支持 Win16 API (以确保与旧的应用程序兼容) 和 Win32 API (以运行新的应用程序), 非常有趣的是，Windows NT/2000/xP/7 与 Windows 9x 的工作方式不同。 在 WindowsNT/2000XKP/7 中，Winl6 函数调用通过一个转换层转换为 Win32 函数调用，然后被操作系统处理。在 Windows 9x 中，该操作正好相反，Win32 函数调用通过转换层转换为 Win16 函数调用，再由操作系统进行处理。&lt;/p&gt;
+&lt;p&gt;Windows 运转的核心是动态链接。 Windows 提供了丰富的应用程序可利用的函数调用，这些函数采用动态链接库 (DLL) 实现。 在 Windows 9x 中，DLL 通常位于 1WINDOWSYSTEM 子目录中。在 Windows NT72000/XP/7 中，DLL 通常位于系统安装目录的 SYSTEM 和 SYSTEM32 子目录中。&lt;/p&gt;
+&lt;p&gt;在早期，Windows 的主要部分只需要在 3 个动态链接库中实现，它们分别代表 Windows 的 3 个主要子系统，叫作 Kernel, User 和 GDI。&lt;br /&gt;
+- Kerel (由 KERNEL32.DLL 实现): 操作系统核心功能服务，包括进程与线程控制、内存管理、文件访问等。&lt;br /&gt;
+- User (由 USER32.DL. 实现): 负责处理用户接口，包括键盘和鼠标输入、窗口和菜单管理等。&lt;br /&gt;
+- GDI (由 GD132.DLL 实现): 图形设备接口，允许程序在屏幕和打印机上显示文本和图形。&lt;/p&gt;
+&lt;p&gt;除了上述模块，Windows 提供了其他 DLL 以支持更多的功能，包括对象安全性、注册表操作 (ADVAPI32. DLL)、通用控件 (COMCTL.32.DL)、公共对话框 (COMDLG32. DLL )、用户界面外壳 SHELL32.DLL) 和网络 (NETAPI32. DLL)。&lt;/p&gt;
+&lt;p&gt;虽然 Win API 是一个基于 C 语言的接口，但是 Win API 中的函数可以由用不同语言编写的程序调用，因此，我们只要在调用时遵循调用的规范即可。&lt;/p&gt;
+&lt;p&gt;Unicode 影响着计算机工业的每个部分，对操作系统和编程语言的影响最大。 NT 系统是使用 Unicode 标准字符集重新开发的，其系统核心完全是用 Unicode 函数工作的。 如果希望调用一个 Windows 函数并向它传递一个 ANSI 字符串，系统会先将 ANSI 字符串转换成 Unicode 字符串，再将 Unicode 字符串传递给操作系统。 相反，如果希望函数返回 ANSI 字符串，系统会先将 Unicode 字符串转换成 ANSI 字符串，然后将结果返回应用程序。 也就是说，在 NT 架构下，Win32 API 能接受 Unicode 和 ASCI 两种字符集，而其内核只能使用 Unicode 字符集。 尽管这些操作对用户来说都是透明的，但字符串的转换需要占用系统资源。&lt;/p&gt;
+&lt;p&gt;在 Win32 API 函数字符集中，&amp;quot;A&amp;quot; 表示 ANSI, &amp;quot;W&amp;quot; 表示 Widechars (即 Unicode), 前者就是通常使用的单字节方式；后者是宽字节方式，以便处理双字节字符。 每个以字符串为参数的 Win32 函数在操作系统中都有这两种方式的版本。 例如，在编程时使用 MessageBox 函数，而在 USER32.DLL 中却没有 32 位 MessageBox 函数的人口。 实际上有两个人口，一个名为 &amp;quot;MessageBoxA&amp;quot; ( ANSI 版), 另一个名为 &amp;quot;MessageBoxW&amp;quot; (宽字符版)。 幸运的是，程序员通常不必关心这个问题，只需要在编程时使用 MessageBox 函数，开发工具的编译模块就会根据设置来决定是采用 MessageBoxA 还是 MessageBoxW。&lt;/p&gt;
+&lt;p&gt;这里以 MessageBox 函数为例讨论一下。 此函数用于在 USER32.DLL 用户模块中创建和显示信息框，函数原型如下。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;MessageBox&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;HWND hWnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 父窗口句柄 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LPCTSTR IpText&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;    &lt;span class=&#34;token comment&#34;&gt;// 消息框文本地址 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LPCTSTR IpCaption&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 消息框标题地址 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;UINT uType          &lt;span class=&#34;token comment&#34;&gt;// 消息框样式&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;看一看 Windows 2000 里 MessageBoxA 函数的内部结构，具体如下。&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;MessageBoxA&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;MessageBoxExA &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 调用 MessageBoxExA 函数 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;MBTо&lt;span class=&#34;token function&#34;&gt;WCSEx&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 将 MessageBoxA 消息框的主体文字转换成 Unicode 字符串 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;MBToWCSEx&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;       &lt;span class=&#34;token comment&#34;&gt;// 将 MessageBoxA 消息框标题栏上的文字转换成 Unicode 字符串 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;MessageBoxExW&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 调用 MessageBoxExw 函数 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;HeapFree&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 释放内存&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这个结果表明，MessageBoxExA 函数其实是一个替换翻译层，用于分配内存，并将 ANSI 字符串转换成 Unicode 字符串，系统最终调用 Unicode 版的 MessageBoxExW 函数执行。 当 Message BoxW 函数返回时，它便释放内存缓存。 在这个过程中，系统必须执行这些额外的转换操作，因此，ANSI 版的应用程序需要更多的内存及更多的 CPU 资源，而 Unicode 版的程序在 NT 架构下的执行效率高了很多。&lt;/p&gt;
+&lt;p&gt;Win32 程序大量调用系统提供的 API 函数，而 Win32 平台上的调试器 (例如 ollybg 等) 恰好有针对 API 函数设置断点的强大功能，因此，掌握常见 API 函数的用法会给程序的跟踪调试带来极大的方便 (详细的 Win32 API 参考文档可以从 MSDN 网站获得), 建议读者掌握一定的 Win32 编程知识 (可参考《Windows 程序设计》一书), 这对合理选择 API 函数有很大的帮助。&lt;/p&gt;
+&lt;h2 id=&#34;wow64&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#wow64&#34;&gt;#&lt;/a&gt; WOW64&lt;/h2&gt;
+&lt;p&gt;wow64 (Windows-on-Windows 64-bit) 是 64 位 Windows 操作系统的子系统，可以使大多数 32 位应用程序在不进行修改的情况下运行在 64 位操作系统上。&lt;/p&gt;
+&lt;p&gt;64 位的 Windows, 除了带有 64 位操作系统应有的系统文件，还带有 32 位操作系统应有的系统文件。Windows 的 64 位系统文件都放在一个叫作 &amp;quot;System32&amp;quot; 的文件夹中，\Windows\System32 文件夹中包含原生的 64 位映像文件。为了兼容 32 位操作系统，还增加了 \Windows\SysWOW64 文件夹，其中存储了 32 位的系统文件。&lt;/p&gt;
+&lt;p&gt;64 位应用程序会加载 System32 目录下 64 位的 kernel32.dll, user32.dll 和 ntdll.dll。当 32 位应用程序加载时，wow64 建立 32 位 ntdl.da 所要求的启动环境，将 CPU 模式切换至 32 位，并开始执行 32 位加载器，就如同该进程运行在原生的 32 位系统上一样。wow64 会对 32 位 ntdll.dl 的调用重定向 ntdll.dl (64 位), 而不是发出原生的 32 位系统调用指令。wow64 转换到原生的 64 位模式，捕获与系统调用有关的参数，发出对应的原生 64 位系统调用。当原生的系统调用返回时，wow64 在返回 32 位模式之前将所有输出参数从 64 位转换成 32 位。&lt;/p&gt;
+&lt;p&gt;wow64 既不支持 16 位应用程序的执行 (32 位 Windows 支持 16 位应用程序的执行), 也不支持加载 32 位内核模式的设备驱动程序。wow64 进程只能加载 32 位的 DLL, 不能加载原生的 64 位 DLL。类似的，原生的 64 位进程不能加载 32 位的 DLL。&lt;/p&gt;
+&lt;h2 id=&#34;windows消息机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows消息机制&#34;&gt;#&lt;/a&gt; Windows 消息机制&lt;/h2&gt;
+&lt;p&gt;Windows 是一个消息 (Message) 驱动式系统。Windows 消息提供在应用程序与应用程序之间、应用程序与 Windows 系统之间进行通信的手段。应用程序想要实现的功能由消息触发，通过对消息的响应和处理完成。&lt;br /&gt;
+Windows 系统中有两种消息队列：一种是系统消息队列；另一种是应用程序消息队列。计算机的所有输入设备由 Windows 监控。当一个事件发生时，Windows 先将输入的消息放入系统消息队列，再将输入的消息复制到相应的应用程序队列中，应用程序中的消息循环在它的消息队列中检索每个消息并发送给相应的窗口函数。一个事件从发生到到达处理它的窗口函数必须经历上述过程。值得注意的是消息的非抢先性，即不论事件的急与缓，总是按到达的先后排队 (一些系统消息除外), 而这可能导致一些外部实时事件得不到及时的处理。&lt;/p&gt;
+&lt;p&gt;因为 Windows 本身是由消息驱动的，所以在调试程序时跟踪一个消息会得到相当底层的答案。&lt;/p&gt;
+&lt;p&gt;下面将常用的 Windows 消息函数列出，以供参考。&lt;br /&gt;
+(1) SendMessage 函数调用一个窗口的窗口函数，将一条消息发给那个窗口。除非消息处理完毕，否则该函数不会返回。该函数示例如下。&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LRESULT &lt;span class=&#34;token function&#34;&gt;SendMessage&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;HWND hWnd&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;         &lt;span class=&#34;token comment&#34;&gt;// 目的窗口的句柄 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;UINT Msg&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;           &lt;span class=&#34;token comment&#34;&gt;// 消息标识符 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WPARAM wParam&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 消息的 WPARAM 域 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LPARAM &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;Param &lt;span class=&#34;token comment&#34;&gt;// 消息的 LPARAM 域&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;返回值：由具体的消息决定。如果消息投递成功，则返回 &amp;quot;TRUE&amp;quot; (非零)。&lt;/p&gt;
+&lt;p&gt;(2) WM-COMMAND 消息当用户从菜单或按钮中选择一条命令或者一个控件时该消息被发送给它的父窗口，或者当一个快捷键被释放时发送，示例如下。Visual C++ 的 WINUSER.H 文件定义，WM_COMMAND 消息所对应的十六进制数是 0111h。&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WM_COMMAND &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    wNotifyCode &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;HIWORD&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;WParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 通告代码 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    wID &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;LOWORD&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;wParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 菜单条目、控件或快捷键的标识符 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    hwndctl &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;HWND&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; IParam&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 按件句柄&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;返回值：如果应用程序处理这条消息，则返回值为零。&lt;/p&gt;
+&lt;p&gt;(3) WM_DESTROY 消息当一个窗口被销毁时发送该消息。该消息的十六进制数是 02h, 没有参数。&lt;/p&gt;
+&lt;p&gt;返回值：如果应用程序处理这条消息，则返回值为零。&lt;/p&gt;
+&lt;p&gt;(4) WM-GETTEXT 消息应用程序发送一条 WM_GETTEXT 消息，将一个对应窗口的文本复制到一个由呼叫程序提供的缓冲区中，示例如下。WM_GETTEXT 消息的十六进制数是 0Dh。&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WM GETTEXT&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    wParam &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;WPARAM&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; cchTextMax&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 需要复制的字符数&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    lParam &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;LPARAM&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; IpszText&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 接收文本的缓冲区地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;返回值：被复制的字符数。&lt;/p&gt;
+&lt;p&gt;(5) wMLQUTT 消息当应用程序调用 PostQuitMessage 函数时，生成 WM-QUIT 消息，示例如下。WM_QUTT 消息的十六进制数是 012h&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WM QUIT&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nExitCode &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; wParam&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 退出代码&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;返回值：这条消息没有返回值。&lt;/p&gt;
+&lt;p&gt;(6) WM_LBUTTONDOWN 消息当光标停在一个窗口的客户区且用户按下鼠标左键时，wMLBUTTONDOWN 消息将被发送，示例如下。如果鼠标动作未被捕获，这条消息将被发送给光标下的窗口；否则，将被发送给已经捕获鼠标动作的窗口。WM_LBUTTONDOWN 消息的十六进制数是 0201h。&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WM LBUTTONDOWN &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;fwKeys &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; wParam&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                &lt;span class=&#34;token comment&#34;&gt;//key 旗标 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;xPos &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;LOWORD&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;IParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 光标的水平位置 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yPos &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;HIWORD&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;IParam&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;// 光标的垂直位置&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;虚拟内存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#虚拟内存&#34;&gt;#&lt;/a&gt; 虚拟内存&lt;/h2&gt;
+&lt;p&gt;在默认情况下，32 位 Windows 操作系统的地址空间在 4GB 以内。Win32 的平坦内存模式使每个进程都拥有自己的虚拟空间。对 32 位进程来说，这个地址空间是 4CB, 因为 32 位指针拥有 00000000h~FFFFFFFFh 任何值。此时，程序的代码和数据都放在同一地址空间中，不必区分代码段和数据段。&lt;/p&gt;
+&lt;p&gt;虚拟内存 (Virtual Memory) 不是真正的内存，它通过映射 (Map) 的方法使可用虚拟地址 ( VirtualAddress ) 达到 4GB, 每个应用程序可以获得 2GB 的虚拟地址，剩下的 2GB 留给操作系统自用。在 Windows NT 中，应用程序甚至可以获得 3GB 的虚拟地址。&lt;/p&gt;
+&lt;p&gt;Windows 是一个分时的多任务操作系统，CPU 时间在被分成一个个时间片后分配给不同的程序。在一个时间片里，与这个程序的执行无关的内容不会映射到线性地址中。因此，每个程序都有自己的 4GB 寻址空间，互不干扰。在物理内存中，操作系统和系统 DLL. 代码需要供每个应用程序调用，所以它们在任意时刻必须被映射。用户的 EXE 程序只在自己所属的时间片内被映射，用户 DLL 则有选择地被映射。&lt;/p&gt;
+&lt;p&gt;简单地说，虚拟内存的实现方法和过程如下。&lt;/p&gt;
+&lt;p&gt;①当一个应用程序启动时，操作系统就创建一个进程，并给该进程分配 2CB 的虚拟地址 (不是内存，只是地址)。&lt;/p&gt;
+&lt;p&gt;②虚拟内存管理器将应用程序的代码映射到那个应用程序的虚拟地址中的某个位置，并把当前需要的代码读入物理地址 (注意：虚拟地址与应用程序代码在物理内存中的位置是没有关系的)。&lt;/p&gt;
+&lt;p&gt;③如果使用 DLL, DLL 也会被映射到进程的虚拟地址空间中，在需要的时候才会被读入物理内存。&lt;/p&gt;
+&lt;p&gt;④其他项目 (数据、堆栈等) 的空间是从物理内存中分配的，并被映射到虚拟地址空间中。&lt;/p&gt;
+&lt;p&gt;⑤应用程序通过使用其虚拟地址空间中的地址开始执行。然后，虚拟内存管理器把每次内存访问映射到物理位置。&lt;/p&gt;
+&lt;p&gt;看不明白上面的步骤也不要紧，但要明白以下几点。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;应用程序不会直接访问物理地址。&lt;/li&gt;
+&lt;li&gt;虚拟内存管理器通过虚拟地址的访问请求来控制所有的物理地址访问。&lt;/li&gt;
+&lt;li&gt;每个应用程序都有独立的 4GB 寻址空间，不同应用程序的地址空间是彼此隔离的。&lt;/li&gt;
+&lt;li&gt;DLL 程序没有 “私有” 空间，它们总是被映射到其他应用程序的地址空间中，作为其他应用程序的一部分运行。其原因是：如果 DLL 不与其他程序处于同一个地址空间，应用程序就无法调用它。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;使用虚拟内存的好处是：简化了内存的管理，弥补了物理内存的不足，可以防止多任务环境下应用程序之间的冲突。&lt;br /&gt;
+64 位 Windows 操作系统提供了 16TB 的有效寻址空间，其中的一半可用于用户模式的应用程序。&lt;/p&gt;
+&lt;h1 id=&#34;反思&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#反思&#34;&gt;#&lt;/a&gt; 反思&lt;/h1&gt;
+&lt;p&gt;不会的太多了，明天开始还是接着看视频吧。初学者不知道重点在哪。脑壳痛，giao!&lt;/p&gt;
+</content>
+        <category term="win32api" />
+        <category term="WOW64" />
+        <category term="windows消息机制" />
+        <category term="虚拟内存" />
+        <updated>2021-01-20T04:24:48.000Z</updated>
+    </entry>
+</feed>

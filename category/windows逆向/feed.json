@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"windows逆向\" category",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Windows%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/",
+            "url": "https://or0kit.github.io/Bin/Windows%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/",
+            "title": "Windows逆向工程入门指南",
+            "date_published": "2021-06-18T23:52:01.000Z",
+            "content_html": "<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMUdKNDExWTd1YQ==\">https://www.bilibili.com/video/BV1GJ411Y7ua</span></p>\n<h1 id=\"windows逆向工程入门指南\"><a class=\"anchor\" href=\"#windows逆向工程入门指南\">#</a> Windows 逆向工程入门指南</h1>\n<p>对小白指了条路。</p>\n<h2 id=\"思维导图截图\"><a class=\"anchor\" href=\"#思维导图截图\">#</a> 思维导图截图</h2>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image003.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image004.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image005.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image006.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image007.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image008.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image009.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image010.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image011.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image012.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image013.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image014.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image015.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image016.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image017.png\" alt=\"\" /></p>\n<hr />\n<p><img data-src=\"image018.png\" alt=\"\" /></p>\n<hr />\n<h2 id=\"推荐书籍\"><a class=\"anchor\" href=\"#推荐书籍\">#</a> 推荐书籍</h2>\n<p>Windows 程序设计<br />\n Windows 核心编程<br />\n MFC 程序设计</p>\n<p>算法导论</p>\n<p>Windows 环境下 32 位汇编语言程序设计</p>\n<p>《x86_x64 体系探索及编程》</p>\n<p>taocp 计算机程序设计艺术</p>\n<p>算法竞赛</p>\n<p>大话数据结构</p>\n<p>PE 权威指南</p>\n<p>逆向工程权威指南  【内容杂，不适合入门】</p>\n<p>软件调试 【张银奎】</p>\n<p>Windows 高级调试</p>\n<p>深入浅出密码学</p>\n<p>0day 安全：软件漏洞分析技术    【学习 shellcode 的编写】</p>\n<p>灰帽黑客【学习 shellcode 编写】</p>\n<p>恶意代码分析【学习反调试和反虚拟机技术】</p>\n<p>加密与解密第四版【学习加壳、脱壳技术】</p>\n<p>恶意代码分析【病毒分析、恶意代码入门】</p>\n<p>0day 安全：软件漏洞分析技术【学习漏洞相关技术】</p>\n<p>漏洞战争</p>\n<p>模糊测试 强制发掘安全漏洞的利器</p>\n<p>Windows 内核原理与实现【看完 Windows 内核安全与驱动开发，缺一些理论，需要看这本书】<br />\n深入理解 Windows 操作系统【也是理论。原版最好，中文翻译有些问题】</p>\n<p>搞挂<br />\n 1.Windows 内核安全与驱动开发【安全开发对抗】<br />\n2.Windows 内核原理与实现【着急做挂的话，这本可以不看】<br />\n3.Windows 内核设计思想【搞挂的要看这本书】</p>\n<p>虫术 【Python 爬虫】</p>\n<h2 id=\"一些靠谱的招聘网站\"><a class=\"anchor\" href=\"#一些靠谱的招聘网站\">#</a> 一些靠谱的招聘网站</h2>\n<p>看雪论坛<br />\n吾爱破解<br />\n FreeBuf<br />\nBoss 直聘<br />\n智联招聘<br />\n Tools<br />\n 安全圈 info</p>\n",
+            "tags": [
+                "Windows逆向"
+            ]
+        }
+    ]
+}

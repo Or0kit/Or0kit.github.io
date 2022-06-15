@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;缺页异常&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2022-04-16T07:17:03.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/Core/WindowsXp/MemoryManagement/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-05%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E7%BC%BA%E9%A1%B5%E5%BC%82%E5%B8%B8/</id>
+        <title>内存管理-05无处不在的缺页异常</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/Core/WindowsXp/MemoryManagement/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-05%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E7%BC%BA%E9%A1%B5%E5%BC%82%E5%B8%B8/"/>
+        <content type="html">&lt;h1 id=&#34;缺页异常的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缺页异常的由来&#34;&gt;#&lt;/a&gt; 缺页异常的由来&lt;/h1&gt;
+&lt;p&gt;先来复习一下 PTE：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;P 位  代表当前页面是否有效。&lt;/p&gt;
+&lt;p&gt;当 CPU 访问一个地址，其 PTE 的 P 位为 0，此时会产生缺页异常；&lt;/p&gt;
+&lt;p&gt;在 windows 中，缺页异常是时刻在发生的。&lt;/p&gt;
+&lt;p&gt;Windows 利用缺页异常机制让我们更加有效的访问内存。&lt;/p&gt;
+&lt;p&gt;海哥原话：当我们的物理内存大小只有 2MB 时，当我们需要用到某个物理页的时候，将对应物理页的 P 位置 1，当我们不再需要使用该物理页时，再将其 P 位置 0，这样的内存使用效率是非常低的。&lt;/p&gt;
+&lt;p&gt;因此 windows 不是这样设计的 —— 只有正在使用的线性地址，才会被挂上物理页，当物理页在一段时间内不被使用或不够用的情况下，操作系统会将当前物理页中的数据拷贝至硬盘中，然后将当前物理页供给 “别人” 使用，当需要再次用到该物理页的数据时，则将 “别人” 的数据再拷贝出来，将 “自己 &amp;quot; 的数据从硬盘中拷回，被拷至硬盘中的物理页数据会被写入到一个文件中，也就是我们平时常说的&lt;strong&gt;虚拟内存&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;也就是 C 盘中的  &lt;code&gt;pagefile.sys&lt;/code&gt;  文件。&lt;/p&gt;
+&lt;p&gt;当物理页占用情况较为紧张时，这个文件用于存放物理页的临时数据作为备份。&lt;/p&gt;
+&lt;h1 id=&#34;virtualalloc-函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#virtualalloc-函数&#34;&gt;#&lt;/a&gt; VirtualAlloc 函数&lt;/h1&gt;
+&lt;p&gt;保留与提交的误区&lt;/p&gt;
+&lt;p&gt;还是这个函数，前面我们已经验证过了。&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LPVOID VirtualAlloc&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	LPVOID lpAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; 	&lt;span class=&#34;token comment&#34;&gt;// 要分配的内存区域的地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	DWORD dwSize&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; 		&lt;span class=&#34;token comment&#34;&gt;// 分配的大小&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	DWORD flAllocationType&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; 	&lt;span class=&#34;token comment&#34;&gt;// 类型：MEM_RESERVE MEM_COMMIT&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	DWORD flProtect 	&lt;span class=&#34;token comment&#34;&gt;// 该内存的初始保护属性&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;MEM_RESERVE：保留线性地址&lt;/p&gt;
+&lt;p&gt;MEM_COMMIT：可以有物理页，但不是立即有或者一直有&lt;/p&gt;
+&lt;h1 id=&#34;无处不在的缺页&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无处不在的缺页&#34;&gt;#&lt;/a&gt; 无处不在的缺页&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;当物理页被放入页面文件时，PTE 结构如图 a 所示&lt;/li&gt;
+&lt;li&gt;当该进程再次读取该物理页对应的线性地址时，由于 P 位为 0，因此会触发缺页异常处理程序&lt;/li&gt;
+&lt;li&gt;在 windows xp 中，缺页异常处理程序位于 IDT [0xE]&lt;/li&gt;
+&lt;li&gt;此时，缺页异常处理程序会再次查询当前 PTE 的属性，若 1-4 位，5-9 位，12-31 位都有值，说明当前 PTE 是有效的，但是物理页被存放到了页面文件中&lt;/li&gt;
+&lt;li&gt;然后，缺页异常处理程序根据 PTE 中得到的值去查询 pagefile.sys，将原来的物理页的内容挂入新的物理页，然后将 P 位置 1，再将新的物理页的物理地址挂入 PTE 的第 12-31 位&lt;/li&gt;
+&lt;li&gt;在用户看来，两次读取同一个线性地址，中间这一系列复杂过程是透明的，而只能观察到两次都成功读取了同一个值&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;execute_writecopy写拷贝&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#execute_writecopy写拷贝&#34;&gt;#&lt;/a&gt; EXECUTE_WRITECOPY（写拷贝）&lt;/h1&gt;
+&lt;p&gt;描述：当程序正常加载一个 EXE 或者 DLL 时，其 VadRoot 中的内存属性为 Mapped EXE，权限为 EXECUTE_WRITECOPY，当试图对其某一内容进行修改时，无法对其它进程中的同一个模块产生影响&lt;/p&gt;
+&lt;p&gt;原理：&lt;/p&gt;
+&lt;p&gt;当试图对其某一内容进行修改时，系统会检查其线性地址对应的物理页的 PTE 属性，若 R/W 属性为 0 时，触发缺页异常&lt;br /&gt;
+缺页异常处理程序检查 VadRoot 中对应线性地址所在空间的 MMVAD_FLAGS 中的 Protection 成员，若值位 0x111 时，表示权限为 EXECUTE_WRITECOPY&lt;br /&gt;
+ 此时，缺页异常处理程序将当前线性地址对应的物理页内容进行拷贝，将其写入一个新的物理页，然后将当前进程需要修改的线性地址挂入新的物理页上，然后对需要修改的内容进行写入&lt;/p&gt;
+&lt;p&gt;解决方法：可通过编写驱动程序先将需要修改的线性地址对应的物理页的 PTE 的 R/W 位置为 1，再对需要修改的地方进行修改。&lt;/p&gt;
+&lt;p&gt;以前写过过写拷贝全局监控函数的。&lt;/p&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTg4NDQ4L2FydGljbGUvZGV0YWlscy8xMTI2NDczODg=&#34;&gt;https://blog.csdn.net/qq_41988448/article/details/112647388&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="缺页异常" />
+        <updated>2022-04-16T07:17:03.000Z</updated>
+    </entry>
+</feed>

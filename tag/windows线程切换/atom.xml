@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;windows线程切换&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2022-01-21T07:33:33.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/Core/WindowsXp/Process-Thread/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B-Windows%E7%BA%BF%E7%A8%8B%E5%88%87%E6%8D%A2/</id>
+        <title>进程与线程-Windows线程切换</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/Core/WindowsXp/Process-Thread/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B-Windows%E7%BA%BF%E7%A8%8B%E5%88%87%E6%8D%A2/"/>
+        <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;线程切换是操作系统的核心内容，几乎所有的内核 API 都会调用切换线程的函数。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们要解决以下这些问题，带着问题去学习。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;SwapContext 有几个参数，分别是什么？&lt;/li&gt;
+&lt;li&gt;SwapContext 在哪里实现了线程切换&lt;/li&gt;
+&lt;li&gt;线程切换的时候，会切换 CR3 吗？切换 CR3 的条件是什么？&lt;/li&gt;
+&lt;li&gt;中断门提权时，CPU 会从 TSS 得到 ESP0 和 SS0，TSS 中存储的一定是当前线程的 ESP0 和 SS0 吗？如何做到的？&lt;/li&gt;
+&lt;li&gt;FS:[0] 在 3 环指向 TEB，但是线程有很多，FS:[0] 指向的是哪个线程的 TEB，如何做到的？&lt;/li&gt;
+&lt;li&gt;0 环的 ExceptionList 在哪里备份的？&lt;/li&gt;
+&lt;li&gt;IdleThread 是什么？什么时候执行？找到这个函数.&lt;/li&gt;
+&lt;li&gt;如何找到下一个就绪线程？&lt;/li&gt;
+&lt;li&gt;模拟线程切换与 Windows 线程切换有哪些区别？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;windows线程切换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows线程切换&#34;&gt;#&lt;/a&gt; Windows 线程切换&lt;/h1&gt;
+&lt;h2 id=&#34;主动切换切换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主动切换切换&#34;&gt;#&lt;/a&gt; 主动切换切换&lt;/h2&gt;
+&lt;p&gt;在上一篇模模拟 Windows 线程切换 (ThreadSwitch) 中，有一个重要的函数： &lt;code&gt;SwitchContext&lt;/code&gt;  只有调用这个函数，就会导致线程切换。&lt;br /&gt;
+Windows 也有类似的函数： &lt;code&gt;KiSwapContext&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;kiswapcontext函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#kiswapcontext函数&#34;&gt;#&lt;/a&gt; KiSwapContext 函数&lt;/h3&gt;
+&lt;p&gt;此函数在内核文件  &lt;code&gt;ntkrnlpa.exe&lt;/code&gt; / &lt;code&gt;ntoskrnl.exe&lt;/code&gt;  中。&lt;/p&gt;
+&lt;p&gt;在 IDA 中查看其反汇编：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C ; __fastcall KiSwapContext (x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C @KiSwapContext@4 proc near              ; CODE XREF: KiSwapThread ()+85↑p&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C var_10          &amp;#x3D; dword ptr -10h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C var_C           &amp;#x3D; dword ptr -0Ch&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C var_8           &amp;#x3D; dword ptr -8&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C var_4           &amp;#x3D; dword ptr -4&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C                 sub     esp, 10h        ; 使用 fastcall 调用方式。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9C                                         ; 寄存器传参，因此要将使用到的寄存器保存在堆栈中。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EA9F                 mov     [esp+0Ch], ebx  ; 入栈&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAA3                 mov     [esp+8], esi&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAA7                 mov     [esp+4], edi&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAAB                 mov     [esp], ebp&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAAE                 mov     ebx, large fs:1Ch ; _KPCR.SelfPcr&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAB5                 mov     esi, ecx        ; ecx: 新线程的_ETHREAD&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAB7                 mov     edi, [ebx+124h] ; 取当前正在运行的线程的结构体&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EABD                 mov     [ebx+124h], esi ; 修改 KPCR，换成新线程的 ETHREAD 结构体&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAC3                 mov     cl, [edi+58h]   ; _ETHREAD.Tcb.WaitIrql&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAC6                 call    SwapContext&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EACB                 mov     ebp, [esp]      ; 恢复新线程各种寄存器&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EACE                 mov     edi, [esp+4]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAD2                 mov     esi, [esp+8]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EAD6                 mov     ebx, [esp+0Ch]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EADA                 add     esp, 10h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EADD                 retn&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EADD @KiSwapContext@4 endp&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这个函数并不是真正的线程切换，只是更改了 KPCR 中的 ETHREAD 结构体。把要旧的结构体换成了新的。&lt;/p&gt;
+&lt;p&gt;关于  &lt;code&gt;SwapContext&lt;/code&gt;  函数，后面在详细对其逆向分析。&lt;/p&gt;
+&lt;h3 id=&#34;查看调用kiswapcontext的函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看调用kiswapcontext的函数&#34;&gt;#&lt;/a&gt; 查看调用 KiSwapContext 的函数&lt;/h3&gt;
+&lt;p&gt;在 IDA 中使用交叉引用：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Direction&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Type&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Address&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Text&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Up&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;p&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;KiSwapThread()+85&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;call    @KiSwapContext@4; KiSwapContext(x)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;发现 KiSwapThread 调用的 KiSwaoContext 。接着查看 KiSwapThread 的交叉引用：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发现有 7 个函数调用了 KiSwapThread 。我们再随便找一个函数，查看其交叉引用：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发现有 270 个函数，这就意味着我们调用了这里面的任何一个函数都会导致线程切换，而这些函数还有上层调用的它们的函数，所以我们可以得出一个结论：&lt;strong&gt;Windows 中绝大部分 API 都调用了 SwapContext 函数&lt;/strong&gt;，也就是说，当前线程只要调用了 API，就会导致线程切换。&lt;/p&gt;
+&lt;h3 id=&#34;swapcontext-函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swapcontext-函数&#34;&gt;#&lt;/a&gt; SwapContext 函数&lt;/h3&gt;
+&lt;p&gt;这个函数目前我还不能完全理解。大部分是偷看海哥视频里的注释。&lt;/p&gt;
+&lt;p&gt;在 IDA 中逆向分析如下：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC0 SwapContext     proc near               ; CODE XREF: KiUnlockDispatcherDatabase (x)+99↑p&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC0                                         ; KiSwapContext (x)+2A↑p ...&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC0 ; FUNCTION CHUNK AT .text:0046ED48 SIZE 00000033 BYTES&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC0                 or      cl, cl&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC2                 mov     es:[esi+_ETHREAD.Tcb.State], 2 ; 1 就绪 2 运行 5 等待&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC7                 pushf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBC8                 lea     ecx, [ebx+540h]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBCE                 call    @KeAcquireQueuedSpinLockAtDpcLevel@4 ; KeAcquireQueuedSpinLockAtDpcLevel (x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBD3                 lea     ecx, [ebx+_KPCR.PrcbData.LockQueue]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBD9                 call    @KeReleaseQueuedSpinLockFromDpcLevel@4 ; KeReleaseQueuedSpinLockFromDpcLevel (x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBDE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBDE loc_46EBDE:                             ; CODE XREF: KiIdleLoop ()+7C↓j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBDE                 mov     ecx, [ebx+_KPCR.NtTib.ExceptionList] ; 保存本线程切换时的内核 SEH 链表&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBE0                 cmp     [ebx+_KPCR.PrcbData.DpcRoutineActive], 0 ; 是否有 DPC 有就蓝屏&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBE7                 push    ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBE8                 jnz     loc_46ED71&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBEE                 cmp     ds:_PPerfGlobalGroupMask, 0 ; LOG 用的 Windows 自己调试用的 别的地方没有用&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBF5                 jnz     loc_46ED48&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBFB&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBFB loc_46EBFB:                             ; CODE XREF: SwapContext+190↓j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBFB                                         ; SwapContext+1A1↓j ...&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBFB                 mov     ebp, cr0        ; cr0 控制寄存器可以判断当前环境是实模式还是保护模式，是否开启分页模式，写保护&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EBFE                 mov     edx, ebp&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC00                 cmp     [edi+_ETHREAD.Tcb.NpxState], 0 ; NpxState 与浮点处理器相关，运行浮点用这个，没运行就不用。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC04                 jz      loc_46ED23      ; cr0 寄存器相关的&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC0A&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC0A loc_46EC0A:                             ; CODE XREF: _ScPatchFxe+E↓j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC0A                 mov     cl, [esi+_ETHREAD.Tcb.DebugActive]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC0D                 mov     [ebx+_KPCR.DebugActive], cl ; 新的线程的调试状态，更新到 KPCR 中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC10                 cli                     ; cli 不会被时钟中断了&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC11                 mov     [edi+_ETHREAD.Tcb.KernelStack], esp ; 把当前的 esp 存储到旧线程的 ETHREAD 中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC14                 mov     eax, [esi+_ETHREAD.Tcb.InitialStack] ; 新线程的栈底&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC17                 mov     ecx, [esi+_ETHREAD.Tcb.StackLimit]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC1A                 sub     eax, 210h       ; 减去 210H 就是将上面保存的浮点寄存器去掉 现在是真正的栈底了&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC1F                 mov     [ebx+_KPCR.NtTib.StackLimit], ecx ; 更新 KPCR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC22                 mov     [ebx+_KPCR.NtTib.StackBase], eax ; 更新 KPCR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC25                 xor     ecx, ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC27                 mov     cl, [esi+_ETHREAD.Tcb.NpxState] ; 判断 NpxState 有没有浮点支持。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC27                                         ; 如果上一个线程和要替换的线程对浮点支持是一样的那就不用换 CR0，不一样就要换。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC2A                 and     edx, 0FFFFFFF1h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC2D                 or      ecx, edx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC2F                 or      ecx, [eax+20Ch]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC35                 cmp     ebp, ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC37                 jnz     loc_46ED1B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC3D                 lea     ecx, [ecx+0]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40 loc_46EC40:                             ; CODE XREF: SwapContext+15E↓j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                 test    dword ptr [eax-1Ch], 20000h ; 检查是否是虚拟 8086 模式，&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; 如果不是的话 eax-10h 也就是减掉_KTRAP_FRAME 中的&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; +0x07c V86Es            : Uint4B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; +0x080 V86Ds            : Uint4B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; +0x084 V86Fs            : Uint4B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; +0x088 V86Gs            : Uint4B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; 4 个成员。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC40                                         ; 如果是那就不减。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;58&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC47                 jnz     short loc_46EC4C ; 取 TSS（TSS 就是 3 环向 0 环切的时候，去 TSS 取 ESP0 和 SS0 别的没用）&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;59&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC49                 sub     eax, 10h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;60&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC4C&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;61&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC4C loc_46EC4C:                             ; CODE XREF: SwapContext+87↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;62&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC4C                 mov     ecx, [ebx+_KPCR.TSS] ; 取 TSS（TSS 就是 3 环向 0 环切的时候，去 TSS 取 ESP0 和 SS0 别的没用）&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;63&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC4F                 mov     [ecx+_KTSS.Esp0], eax ; 更新 TTS 中的 Esp0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;64&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC52                 mov     esp, [esi+_ETHREAD.Tcb.KernelStack] ; 将新线程的 esp 存到当前的 esp 寄存器中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;65&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC55                 mov     eax, [esi+_ETHREAD.Tcb.Teb] ; 当前线程有很多状态 一份在 ETHREAD 里面 还有一个备份在 FS 中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;66&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC55                                         ; 这样的好处是 在 3 环可以通过 fs 获取当前线程的信息&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;67&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC58                 mov     [ebx+_KPCR.NtTib.Self], eax ; 临时存储新线程的 TEB&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;68&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC5B                 sti                     ; 开启时钟中断&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;69&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC5C                 mov     eax, [edi+_ETHREAD.Tcb.ApcState.Process]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;70&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC5F                 cmp     eax, [esi+_ETHREAD.Tcb.ApcState.Process] ; 查看是否是同一个进程内的线程切换&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;71&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC62                 mov     [edi+_ETHREAD.Tcb.IdleSwapBlock], 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;72&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC66                 jz      short loc_46ECA8 ; 如果是一个进程内的线程切换，则跳转。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;73&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC68                 mov     edi, [esi+_ETHREAD.Tcb.ApcState.Process] ; 如果不是一个进程，取出新线程的进程结构体&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;74&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC6B                 mov     ecx, [ebx+_KPCR.SetMember]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;75&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC6E                 xor     [eax+34h], ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;76&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC71                 xor     [edi+_EPROCESS.Pcb.ActiveProcessors], ecx ; ActiveProcessors 记录了当前进程正在哪些处理器上运行&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;77&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC74                 test    [edi+_EPROCESS.Pcb.LdtDescriptor.LimitLow], 0FFFFh ; 判断 LDT&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;78&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC7A                 jnz     short loc_46ECED&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;79&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC7C                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;80&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC7E&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;81&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC7E loc_46EC7E:                             ; CODE XREF: SwapContext+156↓j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;82&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC7E                 lldt    ax              ; 修改 LDT 寄存器&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;83&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC81                 lea     ecx, [ebx+540h]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;84&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC87                 call    @KeReleaseQueuedSpinLockFromDpcLevel@4 ; KeReleaseQueuedSpinLockFromDpcLevel (x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;85&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC8C                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;86&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC8E                 mov     gs, eax         ; GS 清零&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;87&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC90                 assume gs:nothing&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;88&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC90                 mov     eax, [edi+_EPROCESS.Pcb.DirectoryTableBase] ; 取新线程的 CR3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;89&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC93                 mov     ebp, [ebx+_KPCR.TSS]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;90&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC96                 mov     ecx, dword ptr [edi+_EPROCESS.Pcb.IopmOffset]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;91&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC99                 mov     [ebp+_KTSS.CR3], eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;92&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC9C                 mov     cr3, eax        ; 切换 CR3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;93&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046EC9F                 mov     [ebp+_KTSS.IoMapBase], cx  ; 存储 IO 权限位图到 TSS。当前线程的的 IO 权限位图 Windows 2000 以后不用了。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;94&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECA3                 jmp     short loc_46ECB3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;95&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECA3 ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;96&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECA5                 align 4&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;97&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECA8&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;98&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECA8 loc_46ECA8:                             ; CODE XREF: SwapContext+A6↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;99&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECA8                 lea     ecx, [ebx+540h]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;100&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECAE                 call    @KeReleaseQueuedSpinLockFromDpcLevel@4 ; KeReleaseQueuedSpinLockFromDpcLevel (x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;101&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;102&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB3 loc_46ECB3:                             ; CODE XREF: SwapContext+E3↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;103&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB3                 mov     eax, [ebx+_KPCR.NtTib.Self]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;104&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB6                 mov     ecx, [ebx+_KPCR.GDT] ;  假设 GDT 表在 0x8003f000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;105&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB6                                         ; ecx &amp;#x3D; 0x8003f000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;106&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB6                                         ; 3 环 FS &amp;#x3D; 0x3B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;107&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB6                                         ; 所以 FS 在 GDT 表里的地址是 0x8003f03B&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;108&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB6                                         ; 下面的操作是修改 FS 的段描述符，这样 3 环 FS 就能找到 TEB 了&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;109&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECB9                 mov     [ecx+3Ah], ax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;110&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECBD                 shr     eax, 10h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;111&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECC0                 mov     [ecx+3Ch], al&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;112&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECC3                 mov     [ecx+3Fh], ah&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;113&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECC6                 inc     [esi+_ETHREAD.Tcb.ContextSwitches]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;114&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECC9                 inc     [ebx+_KPCR.PrcbData.KeContextSwitches]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;115&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECCF                 pop     ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;116&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD0                 mov     [ebx], ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;117&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD2                 cmp     byte ptr [esi+49h], 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;118&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD6                 jnz     short loc_46ECDC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;119&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD8                 popf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;120&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD9                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;121&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECDB                 retn&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;结合以下的两张图可以的更好理解 &lt;code&gt;SwapContext&lt;/code&gt;  函数，关于这两张图，后面会详细说明。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;   &lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Windows 中绝大部分 API 都调用了 SwapContext 函数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;也就是说，当线程只要调用了 API，就是导致线程切换。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;线程切换时会比较是否属于同一个进程，如果不是，切换 Cr3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Cr3 换了，进程也就切换了。&lt;/p&gt;
+&lt;p&gt;那么如果不调用 API，就可以一直占用 CPU 吗？&lt;/p&gt;
+&lt;h2 id=&#34;线程被动切换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程被动切换&#34;&gt;#&lt;/a&gt; 线程被动切换&lt;/h2&gt;
+&lt;p&gt;一个线程并不是必须自身调用 API 来实现线程切换，其他可以引起中断。&lt;/p&gt;
+&lt;p&gt;两类：①异常 / 中断；②时钟中断。&lt;/p&gt;
+&lt;h3 id=&#34;时钟中断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时钟中断&#34;&gt;#&lt;/a&gt; 时钟中断&lt;/h3&gt;
+&lt;p&gt;时钟中断走 0x30 号中断，系统每过 20ms 触发一次时钟中断来 (可能) 切换线程。&lt;/p&gt;
+&lt;p&gt;如要获取当前的时钟间隔值，可使用 Win32 API： &lt;code&gt;GetSystemTimeAdjustment&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;时钟中断的执行流程如下：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;总结-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结-2&#34;&gt;#&lt;/a&gt; 总结&lt;/h4&gt;
+&lt;p&gt;线程切换的几种情况：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主动调用 API 函数&lt;/li&gt;
+&lt;li&gt;时钟中断&lt;/li&gt;
+&lt;li&gt;异常处理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果一个线程不调用 API，在代码中屏蔽中断 (CLI 指令), 并且不会出现异常，那么当前线程将永久占有 CPU, 单核占有率 100%，2 核就是 50%。&lt;/p&gt;
+&lt;h3 id=&#34;时间片管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时间片管理&#34;&gt;#&lt;/a&gt; 时间片管理&lt;/h3&gt;
+&lt;p&gt;在上面我们知道时钟中断会导致线程进行切换，但并不是说只要有时钟中断就一定会切换线程，时钟中断时，两种情况会导致线程切换：&lt;/p&gt;
+&lt;p&gt;1、当前的线程 CPU 时间片到期&lt;/p&gt;
+&lt;p&gt;2、有备用线程 (KPCR.PrcbData.NextThread)&lt;/p&gt;
+&lt;h4 id=&#34;关于cpu时间片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于cpu时间片&#34;&gt;#&lt;/a&gt; 关于 CPU 时间片&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;当一个新的线程开始执行时，初始化程序会在 &lt;code&gt;_KTHREAD.Quantum&lt;/code&gt;  赋初始值，该值的大小由 &lt;code&gt;_KPROCESS.ThreadQuantum&lt;/code&gt;  决定&lt;br /&gt;
+ (观察 &lt;code&gt;ThreadQuantum&lt;/code&gt;  大小)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这是属于某个进程的线程的  &lt;code&gt;Quantum&lt;/code&gt;  的值&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这是其进程的  &lt;code&gt;ThreadQuantum&lt;/code&gt;  的值&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;每次时钟中断会调用 &lt;code&gt;KeUpdateRunTime&lt;/code&gt;  函数，该函数每次将当前线程 &lt;code&gt;Quantum&lt;/code&gt;  减少 3 个单位，如果减到 0，则将 &lt;code&gt;KPCR.PrcbData.QuantumEnd&lt;/code&gt;  的值设置为非 0。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在 IDA 中逆向分析  &lt;code&gt;KeUpdateRunTime&lt;/code&gt;  函数：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;KPCR.PrcbData.QuantumEnd&lt;/code&gt;  的值代表着时间片是否用完，没有用完时它的值是 0 ，用完的话就是非 0 了。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;code&gt;KiDispatchInterrupt&lt;/code&gt;  判断时间片到期：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;调用 &lt;code&gt;KiQuantumEnd&lt;/code&gt;  (重新设置时间片、找到要运行的线程)&lt;/p&gt;
+&lt;p&gt;这是时钟中断最后要执行的函数。&lt;/p&gt;
+&lt;p&gt;在 IDA 中逆向分析  &lt;code&gt;KiDispatchInterrupt&lt;/code&gt;  函数：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;KiQuantumEnd&lt;/code&gt;  这个函数做的事情主要就是这个：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image011.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;重新设置时间片：进程中原本是多少，还设置成多少。&lt;br /&gt;
+之后会调用 &lt;code&gt;KiFindReadyThread&lt;/code&gt;  切换线程的状态，然后执行  &lt;code&gt;SwapContext&lt;/code&gt;  切换线程。&lt;/p&gt;
+&lt;p&gt;在 IDA 中看 &lt;code&gt;KiFindReadyThread&lt;/code&gt;  的关键操作：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image012.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;从汇编的角度看双向链表的添加操作……&lt;/p&gt;
+&lt;h4 id=&#34;有备用线程的情况下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有备用线程的情况下&#34;&gt;#&lt;/a&gt; 有备用线程的情况下&lt;/h4&gt;
+&lt;p&gt;分析 &lt;code&gt;KiDispatchInterrupt&lt;/code&gt;  函数我们可以得知另一种情况，当时间片没有耗尽，但存在备用线程时，仍然会切换线程，若没有备用线程就直接返回了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image013.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;线程切换的三种情况总述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程切换的三种情况总述&#34;&gt;#&lt;/a&gt; 线程切换的三种情况总述&lt;/h2&gt;
+&lt;p&gt;1)、当前线程主动调用 API：&lt;/p&gt;
+&lt;p&gt;API 函数 ---&amp;gt;  &lt;code&gt;KiSwapThread&lt;/code&gt;   ---&amp;gt;  &lt;code&gt;KiSwapContext&lt;/code&gt;  ---&amp;gt;  &lt;code&gt;SwapContext&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;(2)、当前线程时间片到期：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;KiDispatchInterrupt&lt;/code&gt;  ---&amp;gt;  &lt;code&gt;KiQuantumEnd&lt;/code&gt;  ---&amp;gt;  &lt;code&gt;KiFindReadyThread&lt;/code&gt;  ---&amp;gt;  &lt;code&gt;SwapContext&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;(3)、有备用线程 (KPCR.PrcbData.NextThread)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;KiDispatchInterrupt&lt;/code&gt;  ---&amp;gt;  &lt;code&gt;KiFindReadyThread&lt;/code&gt;  ---&amp;gt;  &lt;code&gt;SwapContext&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;线程切换与tss&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程切换与tss&#34;&gt;#&lt;/a&gt; 线程切换与 TSS&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;SwapContext&lt;/code&gt;  这个函数是 Windows 线程切换的核心，无论是主动切换还是系统时钟导致的线程切换，最终都会调用这个函数。在这个函数中除了切换堆栈以外，还做了很多其他的事情，了解这些细节对我们学习操作系统至关重要。&lt;/p&gt;
+&lt;p&gt;我们了解一下线程切换与 TSS 的关系。&lt;/p&gt;
+&lt;h3 id=&#34;内核堆栈&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#内核堆栈&#34;&gt;#&lt;/a&gt; 内核堆栈&lt;/h3&gt;
+&lt;p&gt;在_KTHREAD 结构体中有三个成员：&lt;br /&gt;
+ &lt;code&gt;InitialStack&lt;/code&gt;  栈底&lt;br /&gt;
+ &lt;code&gt;KernelStack&lt;/code&gt;  栈顶&lt;br /&gt;
+ &lt;code&gt;StackLimit&lt;/code&gt;  栈的边界&lt;/p&gt;
+&lt;p&gt;由此我们可以大致了解内核堆栈信息：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image014.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;内核堆栈的结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#内核堆栈的结构&#34;&gt;#&lt;/a&gt; 内核堆栈的结构&lt;/h3&gt;
+&lt;p&gt;对于内核堆栈的结构，在通过逆向 &lt;code&gt;SwapContext&lt;/code&gt;  函数时，我们已经发现了一些端倪，如下：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image015.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;也就是说从线程的 &lt;code&gt;InitialStack&lt;/code&gt;  栈底开始往上 0x210 个字节 是存储着浮点寄存器的值，而后紧接着就是 &lt;code&gt;_Trap_Frame&lt;/code&gt;  结构&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;之后又判断了是否处于虚拟 8086 模式，对 0 环栈底做了进一步的处理。附上 &lt;code&gt;_Trap_Frame&lt;/code&gt;  结构图：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;调用api进0环&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#调用api进0环&#34;&gt;#&lt;/a&gt; 调用 API 进 0 环&lt;/h3&gt;
+&lt;p&gt;普通调用：通过 &lt;code&gt;TSS.ESP0&lt;/code&gt;  得到 0 环堆栈。---- 既中断门提权&lt;/p&gt;
+&lt;p&gt;快速调用：从 MSR 得到一个临时 0 环栈，代码执行后仍然&lt;br /&gt;
+通过 TSS.ESP0 得到当前线程 0 环堆栈。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image017.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;如何用tss保存所有线程的esp0&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何用tss保存所有线程的esp0&#34;&gt;#&lt;/a&gt; 如何用 TSS 保存所有线程的 ESP0&lt;/h3&gt;
+&lt;p&gt;Intel 设计 TSS 的目的是为了任务切换 (线程切换), 但 Windows 与 Linux&lt;br /&gt;
+ 并没有使用。而是采用堆栈来保存线程的各种寄存器。&lt;/p&gt;
+&lt;p&gt;一个 CPU 只有一个 TSS, 但是线程很多，如何用一个 TSS 来保存所有&lt;br /&gt;
+线程的 ESP0 呢？&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;SwapContext&lt;/code&gt;  函数中查找与 TTS 相关的代码（这里改了后面肯定是要用的）：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image018.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发现有三个位置与 TSS 有联系，其中第一处就是我们要找的答案，eax 存储的就是处理后的线程的 0 环 ESP。&lt;br /&gt;
+&lt;strong&gt;每一次线程切换都会更新这个值，把对应线程的 0 环堆栈存储在 TTS.Esp0 的位置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第二处是把当前线程所属进程的 CR3 也存储到了 TSS 中。&lt;br /&gt;
+第三处是 IO 权限位图。&lt;/p&gt;
+&lt;h2 id=&#34;线程切换与fs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程切换与fs&#34;&gt;#&lt;/a&gt; 线程切换与 FS&lt;/h2&gt;
+&lt;p&gt;FS:[0] 寄存器在 3 环时指向 TEB, 进入 0 环后 FS:[0] 指向 KPCR。但系统中同时存在很多个线程，这就意味着 FS:[0] 在 3 环时指向的 TEB 要有多个 (每个线程一份)。&lt;/p&gt;
+&lt;p&gt;但在实际的使用中我们发现，当我们在 3 环查看不同线程的 FS 寄存器时，FS 的段选择子都是相同的，那是如何实现通过一个 FS 寄存器指向多个 TEB 呢？&lt;/p&gt;
+&lt;p&gt;我们还是分析 &lt;code&gt;SwapContext&lt;/code&gt;  函数中查找与 FS 相关的代码：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;线程切换的时候每次都在 GDT 表中索引为 0x3B 的地址构建每个线程关于 TEB 的段描述符&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;附上段描述符的结构：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image020.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;线程切换与线程优先级&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程切换与线程优先级&#34;&gt;#&lt;/a&gt; 线程切换与线程优先级&lt;/h2&gt;
+&lt;p&gt;在 &lt;code&gt;KiSwapThread&lt;/code&gt;  与 &lt;code&gt;KiQuantumEnd&lt;/code&gt;  函数中都是通过 &lt;code&gt;KiFindReadyThread&lt;/code&gt;  来找下一个要切换的线程， &lt;code&gt;KiFindReadyThread&lt;/code&gt;  是根据什么条件来选择下一个要执行的线程呢？&lt;/p&gt;
+&lt;h3 id=&#34;调度链表32个&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#调度链表32个&#34;&gt;#&lt;/a&gt; 调度链表（32 个）&lt;/h3&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; dd KiDispatcherReadyListHead&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc20  8055bc20 8055bc20 8055bc28 8055bc28&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc30  8055bc30 8055bc30 8055bc38 8055bc38&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc40  8055bc40 8055bc40 8055bc48 8055bc48&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc50  8055bc50 8055bc50 8055bc58 8055bc58&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc60  8055bc60 8055bc60 8055bc68 8055bc68&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc70  8055bc70 8055bc70 8055bc78 8055bc78&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc80  8055bc80 8055bc80 8055bc88 8055bc88&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055bc90  8055bc90 8055bc90 8055bc98 8055bc98&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;code&gt;KiFindReadyThread&lt;/code&gt;  查找方式：&lt;br /&gt;
+按照优先级别进行查找：31..30..29..28.....&lt;/p&gt;
+&lt;p&gt;也就是说，在&lt;strong&gt;本次查找&lt;/strong&gt;中，如果级别 31 的链表里面有线程，那么就不会查找级别为 30 的链表！&lt;/p&gt;
+&lt;p&gt;根据我学过的计算机操作系统的知识，由于调度算法，每次查找线程的时候，线程的优先级都会动态调整的。&lt;/p&gt;
+&lt;h3 id=&#34;如何高效查找&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何高效查找&#34;&gt;#&lt;/a&gt; 如何高效查找&lt;/h3&gt;
+&lt;p&gt;调度链表有 32 个，每次都从头开始查找效率太低，所以 Windows 使用一个 DWORD 类型变量的变量来记录，利用其 32 个比特位的特性。&lt;br /&gt;
+当向调度链表 (32 个) 中挂入或者摘除某个线程时，会判断当前级别的链表是否为空，为空将 DWORD 变量对应位置 0，否则置 1。&lt;/p&gt;
+&lt;p&gt;如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image021.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这个变量： &lt;code&gt;_kiReadySummary&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;多 cpu 会随机寻找 &lt;code&gt;KiDispatcherReadyListHead&lt;/code&gt;  指向的数组中的线程。线程可以绑定某个 cpu（使用 api： &lt;code&gt;setThreadAffinityMask&lt;/code&gt; ）&lt;/p&gt;
+&lt;p&gt;这里可以逆向分析一下 &lt;code&gt;KiFindReadyThread&lt;/code&gt;  函数。详细见：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vb25ldHJhaW5lZS9wLzEyNzUyMTgzLmh0bWw=&#34;&gt;https://www.cnblogs.com/onetrainee/p/12752183.html&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;如果没有就绪线程怎么办&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如果没有就绪线程怎么办&#34;&gt;#&lt;/a&gt; 如果没有就绪线程怎么办？&lt;/h3&gt;
+&lt;p&gt;PrcbData：&lt;/p&gt;
+&lt;p&gt;+0x004 CurrentThread    : Ptr32 _KTHREAD&lt;br /&gt;
++0x008 NextThread       : Ptr32 _KTHREAD&lt;br /&gt;
++0x00c IdleThread       : Ptr32 _KTHREAD&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;并且还修改了  &lt;code&gt;_KiIdleSummary&lt;/code&gt;  这个变量。&lt;/p&gt;
+&lt;p&gt;那我们如何找这个空闲线程的函数呢？&lt;/p&gt;
+&lt;p&gt;用 Windbg 下断后，查看当前的  &lt;code&gt;KPRCB&lt;/code&gt;  结构体，找到  &lt;code&gt;IdleThread&lt;/code&gt;  线程的  &lt;code&gt;ETHREAD&lt;/code&gt;  结构体。&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; dt _KPRCB 0xFFDFF120&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nt!_KPRCB&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x000 MinorVersion     : 1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x002 MajorVersion     : 1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x004 CurrentThread    : 0x8055ce60 _KTHREAD&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x008 NextThread       : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x00c IdleThread       : 0x8055ce60 _KTHREAD&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x010 Number           : 0 &amp;#39;&amp;#39;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;查看  &lt;code&gt;IdleThread&lt;/code&gt;  线程的  &lt;code&gt;ETHREAD&lt;/code&gt;  结构体。&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; dt _ETHREAD 0x8055ce60 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nt!_ETHREAD&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x000 Tcb              : _KTHREAD&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1c0 CreateTime       : _LARGE_INTEGER 0x0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1c0 NestedFaultCount : 0y00&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1c0 ApcNeeded        : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1c8 ExitTime         : _LARGE_INTEGER 0x0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1c8 LpcReplyChain    : _LIST_ENTRY [ 0x0 - 0x0 ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1c8 KeyedWaitChain   : _LIST_ENTRY [ 0x0 - 0x0 ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1d0 ExitStatus       : 0n0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1d0 OfsChain         : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1d4 PostBlockList    : _LIST_ENTRY [ 0x0 - 0x0 ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1dc TerminationPort  : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1dc ReaperLink       : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1dc KeyedWaitValue   : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1e0 ActiveTimerListLock : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1e4 ActiveTimerListHead : _LIST_ENTRY [ 0x0 - 0x0 ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1ec Cid              : _CLIENT_ID&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1f4 LpcReplySemaphore : _KSEMAPHORE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x1f4 KeyedWaitSemaphore : _KSEMAPHORE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x208 LpcReplyMessage  : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x208 LpcWaitingOnPort : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x20c ImpersonationInfo : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x210 IrpList          : _LIST_ENTRY [ 0x0 - 0x0 ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x218 TopLevelIrp      : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x21c DeviceToVerify   : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x220 ThreadsProcess   : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x224 StartAddress     : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x228 Win32StartAddress : (null) &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x228 LpcReceivedMessageId : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x22c ThreadListEntry  : _LIST_ENTRY [ 0x0 - 0x0 ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x234 RundownProtect   : _EX_RUNDOWN_REF&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x238 ThreadLock       : _EX_PUSH_LOCK&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x23c LpcReplyMessageId : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x240 ReadClusterSize  : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x244 GrantedAccess    : 0x1f03ff&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 CrossThreadFlags : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 Terminated       : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 DeadThread       : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 HideFromDebugger : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 ActiveImpersonationInfo : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 SystemThread     : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 HardErrorsAreDisabled : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 BreakOnTermination : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 SkipCreationMsg  : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x248 SkipTerminationMsg : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x24c SameThreadPassiveFlags : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x24c ActiveExWorker   : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x24c ExWorkerCanWaitUser : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x24c MemoryMaker      : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x250 SameThreadApcFlags : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x250 LpcReceivedMsgIdValid : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x250 LpcExitThreadCalled : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x250 AddressSpaceOwner : 0y0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x254 ForwardClusterOnly : 0 &amp;#39;&amp;#39;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x255 DisablePageFaultClustering : 0 &amp;#39;&amp;#39;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x258 KernelStackReference : 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;发现其  &lt;code&gt;+0x224 StartAddress     : (null)&lt;/code&gt;  的值为空。找不到线程开始的地方。&lt;/p&gt;
+&lt;p&gt;这里还是得逆向分析  &lt;code&gt;SwapContext&lt;/code&gt;  函数：&lt;/p&gt;
+&lt;p&gt;切换完 esp 后： &lt;code&gt;  mov     esp, [esi+_ETHREAD.Tcb.KernelStack] ; 将新线程的esp存到当前的esp寄存器中&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;我们观察有几个出栈操作（pop、popf）&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECCF                 pop     ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD0                 mov     [ebx], ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD2                 cmp     byte ptr [esi+49h], 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD6                 jnz     short loc_46ECDC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD8                 popf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECD9                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECDB                 retn&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;loc_46ECDC: &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECDC                 popf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECDD                 jnz     short loc_46ECE2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECDF                 mov     al, 1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;.text:0046ECE1                 retn&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;发现总共执行了两次出栈操作&lt;/strong&gt;，那我们直接去找 IdleThread 线程的 &lt;code&gt;_ETHREAD.Tcb.KernelStack&lt;/code&gt;  的值&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[+0x028] KernelStack      : 0x8055244c [Type: void *]&lt;/code&gt; &lt;br /&gt;
+ 在 windbg 中查看：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; dd 0x8055244c &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8055244c  00000000 ffdff980 80546e6c 00000000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;总共执行了两次出栈操作那么  &lt;code&gt;esp+8&lt;/code&gt;  的位置就是  &lt;code&gt;retn&lt;/code&gt;  返回  &lt;code&gt;eip&lt;/code&gt;  要执行的地方。&lt;/p&gt;
+&lt;p&gt;在本次实验中的值是  &lt;code&gt;80546e6c&lt;/code&gt; ，在 windbg 中查看：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; u 80546e6c &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nt!KiIdleLoop+0x10:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e6c f390            pause&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e6e fb              sti&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e6f 90              nop&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e70 90              nop&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e71 fa              cli&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e72 3b6d00          cmp     ebp,dword ptr [ebp]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e75 740d            je      nt!KiIdleLoop+0x28 (80546e84)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;80546e77 b102            mov     cl,2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;发现执行的是  &lt;code&gt;KiIdleLoop+0x10&lt;/code&gt;  的地方，所以  &lt;code&gt;KiIdleLoop&lt;/code&gt;  就是我们要找的  &lt;code&gt;IdleThread&lt;/code&gt;  线程的函数。&lt;/p&gt;
+&lt;p&gt;可是这里我有个问题，执行了  &lt;code&gt;pop  ecx&lt;/code&gt;  和  &lt;code&gt;popf&lt;/code&gt;  ESP 的值不应该是加 6 吗？为什么去找 ESP 加 8 的位置呢？&lt;/p&gt;
+&lt;h1 id=&#34;总结-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结-3&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;SwapContext 有几个参数，分别是什么？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image023.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;SwapContext 在哪里实现了线程切换&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image024.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;线程切换的时候，会切换 CR3 吗？切换 CR3 的条件是什么？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image025.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里我们能够知道一个小知识：&lt;strong&gt;线程能读写地址，是由 0x44 位置的进程结构体的 CR3 决定的，并不是 0x220 的位置。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;中断门提权时，CPU 会从 TSS 得到 ESP0 和 SS0，TSS 中存储的一定是当前线程的 ESP0 和 SS0 吗？如何做到的？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;上面已经详细解释了。&lt;br /&gt;
+并没有存 SS0 的代码，因为所有线程的 SS0 的值是固定不变的，系统启动时已经填到 TSS 里，不需要在这里改了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image026.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;FS:[0] 在 3 环指向 TEB，但是线程有很多，FS:[0] 指向的是哪个线程的 TEB，如何做到的？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;上面已经详细解释了。&lt;br /&gt;
+&lt;strong&gt;线程切换的时候每次都在 GDT 表中索引为 0x3B 的地址构建每个线程关于 TEB 的段描述符&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;0 环的 ExceptionList 在哪里备份的？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image027.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;IdleThread 是什么？什么时候执行？找到这个函数.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;如何找到这个线程的函数上面也讲了。&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;如何找到下一个就绪线程？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;KiFindReadyThread&lt;/code&gt;  函数&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;模拟线程切换与 Windows 线程切换有哪些区别？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;3 环与 0 环，真正的线程有两个栈，一个是 3 环的一个是 0 环的，模拟线程只有一个栈，还没用到异常链表、ss、TSS。&lt;/p&gt;
+</content>
+        <category term="Windows线程切换" />
+        <category term="KiSwapContext" />
+        <category term="SwapContext" />
+        <category term="时钟中断" />
+        <category term="时间片管理" />
+        <category term="线程切换与TSS" />
+        <category term="线程切换与FS" />
+        <category term="线程切换与线程优先级" />
+        <updated>2022-01-21T07:33:33.000Z</updated>
+    </entry>
+</feed>

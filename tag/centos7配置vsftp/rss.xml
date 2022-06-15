@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;centos7配置vsftp&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 20 Apr 2021 10:41:51 +0800</pubDate>
+        <lastBuildDate>Tue, 20 Apr 2021 10:41:51 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Linux/Linux%E9%85%8D%E7%BD%AEvsftp/</guid>
+            <title>Linux配置vsftp</title>
+            <link>https://or0kit.github.io/Linux/Linux%E9%85%8D%E7%BD%AEvsftp/</link>
+            <category>CentOS7配置vsftp</category>
+            <pubDate>Tue, 20 Apr 2021 10:41:51 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;Linux 网络服务课的作业。虽然简单，但也让我踩了不少坑，记个笔记吧。&lt;br /&gt;
+作业的内容是可以匿名上传或删除文件就可。&lt;/p&gt;
+&lt;h1 id=&#34;正文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正文&#34;&gt;#&lt;/a&gt; 正文&lt;/h1&gt;
+&lt;p&gt;先换个 yum 的源，下载的快一点。&lt;br /&gt;
+ &lt;code&gt;wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;换源前也可以先备份一下。&lt;br /&gt;
+这里的详细内容可以参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d1ZGluYW5peWEvYXJ0aWNsZS9kZXRhaWxzLzEwNTc1ODczOQ==&#34;&gt; https://blog.csdn.net/wudinaniya/article/details/105758739&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载vsftp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载vsftp&#34;&gt;#&lt;/a&gt; 下载 vsftp&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;yum -y install vsftpd&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;查看是否安装成功&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看是否安装成功&#34;&gt;#&lt;/a&gt; 查看是否安装成功&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;rpm -qa|grep vsftpd&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;关闭一切墙策略selinux&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关闭一切墙策略selinux&#34;&gt;#&lt;/a&gt; 关闭一切墙 | 策略 | SELINUX&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;systemctl stop firewalld&lt;/code&gt; &lt;br /&gt;
+ &lt;code&gt;iptables -F&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;关闭 SELINUX，有两种方法：&lt;br /&gt;
+临时关闭：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@localhost ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# getenforce&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Enforcing&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@localhost ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# setenforce 0&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@localhost ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# getenforce&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Permissive&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;永久关闭：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@localhost ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# vim /etc/sysconfig/selinux&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token assign-left variable&#34;&gt;SELINUX&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;enforcing 改为 &lt;span class=&#34;token assign-left variable&#34;&gt;SELINUX&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;disabled&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;重启服务 reboot&lt;/p&gt;
+&lt;h2 id=&#34;修改vsftpdconfig&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改vsftpdconfig&#34;&gt;#&lt;/a&gt; 修改 vsftpd.config&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;修改配置文件 /etc/vsftpd.conf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token assign-left variable&#34;&gt;anonymous_enable&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;YES  &lt;span class=&#34;token comment&#34;&gt;# 允许匿名访问&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token assign-left variable&#34;&gt;write_enable&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;YES  &lt;span class=&#34;token comment&#34;&gt;# 允许写文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token assign-left variable&#34;&gt;anon_upload_enable&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;YES  &lt;span class=&#34;token comment&#34;&gt;# 允许匿名用户上传文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token assign-left variable&#34;&gt;anon_mkdir_write_enable&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;YES  &lt;span class=&#34;token comment&#34;&gt;# 允许匿名用户创建目录和写权限&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token assign-left variable&#34;&gt;anon_other_write_enable&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;YES  &lt;span class=&#34;token comment&#34;&gt;# 允许匿名用户删除、重命名等其它权限  这个在配置文件里默认找不到&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;这里附上详细的vsftpconfig配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#这里附上详细的vsftpconfig配置&#34;&gt;#&lt;/a&gt; 这里附上详细的 vsftp.config 配置&lt;/h2&gt;
+&lt;p&gt;vsftpd 的配置文件在为 vsftpd.conf，一般在 /etc/vsftpd/ 目录下。&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;属性&lt;/th&gt;
+        &lt;th&gt;属性值&lt;/th&gt;
+        &lt;th align=&#34;left&#34;&gt;含义&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;anonymous_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许匿名用户（anonymous）登录 &lt;code&gt;FTP&lt;/code&gt;，如果该设置被注释，则默认允许&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;local_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许本地系统用户登录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;write_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否开启任何形式的 &lt;code&gt;FTP&lt;/code&gt; 写入命令，上传文件&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;local_umask&lt;/td&gt;
+        &lt;td&gt;xxx&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;本地用户的 &lt;code&gt;umask&lt;/code&gt; 设置，如果注释该设置则默认为 &lt;code&gt;077&lt;/code&gt;，但一般都设置成 &lt;code&gt;022&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;anon_upload_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许匿名用户上传文件，如果要设置为允许，则需要先开启 &lt;code&gt;write_enable&lt;/code&gt;，否则无效，此外对应目录还要具有写权限&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;anon_mkdir_write_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许匿名用户创建新目录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;dirmessage_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;当进入某个目录时，发送信息提示给远程用户&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;xferlog_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否开启 上传/下载 的日志记录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;connect_from_port_20&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否使用 &lt;code&gt;20&lt;/code&gt; 端口来连接 &lt;code&gt;FTP&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;chown_uploads&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;匿名上传的文件是否由某一指定用户 &lt;code&gt;chown_username&lt;/code&gt; 所有&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;chown_username&lt;/td&gt;
+        &lt;td&gt;有效用户名&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;匿名上传的文件由该设定用户所有&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;xferlog_file&lt;/td&gt;
+        &lt;td&gt;有效路径&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;设置日志文件的保存位置，默认为 &lt;code&gt;/var/log/xferlog&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;xferlog_std_format&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否使用标准的 &lt;code&gt;ftpd xferlog&lt;/code&gt;日志格式，该格式日志默认保存在 &lt;code&gt;/var/log/xferlog&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;idle_session_timeout&lt;/td&gt;
+        &lt;td&gt;数值&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;设置空闲连接的超时时间，单位 秒&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;data_connection_timeout&lt;/td&gt;
+        &lt;td&gt;数值&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;设置等待数据传输的最大时间，单位 秒（&lt;code&gt;data_connection_timeout&lt;/code&gt; 与 &lt;code&gt;idle_session_timeout&lt;/code&gt;
+            在同一时间只有一个有效）
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;nopriv_user&lt;/td&gt;
+        &lt;td&gt;有效用户名&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;指定一个非特权用户，用于运行 &lt;code&gt;vsftpd&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;async_abor_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否支持异步 &lt;code&gt;ABOR&lt;/code&gt; 请求&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;ascii_upload_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否开启 &lt;code&gt;ASCII&lt;/code&gt; 模式进行文件上传，一般不开启&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;ascii_download_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否开启 &lt;code&gt;ASCII&lt;/code&gt; 模式进行文件下载，一般不开启&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;ftpd_banner&lt;/td&gt;
+        &lt;td&gt;…&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;自定义登录标语&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;deny_email_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;如果匿名登录，则会要求输入 email 地址，如果不希望一些 email 地址具有登录权限，则可以开启此项，并在 &lt;code&gt;banned_email_file&lt;/code&gt;
+            指定的文件中写入对应的 email 地址
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;banned_email_file&lt;/td&gt;
+        &lt;td&gt;有效文件&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;当开启 &lt;code&gt;deny_email_enable&lt;/code&gt; 时，需要通过此项指定一个保存登录无效 email 的文件&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;chroot_local_user&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否将所有用户限制在主目录，当为 &lt;code&gt;NO&lt;/code&gt; 时， &lt;code&gt;FTP&lt;/code&gt; 用户可以切换到其他目录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;chroot_list_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否启用限制用户的名单列表&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;chroot_list_file&lt;/td&gt;
+        &lt;td&gt;有效文件&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;用户列表，其作用与 &lt;code&gt;chroot_local_user&lt;/code&gt; 和 &lt;code&gt;chroot_local_user&lt;/code&gt; 的组合有关，详见下表&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;allow_writeable_chroot&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许用户对 ftp 根目录具有写权限，如果设置成不允许而目录实际上却具备写权限，则会报错&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;ls_recurse_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许 &lt;code&gt;ls -R&lt;/code&gt; 指令来递归查询，递归查询比较耗资源&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;listen&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;如果为 &lt;code&gt;YES&lt;/code&gt;，&lt;code&gt;vsftpd&lt;/code&gt; 将以独立模式运行并监听 &lt;code&gt;IPv4&lt;/code&gt; 的套接字，处理相关连接请求（该指令不能与
+            &lt;code&gt;listen_ipv6&lt;/code&gt; 一起使用）
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;listen_ipv6&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否允许监听 &lt;code&gt;IPv6&lt;/code&gt; 套接字&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;pam_service_name&lt;/td&gt;
+        &lt;td&gt;…&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;设置 &lt;code&gt;PAM&lt;/code&gt; 外挂模块提供的认证服务所使用的配置文件名 ，即 &lt;code&gt;/etc/pam.d/vsftpd&lt;/code&gt; 文件，此文件中 &lt;code&gt;file=/etc/vsftpd/ftpusers&lt;/code&gt;
+            字段，说明了 &lt;code&gt;PAM&lt;/code&gt; 模块能抵挡的帐号内容来自文件 &lt;code&gt;/etc/vsftpd/ftpusers&lt;/code&gt; 中
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;userlist_enable&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否启用 &lt;code&gt;user_list&lt;/code&gt; 文件来控制用户登录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;userlist_deny&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否拒绝 &lt;code&gt;user_list&lt;/code&gt; 中的用户登录，此属性设置需在 &lt;code&gt;userlist_enable = YES&lt;/code&gt; 时才有效&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;tcp_wrappers&lt;/td&gt;
+        &lt;td&gt;&lt;code&gt;YES&lt;/code&gt;/&lt;code&gt;NO&lt;/code&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;是否使用 &lt;code&gt;tcp_wrappers&lt;/code&gt; 作为主机访问控制方式&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;max_clients&lt;/td&gt;
+        &lt;td&gt;数值&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;同一时间允许的最大连接数&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;max_per_ip&lt;/td&gt;
+        &lt;td&gt;数值&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;同一个IP客户端连接的最大值&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;local_root&lt;/td&gt;
+        &lt;td&gt;有效目录&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;系统用户登录后的根目录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;anon_root&lt;/td&gt;
+        &lt;td&gt;有效目录&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;匿名用户登录后的根目录&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;user_config_dir&lt;/td&gt;
+        &lt;td&gt;有效目录&lt;/td&gt;
+        &lt;td align=&#34;left&#34;&gt;用户单独配置文件存放目录，该目录下用户的文件名就是对应用户名&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;以上搞完之后还要把ftp目录的权限给更改&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#以上搞完之后还要把ftp目录的权限给更改&#34;&gt;#&lt;/a&gt; 以上搞完之后还要把 ftp 目录的权限给更改&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;chmod 777 /var/ftp/pub&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这里只能更改 ftp 目录下的子目录的权限。这就是个坑，当更改 /etc/ftp/ 这个目录的权限时，都没法登陆这个 ftp 服务器了。&lt;br /&gt;
+当然是可以更改 ftp 下的目录的，在 vsftpd.config 中配置。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

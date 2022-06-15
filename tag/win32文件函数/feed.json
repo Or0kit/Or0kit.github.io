@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"win32文件函数\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Win32/Win%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%87%BD%E6%95%B0/",
+            "url": "https://or0kit.github.io/Bin/Win32/Win%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%87%BD%E6%95%B0/",
+            "title": "Win文件系统函数",
+            "date_published": "2021-07-13T06:58:30.000Z",
+            "content_html": "<h1 id=\"什么是文件系统\"><a class=\"anchor\" href=\"#什么是文件系统\">#</a> 什么是文件系统</h1>\n<p>文件系统是操作系统用于管理磁盘上文件的方法和数据结构；简单点说就是在磁盘上如何组织文件的方法。</p>\n<p>文件系统分为 NTFS 和 FAT32。</p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p>EFS 加密：这个加密主要针对当前用户的<br />\n步骤：点击一个文件 -&gt; 文件 -&gt; 属性 -&gt; 高级 -&gt; 加密保护文件内容.</p>\n<p>如果在当前用户则不会有什么结果。但是如果换了用户访问。则不可以访问这个加密文件了</p>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n<p>加密后</p>\n<p><img data-src=\"image003.png\" alt=\"\" /></p>\n<p>磁盘配额：限制其他用户使用硬盘的存储额度。</p>\n<h1 id=\"windows文件系统相关的api\"><a class=\"anchor\" href=\"#windows文件系统相关的api\">#</a> Windows 文件系统相关的 API</h1>\n<h2 id=\"卷相关api\"><a class=\"anchor\" href=\"#卷相关api\">#</a> 卷相关 API</h2>\n<p>&lt;1&gt; 获取卷<br />\n GetLogicalDrives ()</p>\n<p>&lt;2&gt; 获取一个所有卷的盘符的字符串<br />\n GetLogicalDriveStrings ()</p>\n<p>&lt;3&gt; 获取卷的类型<br />\n GetLogicalDriveType ()</p>\n<p>&lt;4&gt; 获取卷信息<br />\n GetVolumeInformation ()</p>\n<h2 id=\"目录相关api\"><a class=\"anchor\" href=\"#目录相关api\">#</a> 目录相关 API</h2>\n<p>&lt;1&gt; 创建目录<br />\n CreateDirectory ();</p>\n<p>&lt;2&gt; 删除目录<br />\n RemoveDirectory ();</p>\n<p>&lt;3&gt; 修改目录名称<br />\n MoveFile ();</p>\n<p>&lt;4&gt; 获取程序当前目录<br />\n GetCurrentDirectory ( );</p>\n<p>&lt;5&gt; 设置程序当前目录<br />\n SetCurrentDirectory ();</p>\n<h2 id=\"文件相关api\"><a class=\"anchor\" href=\"#文件相关api\">#</a> 文件相关 API</h2>\n<p>&lt;1&gt; 创建文件<br />\n CreateFile ();</p>\n<p>&lt;2&gt; 关闭文件的句柄<br />\n CloseHandle ();</p>\n<p>&lt;3&gt; 获取文件长度<br />\n GetFileSize ();</p>\n<p>&lt;4&gt; 获取文件的属性和信息<br />\n GetFileAttributes ()/GetFileAttributesEx ();</p>\n<p>&lt;5&gt; 读 / 写 / 拷 贝 / 删除文件<br />\n ReadFile () witeFile ()/CopyFile ()/DeleteFile ();</p>\n<p>&lt;6&gt; 查找文件<br />\n FindFirstFile ()/FindNextFile ();</p>\n",
+            "tags": [
+                "win32文件函数"
+            ]
+        }
+    ]
+}

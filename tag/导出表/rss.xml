@@ -1,0 +1,487 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;导出表&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 07 May 2021 20:23:07 +0800</pubDate>
+        <lastBuildDate>Fri, 07 May 2021 20:23:07 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Bin/WindowsPE/%E5%AF%BC%E5%87%BA%E8%A1%A8/</guid>
+            <title>导出表</title>
+            <link>https://or0kit.github.io/Bin/WindowsPE/%E5%AF%BC%E5%87%BA%E8%A1%A8/</link>
+            <category>导出表</category>
+            <pubDate>Fri, 07 May 2021 20:23:07 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;如何定位导出表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何定位导出表&#34;&gt;#&lt;/a&gt; 如何定位导出表：&lt;/h1&gt;
+&lt;p&gt;数据目录项的第一个结构，就是导出表.&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_DATA_DIRECTORY&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD   VirtualAddress&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD   Size&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; IMAGE_DATA_DIRECTORY&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;PIMAGE_DATA_DIRECTORY&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//VirtualAddress  导出表的 RVA&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//Size 导出表大小&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;导出表结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#导出表结构&#34;&gt;#&lt;/a&gt; 导出表结构&lt;/h1&gt;
+&lt;p&gt;上面的结构，只是说明导出表在哪里，有多大，并不是真正的导出表.&lt;/p&gt;
+&lt;p&gt;如何在 FileBuffer 中找到这个结构呢？在 VirtualAddress 中存储的是 RVA, 如果想在 FileBuffer 中定位&lt;/p&gt;
+&lt;p&gt;必须要先将该 RVA 转换成 FOA.&lt;/p&gt;
+&lt;p&gt;真正的导出表结构如下：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;由函数名字导出函数地址流程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;例如：函数名字为&lt;strong&gt; test&lt;/strong&gt;，先查找 AddressOfNames (导出函数名称表)，这里面存储的是&lt;strong&gt;指向&lt;/strong&gt;每个拥有名字的函数的函数名字的&lt;strong&gt; RVA&lt;/strong&gt;, 如果表中索引为&lt;strong&gt; 2&lt;/strong&gt; 的地址指向的是函数名字，那么就会用这个&lt;strong&gt; 2&lt;/strong&gt; 查找 AddressOfNameOrdinals (导出函数序号表) 中索引为 2 的值，如果这个值为&lt;strong&gt; 4&lt;/strong&gt;，则会在 AddressOfFunctions (导出函数地址表中) 查找索引为&lt;strong&gt; 4&lt;/strong&gt; 的值，这个值就是函数地址的 RVA。此过程可逆。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;由序号导出函数地址流程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果这个序号是&lt;strong&gt; 10&lt;/strong&gt;，则直接用&lt;strong&gt; 10&lt;/strong&gt; 减去&lt;strong&gt; Base&lt;/strong&gt; 得到一个值，这个值就是 AddressOfFunctions (导出函数地址表中) 中的索引，其对应的值就是函数地址的 RVA。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;导出序号表中的值加上 Base 就是 dll 或其他 PE 文件中的导出序号了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中 Name 指向的字符串是以 00 结尾的。&lt;br /&gt;
+Export Table 的偏移量为： &lt;code&gt;e_lfanew+0x078&lt;/code&gt; &lt;br /&gt;
+NumberOfFunction 的值并不准确，它的计算结果为： &lt;code&gt;最大的导出序号值减去最小的导出序号值然后再加一&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;addressoffunctions说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#addressoffunctions说明&#34;&gt;#&lt;/a&gt; AddressOfFunctions 说明：&lt;/h1&gt;
+&lt;p&gt;该表中元素宽度为 4 个字节&lt;/p&gt;
+&lt;p&gt;该表中存储所有导出函数的地址&lt;/p&gt;
+&lt;p&gt;该表中个数由 NumberOfFunctions 决定&lt;/p&gt;
+&lt;p&gt;该表项中的值是 RVA, 加上 ImageBase 才是函数真正的地址&lt;/p&gt;
+&lt;p&gt;定位：&lt;/p&gt;
+&lt;p&gt;IMAGE_EXPORT_DIRECTORY-&amp;gt;AddressOfFunctions 中存储的是该表的 RVA 需要先转换成 FOA&lt;/p&gt;
+&lt;h1 id=&#34;addressofnames说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#addressofnames说明&#34;&gt;#&lt;/a&gt; AddressOfNames 说明：&lt;/h1&gt;
+&lt;p&gt;该表中元素宽度为 4 个字节&lt;/p&gt;
+&lt;p&gt;该表中存储所有以名字导出函数的名字的 RVA&lt;/p&gt;
+&lt;p&gt;该表项中的值是 RVA, 指向函数真正的名称&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;addressofnameordinals&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#addressofnameordinals&#34;&gt;#&lt;/a&gt; AddressOfNameOrdinals&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结：&lt;/h1&gt;
+&lt;p&gt;为什么要分成 3 张表？&lt;/p&gt;
+&lt;p&gt;1、函数导出的个数与函数名的个数未必一样。所以要将函数地址表和函数名称表分开.&lt;/p&gt;
+&lt;p&gt;2、函数地址表是不是一定大于函数名称表？&lt;/p&gt;
+&lt;p&gt;未必，一个相同的函数地址，可能有多个不同的名字.&lt;/p&gt;
+&lt;p&gt;3、如何根据函数的名字获取一个函数的地址？&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;4、如何根据函数的导出序号获取一个函数的地址？&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;记一次查找导出表的过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一次查找导出表的过程&#34;&gt;#&lt;/a&gt; 记一次查找导出表的过程&lt;/h1&gt;
+&lt;p&gt;以滴水教程中的 DLL 为例。&lt;/p&gt;
+&lt;h2 id=&#34;查看sectionalignment和filealignment的值&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看sectionalignment和filealignment的值&#34;&gt;#&lt;/a&gt; 查看 SectionAlignment 和 FileAlignment 的值&lt;/h2&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;SectionAlignment：           &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;地址&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;RAW&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x00000118&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;长度&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;04&lt;/span&gt;h&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;偏移量&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;e_lfanew&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x38&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;数据&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x00001000&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;内存中的节&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;块&lt;span class=&#34;token string&#34;&gt;&#34;Section&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;的对齐值&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;常为&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x1000&lt;/span&gt;或&lt;span class=&#34;token number&#34;&gt;0x04.&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;FileAlignment：              &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;地址&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;RAW&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x0000011c&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;长度&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;04&lt;/span&gt;h&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;偏移量&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;e_lfanew&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x3C&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;数据&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x00001000&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;文件中的节&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;块&lt;span class=&#34;token string&#34;&gt;&#34;Section&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;的对齐值&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;常为&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x1000&lt;/span&gt;或&lt;span class=&#34;token number&#34;&gt;0x200&lt;/span&gt;或&lt;span class=&#34;token number&#34;&gt;0x04.&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发现都是 &lt;code&gt;0x1000&lt;/code&gt; 。&lt;/p&gt;
+&lt;h2 id=&#34;查找导出表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查找导出表&#34;&gt;#&lt;/a&gt; 查找导出表&lt;/h2&gt;
+&lt;p&gt;查找数据目录中第一个结构体的位置&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;成员&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;             &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;地址&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;RAW&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;	       &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;偏移量&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;         &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;数据&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;RVA&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;       &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;大小&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;         &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;说明&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;                   &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;结构&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Export Table：              &lt;span class=&#34;token number&#34;&gt;0x00000158&lt;/span&gt;     &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;e_lfanew&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x078&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;     &lt;span class=&#34;token number&#34;&gt;0x0002DF10&lt;/span&gt;     &lt;span class=&#34;token number&#34;&gt;0x00000196&lt;/span&gt;     &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt; 导出表 &lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;     &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;IMAGE_DIRECTORY_ENTRY_EXPORT&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;可以看到导出表的位置为 0x0002DF10，大小为 0x196&lt;br /&gt;
+&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;分析导出表信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析导出表信息&#34;&gt;#&lt;/a&gt; 分析导出表信息&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;0002DF10:  00 00 00 00 FD F8 94 60 00 00 00 00 60 DF 02 00  .....`....`?.
+0002DF20:  01 00 00 00 04 00 00 00 04 00 00 00 38 DF 02 00  ............8?.
+0002DF30:  48 DF 02 00 58 DF 02 00 14 10 00 00 0F 10 00 00  H?.X?.........
+0002DF40:  0A 10 00 00 05 10 00 00 70 DF 02 00 77 DF 02 00  ........p?.w?.
+0002DF50:  7E DF 02 00 86 DF 02 00 00 00 01 00 02 00 03 00  ~?..?.........
+0002DF60:  32 30 32 31 5F 30 35 5F 30 37 33 2E 64 6C 6C 00  2021_05_073.dll.
+0002DF70:  5F 44 69 76 40 38 00 5F 4D 75 6C 40 38 00 5F 50  _Div@8._Mul@8._P
+0002DF80:  6C 75 73 40 38 00 5F 53 75 62 40 38 00 00 00 00  lus@8._Sub@8....
+0002DF90:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002DFA0:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002DFB0:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002DFC0:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002DFD0:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002DFE0:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002DFF0:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E000:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E010:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E020:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E030:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E040:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E050:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E060:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E070:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E080:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E090:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0002E0A0:  00 00 00 00 00 00                                ......          
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;数据&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;-&amp;gt;Export Table
+   Characteristics:        0x00000000
+   TimeDateStamp:          0x6094F8FD  (GMT: Fri May 07 08:23:25 2021)
+   MajorVersion:           0x0000
+   MinorVersion:           0x0000  -&amp;gt; 0.00
+   Name:                   0x0002DF60  (&amp;quot;2021_05_073.dll&amp;quot;)
+   Base:                   0x00000001
+   NumberOfFunctions:      0x00000004
+   NumberOfNames:          0x00000004
+   AddressOfFunctions:     0x0002DF38
+   AddressOfNames:         0x0002DF48
+   AddressOfNameOrdinals:  0x0002DF58
+
+   Ordinal RVA        Symbol Name
+   ------- ---------- ----------------------------------
+   0x0001  0x00001014 &amp;quot;_Div@8&amp;quot;
+   0x0002  0x0000100F &amp;quot;_Mul@8&amp;quot;
+   0x0003  0x0000100A &amp;quot;_Plus@8&amp;quot;
+   0x0004  0x00001005 &amp;quot;_Sub@8&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

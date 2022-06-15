@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"rva与foa\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/WindowsPE/RVA%E4%B8%8EFOA%E8%BD%AC%E6%8D%A2/",
+            "url": "https://or0kit.github.io/Bin/WindowsPE/RVA%E4%B8%8EFOA%E8%BD%AC%E6%8D%A2/",
+            "title": "RVA与FOA转换",
+            "date_published": "2021-05-02T08:05:32.000Z",
+            "content_html": "<h1 id=\"引出问题\"><a class=\"anchor\" href=\"#引出问题\">#</a> 引出问题</h1>\n<p><code>如果想改变一个全区变量的初始值，该怎么做？</code></p>\n<p>如果一个变量有值，那这个值是存储在 PE 中的。</p>\n<p>有一个小细节：定义一个变量，当它加载在内存中的时候才会有默认初始值的。在 C 中定义一个整型变量，不给它赋值打印它，默认是为 0 的。</p>\n<p><code>面临的问题是什么？</code></p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<h1 id=\"转换\"><a class=\"anchor\" href=\"#转换\">#</a> 转换</h1>\n<p><span class=\"label\">RVA: 相对虚拟地址</span><br />\n<span class=\"label\"> FOA: 文件偏移地址</span></p>\n<ol>\n<li>RVA TO FOA</li>\n</ol>\n<p>即我们现在知道内存状态下的偏移，需要找到文件状态下的偏移。<br />\n步骤如下图：</p>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n<p>step1：内存中的地址减去内存基址得到偏移，即 RVA。<br />\nstep2：循环遍历节表中各个节的信息，判断在哪个节中。（需要满足： 内存偏移 + 节数据没对齐的大小 &gt; image_panyi &gt; 内存偏移）<br />\nstep3: 找出在哪个节后，减去该节在内存中的偏移（VirturalAddress）得到在该节中的相对偏移。<br />\nstep4: 上一步得到的该节的相对偏移 + 该节在文件中的偏移 (PointToRawData)，即得到 FOA</p>\n<p>步骤 1：循环扫描区块表得出每个区块在内存中的起始 RVA（根据 IMAGE_SECTION_HEADER 中的 VirtualAddress 字段），并根据区块的大小（根据 IMAGE_SECTION_HEADER 中的 SizeOfRawData 字段）算出区块的结束 RVA（两者相加即可），最后判断目标 RVA 是否落在该区块内。</p>\n<p>步骤 2：通过步骤 1 定位目标 RVA 处于具体的某个区块中后，那么用目标 RVA 减去该区块的起始 RVA ，这样就能得到目标 RVA 相对于起始地址的偏移量 RVA2.</p>\n<p>步骤 3：在区块表中获取该区块在文件中所处的偏移地址（根据 IMAGE_SECTION_HEADER 中的 PointerToRawData 字段）, 将这个偏移值加上步骤 2 得到的 RVA2 值，就得到了真正的文件偏移地址。</p>\n<ol start=\"2\">\n<li>FOA TO RVA</li>\n</ol>\n<p>现在我们已经知道如何从内存中的偏移转化为文件中的偏移。现在是它的逆过程<br />\n step1: 文件中的地址减去文件基址，得到在文件中的偏移，即 FOA。<br />\nstep2: 循环遍历节表中各个节的信息，判断在哪个节中。（文件对齐 + 文件偏移 &gt; file_panyi &gt; 文件偏移）<br />\nstep3: 找出在哪个节后，减去该节在文件中的偏移（VirturalAddress）得到在该节中的相对偏移。<br />\nstep4: 上一步得到的该节的相对偏移 + 该节在内存中的偏移 (VirtualAddress)，即得到 RVA。</p>\n<p>相对虚拟地址（RVA） = 虚拟内存地址（VA） - 装载基址（Image Base)</p>\n<h1 id=\"总结\"><a class=\"anchor\" href=\"#总结\">#</a> 总结</h1>\n<p>RVA 转换 FOA，在以后的破解或者保护中只是基本功而已！基础要打牢。</p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3oxNzgwNTAwODc3NS9hcnRpY2xlL2RldGFpbHMvMTA1Mzc0NTAz\">https://blog.csdn.net/z17805008775/article/details/105374503</span></p>\n<h1 id=\"碰到的问题\"><a class=\"anchor\" href=\"#碰到的问题\">#</a> 碰到的问题</h1>\n<p>2021 年 5 月 12 日 14:08:06</p>\n<h1 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h1>\n<p>学到重定位表了，发现文件的内存对齐与文件对齐都一样，可偏偏重定位表中的 VirtualAddress (RVA) 0x37000 转换为 FOA 为 0x35000？？？？<br />\n于是下定决心搞定它</p>\n<h1 id=\"原因\"><a class=\"anchor\" href=\"#原因\">#</a> 原因</h1>\n<p>是由于节的 VirtualSize&gt;SizeOfRawData, 则即使文件的内存对齐与文件对齐都相同，节在内存中对齐后的大小和在文件中对齐后的大小也会不同。进而偏移地址也就不同。<br />\n而我对 RVA 和 FOA 转换错误的认为只要 内存对齐与文件对齐相等，则 RVA 一定等于 ROA。</p>\n",
+            "tags": [
+                "RVA与FOA"
+            ]
+        }
+    ]
+}

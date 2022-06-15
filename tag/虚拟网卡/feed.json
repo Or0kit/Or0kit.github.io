@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"虚拟网卡\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/PenetrationTest/Web-Security/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B1%9E%E6%80%A7/",
+            "url": "https://or0kit.github.io/PenetrationTest/Web-Security/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B1%9E%E6%80%A7/",
+            "title": "虚拟机网络属性",
+            "date_published": "2020-12-19T11:50:34.000Z",
+            "content_html": "<h1 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h1>\n<blockquote>\n<p>复习大数据 ing！ 看到书上有 VMnet0、VMnet1、VMnet8 的解释。想着就记下来吧。</p>\n</blockquote>\n<h1 id=\"正文\"><a class=\"anchor\" href=\"#正文\">#</a> 正文</h1>\n<font color=\"#00CED1\">\n<p>主机上安装 VMware Workstation 或 VMware Server 的时候，默认会安装三块虚拟网卡，这三块虚拟网卡分别是 VMnet0、VMnet1 与 VMnet8。<br />\n其中<font color=\"red\">VMnet0</font>的网络属性为 “<font color=\"red\">物理网卡</font>”,<br />\n<font color=\"red\">VMnet1 与 VMnet8</font>的网络属性为 “<font color=\"red\">虚拟网卡</font>”。</p>\n<p>在默认情况下，<font color=\"red\">VMnet1</font>虚拟网卡的定义是 “<font color=\"red\">仅主机虚拟网络</font>”，<font color=\"red\">VMnet8</font>虚拟网卡的定义是 “<font color=\"red\">NAT 网络</font>”，同时，主机的物理网卡被定义为 “<font color=\"red\">桥接网络</font>”，主机物理网卡也可以称为 VMnet0.<br />\n</font></p>\n<p><span class=\"label\">虚拟机网络连接属性的意义</span></p>\n<p>1、桥接网络：使用 (连接) VMnet0 虚拟交换机。此时虚拟机相当于网络上的一台独立计算机，与主机一样，拥有一个独立的 IP 地址。虚拟机的网络 ip 地址与我们的主机的 ip 在一个网段。</p>\n<p>2, NAT 网络：使用 (连接) VMnet8 虚拟交换机。虚拟机的网络 ip 地址与我们的主机的 ip 不在一个网段，此时虚拟机可以通过主机单向访问网络上的其他主机，其他主机不能访问虚拟机。通过宿主机器所在的网络来访问公网。</p>\n<p>3、主机网络：使用 (连接) VMnet1 虚拟交换机。此时虚拟机只能与虚拟机、主机互连，与网络上的其他工作站不能访问。</p>\n",
+            "tags": [
+                "虚拟网卡"
+            ]
+        }
+    ]
+}

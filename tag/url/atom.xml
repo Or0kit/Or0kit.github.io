@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;url&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2020-12-01T00:52:06.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Internet/url-http/</id>
+        <title>url-http</title>
+        <link rel="alternate" href="https://or0kit.github.io/Internet/url-http/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;跟着 SECEVERY 学习 web 安全，昨晚讲了 URL 与 http 协议，之前虽然学过，但也忘的不少，这次就总结复习巩固一下&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;什么是url&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是url&#34;&gt;#&lt;/a&gt; 什么是 URL？&lt;/h1&gt;
+&lt;p&gt;URL 的全称统一资源定位符 (Uniform Resource Locator) 是对可以从互联网上得到的资源的位置和访问方法的一种简洁的表示，是互联网上标准资源的地址。互联网上的每个文件都有一个唯一的 URL，它包含的信息指出文件的位置以及浏览器应该怎么处理它。&lt;/p&gt;
+&lt;h1 id=&#34;url的组成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#url的组成&#34;&gt;#&lt;/a&gt; URL 的组成&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;scheme://login:password@address:/path/to/resource?query_string#fragment&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Scheme&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Scheme 是用来指定使用的传输协议，其中最常见的就是 HTTP 协议，它也是互联网中应用最广的协议。其他常用的协议还有:&lt;/p&gt;
+&lt;p&gt;Øfile: 用于访问资源位于本地计算机上的文件。&lt;br /&gt;
+Øftp: 用于访问 FTP 服务器上的资源。&lt;br /&gt;
+Øhttps: 通过 SSL 协议的 HTTP 访问 web 服务器资源。&lt;br /&gt;
+Ømailto: 访问资源属于电子邮件地址，通过 SMTP 协议访问。&lt;br /&gt;
+Øed2k、flashget、thunde 等，通过支持专用下载协议的 P2P 软件访问资源。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;//&lt;/code&gt; &lt;br /&gt;
+URL 层级 URL 标记符号，根据 RFC 1738 规定的语法，在授权信息之前，每个层级结构的 URL 中都会包括固定的 “//” 符号。&lt;br /&gt;
+非层级结构的 URL:mailto:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;login:password&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;访问资源的身份验证。在 URL 中，身份验证属于可选项，在向服务器申请资源时，在某些情况下，需要指定一个用户名和密码。&lt;br /&gt;
+如果没有身份验证字段，浏览器默认以匿名的方式访问资源&lt;br /&gt;
+最简单的例子便是访问 FTP 服务器&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;code&gt;address&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;完整的层级 URL，必须有一个域名、IPv4 或者 IPv6 地址作为请求服务器的位置。域名不区分大小写，IPv6 需要括在方括号中。&lt;br /&gt;
+这里注意 @符号，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucXEuY29tQHd3dy5iYWlkdS5jb20=&#34;&gt;https://www.qq.com@www.baidu.com&lt;/span&gt; 这个连接点击后会跳转到百度&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;code&gt;Port&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;服务器端口是 URL 中可选内容，在没有指定端口时，会默认去访问协议的标准端口。如 http 的默认端口为 80. 基本上浏览器支持的协议都会有关联的默认服务接口。不过默认接口可以在 URL 中进行修改&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;code&gt;/path/to/resource&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;URL 的这部分被称为层级文件路径，这一结构来源自 UNIX 目录语义，因此保留了对 /../，/./ 的支持。&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;&lt;code&gt;?query_string&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;查询字符串是一个非必须的字段，只要负责将一系列非层级格式的任意参数传递给服务器。可同时传递多个参数，参数之间用 “&amp;amp;” 符号连接，每个参数名与值用 “=” 隔开。? 后接参数&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;&lt;code&gt;#fragment&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;片段 ID 同样是应用的位置有别于查询字符串，他应用于客户端，片段 ID 值并不会回传至服务端。在实际场景下，片段 ID 一般用于指向页面中的某个锚点，将片段 ID 与与预先设置的锚点名称匹配，并滚到相应的位置&lt;/p&gt;
+&lt;h1 id=&#34;浏览器对url的解析过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#浏览器对url的解析过程&#34;&gt;#&lt;/a&gt; 浏览器对 URL 的解析过程&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1、提取协议名&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;浏览器接收到 url 之后会查找第一个 “:”，找到左边的便是协议名。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2、去除层级标识符&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;字符串 // 应该算跟在协议名后面的，如果发现有该字符则会跳过该字符，如果没有找到便不管了，所以 http:baidu.com 也是可以访问的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3、获取授权信息部分&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;紧接着会依次扫描 url，以 /、?、#, 那个先出现为准来截取 URL, 如果存在认证信息，提取出来的再查找 @符号，如果找到，@符号左边便是登录信息。&lt;br /&gt;
+4、提取目标地址&lt;br /&gt;
+第 3 步提取授权信息之后 @符号右边便是目标地址信息。目标地址信息第一个 “：” 分开的就是主机名和端口号。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;5、确认路径&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在目标地址部分结尾跟着一个正斜杠，接下来扫描？和 #直至结尾，那个先出现便以那个为准，截取出来中间部分即路径信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;6、提取查询字符串&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在第 5 步中，如果存在 “？”，便会扫描 #或者至字符串结尾，中间部分便是查询字段。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;7、提取片段 ID&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果成功解析完上一条信息，它最后还跟着 #号那么从这个符号到字符串的结尾便算片段 ID 了，片段 ID 是不会发送到服务器的！一般用来跳到 A 标签的锚链接。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;uri-urn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uri-urn&#34;&gt;#&lt;/a&gt; URI URN&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;URI，是 uniform resource identifier，统一资源标识符，用来唯一的标识一个资源&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;URL 是 uniform resource locator，统一资源定位器，它是一种具体的 URI，即 URL 可以用来标识一个资源，而且还指明了如何 locate 这个资源。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;URN，uniform resource name，统一资源命名，是通过名字来标识资源，比如 mailto:java-net@java.sun.com。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;就不详细介绍另外两个了&lt;/p&gt;
+&lt;h1 id=&#34;http协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#http协议&#34;&gt;#&lt;/a&gt; HTTP 协议&lt;/h1&gt;
+&lt;p&gt;这一篇就够了，不重复造轮子了。&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vcmFueW9uc3VlL3AvNTk4NDAwMS5odG1s&#34;&gt;https://www.cnblogs.com/ranyonsue/p/5984001.html&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;https&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#https&#34;&gt;#&lt;/a&gt; &lt;strong&gt;HTTPS&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 HTTP 的基础上主要基于 SPDF 协议结合 SSL/TLS 加密协议，客户端依靠证书验证服务器身份传递加密信息的通信协议。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;时间&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;版本&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1991 年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;HTTP/0.9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;仅支持 GET 请求，不支持请求头&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1996 年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;HTTP/1.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;默认短连接（一次请求建议一次 TCP 连接，请求完就断开），支持 GET、POST、 HEAD 请求&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1999 年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;HTTP/1.1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;默认长连接（一次 TCP 连接可以多次请求）；支持 PUT、DELETE、PATCH 等六种请求增加 host 头，支持虚拟主机；支持断点续传功能&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2015 年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;HTTP/2.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多路复用，降低开销（一次 TCP 连接可以处理多个请求）；服务器主动推送（相关资源一个请求全部推送）；解析基于二进制，解析错误少，更高效（HTTP/1.X 解析基于文本）；报头压缩，降低开销。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;15种http请求方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#15种http请求方法&#34;&gt;#&lt;/a&gt; &lt;strong&gt;15 种 http 请求方法&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;编号&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;方法&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;GET&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求指定的页面信息，并返回实体主体&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;HEAD&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;类似于 get 请求，只不过返回的响应中没有具体的内容，用于获取报头&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;POST&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;向指定资源提交数据进行处理请求（例如提交表单或者上传文件）。数据被包含在请求体中。POST 请求可能会导致新的资源的建立和 / 或已有资源的修改&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;PUT&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;从客户端向服务器传送的数据取代指定的文档的内容&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;DELETE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求服务器删除指定的页面。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;CONNECT&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HTTP/1.1 协议中预留给能够将连接改为管道方式的代理服务器。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;OPTIONS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;允许客户端查看服务器的性能。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;TRACE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;回显服务器收到的请求，主要用于测试或诊断。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;PATCH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;实体中包含一个表，表中说明与该 URI 所表示的原内容的区别。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;MOVE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求服务器将指定的页面移至另一个网络地址。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;11&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;COPY&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求服务器将指定的页面拷贝至另一个网络地址。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;12&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;LINK&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求服务器建立链接关系。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;13&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;UNLINK&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;断开链接关系。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;14&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;WRAPPED&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;允许客户端发送经过封装的请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;15&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Extension-mothed&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;在不改动协议的前提下，可增加另外的方法。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;http-状态消息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#http-状态消息&#34;&gt;#&lt;/a&gt; HTTP 状态消息&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当浏览器从 web 服务器请求服务时，可能会发生错误。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;以下列举了有可能会返回的一系列 HTTP 状态消息：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1xx: 信息&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;消息：&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述：&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100 Continue&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器仅接收到部分请求，如果服务器没有拒绝该请求，客户端应该继续发送其余的请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;101 Switching Protocols&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器转换协议：服务器将遵从客户的请求转换到另外一种协议。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;103 Checkpoint&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;用于 PUT 或者 POST 请求恢复失败时的恢复请求建议。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;2xx: 成功&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;消息：&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述：&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;200 OK&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求成功（这是对 HTTP 请求成功的标准应答。）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;201 Created&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求被创建完成，同时新的资源被创建。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;202 Accepted&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;供处理的请求已被接受，但是处理未完成。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;203 Non-Authoritative Information&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求已经被成功处理，但是一些应答头可能不正确，因为使用的是其他文档的拷贝。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;204 No Content&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求已经被成功处理，但是没有返回新文档。浏览器应该继续显示原来的文档。如果用户定期地刷新页面，而 Servlet 可以确定用户文档足够新，这个状态代码是很有用的。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;205 Reset Content&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求已经被成功处理，但是没有返回新文档。但浏览器应该重置它所显示的内容。用来强制浏览器清除表单输入内容。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;206 Partial Content&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;客户发送了一个带有 Range 头的 GET 请求，服务器完成了它。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;3xx: 重定向&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;消息：&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述：&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;300 Multiple Choices&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多重选择。链接列表。用户可以选择某链接到达目的地。最多允许五个地址。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;301 Moved Permanently&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;所请求的页面已经转移至新的 URL 。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;302 Found&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;所请求的页面已经临时转移至新的 URL 。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;303 See Other&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;所请求的页面可在别的 URL 下被找到。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;304 Not Modified&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;未按预期修改文档。客户端有缓冲的文档并发出了一个条件性的请求（一般是提供 If-Modified-Since 头表示客户只想比指定日期更新的文档）。服务器告诉客户，原来缓冲的文档还可以继续使用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;305 Use Proxy&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;客户请求的文档应该通过 Location 头所指明的代理服务器提取。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;306 Switch Proxy&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;目前已不再使用，但是代码依然被保留。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;307 Temporary Redirect&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;被请求的页面已经临时移至新的 URL 。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;308 Resume Incomplete&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;用于 PUT 或者 POST 请求恢复失败时的恢复请求建议。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;4xx: 客户端错误&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;消息：&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述：&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;400 Bad Request&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;因为语法错误，服务器未能理解请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;401 Unauthorized&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;合法请求，但对被请求页面的访问被禁止。因为被请求的页面需要身份验证，客户端没有提供或者身份验证失败。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;402 Payment Required&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;此代码尚无法使用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;403 Forbidden&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;合法请求，但对被请求页面的访问被禁止。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;404 Not Found&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器无法找到被请求的页面。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;405 Method Not Allowed&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求中指定的方法不被允许。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;406 Not Acceptable&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器生成的响应无法被客户端所接受。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;407 Proxy Authentication Required&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;用户必须首先使用代理服务器进行验证，这样请求才会被处理。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;408 Request Timeout&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求超出了服务器的等待时间。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;409 Conflict&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;由于冲突，请求无法被完成。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;410 Gone&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;被请求的页面不可用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;411 Length Required	&amp;quot;Content-Length&amp;quot;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;未被定义。如果无此内容，服务器不会接受请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;412 Precondition Failed&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求中的前提条件被服务器评估为失败。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;413 Request Entity Too Large&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;由于所请求的实体太大，服务器不会接受请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;414 Request-URI Too Long&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;由于 URL 太长，服务器不会接受请求。当 POST 请求被转换为带有很长的查询信息的 GET 请求时，就会发生这种情况。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;415 Unsupported Media Type&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;由于媒介类型不被支持，服务器不会接受请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;416 Requested Range Not Satisfiable&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;客户端请求部分文档，但是服务器不能提供被请求的部分。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;417 Expectation Failed&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器不能满足客户在请求中指定的请求头。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;5xx: 服务器错误&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;消息：&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述：&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;500 Internal Server Error&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求未完成。服务器遇到不可预知的情况。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;501 Not Implemented&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求未完成。服务器不支持所请求的功能，或者服务器无法完成请求。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;502 Bad Gateway&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;请求未完成。服务器充当网关或者代理的角色时，从上游服务器收到一个无效的响应。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;503 Service Unavailable&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器当前不可用（过载或者当机）。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;504 Gateway Timeout&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;网关超时。服务器充当网关或者代理的角色时，未能从上游服务器收到一个及时的响应。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;505 HTTP Version Not Supported&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;服务器不支持请求中指明的 HTTP 协议版本。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;511 Network Authentication Required&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;用户需要提供身份验证来获取网络访问入口。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;附上链接&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVub29iLmNvbS90YWdzL2h0bWwtaHR0cG1lc3NhZ2VzLmh0bWw=&#34;&gt; https://www.runoob.com/tags/html-httpmessages.html&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="url" />
+        <category term="http" />
+        <updated>2020-12-01T00:52:06.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"cr2\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E6%8E%A7%E5%88%B6%E5%AF%84%E5%AD%98%E5%99%A8/",
+            "url": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E6%8E%A7%E5%88%B6%E5%AF%84%E5%AD%98%E5%99%A8/",
+            "title": "保护模式-控制寄存器",
+            "date_published": "2021-09-03T14:43:31.000Z",
+            "content_html": "<h1 id=\"控制寄存器\"><a class=\"anchor\" href=\"#控制寄存器\">#</a> 控制寄存器</h1>\n<p>控制寄存器用于控制和确定 CPU 的操作模式。</p>\n<p>控制寄存器有五个  <code>Cr0 Cr1 Cr2 Cr3 Cr4 </code>  其中  <code>Cr1</code>  保留， <code>Cr3</code>  存储的是页目录表基址</p>\n<h2 id=\"cr0\"><a class=\"anchor\" href=\"#cr0\">#</a> CR0</h2>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p><strong>说明：</strong></p>\n<p><code>PE位</code> ：启用保护（Protecction Enable）标志<br />\n<strong> PE=1</strong> ：保护模式<br />\n<strong> PE=0</strong> ：实地址模式<br />\n这个标志 <strong>仅开启段级保护</strong> ，而没有启用分页机制<br />\n若要启用 <strong>分页机制</strong> ，那么<strong> PE</strong> 和<strong> PG</strong> 标志都要置位</p>\n<p><code>PG位</code> ：分页机制标志<br />\n<strong> PG=1</strong> ：开启了分页机制<br />\n<strong> PG=0</strong> ：未开启分页机制<br />\n在开启这个标志位之前<strong>必须已经或者同时开启  <code>PE</code>  标志</strong></p>\n<p><strong>PG=0</strong> 且 <strong>PE=0</strong> ：处理器工作状态为<strong>实地址模式</strong><br />\n<strong> PG=0</strong> 且 <strong>PE=1</strong> ：处理器工作状态为<strong>没有开启分页机制的保护模式</strong><br />\n<strong> PG=1</strong> 且 <strong>PE=0</strong> ：不存在。在<strong> PE</strong> 没有开启的情况下<strong>无法开启 PG</strong><br />\n<strong>PG=1</strong> 且 <strong>PE=1</strong> ：处理器工作状态为<strong>开启了分页机制的保护模式</strong></p>\n<p><code>WP位</code> ：写保护（Write Proctect）标志<br />\n对于 <strong>Intel 80486 或以上的 CPU</strong> ，CR0 的<strong> 16 位</strong>是写保护标志<br />\n当设置该标志时，处理器会禁止 <strong>超级用户程序</strong> （例如特权级 0 的程序）向<strong>用户级只读页面</strong>执行写操作</p>\n<p>当<strong> CPL&lt;3</strong> 的时候：</p>\n<ol>\n<li>如果 <strong>WP=0</strong> 可以<strong>读写</strong>任意用户级物理页，<strong>只要线性地址有效</strong></li>\n<li>如果 <strong>WP=1</strong> 可以<strong>读取</strong>任意用户级物理页，<strong>但对于只读的物理页，则不能写</strong></li>\n</ol>\n<h2 id=\"cr2\"><a class=\"anchor\" href=\"#cr2\">#</a> CR2</h2>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n<p>当 CPU 访问某个无效页面时，会产生缺页异常，此时，CPU 会将引起异常的线性地址存放在 CR2 中</p>\n<p>举例：</p>\n<ol>\n<li>当 CPU 访问某个物理页，但 PDE/PTE 的<strong> P 位为 0</strong> 时，会产生<strong>缺页异常</strong></li>\n<li>缺页异常一旦发生，CPU 会将<strong>引起缺页异常的线性地址</strong>存储到<strong> Cr2</strong> 中</li>\n<li>此时，操作系统的处理程序开始<strong>对异常进行处理</strong></li>\n<li>若<strong>处理结束</strong>后，虽然 PDE/PTE 的 P 位为 0，但实际上它被写进了页面</li>\n<li>这时，处理程序会<strong>将数据从页面中读出，再挂上一个有效的物理页，让程序接着往下跑</strong></li>\n<li>程序往下跑时，操作系统必须要记录程序<strong>原先已经跑到了哪里</strong></li>\n<li>此时，Cr2 便派上了用场，因为<strong>产生异常时的线性地址存在了 Cr2 中</strong></li>\n<li>但如果异常处理程序检测到用户访问的页面是一个<strong>未分配的页面</strong></li>\n<li>这时，操作系统会报告一个 <strong>异常</strong> ，告诉我们<strong>在哪里发生了错误</strong></li>\n<li><strong>若没有 Cr2 寄存器，当进入异常处理程序时，将找不到回去的线性地址</strong></li>\n</ol>\n<h2 id=\"cr4寄存器\"><a class=\"anchor\" href=\"#cr4寄存器\">#</a> Cr4 寄存器</h2>\n<p><img data-src=\"image003.png\" alt=\"\" /></p>\n<p>PAE/PSE 说明：</p>\n<p>PAE=1 是 2-9-9-12 分页  PAE=0 是 10-10-12 分页。<br />\nPSE：大页开启标志。</p>\n<p><img data-src=\"image004.png\" alt=\"\" /></p>\n<blockquote>\n<p>注意：关于控制寄存器的更多细节，请参考 Intel 白皮书第三卷</p>\n</blockquote>\n<p><img data-src=\"image005.png\" alt=\"\" /></p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p>滴水课件<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTg4NDQ4L2FydGljbGUvZGV0YWlscy8xMDI3NjM2NDY=\"> https://blog.csdn.net/qq_41988448/article/details/102763646</span></p>\n",
+            "tags": [
+                "CR0",
+                "CR2",
+                "CR4"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"10-10-12分页\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F%E2%80%9410-10-12%E5%88%86%E9%A1%B5/",
+            "url": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F%E2%80%9410-10-12%E5%88%86%E9%A1%B5/",
+            "title": "保护模式—10-10-12分页",
+            "date_published": "2021-08-25T08:50:39.000Z",
+            "content_html": "<h1 id=\"正文\"><a class=\"anchor\" href=\"#正文\">#</a> 正文</h1>\n<p>进入页模式</p>\n<p>首先更改内核的分页模式</p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p><code>multi(0)disk(0)rdisk(0)partition(1)\\WINDOWS=&quot;XP[debug 10-10-12]&quot; /debug /debugport=com1 /execute=optin /fastdetect</code></p>\n<p>将 noexecute 改成 execute，就改为了 10-10-12 分页模式</p>\n<p>后面会学习 2-9-9-12 分页模式，默认的是 2-9-9-12 分页模式</p>\n<p><code>multi(0)disk(0)rdisk(0)partition(1)\\WINDOWS=&quot;XP[debug 2-9-9-12]&quot; /debug /debugport=com1 /noexecute=optin /fastdetect</code></p>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n<h1 id=\"4gb内存\"><a class=\"anchor\" href=\"#4gb内存\">#</a> 4GB 内存</h1>\n<p>每一个进程都有 4GB 内存，一个程序的最大寻址范围 4GB 怎么来的？</p>\n<p>答案是 PTE 的前 20 位 + 线性地址的最后 12 位得到的寻址范围（32 位）就是 4GB</p>\n<h1 id=\"线性地址-有效地址-物理地址\"><a class=\"anchor\" href=\"#线性地址-有效地址-物理地址\">#</a> 线性地址、有效地址、物理地址</h1>\n<p>如下指令：</p>\n<p>MOV eax,dword ptr ds:[0x12345678]</p>\n<p>其中，0x12345678 是有效地址</p>\n<p>ds.Base + 0x12345678 是线性地址</p>\n<p>线性地址挂载在了物理地址上</p>\n<h1 id=\"cpu如何寻找到物理地址\"><a class=\"anchor\" href=\"#cpu如何寻找到物理地址\">#</a> CPU 如何寻找到物理地址</h1>\n<p>每个进程都有一个 CR3,(准确的说是都一个 CR3 的值，CR3 本身是<br />\n个寄存器，一个核，只有一套寄存器)<br />\n CR3 指向一个物理页，一共 4096 字节，如图：</p>\n<p><img data-src=\"image003.png\" alt=\"\" /></p>\n<h1 id=\"10-10-12\"><a class=\"anchor\" href=\"#10-10-12\">#</a> 10-10-12</h1>\n<p><img data-src=\"image004.png\" alt=\"\" /></p>\n<h2 id=\"实验寻找物理地址\"><a class=\"anchor\" href=\"#实验寻找物理地址\">#</a> 实验：寻找物理地址</h2>\n<p>创建一个 txt 程序并用 notepad.exe 打开，写入内容，CE 附加 notepad.exe 进程</p>\n<p><img data-src=\"image005.png\" alt=\"\" /></p>\n<p>附加后配置选项，进行内存扫描</p>\n<p><img data-src=\"image006.png\" alt=\"\" /></p>\n<p>改变 txt 中的内容再次扫描，直到确认地址</p>\n<p><img data-src=\"image007.png\" alt=\"\" /></p>\n<p>确认内存地址为 0x125800<br />\n 开始拆分地址</p>\n<p><img data-src=\"image008.png\" alt=\"\" /></p>\n<pre><code>00125800\n\n0000 0000 0001 0010 0101 1000 0000 0000\n\n用的时候要乘以4\n\n0000 0000 00 ---------------------------  0x0 * 4 = 0x0 \n\t    01 0010 0101  --------------  0x125 * 4 = 0x494\n\t\t\t1000 0000 0000 ---0x800\n</code></pre>\n<p>找那个进程的物理页，物理地址就看哪个进程的 CR3，这里查看 notepad.exe 的 CR3: <code>3c932000</code></p>\n<p><img data-src=\"image009.png\" alt=\"\" /></p>\n<p>突然虚拟机卡住了 windbg 也没用，这俩不知道怪谁。只能重启了，数据也都变了。后面的截图有些误差，重要的是流程。</p>\n<p>获得 cr3 后，在 windbg 中执行</p>\n<p>!dd cr3 + （拆分出来的第一个 10 的值乘以 4）</p>\n<p><code>!dd 3c932000 + 0</code></p>\n<p>重启虚拟机后获取的数据是这个</p>\n<pre><code>000B04B8\n\n10 0\n10 B0\n12 4B8\n</code></pre>\n<p><img data-src=\"image010.png\" alt=\"\" /></p>\n<p>获取第一个值并把后三位去掉变成 0</p>\n<p><img data-src=\"image011.png\" alt=\"\" /></p>\n<p>最后找到物理地址，查看一下</p>\n<p><img data-src=\"image012.png\" alt=\"\" /></p>\n<h1 id=\"总结\"><a class=\"anchor\" href=\"#总结\">#</a> 总结</h1>\n<p>这节主要是对分页模式有个模糊的轮廓。</p>\n",
+            "tags": [
+                "10-10-12分页"
+            ]
+        }
+    ]
+}

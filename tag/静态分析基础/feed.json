@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"静态分析基础\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/MalwareAnalysis/%E6%81%B6%E6%84%8F%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98-%E7%AC%AC01%E7%AB%A0/",
+            "url": "https://or0kit.github.io/Bin/MalwareAnalysis/%E6%81%B6%E6%84%8F%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98-%E7%AC%AC01%E7%AB%A0/",
+            "title": "恶意代码分析实战-第01章静态分析技术基础",
+            "date_published": "2021-11-30T12:26:50.000Z",
+            "content_html": "<h1 id=\"静态分析基础技术\"><a class=\"anchor\" href=\"#静态分析基础技术\">#</a> 静态分析基础技术</h1>\n<p>本章将讨论从可执行文件提取有用的信息的多种方法，包括以下技术：</p>\n<ul>\n<li>使用反病毒软件来确认程序样本的恶意性；</li>\n<li>使用哈希来识别恶意代码；</li>\n<li>从文件的字符串列表、函数和文件头信息中发掘有用的信息。</li>\n</ul>\n<p>每种技术都可以提供不同的信息，使用哪种技术则取决于你的目标。在大多数情况下，你需要使用多种技术，来尽可能多的搜集信息。</p>\n<ol>\n<li>\n<p>反病毒引擎扫描： 实用的第一步</p>\n</li>\n<li>\n<p>哈希值：恶意代码的指纹</p>\n</li>\n<li>\n<p>查找字符串</p>\n</li>\n<li>\n<p>加壳与混淆恶意代码</p>\n</li>\n<li>\n<p>文件加壳</p>\n</li>\n</ol>\n<p>5.1 使用 PEID 检测加壳</p>\n<ol start=\"6\">\n<li>\n<p>PE 文件格式</p>\n</li>\n<li>\n<p>链接库与函数</p>\n</li>\n</ol>\n<p>7.1 静态链接、运行时链接与动态链接</p>\n<p>7.2 使用 Dependency Walker 工具探索动态链接函数</p>\n<p>7.3 导入函数</p>\n<ol start=\"8\">\n<li>导出函数</li>\n</ol>\n<h1 id=\"静态分析技术实践\"><a class=\"anchor\" href=\"#静态分析技术实践\">#</a> 静态分析技术实践</h1>\n<p>课后作业</p>\n<h1 id=\"lab-1-1\"><a class=\"anchor\" href=\"#lab-1-1\">#</a> Lab 1-1</h1>\n<p>这个实验使用 Lab01-01.exe 和 Lab01-01.dll 文件，使用本章描述的工具和技术来获取关于这些文件的信息。</p>\n<p>问题<br />\n 1. 将文件上传至 http://www.VirusTotal.com/ 进行分析并查看报告。文件匹配到了已有的反病毒软件特征吗？<br />\n2. 这些文件是什么时候编译的？<br />\n3. 这两个文件中是否存在迹象说明它们是否被加壳或混淆了？如果是，这些迹象在哪里？<br />\n4. 是否有导入函数显示出了这个恶意代码是做什么的？如果是，是哪些导入函数？<br />\n5. 是否有任何其他文件或基于主机的迹象，让你可以在受感染系统上查找？<br />\n6. 是否有基于网络的迹象，可以用来发现受感染机器上的这个恶意代码？<br />\n7. 你猜这些文件的目的是什么？</p>\n<h2 id=\"操作环境\"><a class=\"anchor\" href=\"#操作环境\">#</a> 操作环境</h2>\n<p>实验场景: Windows Xp sp3</p>\n<p>实验工具： PEid  Strings PETools <span class=\"exturl\" data-url=\"aHR0cDovL1ZpclNDQU4ub3Jn\">VirSCAN.org</span>（云分析网站）VirusTotal</p>\n<p>实验文件： Lab01-01.exe Lab01-01.dll</p>\n<p>实验思路：</p>\n<ol>\n<li>利用网络扫描工具对目标文件进行扫描。</li>\n<li>利用本地静态分析工具分析目标程序。</li>\n<li>对上述结果进行分析。</li>\n</ol>\n",
+            "tags": [
+                "静态分析基础"
+            ]
+        }
+    ]
+}

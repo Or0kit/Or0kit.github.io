@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"drozer\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Drozer%E5%85%B3%E9%94%AE%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8/",
+            "url": "https://or0kit.github.io/Drozer%E5%85%B3%E9%94%AE%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8/",
+            "title": "Drozer关键模块的使用",
+            "date_published": "2021-12-19T08:59:03.000Z",
+            "content_html": "<h1 id=\"楔子\"><a class=\"anchor\" href=\"#楔子\">#</a> 楔子</h1>\n<p>移动安全实验报告。</p>\n<h2 id=\"实验目的\"><a class=\"anchor\" href=\"#实验目的\">#</a> 实验目的</h2>\n<p>了解 Drozer 关键模块的使用</p>\n<h2 id=\"实验原理\"><a class=\"anchor\" href=\"#实验原理\">#</a> 实验原理</h2>\n<p>drozer 是一款针对 Android 系统的安全测试框架。drozer 可以帮助 App 和设备变得更安全，其提供了很多 Android 平台下的渗透测试 exploit 供你使用和分享。对于远程的 exploit，它可以生成 shellcode 帮助你进行远程设备管理。</p>\n<h2 id=\"实验步骤\"><a class=\"anchor\" href=\"#实验步骤\">#</a> 实验步骤</h2>\n<p>注意 drozer 仅支持 Python2。至于如何安装的就不介绍了。<br />\n对了，如果已经安装了 Python3，在安装 Python2 的时候，只需要在设置环境变量的时候把 Python2 的环境变量提前就行了。</p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<ol>\n<li>连接 drozer 服务端</li>\n</ol>\n",
+            "tags": [
+                "Drozer"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"破解\" category",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/%E6%9F%90%E6%97%B6%E4%BB%A39-36%E6%9B%BF%E6%8D%A2%E5%AF%86%E9%92%A5/",
+            "url": "https://or0kit.github.io/%E6%9F%90%E6%97%B6%E4%BB%A39-36%E6%9B%BF%E6%8D%A2%E5%AF%86%E9%92%A5/",
+            "title": "某时代9.36替换密钥",
+            "date_published": "2021-09-26T07:56:20.000Z",
+            "content_html": "<h1 id=\"楔子\"><a class=\"anchor\" href=\"#楔子\">#</a> 楔子</h1>\n<p>参见:<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cueHVlcG9qaWUuY29tL3RocmVhZC01MTY1Ny0xLTEuaHRtbA==\">https://www.xuepojie.com/thread-51657-1-1.html</span></p>\n<p>在网上找到了很多加密的视频教程，因为是个穷学生，学习资料都是在网上自己找的。<br />\n没学过破解，花费了好长时间才搞清楚是什么软件加密的。然后又在网上找看看有没有破解的方法，期间也发现有些大神能直接把加密的转化为 MP4 播放，不过没有教程…… 在学破解论坛上看到了上面一篇帖子，跟着手动试了试可以成功，不过每次都要自己手动破解，就想着能不能代码实现呢？</p>\n<p>最近一直在看滴水的教程，有些技术以前没看懂，如今想了想，好像能用上，就想借此沉淀一下知识。</p>\n<h1 id=\"正文\"><a class=\"anchor\" href=\"#正文\">#</a> 正文</h1>\n<p>修改方法：检查堆栈地址为 0019FE08 指向的值，然后把值给改了。</p>\n<p>那么如何实现呢？</p>\n<ol>\n<li>\n<p>INLINE HOOK</p>\n</li>\n<li>\n<p>注入</p>\n</li>\n</ol>\n",
+            "tags": [
+                "替换密钥"
+            ]
+        }
+    ]
+}

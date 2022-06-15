@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"第一个驱动程序\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/Drive-Development/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F/",
+            "url": "https://or0kit.github.io/Bin/Core/Drive-Development/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F/",
+            "title": "驱动开发-第一个驱动程序",
+            "date_published": "2021-09-03T14:52:00.000Z",
+            "content_html": "<h1 id=\"配置vs2019wdk10\"><a class=\"anchor\" href=\"#配置vs2019wdk10\">#</a> 配置 VS2019+WDK10</h1>\n<p>参见：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzQ4OTk1NjExL2FydGljbGUvZGV0YWlscy8xMTIxOTU0OTc=\">https://blog.csdn.net/m0_48995611/article/details/112195497</span></p>\n<h1 id=\"编写代码\"><a class=\"anchor\" href=\"#编写代码\">#</a> 编写代码</h1>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span><span class=\"token string\">&lt;ntddk.h></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre></pre></td></tr><tr><td data-num=\"3\"></td><td><pre>VOID <span class=\"token function\">DriverUnload</span><span class=\"token punctuation\">(</span>PDRIVER_OBJECT pdriver<span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"4\"></td><td><pre>\t<span class=\"token function\">DbgPrint</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"我是驱动，我卸载了\\n\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre></pre></td></tr><tr><td data-num=\"7\"></td><td><pre></pre></td></tr><tr><td data-num=\"8\"></td><td><pre>NTSTATUS <span class=\"token function\">DriverEntry</span><span class=\"token punctuation\">(</span>PDRIVER_OBJECT pdriver<span class=\"token punctuation\">,</span> PUNICODE_STRING pReg<span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"9\"></td><td><pre>\t<span class=\"token function\">DbgPrint</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"我是驱动，我运行了\\n\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"10\"></td><td><pre>\tpdriver<span class=\"token operator\">-></span>DriverUnload <span class=\"token operator\">=</span> DriverUnload<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"11\"></td><td><pre>\t<span class=\"token keyword\">return</span> STATUS_SUCCESS<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"12\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure><p>注意用 release 版。<br />\nDbgView 设置</p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p>结果：</p>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n",
+            "tags": [
+                "配置VS2019+WDK10",
+                "第一个驱动程序"
+            ]
+        }
+    ]
+}

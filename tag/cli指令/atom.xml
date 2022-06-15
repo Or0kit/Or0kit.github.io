@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;cli指令&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-09-03T14:43:18.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E4%B8%AD%E6%96%AD%E4%B8%8E%E5%BC%82%E5%B8%B8/</id>
+        <title>保护模式-中断与异常</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E4%B8%AD%E6%96%AD%E4%B8%8E%E5%BC%82%E5%B8%B8/"/>
+        <content type="html">&lt;h1 id=&#34;什么是中断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是中断&#34;&gt;#&lt;/a&gt; 什么是中断&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;中断通常是由 CPU 外部的输入输出设备 (硬件) 所触发的，供外部设备通知&lt;br /&gt;
+ CPU “有事情需要处理”，因此又叫中断请求 (Interrupt Request).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;中断请求的目的是希望 CPU 暂时停止执行当前正在执行的程序，转去执行&lt;br /&gt;
+中断请求所对应的中断处理例程 (中断处理程序在哪有 IDT 表决定)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;80x86 有两条中断请求线：&lt;/p&gt;
+&lt;p&gt;非屏蔽中断线，称为 NMI（NonMaskable Interrupt）&lt;/p&gt;
+&lt;p&gt;可屏蔽中断线，称为 INTR（Interrupt Require）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;假设没有中断这种机制，当一个的程序的代码为死循环时，其他的程序就没有机会执行了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;中断的本质：改变 CPU 的执行路线&lt;/p&gt;
+&lt;h2 id=&#34;可屏蔽中断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可屏蔽中断&#34;&gt;#&lt;/a&gt; 可屏蔽中断&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;描述：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在硬件级，可屏蔽中断是由一块专门的芯片来管理的，通常称为中断控制器&lt;br /&gt;
+它负责分配中断资源和管理各个中断源发出的中断请求&lt;br /&gt;
+为了便于标识各个中断请求，中断管理器通常用 IRQ（Interrupt Request）后面加上数字来表示不同的中断&lt;br /&gt;
+比如：在 Windows 中，时钟中断的 IRQ 编号为 0，也就是  &lt;code&gt;IRQ0&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;时钟中断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时钟中断&#34;&gt;#&lt;/a&gt; 时钟中断&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;描述：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大多数操作系统时钟中断在 10-100MS 之间，Windows 系列为 10-20MS&lt;br /&gt;
+Windows 时钟中断每隔 10~20MS 会向 CPU 发送一个请求，当 CPU 收到请求时，操作系统就会接管 CPU，指定 CPU 去执行一段代码，操作系统在这段代码里便有机会进行线程的切换。这样，即便一个程序进入死循环，操作系统依然有机会进行线程切换&lt;br /&gt;
+当然，操作系统主要并不是通过时钟中断来进行线程切换，而只是有机会进行线程切换，这里只是举个例子。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;可屏蔽中断如何处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可屏蔽中断如何处理&#34;&gt;#&lt;/a&gt; 可屏蔽中断如何处理？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;描述：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;时钟中断&lt;/strong&gt;的 &lt;strong&gt;IRQ 编号为 0&lt;/strong&gt; ，所在位置为&lt;strong&gt; IDT [0x30]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IRQ1~IRQ15&lt;/strong&gt; 分别对应&lt;strong&gt; IDT [0x31]~IDT [0x35]&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别说明：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1、如果自己的程序执行时不希望 CPU 去处理这些中断，可以&lt;br /&gt;
+用  &lt;code&gt;CLI&lt;/code&gt;  指令清空 EFLAG 寄存器中的 IF 位&lt;br /&gt;
+用  &lt;code&gt;STI&lt;/code&gt;  指令设置 EFLAG 寄存器中的 IF 位&lt;/p&gt;
+&lt;p&gt;2、硬件中断与 IDT 表中的对应关系并非固定不变的&lt;br /&gt;
+参见：APIC（高级可编程中断控制器）&lt;/p&gt;
+&lt;h2 id=&#34;不可屏蔽中断如何处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不可屏蔽中断如何处理&#34;&gt;#&lt;/a&gt; 不可屏蔽中断如何处理？&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;特别说明：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当非可屏蔽中断产生时，CPU 在执行完当前指令后会里面进入中断处理程序&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;非可屏蔽中断不受 EFLAG 寄存器中 IF 位的影响，一旦发生，CPU 必须处理&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;非可屏蔽中断处理程序位于 IDT 表中的 2 号位置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;异常&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#异常&#34;&gt;#&lt;/a&gt; 异常&lt;/h1&gt;
+&lt;p&gt;描述：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;异常通常是 &lt;strong&gt;CPU 在执行指令时检测到的某些错误&lt;/strong&gt; ，比如除 0、访问无效页面等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;中断与异常的区别：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;中断&lt;/code&gt; 来自于 &lt;strong&gt;外部设备&lt;/strong&gt; ，是 &lt;strong&gt;中断源&lt;/strong&gt; （比如键盘）发起的，&lt;strong&gt;CPU 是被动的&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;异常&lt;/code&gt; 来自于 &lt;strong&gt;CPU 本身&lt;/strong&gt; ，是&lt;strong&gt; CPU 主动产生的&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;INT N&lt;/strong&gt; 虽然被称为 “软件中断”，但其&lt;strong&gt;本质是异常&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;EFLAG 的  &lt;code&gt;IF位&lt;/code&gt; 对  &lt;code&gt;INT N&lt;/code&gt;  无效。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;异常处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#异常处理&#34;&gt;#&lt;/a&gt; 异常处理&lt;/h2&gt;
+&lt;p&gt;描述：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;无论是由&lt;strong&gt;硬件设备触发的中断请求&lt;/strong&gt;还是由 &lt;strong&gt;CPU 产生的异常&lt;/strong&gt; ，处理程序都在  &lt;code&gt;IDT表&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;常见的异常处理程序：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;页错误&lt;/code&gt; ：当我们访问一个 &lt;strong&gt;线性地址&lt;/strong&gt; ，而这个线性地址指向的&lt;strong&gt;物理页&lt;/strong&gt;是 &lt;strong&gt;无效的&lt;/strong&gt; ，便会触发 CPU 异常，该异常位于 &lt;strong&gt;E 号门&lt;/strong&gt; （IDT [0xE]）&lt;br /&gt;
+ &lt;code&gt;段错误&lt;/code&gt; ：一旦&lt;strong&gt;段的运算发生异常&lt;/strong&gt;时（如权限检查），便会走 &lt;strong&gt;D 号门&lt;/strong&gt; （IDT [0xD]）&lt;br /&gt;
+ &lt;code&gt;除0错误&lt;/code&gt; ：当&lt;strong&gt;除数为 0&lt;/strong&gt; 时，会触发异常，这时走 &lt;strong&gt;0 号门&lt;/strong&gt; （IDT [0x0]）&lt;br /&gt;
+ &lt;code&gt;双重错误&lt;/code&gt; ：假设 &lt;strong&gt;执行一个异常（如页错误）时又产生了一个错误&lt;/strong&gt; ，那么便会触发双重错误，这时走 &lt;strong&gt;8 号门&lt;/strong&gt; （IDT [0x8]）&lt;/p&gt;
+&lt;h2 id=&#34;缺页异常&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缺页异常&#34;&gt;#&lt;/a&gt; 缺页异常&lt;/h2&gt;
+&lt;p&gt;缺页异常的 &lt;strong&gt;产生&lt;/strong&gt; （例举两种）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;当 PDE/PTE 的&lt;strong&gt; P=0&lt;/strong&gt; 时会发生缺页异常&lt;/li&gt;
+&lt;li&gt;当 PDE/PTE 的&lt;strong&gt;属性为只读但程序试图写入&lt;/strong&gt;时会发生缺页异常&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;一旦发生缺页异常，CPU 会执行 IDT 表中的&lt;strong&gt; 0xE 号&lt;/strong&gt;中断处理程序，由操作系统来接管，后面会学习的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;实验&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验&#34;&gt;#&lt;/a&gt; 实验&lt;/h1&gt;
+&lt;h2 id=&#34;分析idt表中0x2号中断的执行流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析idt表中0x2号中断的执行流程&#34;&gt;#&lt;/a&gt; 分析 IDT 表中 0x2 号中断的执行流程&lt;/h2&gt;
+&lt;h2 id=&#34;分析idt表中0x8号中断的执行流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析idt表中0x8号中断的执行流程&#34;&gt;#&lt;/a&gt; 分析 IDT 表中 0x8 号中断的执行流程&lt;/h2&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTg4NDQ4L2FydGljbGUvZGV0YWlscy8xMDI3NjA1NzA=&#34;&gt;https://blog.csdn.net/qq_41988448/article/details/102760570&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="中断" />
+        <category term="异常" />
+        <category term="CLI指令" />
+        <category term="STI指令" />
+        <category term="INT2" />
+        <category term="INT8" />
+        <updated>2021-09-03T14:43:18.000Z</updated>
+    </entry>
+</feed>

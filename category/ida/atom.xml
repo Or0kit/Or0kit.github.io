@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;ida&#34; category</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-08-18T13:17:52.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/IDA%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0/</id>
+        <title>IDA入门学习</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/IDA%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;为什么学习 IDA，滴水中级班课程大部分时间是在分析系统内核文件，用到的工具主要就是 IDA。&lt;/p&gt;
+&lt;p&gt;最近在看中级班课程，发现基础太烂了，自闭 ing……&lt;/p&gt;
+&lt;p&gt;IDA 是一款静态分析工具。&lt;/p&gt;
+&lt;h1 id=&#34;正文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正文&#34;&gt;#&lt;/a&gt; 正文&lt;/h1&gt;
+&lt;h2 id=&#34;打开文件-关闭文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#打开文件-关闭文件&#34;&gt;#&lt;/a&gt; 打开文件、关闭文件&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以直接打开一个文件，也可以单独打开 IDA。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;单独打开 IDA 后再打开文件，也可以直接把文件拖到 IDA 中。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;我们直接点击 OK。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;加载符号链接。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这时文件已经正确打开&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;接下来是关闭文件，关闭文件是需要注意的，上图我们可以发现，在调试文件下发生成了几个文件，这是 IDA 的要用到的数据库文件。&lt;/p&gt;
+&lt;p&gt;当我们要关闭文件的时候&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;如果不打包的话数据库文件还是分着放，如果选择打包，则会生成一个 idb 文件。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在分析文件时都会修改很多东西，修改的内容会保存在 idb 文件里面，以后打开文件，就不用打开源文件了，可以直接打开这个 idb 文件。&lt;/p&gt;
+&lt;p&gt;当文件越来越大时，可以勾选收集垃圾，来删除不必要的内容。&lt;/p&gt;
+&lt;p&gt;最后一个选项挺重要的，比如说某次我在 IDA 文件中做了很多操作后，我不想要这次的操作了，这时退出的时候就可以选中不保存数据库，这次的操作就不会保存，还停留在文件打开之前的样子。这是在 IDA 中放弃错误操作的唯一的办法。&lt;/p&gt;
+&lt;h2 id=&#34;窗口介绍图形-文本-其他窗口介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#窗口介绍图形-文本-其他窗口介绍&#34;&gt;#&lt;/a&gt; 窗口介绍：图形、文本、其他窗口介绍&lt;/h2&gt;
+&lt;p&gt;CTRL + 滚轮 放大，放小&lt;/p&gt;
+&lt;p&gt;空格 切换图形 / 文本界面&lt;/p&gt;
+&lt;p&gt;IDA View-A 反汇编窗口&lt;/p&gt;
+&lt;p&gt;Hex View-A 十六进制窗口&lt;/p&gt;
+&lt;p&gt;Imports 导入表函数窗口&lt;/p&gt;
+&lt;p&gt;Exports 导出函数窗口&lt;/p&gt;
+&lt;p&gt;Structures 结构体窗口  IDA 识别出来的当然是有限的的，还有很多识别不出来的，我们可以在这个窗口中创建。&lt;/p&gt;
+&lt;p&gt;等等窗口，可以在工具栏调用出来&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;显示硬编码-acdu指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#显示硬编码-acdu指令&#34;&gt;#&lt;/a&gt; 显示硬编码 -&amp;gt; ACDU 指令&lt;/h2&gt;
+&lt;p&gt;并没有显示硬编码&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;设置显示出硬编码&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image011.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image012.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;学习过硬编码的任都知道，一行最多是十六个字节，所以这里设置的再多，也会被 IDA 修改为 16。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image013.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;绝大多数 IDA 能正常的够把硬编码转换成汇编指令。&lt;/p&gt;
+&lt;p&gt;但是当需要分析的程序经过了处理，IDA 就识别不了了。&lt;/p&gt;
+&lt;p&gt;明明是数据的部分，却被识别为指令、明明是指令的部分，却被识别为数据。&lt;/p&gt;
+&lt;p&gt;这就需要 &lt;code&gt;ACDU&lt;/code&gt;  这几个命令了。&lt;/p&gt;
+&lt;p&gt;A: 把当前的数据用字符串的形式显示。&lt;br /&gt;
+C: 把当前的数据用代码的形式显示。&lt;br /&gt;
+D: 把当前的数据用数据的形式显示。&lt;br /&gt;
+U: 把当前的数据用原始的字节的的形式显示。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image014.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;以这段 nop 指令为例。&lt;/p&gt;
+&lt;p&gt;A 命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image015.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;C 命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;D 命令&lt;br /&gt;
+按一次 D 以一个字节显示 &lt;code&gt;db&lt;/code&gt; , 再按一次以 &lt;code&gt;dw&lt;/code&gt; , 再按一次以 &lt;code&gt;dd&lt;/code&gt;  显示。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image017.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;U 命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image018.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;跳转指令-g&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#跳转指令-g&#34;&gt;#&lt;/a&gt; 跳转指令: G&lt;/h2&gt;
+&lt;p&gt;直接按 &lt;code&gt;G&lt;/code&gt;  键 然后输入我们要跳转的地址&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;搜索指令alt-t&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#搜索指令alt-t&#34;&gt;#&lt;/a&gt; 搜索指令：ALT + T&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;ALT + T&lt;/code&gt;  搜索某一个关键词、函数名。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image020.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;改名字n&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#改名字n&#34;&gt;#&lt;/a&gt; 改名字：N&lt;/h2&gt;
+&lt;p&gt;这个命令非常重要。&lt;br /&gt;
+真正的逆向分析，就是弄清楚这个函数做了什么事情，那么当我们分析完后，就要给这个函数起一个名字了，这个名字一般都代表这这个函数的功能。所以起名字的过程就是逆向分析的过程。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image021.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;创建结构体-修改全局变量-修改局部变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建结构体-修改全局变量-修改局部变量&#34;&gt;#&lt;/a&gt; 创建结构体、修改全局变量、修改局部变量&lt;/h2&gt;
+&lt;p&gt;当我们分析出了一个结构体，但 IDA 中并没有识别出这个结构体，那我们就要自己添加结构体了。&lt;/p&gt;
+&lt;p&gt;点开 &lt;code&gt;structures&lt;/code&gt;  视图窗口&lt;/p&gt;
+&lt;p&gt;然后选择添加结构体类型&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;随便起个名字叫 CCCC&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image023.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;在结构体中添加成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在结构体中添加成员&#34;&gt;#&lt;/a&gt; 在结构体中添加成员&lt;/h3&gt;
+&lt;p&gt;按 &lt;code&gt;D&lt;/code&gt;  键&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image024.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这个结构体成员的名字和类型都是可以改的，修改类型可以接着按 &lt;code&gt;D&lt;/code&gt;  键，修改名字按 &lt;code&gt;N&lt;/code&gt;  键&lt;/p&gt;
+&lt;h3 id=&#34;如果结构体的成员也是一个结构体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如果结构体的成员也是一个结构体&#34;&gt;#&lt;/a&gt; 如果结构体的成员也是一个结构体&lt;/h3&gt;
+&lt;p&gt;新增一个成员后，按 &lt;code&gt;ALT + Q&lt;/code&gt;  就会列出当前已经记录的结构体&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image025.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;如果第三个成员是dword数组&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如果第三个成员是dword数组&#34;&gt;#&lt;/a&gt; 如果第三个成员是 DWORD 数组&lt;/h3&gt;
+&lt;p&gt;先新建一个 DWORD 类型的成员，然后右键选择数组，输入数组的大小确定。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image026.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;image027.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;结果：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image028.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改全局变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改全局变量&#34;&gt;#&lt;/a&gt; 修改全局变量&lt;/h3&gt;
+&lt;p&gt;创建这个结构体后，我们就可以在 IDA 中引用这个结构体了&lt;/p&gt;
+&lt;p&gt;这是一个 IDA 自己识别的一个全局变量&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image029.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;双击跟进去查看&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image030.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发现它是一个 &lt;code&gt;dd&lt;/code&gt;  类型的变量，我们假设它的类型是一个结构体，那我们把它的类型改为我们创建的结构体，按 &lt;code&gt;ALT + Q&lt;/code&gt;  选择结构体。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image031.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;变量的名字也是可以改的&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image032.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;可以发现我们已经修改了全局变量的类型，并且 IDA 也自动识别了用的是结构体中的那个成员。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image033.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改局部变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改局部变量&#34;&gt;#&lt;/a&gt; 修改局部变量&lt;/h3&gt;
+&lt;p&gt;比如我们发现这个 ebx 就是一个结构体，那我们选中它后按 &lt;code&gt;T&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image034.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image035.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这样我们就在局部变量里面引用了自己定义的结构体&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image036.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;注释&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注释&#34;&gt;#&lt;/a&gt; 注释&lt;/h2&gt;
+&lt;p&gt;IDA 里面的注释是非常重要的。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直接按 &lt;code&gt;;&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;image037.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这种注释有一个特点就是：任何往这个地方跳的地方，IDA 都会在那个地方再显示一份，这有好处也有坏处，你希望它显示那它就是好的，你不希望它显示那它就是不好，显示的话如果注释多了，就会显得特别乱。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image038.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;code&gt;:&lt;/code&gt;  注释&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;冒号注释，只显示一次。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image039.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;像正向写代码一样给函数写注释&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;选中函数名，按&lt;strong&gt;注释命令&lt;/strong&gt;就可以像正向写代码一样给函数写注释描绘函数的基本特征，并且会生成在汇编指令上方。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image040.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;交叉引用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#交叉引用&#34;&gt;#&lt;/a&gt; 交叉引用&lt;/h2&gt;
+&lt;p&gt;这也是逆向分析中经常用到的功能。&lt;/p&gt;
+&lt;p&gt;当我们想知道一个函数都被哪里引用的时候可以看这里&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image041.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;但是这里显示的并不全。&lt;/p&gt;
+&lt;p&gt;我们可以选中这个函数名，在工具栏中打开交叉引用视图窗口&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image042.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里就会显示出所有引用这个函数的地方&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image043.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;上面演示的是一个函数的交叉引用，变量也可以被查看在哪里被引用了。&lt;/p&gt;
+&lt;h2 id=&#34;练习说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#练习说明&#34;&gt;#&lt;/a&gt; 练习说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;掌握 IDA 基本操作&lt;/li&gt;
+&lt;li&gt;汇编逆向 C 语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SiCore.sys 文件整理。&lt;br /&gt;
+把每一个函数的汇编转换为 C 代码。&lt;/p&gt;
+</content>
+        <category term="IDA" />
+        <updated>2021-08-18T13:17:52.000Z</updated>
+    </entry>
+</feed>

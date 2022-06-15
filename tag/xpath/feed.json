@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"xpath\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Learning-from-xpath/",
+            "url": "https://or0kit.github.io/Learning-from-xpath/",
+            "title": "Learning from xpath",
+            "date_published": "2020-12-28T09:50:52.000Z",
+            "content_html": "<h1 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h1>\n<p>以前学过，用到的时候才发现忘的差不多了。总结一下吧。</p>\n<h1 id=\"认识xpath\"><a class=\"anchor\" href=\"#认识xpath\">#</a> 认识 XPath</h1>\n<h2 id=\"什么是xpath\"><a class=\"anchor\" href=\"#什么是xpath\">#</a> 什么是 XPath</h2>\n<ol>\n<li>解析 XML 的一种语言（HTML 其实是 XML 的子集），广泛用于解析 HTML 数据</li>\n<li>几乎所有语言都能使用 XPath<br />\n<img data-src=\"image001.png\" alt=\"\" /></li>\n<li>除了 XPath 还有其他手段用于 XML 解析，比如：BeautifulSoup、lxml、DOM、SAX、JSDOM、DOM4J、minixml 等。</li>\n</ol>\n<h2 id=\"xpath语法\"><a class=\"anchor\" href=\"#xpath语法\">#</a> XPath 语法</h2>\n<p>XPath 语法其实只有 3 大分类：</p>\n<ul>\n<li>层级：/ 直接子级、 // 跳级</li>\n<li>属性：@ 属性访问</li>\n<li>函数： contains ()、 text ()、extract () 等</li>\n</ul>\n<p>了解一些常用的就够了，其他的需要时可以百度</p>\n<h1 id=\"使用xpath\"><a class=\"anchor\" href=\"#使用xpath\">#</a> 使用 XPath</h1>\n<ol>\n<li>\n<p>在浏览器中使用 Xpath</p>\n</li>\n<li>\n<p>在 scrapy 中使用 XPath</p>\n</li>\n</ol>\n<h1 id=\"额外了解到的知识\"><a class=\"anchor\" href=\"#额外了解到的知识\">#</a> 额外了解到的知识</h1>\n<p>json 是一种数据格式<br />\n jsonp 是一种数据调用的方式。</p>\n<p>你可以简单的理解为 带 callback 的 json 就是 jsonp.</p>\n<h1 id=\"参考\"><a class=\"anchor\" href=\"#参考\">#</a> 参考</h1>\n<p>B 站的视频，看了就会了，挺不错的。</p>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW1XNDExRDd3Qz9mcm9tPXNlYXJjaCZhbXA7c2VpZD0xMzUxNTc2MzI0NTU4NDA2MDQx\">https://www.bilibili.com/video/BV1mW411D7wC?from=search&amp;seid=1351576324558406041</span></p>\n",
+            "tags": [
+                "xpath"
+            ]
+        }
+    ]
+}

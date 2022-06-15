@@ -1,0 +1,938 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;硬编码&#34; category</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2022-04-11T02:24:20.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/Assembly/HardCode/%E7%A1%AC%E7%BC%96%E7%A0%81-Intel%E6%8C%87%E4%BB%A4%E7%BC%96%E7%A0%81%E7%BB%93%E6%9E%84/</id>
+        <title>硬编码-Intel指令编码结构</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/Assembly/HardCode/%E7%A1%AC%E7%BC%96%E7%A0%81-Intel%E6%8C%87%E4%BB%A4%E7%BC%96%E7%A0%81%E7%BB%93%E6%9E%84/"/>
+        <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;之前看过，不过并没有总结，今天总结一下，以后有时间了，写一个反汇编引擎。&lt;br /&gt;
+学习 Intel 的硬编码指令格式主要就是查表了，记住那几张表就好了。&lt;/p&gt;
+&lt;h1 id=&#34;什么是硬编码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是硬编码&#34;&gt;#&lt;/a&gt; 什么是硬编码&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在计算机上程序不过是一堆二进制数字，其想要运行起来，即被 CPU 当成指令执行，是要遵循 Intel 的指令格式。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;每一条指令，最短 1 字节，最长 15 字节&lt;/p&gt;
+&lt;p&gt;1、Intel 对指令参数的设计了一种表示方式，格式是 Zz 一个大写字母加上一个小写字母。&lt;/p&gt;
+&lt;p&gt;2、大写字母表示寻找方式编码（寄存器，ModR/M，跳转相对地址，16:32 地址格式等等），从 A-Z 共 26 种.&lt;/p&gt;
+&lt;p&gt;3、小写字母表示操作数的类型（byte，word，dword，fword 等等不定，根据 cpu 模式或改写指令决定）&lt;br /&gt;
+z 有大约十几种表示方式。&lt;/p&gt;
+&lt;p&gt;4、他们的组合再加上纯寄存器表示了 intel 的所有操作对象。&lt;/p&gt;
+&lt;p&gt;具体参见 Intel 开发手卷第 2 卷的 1467 页。有详细的介绍。&lt;/p&gt;
+&lt;h1 id=&#34;经典定长指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典定长指令&#34;&gt;#&lt;/a&gt; 经典定长指令&lt;/h1&gt;
+&lt;h2 id=&#34;会修改寄存器的定长指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#会修改寄存器的定长指令&#34;&gt;#&lt;/a&gt; 会修改寄存器的定长指令。&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;PUSH/POP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0x50 	PUSH EAX&lt;br /&gt;
+0x51 	PUSH ECX&lt;br /&gt;
+0x52 	PUSH EDX&lt;br /&gt;
+0x53 	PUSH EBX&lt;br /&gt;
+0x54 	PUSH ESP&lt;br /&gt;
+0x55 	PUSH EBP&lt;br /&gt;
+0x56 	PUSH ESI&lt;br /&gt;
+0x57 	PUSH EDI&lt;/p&gt;
+&lt;p&gt;0x58	POP EAX&lt;br /&gt;
+0x59	POP ECX&lt;br /&gt;
+0x5A	POP EDX&lt;br /&gt;
+0x5B 	POP EBX&lt;br /&gt;
+0x5C 	POP ESP&lt;br /&gt;
+0x5D 	POP EBP&lt;br /&gt;
+0x5E	POP ESI&lt;br /&gt;
+0x5F 	POP EDI&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;INC/DEC：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0x40 - 0x47		INC ERX&lt;br /&gt;
+0x48 - 0x4F		DEC ERX&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;MOV Rb, Ib&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0xb0 - 0xb7		MOV Rb, Ib&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;MOV ERX, Id&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0xb8 - 0xbF		MOV ERX, Id&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;XCHG EAX, ERX&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0x90 - 0x97		XCHG EAX, ERX&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;以下的这些知识在 Intel 白皮书上都有，在此做个总结。&lt;/p&gt;
+&lt;h3 id=&#34;特点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特点&#34;&gt;#&lt;/a&gt; 特点&lt;/h3&gt;
+&lt;p&gt;1、记住 32 位、16、8 位的通用寄存器，按照顺序记住.&lt;/p&gt;
+&lt;p&gt;EAX ECX EDX EBX ESP EBP ESI EDI&lt;br /&gt;
+AX CX DX BX SP BP SI DI&lt;br /&gt;
+AL CL DL BL&lt;br /&gt;
+AH CH DH BH&lt;/p&gt;
+&lt;p&gt;SP BP SI DI 的低 8 位是不能用的，但在 64 位中可以使用分割出的 spl bpl sil dil。&lt;/p&gt;
+&lt;p&gt;2、将操作数编码到指令当中&lt;/p&gt;
+&lt;h3 id=&#34;读表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读表&#34;&gt;#&lt;/a&gt; 读表&lt;/h3&gt;
+&lt;p&gt;1、i64/o64/d64&lt;/p&gt;
+&lt;p&gt;i64：64 位无效&lt;/p&gt;
+&lt;p&gt;o64：只 64 位有效&lt;/p&gt;
+&lt;p&gt;d64：64 位模式下，操作数宽度默认为 64 位&lt;/p&gt;
+&lt;p&gt;2、关于寄存器&lt;/p&gt;
+&lt;p&gt;(1) 当操作码需要使用寄存器做为操作数时，寄存器的名字说明其宽度是 64、32、16、8 位.&lt;/p&gt;
+&lt;p&gt;(2) eXX 比如 eAX 可以表示 AX EAX&lt;/p&gt;
+&lt;p&gt;(3) rXX 比如 rAX 可以表示 AX EAX RAX&lt;/p&gt;
+&lt;h2 id=&#34;会修改eip的定长指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#会修改eip的定长指令&#34;&gt;#&lt;/a&gt; 会修改 EIP 的定长指令&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;0x70 - 0x7F&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;条件跳转，后跟一个字节立即数的偏移 (有符号)，共两个字节。&lt;/p&gt;
+&lt;p&gt;如果条件成立，跳转到 当前指令地址 + 当前指令长度 + Ib&lt;/p&gt;
+&lt;p&gt;最大值：向前跳 7f，向后跳 80&lt;/p&gt;
+&lt;p&gt;0x70  JO&lt;br /&gt;
+0x71	JNO&lt;br /&gt;
+0x72	JB/JNAE/JC&lt;br /&gt;
+0x73	JNB/JAE/JNC&lt;br /&gt;
+0x74	JZ/JE&lt;br /&gt;
+0x75	JNZ/JNE&lt;br /&gt;
+0x76	JBE/JNA&lt;br /&gt;
+0x77	JNBE/JA&lt;br /&gt;
+0x78	JS&lt;br /&gt;
+0x79	JNS&lt;br /&gt;
+0x7A	JP/JPE&lt;br /&gt;
+0x7B	JNP/JPO&lt;br /&gt;
+0x7C	JL/JNGE&lt;br /&gt;
+0x7D	JNL/JGE&lt;br /&gt;
+0x7E	JLE/JNG&lt;br /&gt;
+0x7F	JNLE/JG&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;0x0F 0x80 - 0x0F 0x8F&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;条件跳转，后跟四个字节立即数的偏移 (有符号)，共五个字节。&lt;/p&gt;
+&lt;p&gt;如果条件成立，跳转到 当前指令地址 + 当前指令长度 + Id&lt;/p&gt;
+&lt;p&gt;最大值：向前跳 7FFFFFFFF，向后跳 80000000&lt;/p&gt;
+&lt;p&gt;0x0F 0x80  	JO&lt;br /&gt;
+0x0F 0x81		JNO&lt;br /&gt;
+0x0F 0x82		JB/JNAE/JC&lt;br /&gt;
+0x0F 0x83		JNB/JAE/JNC&lt;br /&gt;
+0x0F 0x84		JZ/JE&lt;br /&gt;
+0x0F 0x85		JNZ/JNE&lt;br /&gt;
+0x0F 0x86		JBE/JNA&lt;br /&gt;
+0x0F 0x87		JNBE/JA&lt;br /&gt;
+0x0F 0x88		JS&lt;br /&gt;
+0x0F 0x89		JNS&lt;br /&gt;
+0x0F 0x8A		JP/JPE&lt;br /&gt;
+0x0F 0x8B		JNP/JPO&lt;br /&gt;
+0x0F 0x8C		JL/JNGE&lt;br /&gt;
+0x0F 0x8D		JNL/JGE&lt;br /&gt;
+0x0F 0x8E		JLE/JNG&lt;br /&gt;
+0x0F 0x8F		JNLE/JG&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;其他指令&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0xE0  	LOOPNE/LOOPNZ Ib (Jb)			共 2 字节&lt;br /&gt;
+ ECX = ECX - 1  当 ZF = 0 &amp;amp;&amp;amp; ECX!=0 时跳转到 当前指令地址 + 当前指令长度 + Ib&lt;/p&gt;
+&lt;p&gt;0XE1     	LOOPE/LOOPZ Ib (Jb)			共 2 字节&lt;br /&gt;
+ ECX = ECX - 1  当 ZF = 1 &amp;amp;&amp;amp; ECX != 0 时跳转到 当前指令地址 + 当前指令长度 + Ib&lt;/p&gt;
+&lt;p&gt;0XE2	LOOP Ib (Jb)			共 2 字节&lt;br /&gt;
+ ECX = ECX - 1  当 ECX!=0 时跳转到 当前指令地址 + 当前指令长度 + Ib&lt;/p&gt;
+&lt;p&gt;0XE3	JrCXZ Ib (Jb) (在 32 位模式中，rCX 为 ECX)					共 2 字节&lt;br /&gt;
+当 ECX = 0 时跳转到 当前指令地址 + 当前指令长度 + Ib&lt;br /&gt;
+ (自己控制步长)&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;0xE8	CALL Id (Jd)  		共 5 字节&lt;br /&gt;
+ CALL 指令的下一条指令地址入栈后，跳转到 当前指令地址 + 当前指令长度 + Id&lt;/p&gt;
+&lt;p&gt;0xE9	JMP Id (Jd)		共 5 字节&lt;br /&gt;
+跳转到 当前指令地址 + 当前指令长度 + Id&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8 个段寄存器： ES CS SS DS FS GS LDTR TR (顺序固定)(段寄存器实际是个结构体，共 96 位，其中仅 16 位是汇编指令可以访问到的）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;0xEA	JMP Ap （Ap：六字节长度的直接地址）				共 7 字节&lt;br /&gt;
+ JMP CS:Id  将 Ap 中的高 2 位赋值给 CS，低 4 位直接赋值给 EIP， 即跳转&lt;/p&gt;
+&lt;p&gt;EA 12345678 1B00     JMP FAR 001B:78563412&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;0xEB	JMP Ib (Jb) （短跳）&lt;br /&gt;
+跳转到 当前指令地址 + 当前指令长度 + Ib&lt;/p&gt;
+&lt;p&gt;0xC3 	RET	共 1 字节&lt;br /&gt;
+ EIP 出栈&lt;/p&gt;
+&lt;p&gt;0xC2	RET Iw	共 3 字节&lt;br /&gt;
+ EIP 出栈后，ESP = ESP + Iw&lt;/p&gt;
+&lt;p&gt;0XCB	RETF （return far） 共 1 字节&lt;br /&gt;
+出栈 8 个字节，低 4 个字节赋值给 EIP, 高 4 个字节中低 2 位赋值给 CS&lt;/p&gt;
+&lt;p&gt;0xCA	RETF Iw	共 3 字节&lt;br /&gt;
+出栈 8 个字节，低 4 个字节赋值给 EIP, 高 4 个字节中低 2 位赋值给 CS 后，ESP = ESP + Iw&lt;/p&gt;
+&lt;p&gt;ret  -&amp;gt; pop eip&lt;br /&gt;
+retf -&amp;gt; pop eip, pop cs&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image011.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;经典变长指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典变长指令&#34;&gt;#&lt;/a&gt; 经典变长指令&lt;/h1&gt;
+&lt;h2 id=&#34;经典变长指令之modrm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典变长指令之modrm&#34;&gt;#&lt;/a&gt; 经典变长指令之 ModR/M&lt;/h2&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;0x88  MOV Eb, Gb			G：通用寄存器&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;0x89	MOV Ev, Gv			E：寄存器 &amp;#x2F; 内存&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;0x8A	MOV Gb, Eb			b：字节&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;0x8B	MOV Gv, Ev			v：Word, doubleword or quadword&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;当指令中出现内存操作对象的时候，就需要在操作码后面附加一个字节来进行补充说明，这个字节被称为 ModR/M。			&lt;br /&gt;
+该字节的 8 个比特位被分成了三部分：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;7-6&lt;/th&gt;
+&lt;th&gt;5-3&lt;/th&gt;
+&lt;th&gt;2-0&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mod&lt;/td&gt;
+&lt;td&gt;Reg/Opcode&lt;/td&gt;
+&lt;td&gt;R/M&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;其中，Reg/Opcode (第 3、4、5 位，共 3 个字节) 描述指令中的 G 部分，即寄存器&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;寄存器宽度&lt;/th&gt;
+&lt;th&gt;000&lt;/th&gt;
+&lt;th&gt;001&lt;/th&gt;
+&lt;th&gt;010&lt;/th&gt;
+&lt;th&gt;011&lt;/th&gt;
+&lt;th&gt;100&lt;/th&gt;
+&lt;th&gt;101&lt;/th&gt;
+&lt;th&gt;110&lt;/th&gt;
+&lt;th&gt;111&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;td&gt;EAX&lt;/td&gt;
+&lt;td&gt;ECX&lt;/td&gt;
+&lt;td&gt;EDX&lt;/td&gt;
+&lt;td&gt;EBX&lt;/td&gt;
+&lt;td&gt;ESP&lt;/td&gt;
+&lt;td&gt;EBP&lt;/td&gt;
+&lt;td&gt;ESI&lt;/td&gt;
+&lt;td&gt;EDI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;AL&lt;/td&gt;
+&lt;td&gt;CL&lt;/td&gt;
+&lt;td&gt;DL&lt;/td&gt;
+&lt;td&gt;BL&lt;/td&gt;
+&lt;td&gt;AH&lt;/td&gt;
+&lt;td&gt;CH&lt;/td&gt;
+&lt;td&gt;DH&lt;/td&gt;
+&lt;td&gt;BH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Mod (第 6、7 位) 和 R/M (第 0、1、2 位) 共同描述指令中的 E 部分，即寄存器 / 内存&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;那么，这 8 个位具体是如何工作的呢，Inter 操作手册给出了一张表&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image012.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;以下内容就是解释这个表。&lt;/p&gt;
+&lt;p&gt;前面我们已经讨论了 Reg/Opcode 部分 (即 3、4、5 位) 是怎样描述寄存器的		&lt;br /&gt;
+接下来我们重点说一下 Mod 和 R/M 是怎样合作描述寄存器 / 内存的&lt;/p&gt;
+&lt;h3 id=&#34;mod-00&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mod-00&#34;&gt;#&lt;/a&gt; Mod = 00&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;当 Mod = 00 时，ModR/M 字节通过寄存器直接进行内存寻址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例如当操作指令为 88 01 时，其对应的汇编为 MOV BYTE PTR DS:[ECX], AL&lt;/p&gt;
+&lt;p&gt;88 是操作指令，其后跟随的 01 为 ModR/M&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image014.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;0x88 描述了操作数宽度为 b (byte)，且操作数的顺序为 Eb Gb，所以这条汇编指令为 MOV BYTE PTR DS:[ECX], AL&lt;/p&gt;
+&lt;p&gt;同理可以分析出如下操作指令对应的汇编指令&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8801 | mov byte ptr ds:[ecx],al&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8901 | mov dword ptr ds:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8A01 | mov al,byte ptr ds:[ecx]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8B01 | mov eax,dword ptr ds:[ecx]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;需要注意的：&lt;br /&gt;
+&lt;strong&gt;ESP 指向栈顶，是浮动的，不确定的，Inter 将这个编码废弃，由另外的格式来说明。&lt;/strong&gt;	&lt;br /&gt;
+&lt;strong&gt;EBP 指向栈底，而 [EBP] 通常存储上一个 EBP，所以 [EBP] 无数据操作意义，Inter 将这个编码废弃，改为立即数寻址。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例如 88 05 12 34 56 78 的汇编指令为 MOV BYTE PTR DS:[78563412], AL&lt;/p&gt;
+&lt;p&gt;在 Intel 白皮书中 2-2 的表中可以看到对其有解释当 ModR/M 为 05 0D 15 1D 25 2D 35 3D…… 时，这个指令的后面还会接着取 4 个字节。&lt;/p&gt;
+&lt;p&gt;例如：&lt;br /&gt;
+882578563412 -&amp;gt; mov byte ptr ds:[0x12345678],ah&lt;br /&gt;
+892578563412 -&amp;gt; mov dword ptr ds:[0x12345678],esp&lt;/p&gt;
+&lt;h3 id=&#34;mod-01&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mod-01&#34;&gt;#&lt;/a&gt; Mod = 01&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;当 Mod = 01 时，ModR/M 字节通过寄存器 + I8 进行内存寻址 (I 为立即数，即 8 位立即数)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例如当操作指令为 88 41 12 时，其对应的汇编为 MOV BYTE PTR DS:[ECX+12],AL&lt;br /&gt;
+88 是操作指令，其后跟随的 41 为 ModR/M&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image015.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;所以这条汇编指令为 MOV BYTE PTR DS:[ECX+12],AL&lt;/p&gt;
+&lt;p&gt;同理可以分析出如下操作指令对应的汇编指令&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8841 12 | mov byte ptr ds:[ecx+12],al  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8941 12 | mov dword ptr ds:[ecx+12],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8A41 12 | mov al,byte ptr ds:[ecx+12]  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8B41 12 | mov eax,dword ptr ds:[ecx+12]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;当 R/M = 100 时 (即 ESP)，该指令编码废弃，修改为其他含义，既 SIB，后面再一起总结。&lt;/p&gt;
+&lt;h3 id=&#34;mod-10&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mod-10&#34;&gt;#&lt;/a&gt; Mod = 10&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;当 Mod = 10 时，ModR/M 字节通过寄存器 + I32 进行内存寻址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例如当操作指令为 88 81 12 34 56 78 时，其对应的汇编为 MOV BYTE PTR DS:[ECX+78563412],AL&lt;/p&gt;
+&lt;p&gt;88 是操作指令，其后跟随的 81 为 ModR/M&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;所以这条汇编指令为 MOV BYTE PTR DS:[ECX+78563412],AL&lt;/p&gt;
+&lt;p&gt;同理可以分析出如下操作指令对应的汇编指令&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8881 78563412 | mov byte ptr ds:[ecx+12345678],al  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8981 78563412 | mov dword ptr ds:[ecx+12345678],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8A81 78563412 | mov al,byte ptr ds:[ecx+12345678]  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8B81 78563412 | mov eax,dword ptr ds:[ecx+12345678]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;当 R/M = 100 时 (即 ESP)，该指令编码废弃，修改为其他含义，既 SIB，后面再一起总结。&lt;/p&gt;
+&lt;h3 id=&#34;mod-11&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mod-11&#34;&gt;#&lt;/a&gt; Mod = 11&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;当 Mod = 11 时，ModR/M 字节直接操作两个寄存器&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例如当操作指令为 88 C1 时，其对应的汇编为 MOV CL,AL&lt;/p&gt;
+&lt;p&gt;88 是操作指令，其后跟随的 C1 为 ModR/M&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image017.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;所以这条汇编指令为 MOV CL,AL&lt;/p&gt;
+&lt;p&gt;同理可以分析出如下操作指令对应的汇编指令&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;88C1 | mov cl,al   &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;89C1 | mov ecx,eax &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8AC1 | mov al,cl   &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8BC1 | mov eax,ecx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;经典变长指令-regopcode&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典变长指令-regopcode&#34;&gt;#&lt;/a&gt; 经典变长指令 Reg/Opcode&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;7-6&lt;/th&gt;
+&lt;th&gt;5—3&lt;/th&gt;
+&lt;th&gt;2-0&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mod&lt;/td&gt;
+&lt;td&gt;Reg/Opcode&lt;/td&gt;
+&lt;td&gt;R/M&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;在上面，3-5 位用来标识寄存器，Mod 字段 与 R/M 字段共同用来标识寄存器与内存&lt;/p&gt;
+&lt;p&gt;但 3-5 字段，并不仅仅用来标识寄存器，有些时候，用来标识 Opcode&lt;/p&gt;
+&lt;p&gt;参见 Table A-2 中 ：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image018.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;80 81 82 83 这几个编码并没有给出具体的操作码。&lt;/p&gt;
+&lt;p&gt;这里要注意：&lt;strong&gt;凡是出现 Grp 的，均参见 TableA-6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;举例说明：&lt;/p&gt;
+&lt;p&gt;80 65 08 FF&lt;/p&gt;
+&lt;p&gt;查表步骤：&lt;/p&gt;
+&lt;p&gt;1、第一个字节为 80 查 Table-2 表，得到对应结构：Eb,Ib&lt;/p&gt;
+&lt;p&gt;2、第二个字节为 ModR/M 字段，所以查分 65:&lt;/p&gt;
+&lt;p&gt;01 100 101&lt;/p&gt;
+&lt;p&gt;Mod 与 R/M 字段 查 Table2-2 得到对应的结构：[EBP+DIS8]&lt;/p&gt;
+&lt;p&gt;3、100 字段 查表 TableA-6 得到对应操作码为：AND&lt;/p&gt;
+&lt;p&gt;4、最终的指令格式：&lt;/p&gt;
+&lt;p&gt;AND [ebp+dis8],Ib&lt;/p&gt;
+&lt;p&gt;AND BYTE PTR SS:[EBP+08],0xFF&lt;/p&gt;
+&lt;h2 id=&#34;经典变长指令之sib字段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典变长指令之sib字段&#34;&gt;#&lt;/a&gt; 经典变长指令之 SIB 字段&lt;/h2&gt;
+&lt;p&gt;ModR/M 字段是用来进行内存寻址的，可当地址形如 DS:[EAX + ECX*2 + 12345678] 时，仅仅靠 ModR/M 字段，是描述不出来的。								&lt;br /&gt;
+这时就在 ModR/M 后面增加一个 SIB 字节，与 ModR/M 字段共同描述。&lt;/p&gt;
+&lt;p&gt;下图是前面没有涉及到的三种情况。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Address&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Mod&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;R/M&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;[--][--]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;00&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;[--][--]+disp8&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;[--][--]+disp32&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;这三种情况表示，在 ModR/M 字节后，还紧跟着一个 SIB 字节。SIB 字节的 8 个位被分成了三部分：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;7—6&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;5-3&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;2-0&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Scale&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Index&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Base&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;在例子 DS:[EAX + ECX*2 + 12345678] 中， Scale 描述 21， Index 描述 ECX, Base 描述 EAX，而 12345678 由 ModR/M 字段决定。										&lt;br /&gt;
+所以 SIB 字段描述的方式为：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Base + Index*2^Scale&lt;/code&gt;  (Scale 描述 2Scale，所以只能为 *1 *2 *4 *8)&lt;/p&gt;
+&lt;h3 id=&#34;例子分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#例子分析&#34;&gt;#&lt;/a&gt; 例子分析&lt;/h3&gt;
+&lt;p&gt;下面我们通过分析指令，来看看 SIB 是怎么工作的&lt;/p&gt;
+&lt;p&gt;MOV BYTE PTR DS:[EAX+ECX*2+78563412],AL&lt;/p&gt;
+&lt;p&gt;操作码&lt;/p&gt;
+&lt;p&gt;这条指令的原型为 MOV Eb Gb, 所以操作码为 0x88。且操作数中有 Eb，所以必然存在 ModR/M 字段&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ModR/M 字节&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1、Gb 为 AL，所以 Reg/Opcode 部分为 000&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mod&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Reg/Opcode&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;R/M&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 0 0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;2、内存地址为 寄存器 + I32 的格式，所以 Mod 部分为 10，偏移为 78563412&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mod&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Reg/Opcode&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;R/M&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1 0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;3、内存地址中寄存器部分多个寄存器，即在 ModR/M 字节后，还跟着一个 SIB 字节，所以 R/M 部分为 100&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Mod&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Reg/Opcode&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;R/M&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1 0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1 0 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;由此，ModR/M 字节为 0x84&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SIB 字节&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1、DS:[EAX+ECX*2+78563412] 中，Base 对应着 EAX，所以 Base 部分为 000&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Scale&lt;/th&gt;
+&lt;th&gt;Index&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Base&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 0 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;2、Index 对应着 ECX，所以 Index 部分为 001&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Scale&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Index&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Base&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 0 1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 0 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;3、Scale 对应着 21，所以 Scale 部分为 01&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Scale&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Index&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Base&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 1 0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 0 1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0 0 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;由此，SIB 字节为 0x48&lt;/p&gt;
+&lt;p&gt;以上总结为：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image020.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;由上，可得出指令编码为 88 84 48， 再加上偏移 12345678，完整的指令编码为 88 84 48 12 34 56 78&lt;/p&gt;
+&lt;p&gt;在 xdbg 中查看：&lt;/p&gt;
+&lt;p&gt;888448 12345678 | mov byte ptr ds:[eax+ecx*2+78563412],al&lt;/p&gt;
+&lt;p&gt;无误！&lt;/p&gt;
+&lt;p&gt;SIB 字段的图表如下&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image013.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;1、当 Index = 100b 时，Index 被 0 替代，此时只有 Base 有效&lt;/p&gt;
+&lt;p&gt;2、当 Base = 101b 时，Base 被 0 替代，此时只用 Index 有效&lt;/p&gt;
+&lt;p&gt;作业：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;89 2C 15&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;89 mov Ev, Gv&lt;/p&gt;
+&lt;p&gt;2C --&amp;gt; 00 101 100&lt;/p&gt;
+&lt;p&gt;Mod 0 Reg/Opcode 5 R/M 4&lt;/p&gt;
+&lt;p&gt;Reg/Opcode 5 --&amp;gt;  mov Ev, ebp&lt;/p&gt;
+&lt;p&gt;Mod 0 R/M 4 --&amp;gt; SIB --&amp;gt;  mov [-][-],ebp&lt;/p&gt;
+&lt;p&gt;15 --&amp;gt; 00 010 101&lt;/p&gt;
+&lt;p&gt;Scale 0 Index 2 Base 5&lt;/p&gt;
+&lt;p&gt;Base 5 Mod 0 --&amp;gt; [Scale Index]+ dip32&lt;/p&gt;
+&lt;p&gt;[Scale Index] --&amp;gt; Scale 0 Index 2  --&amp;gt; [edx]&lt;/p&gt;
+&lt;p&gt;mov [edx+dip32],ebp&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;89AC15&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;89 mov Ev, Gv&lt;/p&gt;
+&lt;p&gt;AC --&amp;gt; 10 101 100&lt;/p&gt;
+&lt;p&gt;Mod 2 Reg/Opcode 5 R/M 4&lt;/p&gt;
+&lt;p&gt;Reg/Opcode 5 --&amp;gt;  mov Ev, ebp&lt;/p&gt;
+&lt;p&gt;Mod 0 R/M 4 --&amp;gt; SIB --&amp;gt;  mov [-][-],ebp&lt;/p&gt;
+&lt;p&gt;15 --&amp;gt; 00 010 101&lt;/p&gt;
+&lt;p&gt;Scale 0 Index 2 Base 5&lt;/p&gt;
+&lt;p&gt;Base 5 Mod 2 --&amp;gt; [Scale Index] + dip32 + [EBP]&lt;/p&gt;
+&lt;p&gt;[Scale Index] --&amp;gt; Scale 0 Index 2  --&amp;gt; [edx]&lt;/p&gt;
+&lt;p&gt;mov [edx+ebp+dip32],ebp&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;898461&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;89 mov Ev,Gv&lt;/p&gt;
+&lt;p&gt;84 --&amp;gt; 10 000 100&lt;/p&gt;
+&lt;p&gt;Mod 2 Reg/Opcode 0 R/M 4&lt;/p&gt;
+&lt;p&gt;Reg/Opcode 0 --&amp;gt; mov Ev,eax&lt;/p&gt;
+&lt;p&gt;Mod 2 R/M 4 --&amp;gt; SIB --&amp;gt; mov SIB+dip32 ,eax&lt;/p&gt;
+&lt;p&gt;SIB 的描述为：  &lt;code&gt;Base + Index*2^Scale&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;61 --&amp;gt; 01 100 001&lt;/p&gt;
+&lt;p&gt;Scale 1 Index 4 Base 1&lt;/p&gt;
+&lt;p&gt;Base 1 --&amp;gt; ecx&lt;/p&gt;
+&lt;p&gt;Scale 1 Index 4 --&amp;gt; none&lt;/p&gt;
+&lt;p&gt;所以 SIB 为 ecx&lt;/p&gt;
+&lt;p&gt;mov [ecx+dip32],eax&lt;/p&gt;
+&lt;h1 id=&#34;指令前缀&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指令前缀&#34;&gt;#&lt;/a&gt; 指令前缀&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;段前缀：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;段寄存器的作用：早期 8086cpu 寻址范围小，Inter 便通过段寄存器来拓展内存。即通过段寄存器基址 + 偏移的方式来寻址。&lt;/p&gt;
+&lt;p&gt;[] 中的地址为有效地址 (Effect Address)，有效地址 + 段寄存器基址才是实际地址 LA (线性地址 Line Address)。&lt;/p&gt;
+&lt;p&gt;线性地址 = 段基址 + 有效地址&lt;/p&gt;
+&lt;p&gt;在后来的 80386 时，cpu 的寻址范围大大提升，这些段寄存器便被用作了其他用途。但是 DS:[] 类似&lt;/p&gt;
+&lt;p&gt;这种寻址格式却被保留了下来。&lt;/p&gt;
+&lt;p&gt;实际上操作码已经决定了寻址时使用哪个段寄存器作为基址，不需要其他字节描述。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1、如果没有特别说明，[] 前为 DS，即 DS:[]	&lt;br /&gt;
+2、PUSH POP 指令，以及在 [] 中使用 ESP/EBP 的，使用 SS 段	&lt;br /&gt;
+3、在 [Base + Index*2Scale + I] 中，以 Base 为判断条件，没有特别说明，用 DS。如果 Base 为 ESP/EBP，则用 SS 段.	&lt;br /&gt;
+4、串操作指令一般使用 ES。MOV ES:[EDI] DS:[ESI] 中，目标 EDI 使用 ES 段，其他使用 DS 段.	&lt;br /&gt;
+5、EIP 指向当前指令，EIP 取指令时使用的是 CS 段.	&lt;br /&gt;
+6、如果指令加段寄存器前缀，则该条指令一律用这个段，如果加多个段寄存器前缀，默认只看 op 前的那个.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;26 - es&lt;br /&gt;
+2e - cs&lt;br /&gt;
+36 - ss&lt;br /&gt;
+3e - ds&lt;br /&gt;
+64 - fs&lt;br /&gt;
+65 - gs&lt;/p&gt;
+&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 898461 00000000    | mov dword ptr ds:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 26:898461 00000000 | mov dword ptr es:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 2E:898461 00000000 | mov dword ptr cs:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 36:898461 00000000 | mov dword ptr ss:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 3E:898461 00000000 | mov dword ptr ds:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 64:898461 00000000 | mov dword ptr fs:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;| 65:898461 00000000 | mov dword ptr gs:[ecx],eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;操作指令前缀&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0x66 	将操作数改为 16 字节。&lt;/p&gt;
+&lt;p&gt;例子 50 为 PUSH EAX, 而 66 50 则为 PUSH AX&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;50    PUSH EAX	&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;66:50 PUSH AX&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;操作指令前缀：修改默认寻址方式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;0x67 	将操作数改为 16 字节。&lt;/p&gt;
+&lt;p&gt;例子 50 为 PUSH EAX, 而 66 50 则为 PUSH AX&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;8801          MOV BYTE PTR DS:[ECX],AL	&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;67:8801       MOV BYTE PTR DS:[BX+DI],AL&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;指令前缀更多信息参见 Intel 白皮书第 2 卷的 2.1.1&lt;/p&gt;
+&lt;h1 id=&#34;硬编码总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬编码总结&#34;&gt;#&lt;/a&gt; 硬编码总结&lt;/h1&gt;
+&lt;p&gt;1、操作码决定后面有没有 ModR/M 字段和立即数&lt;/p&gt;
+&lt;p&gt;2、ModR/M 决定后面有没有 SIB 字节和偏移&lt;/p&gt;
+&lt;p&gt;3、操作指令中只要包含 Ev/Eb，则指令中一定有 ModR/M 字节&lt;/p&gt;
+&lt;p&gt;4、只需要把操作码确定下来，那么后面有什么字段，就都能确定了。即一切由操作码决定。&lt;/p&gt;
+&lt;p&gt;5、操作码长度，需要查的对应的表。&lt;/p&gt;
+&lt;p&gt;一个字节：00 - FF (TableA-2   0F 除外)&lt;/p&gt;
+&lt;p&gt;两个字节：0F 00 - 0F FF (TableA-3)&lt;/p&gt;
+&lt;p&gt;三个字节：0F 38 / 0F 3A (TableA-3 TableA-4 TableA-5)&lt;/p&gt;
+&lt;p&gt;有一些硬编码不同，但他们实现的汇编指令一样。&lt;/p&gt;
+&lt;p&gt;例如：&lt;br /&gt;
+8901 与 898461 00000000 都代表着 mov [ecx],eax;&lt;/p&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;滴水硬编码课件&lt;/p&gt;
+</content>
+        <category term="经典定长指令" />
+        <category term="经典变长指令" />
+        <category term="指令前缀" />
+        <updated>2022-04-11T02:24:20.000Z</updated>
+    </entry>
+</feed>

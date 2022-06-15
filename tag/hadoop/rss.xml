@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;hadoop&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 19 Dec 2020 20:27:20 +0800</pubDate>
+        <lastBuildDate>Sat, 19 Dec 2020 20:27:20 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/BigData/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/</guid>
+            <title>大数据学习</title>
+            <link>https://or0kit.github.io/BigData/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/</link>
+            <category>Hadoop</category>
+            <pubDate>Sat, 19 Dec 2020 20:27:20 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;复习大数据 ing！！老师不靠谱，只能自己来了。踩坑 ing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;防火墙&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#防火墙&#34;&gt;#&lt;/a&gt; 防火墙&lt;/h1&gt;
+&lt;p&gt;参考自博客园的一位前辈。要搭建四台集群 Linux 虚拟机，下载的 Linux 版本为 centos 7 系列，装完才知道相比于 centos 6 做了很大的改动，很多命令都不一样了，例如：系统服务都用 systemctl 命令来开启 service，它是 CentOS7 的服务管理中主要的工具，融合了之前 service 和 chkconfig 的功能，据说，systemctl 与以往启动系统服务使用 /etc/init.d 脚本的方式相比，大幅提高了系统服务的执行效率。由于在配置集群时，很多问题都是因为防火墙导致，需要经常配置，所以特别把防火墙的操作命令记录下来。&lt;/p&gt;
+&lt;h2 id=&#34;一-防火墙的开启-关闭-禁用命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-防火墙的开启-关闭-禁用命令&#34;&gt;#&lt;/a&gt; 一、防火墙的开启、关闭、禁用命令&lt;/h2&gt;
+&lt;p&gt;（1）设置开机启用防火墙：systemctl enable firewalld.service&lt;/p&gt;
+&lt;p&gt;（2）设置开机禁用防火墙：systemctl disable firewalld.service&lt;/p&gt;
+&lt;p&gt;（3）启动防火墙：systemctl start firewalld&lt;/p&gt;
+&lt;p&gt;（4）关闭防火墙：systemctl stop firewalld&lt;/p&gt;
+&lt;p&gt;（5）检查防火墙状态：systemctl status firewalld&lt;/p&gt;
+&lt;h2 id=&#34;二-使用firewall-cmd配置端口&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-使用firewall-cmd配置端口&#34;&gt;#&lt;/a&gt; 二、使用 firewall-cmd 配置端口&lt;/h2&gt;
+&lt;p&gt;（1）查看防火墙状态：firewall-cmd --state&lt;/p&gt;
+&lt;p&gt;（2）重新加载配置：firewall-cmd --reload&lt;/p&gt;
+&lt;p&gt;（3）查看开放的端口：firewall-cmd --list-ports&lt;/p&gt;
+&lt;p&gt;（4）开启防火墙端口：firewall-cmd --zone=public --add-port=9200/tcp --permanent&lt;/p&gt;
+&lt;p&gt;命令含义：&lt;/p&gt;
+&lt;p&gt;–zone #作用域&lt;/p&gt;
+&lt;p&gt;–add-port=9200/tcp #添加端口，格式为：端口 / 通讯协议&lt;/p&gt;
+&lt;p&gt;–permanent #永久生效，没有此参数重启后失效&lt;/p&gt;
+&lt;p&gt;注意：添加端口后，必须用命令 firewall-cmd --reload 重新加载一遍才会生效&lt;/p&gt;
+&lt;p&gt;（5）关闭防火墙端口：firewall-cmd --zone=public --remove-port=9200/tcp --permanent&lt;/p&gt;
+&lt;p&gt;参考自&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vbWFyc28vYXJjaGl2ZS8yMDE4LzAxLzA2LzgyMTQ5MjcuaHRtbA==&#34;&gt; https://www.cnblogs.com/marso/archive/2018/01/06/8214927.html&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ssh公钥登陆&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ssh公钥登陆&#34;&gt;#&lt;/a&gt; SSH 公钥登陆&lt;/h1&gt;
+&lt;p&gt;Hadoop 集群之间的交互是不用密码的，否则如果每次都必须输入密码会非常麻烦。SSH 还提供了公钥登陆，可以省去输入密码的步骤。&lt;/p&gt;
+&lt;p&gt;所谓 “公钥登陆”，原理很简单，就是用户将自己的公钥存储在远程主机上。登陆的时候，远程主机会向用户发送一段水机字符串，用户用自己的私钥加密后，再发回去。远程主机用事先储存的公钥进行解密，如果成功就证明用户是可信的，直接允许登陆 shell，不再要求密码。&lt;/p&gt;
+&lt;p&gt;这种方法要求用户必须提供自己的公钥。如果没有现成的，可以直接用 ssh-keygen 生成一个。建议直接用创建的 Hadoop 用户进行设置，因为设置只对当前用户用户，一般 Hadoop 主程序是那个用户，就对那个用户进行 SSH 设置。&lt;/p&gt;
+&lt;p&gt;参考自 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhc3R5aG0vYXJ0aWNsZS9kZXRhaWxzLzEwOTcwMjg2Mw==&#34;&gt;hadoop 集群配置 ssh 免密登录的方法&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vc2hpcmVlbmxlZTR0ZXN0aW5nL3AvMTAzNjYwNjEuaHRtbA==&#34;&gt; Hadoop 集群配置免密 SSH 登录方法&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdWt1YW43My9hcnRpY2xlL2RldGFpbHMvNzgwOTAyNDQ=&#34;&gt; ssh-copy-id 命令详解 &amp;amp; 使用 ssh-keygen 和 ssh-copy-id 三步实现 SSH 无密码登录&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hadoop集群配置免密ssh登录方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hadoop集群配置免密ssh登录方法&#34;&gt;#&lt;/a&gt; Hadoop 集群配置免密 SSH 登录方法&lt;/h2&gt;
+&lt;p&gt;Hadoop 集群包含 1 个主节点和 3 个从节点，需要实现各节点之间的免密码登录，下面介绍具体的实现方法。&lt;/p&gt;
+&lt;h3 id=&#34;hadoop集群环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hadoop集群环境&#34;&gt;#&lt;/a&gt; Hadoop 集群环境&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;节点名称&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;节点 IP&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;node&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;192.168.10.100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;node1&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;192.168.10.101&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;node2&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;192.168.10.102&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;node3&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;192.168.10.103&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;免密登录原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#免密登录原理&#34;&gt;#&lt;/a&gt; 免密登录原理&lt;/h3&gt;
+&lt;p&gt;每台主机 authorized_keys 文件里面包含的主机（ssh 密钥），该主机都能无密码登录，所以只要每台主机的 authorized_keys 文件里面都放入其他主机（需要无密码登录的主机）的 ssh 密钥就行了&lt;/p&gt;
+&lt;h3 id=&#34;实现方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实现方法&#34;&gt;#&lt;/a&gt; 实现方法&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;配置每个节点的 hosts 文件。在 hosts 文件里新增以下内容。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#vi /etc/hosts&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.10.100 node&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.10.101 node1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.10.102 node2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;.10.103 node3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;每个节点生成 ssh 密钥。这里以 node 主机举例。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-keygen -t rsa&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Generating public/private rsa key pair.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Enter &lt;span class=&#34;token function&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;which&lt;/span&gt; to save the key &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;/root/.ssh/id_rsa&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;: &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Created directory &lt;span class=&#34;token string&#34;&gt;&#39;/root/.ssh&#39;&lt;/span&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Enter passphrase &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;empty &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; no passphrase&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;: &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Enter same passphrase again: &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Your identification has been saved &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; /root/.ssh/id_rsa.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Your public key has been saved &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; /root/.ssh/id_rsa.pub.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node .ssh&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ls&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;id_rsa  id_rsa.pub&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;执行命令后会在～目录下生成.ssh 文件夹，里面包含 id_rsa 和 id_rsa.pub 两个文件。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;注：使用 ssh-keygen -t rsa -P &#39;&#39; -f ~/.ssh/id_rsa 命令可避免上述交互式操作。&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;font color=&#34;red&#34;&gt;用完这个命令后我是出现了点小问题，什么让输入密钥以解锁私钥。输入什么都不行&lt;/font&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;将公钥拷贝到要免密登录的目标机器上&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;此例是在节点 node 上&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node .ssh&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-copy-id node1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;/usr/bin/ssh-copy-id: INFO: attempting to log &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; with the new key&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;, to filter out any that are already installed&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;/usr/bin/ssh-copy-id: INFO: &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; key&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; remain to be installed -- &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; you are prompted now it is to &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; the new keys&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;root@node&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;&#39;s password: &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Number of key&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; added: &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Now try logging into the machine, with:   &lt;span class=&#34;token string&#34;&gt;&#34;ssh &#39;node&#39;&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;and check to &lt;span class=&#34;token function&#34;&gt;make&lt;/span&gt; sure that only the key&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; you wanted were added.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node .ssh&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;#&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;然后再依次执行以下命令&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node .ssh&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-copy-id node2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node .ssh&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-copy-id node3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;此时节点 node 可以无密码登陆 node1、node2、node3 了。&lt;br /&gt;
+但 node1、node2、node3 还不能无密码登陆 node 与其他节点，还需要在 node1、node2、node3 上依次执行步骤 2~3&lt;br /&gt;
+ 这里以 node1 为例。只写命令了。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node1 ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-keygen -t rsa&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node1 ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-copy-id node&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node1 ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-copy-id node2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node1 ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ssh-copy-id node3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;其他两个节点配置命令类似。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;.ssh 文件夹下（~/.ssh）的文件功能解释&lt;br /&gt;
+ known_hosts 记录 ssh 访问过计算机的公钥 (public key)&lt;br /&gt;
+ id_rsa 生成的私钥&lt;br /&gt;
+ id_rsa.pub 生成的公钥&lt;br /&gt;
+ authorized_keys 存放授权过的无密登录服务器公钥&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;hadoop的启动和测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hadoop的启动和测试&#34;&gt;#&lt;/a&gt; Hadoop 的启动和测试&lt;/h1&gt;
+&lt;h2 id=&#34;格式化文件系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#格式化文件系统&#34;&gt;#&lt;/a&gt; 格式化文件系统&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node bin&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# hdfs namenode -format&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;./hdfs:行201: /usr/local/jdk1.8//bin/java: 没有那个文件或目录&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@node bin&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;#&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;离谱呀，吐了呀！！&lt;br /&gt;
+跟着这破书没有一步不报错！！&lt;/p&gt;
+&lt;p&gt;SHUTDOWN_MSG: Shutting down NameNode at node/192.168.10.100&lt;/p&gt;
+&lt;p&gt;node3: /root/hadoop/hadoop-2.2.0/bin/hdfs: 行 201: /usr/local/jdk1.8//bin/java: 没有那个文件或目录&lt;br /&gt;
+ node1: /root/hadoop/hadoop-2.2.0/bin/hdfs: 行 201: /usr/local/jdk1.8//bin/java: 没有那个文件或目录&lt;br /&gt;
+ node2: /root/hadoop/hadoop-2.2.0/bin/hdfs: 行 201: /usr/local/jdk1.8//bin/java: 没有那个文件或目录&lt;/p&gt;
+&lt;p&gt;经历了大量的错误！！一个接一个的那种。&lt;br /&gt;
+搞了一下午。&lt;br /&gt;
+一个晚上。不知道哪里错了，NameNode 就是不启动。&lt;/p&gt;
+&lt;p&gt;踏遍百度～&lt;br /&gt;
+ 搞到 10 点总算好了&lt;/p&gt;
+&lt;p&gt;一直没法访问 &lt;code&gt;http://node:8088&lt;/code&gt; ，有个好心的网友把他的 Hadoop 给我发了过来，我又看了看 yarn-site-xml 文件里的配置信息，才发现原来是多打了一个 s &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;我 GIAO&lt;/span&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;管理jobhistory-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#管理jobhistory-server&#34;&gt;#&lt;/a&gt; 管理 JobHistory Server&lt;/h2&gt;
+&lt;p&gt;启动 JobHistory Server， 通过 Web 控制台查看集群计算的任务信息，执行如下命令：&lt;br /&gt;
+ &lt;code&gt;mr-jobhistory-daemon.sh  start historyserver&lt;/code&gt; &lt;br /&gt;
+ 访问 &lt;code&gt;http://node:19888/&lt;/code&gt;  可以查看任务执行历史消息。&lt;/p&gt;
+&lt;p&gt;JobHistory Server 是个后台进程，不使用的情况下可以关闭以节约资源，终止 JobHistory Server 执行如下命令： &lt;code&gt;mr-jobhistory-daemon.sh  stop historyserver&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;集群验证&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#集群验证&#34;&gt;#&lt;/a&gt; 集群验证&lt;/h2&gt;
+&lt;p&gt;使用 Hadoop 自带的 WordCount 例子进行集群验证。这个例子为 &lt;code&gt;/share/Hadoop/mapreduce.hadoop-mapreduce-examples-2.2.0.jar&lt;/code&gt; , 下面的命令都会在本书后面章节讲到，可以先不用理会具体意思。&lt;/p&gt;
+&lt;p&gt;首先在 HDFS 上创建目录，执行命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-hadoop&#34;&gt;hdfs dfs -mkdir -p /data/wordcount
+hdfs dfs -mkdir -p /output/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;目录 /data/wordcount 用来存储 Hadoop 自带的 WordCount 例子的数据文件运行这个 MapReduce 任务的结果输出到 /output/wordcount 目录中。&lt;/p&gt;
+&lt;p&gt;将本地文件上传到 HDFS 中（这里上传一个配置文件），执行如下命令：&lt;br /&gt;
+ &lt;code&gt;[root@node ~]# hdfs dfs -put /root/hadoop/hadoop-2.2.0/etc/hadoop/core-site.xml  /data/wordcount/&lt;/code&gt; &lt;br /&gt;
+ 可以查看上传后的文件情况，执行如下命令：&lt;br /&gt;
+ &lt;code&gt;hdfs dfs -ls /data/wordcount&lt;/code&gt; &lt;br /&gt;
+ 下面运行 WordCount 案例，执行如下命令：&lt;br /&gt;
+ &lt;code&gt; &lt;/code&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;重定位表&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-05-08T13:50:11.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/WindowsPE/%E9%87%8D%E5%AE%9A%E4%BD%8D%E8%A1%A8/</id>
+        <title>重定位表</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/WindowsPE/%E9%87%8D%E5%AE%9A%E4%BD%8D%E8%A1%A8/"/>
+        <content type="html">&lt;h1 id=&#34;程序加载的过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#程序加载的过程&#34;&gt;#&lt;/a&gt; 程序加载的过程&lt;/h1&gt;
+&lt;p&gt;程序从 FileBuffer 转换成 ImageBuffer.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;特别说明：&lt;/p&gt;
+&lt;p&gt;1、由于一般情况.exe 运行时被第一个加载，所以 exe 文件一般没有重定位表，但是不代表所有 exe 都没有重定位表.&lt;/p&gt;
+&lt;p&gt;2、为了提高搜索的速度，模块间地址也是要对齐的 模块地址对齐为 10000H 也就是 64K&lt;/p&gt;
+&lt;h1 id=&#34;何为重定位&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#何为重定位&#34;&gt;#&lt;/a&gt; 何为重定位&lt;/h1&gt;
+&lt;p&gt;重定位的意思就是修正偏移的意思。如一个地址位 0x401234 ,Imagebase = 0x400000 . 那么 RVA 就是 1234.  如果 Imagebase 变了成了 0x300000, 那么修正之后就是 ImageBase + RVA = 0X300000+1234 = 0x301234&lt;/p&gt;
+&lt;p&gt;首先我们知道。一个 EXE 文件。会调用很多 DLL (PE) 有多个 PE 文件组成.&lt;/p&gt;
+&lt;p&gt;exe 文件启动的基址 (ImageBase) 是 0x40000. 假设我们调用三个 DLL  A B C&lt;/p&gt;
+&lt;p&gt;A DLL 在 EXE 展开的基址位置是 0x10000000&lt;/p&gt;
+&lt;p&gt;那么恰巧 B DLL 展开的位置也是 0x1000000 两个 DLL 位置展开地方是一样的。那么就出现问题了&lt;br /&gt;
+如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这时候操作系统就会给我们进行修正。将 B　DLL 换个内存位置，进行展开。&lt;/p&gt;
+&lt;p&gt;如下图: B DLL 从 0x2000000 展开了，规避了使用相同地址&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;虽然这样解决了入口基址不一样。内存展开不一样。但是我们知道.PE 文件中有很多 RVA .RVA 是相对于 ImageBase 的偏移进行存放的。如果 PE 文件中都是 RVA 那就好办了.&lt;/p&gt;
+&lt;p&gt;但是不一定呀.&lt;/p&gt;
+&lt;p&gt;打开一个程序，观察一下全局变量的反汇编&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-s&#34;&gt;00401D58 A1 44 CA 42 00       mov         eax,[x (0042ca44)]
+00401D5D 50                   push        eax
+00401D5E 68 EC 91 42 00       push        offset string &amp;quot;%d\n&amp;quot; (004291ec)
+00401D63 E8 28 62 00 00       call        printf (00407f90)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;编译时生成的地址 = ImageBase + RVA&lt;/p&gt;
+&lt;p&gt;这个地址在程序编译完成后，已经写入文件了。&lt;/p&gt;
+&lt;p&gt;那假设，程序在加载的时候，没有按照预定的 400000 载入到指定的位置&lt;/p&gt;
+&lt;p&gt;但程序执行的时候，仍然会按照 0042ca44 和 004291ec 的地址去使用这个值！&lt;/p&gt;
+&lt;p&gt;1、也就是说，如果程序能够按照预定的 ImageBase 来加载的话，那么就不需要重定位表&lt;br /&gt;
+这也是为什么 exe 很少有重定位表，而 DLL 大多都有重定位表的原因&lt;/p&gt;
+&lt;p&gt;2、一旦某个模块没有按照 ImageBase 进行加载，那么所有类似上面中的地址就都需要修正，否则，引用的地址就是无效的.&lt;/p&gt;
+&lt;p&gt;3、一个 EXE 中，需要修正的地方会很多，那我们如何来记录都有哪些地方需要修正呢？&lt;/p&gt;
+&lt;p&gt;答案就是重定位表&lt;/p&gt;
+&lt;h1 id=&#34;为什么要用重定位表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么要用重定位表&#34;&gt;#&lt;/a&gt; 为什么要用重定位表&lt;/h1&gt;
+&lt;p&gt;上面的例子已经解释的很清楚了，总述一下。&lt;/p&gt;
+&lt;p&gt;程序编译时每个模块有一个优先加载地址 ImageBase, 这个值是连接器给出的，因此连接器生成的指令中的地址是在假设模块被加载到 ImageBase 前提之下生成的，那么一旦程序没有将模块加载到 ImageBase 时，那么程序中 的指令地址就需要重新定位。&lt;br /&gt;
+例如：假设一个可执行文件，基址是 0x400000, 在这个 image 偏移 0x1234 处是一个指针，指向一个字符串，字符串始于实际地址 0x404002 处，所以指针应该是 0x404002, 加载文件时，由于种种原因，加载器决定把他加载到 0x600000 处，连接器假设的地址和实际的地址之差成为 delta, 上例 delta 为 0x200000，整个位置提高了 0x200000, 那么字符串位置应该为 0x604002, 原来指向字符串的指针就错误了，所以要把 delta 加到指针值中，为了让加载器有这样的能力做调整，可执行文件内含许多个【基址重定位项】，给那些存放指针的位置使用，加载器必须把 delta 加载到各个基址上。&lt;br /&gt;
+本例中应该把 0x200000 加给原来的指针值，0x404002, 并将 0x604002 写回原处。&lt;/p&gt;
+&lt;h1 id=&#34;重定位表解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重定位表解析&#34;&gt;#&lt;/a&gt; 重定位表解析&lt;/h1&gt;
+&lt;h2 id=&#34;重定位表位置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重定位表位置&#34;&gt;#&lt;/a&gt; 重定位表位置&lt;/h2&gt;
+&lt;p&gt;数据目录项的第 6 个结构，就是重定位表.&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_DATA_DIRECTORY&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD   VirtualAddress&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD   Size&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; IMAGE_DATA_DIRECTORY&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;PIMAGE_DATA_DIRECTORY&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 上面 VirtualAddress 存储的地址 指向的就是_IMAGE_BASE_RELOCATION 结构体&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_BASE_RELOCATION&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD   VirtualAddress&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD   SizeOfBlock&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;          &lt;span class=&#34;token comment&#34;&gt;// 表示了一个重定位块有多大&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; IMAGE_BASE_RELOCATION&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; IMAGE_BASE_RELOCATION ，&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; PIMAGE_BASE_RELOCATION&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;看着重定位表就两个成员。其实非常复杂。我们设 VirtualAddress 为 X 设 SizeofBlock 为 Y&lt;/p&gt;
+&lt;p&gt;如下图所示，一个格子为 1 个字节.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;第一行四个字节为 X, 也就是 Virtualaddress。&lt;br /&gt;
+第二行则是 Y，SizeOfBlock 的值。&lt;/p&gt;
+&lt;p&gt;我们知道一个 PE 文件需要很多地方进行重定位的。比如记录重定位块多大的 SizeOfBlock 的大小为 16. 也就是两个重定位块，那么第一个重定位表的大小就是如下图&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;第二个重定位表如果 SzieofBlock 大小为 20 个字节。那么重定位表大小就是 20 个字节&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;由于重定位表的 SizeOfBlock 大小不确定，新的 Block 的重定位信息的结构体接着上一个 Block4 字节对齐后开始，而当出现一个_IMAGE_BASE_RELOCATION 结构体的值全为 0 时，表明重定位表结束。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;重定位表的结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重定位表的结构&#34;&gt;#&lt;/a&gt; 重定位表的结构&lt;/h2&gt;
+&lt;p&gt;在 SizeBlock 后面紧跟着的就是一个 TypeOffset 数组，一个大小是 2 字节，其中高 4 位代表修正的类型，低 12 位是修正的偏移。它的大小与 VirtualAddress 相加就是要修正的 RVA 地址。当出现一个_IMAGE_BASE_RELOCATION 结构体的值全为 0 时，表明重定位表结束。&lt;/p&gt;
+&lt;p&gt;TypeOffset 高 4 位的可能取值：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;需要首先进行说明的是，重定位表的 RVA 指向的位置是一个数组，里面的元素都是 IMAGE_BASE_RELOCATION，每个 IMAGE_BASE_RELOCATION 只负责 4KB 大小分页内的重定位信息。因此结构中的 VirtualAddress 总是 0x1000 的倍数。&lt;/p&gt;
+&lt;p&gt;因为 16 位的二进制数就可以表示一个分页（4KB）的任何位置，而 WORD 恰好就是 16 位&lt;/p&gt;
+&lt;p&gt;真正的重定位表结构&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_BASE_RELOCATION&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD VirtualAddress&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD SizeOfBlock&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;//WORD TypeOffset[1];&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;IMAGE_BASE_RELOCATION&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;   &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    WORD Offset&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;12&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 这是表示 Offset 有 12 位&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    WORD Type&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 这是表示 Type 有 4 位&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;TypeOffset&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//Offset: 低 12 位，上面介绍过，它跟 VirtualAddress 相加就是完整的重定位 RVA&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//Type: 重定位信息的类型，有如下类型:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_ABSOLUTE&lt;/span&gt;              &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 无重定位操作，用于 4 字节对齐&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_HIGH&lt;/span&gt;                  &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 重定位指向位置的高 2 个字节需要被修正&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_LOW&lt;/span&gt;                   &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 重定位指向位置的低 2 个字节需要被修正&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_HIGHLOW&lt;/span&gt;               &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 重定位指向位置的全部 4 个字节需要被修正（绝大多数都是这种情况）&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_HIGHADJ&lt;/span&gt;               &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 需要两个 TypeOffset 配合完成索引&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_MACHINE_SPECIFIC_5&lt;/span&gt;    &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;//...&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_RESERVED&lt;/span&gt;              &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;6&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 保留&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_MACHINE_SPECIFIC_7&lt;/span&gt;    &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;7&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;//...&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_MACHINE_SPECIFIC_8&lt;/span&gt;    &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;8&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;//...&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_MACHINE_SPECIFIC_9&lt;/span&gt;    &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;9&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;//...&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_REL_BASED_DIR64&lt;/span&gt;                 &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;    &lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 重定位指向位置的 8 个字节需要被修正&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;计算重定位后的地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#计算重定位后的地址&#34;&gt;#&lt;/a&gt; 计算重定位后的地址&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;重定位后的地址 = (加载基址 - ImageBase) + 重定位前的地址&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;定位数据的公式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#定位数据的公式&#34;&gt;#&lt;/a&gt; 定位数据的公式&lt;/h2&gt;
+&lt;h3 id=&#34;需要重定位的数据位置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要重定位的数据位置&#34;&gt;#&lt;/a&gt; 需要重定位的数据位置&lt;/h3&gt;
+&lt;p&gt;有如下公式：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;需要重定位的数据位置 = ImageBase + VirtualAddress + TypeOffset低12位&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label&#34;&gt;实例&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;如图，其中程序的 ImageBase 是 0x10000000，VirtualAddress 是 0x1000, 低 12 位 Offset 是 0x11F，高四位 Type 是 0x3.&lt;/p&gt;
+&lt;p&gt;需要重定位的数据位置 = 0x10000000 + 0x1000 + 0x11F = 0x1000111F&lt;/p&gt;
+&lt;h3 id=&#34;重定位表中记录的重定位信息的个数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重定位表中记录的重定位信息的个数&#34;&gt;#&lt;/a&gt; 重定位表中记录的重定位信息的个数&lt;/h3&gt;
+&lt;p&gt;可以通过下面的公式进行计算：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;重定位个数 = (SizeOfBlock - 8(IMAGE_BASE_RELOCATION的大小)) / 2(每个TypeOffset是2个字节)&lt;/code&gt; &lt;br /&gt;
+ &lt;code&gt;总重定位个数 = 所有IMAGE_BASE_RELOCATION结构体相加后的重定位个数&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;还是以上图为例&lt;/p&gt;
+&lt;p&gt;重定位个数 = (0x118 - 8) / 2 = 0x88 = 136 (十进制)&lt;/p&gt;
+&lt;h2 id=&#34;滴水课件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#滴水课件&#34;&gt;#&lt;/a&gt; 滴水课件&lt;/h2&gt;
+&lt;p&gt;解析说明：&lt;/p&gt;
+&lt;p&gt;1、通过 IMAGE_DATA_DIRECTORY 结构的 VirtualAddress&lt;br /&gt;
+ 属性 找到第一个 IMAGE_BASE_RELOCATION&lt;/p&gt;
+&lt;p&gt;2、判断一共有几块数据：&lt;/p&gt;
+&lt;p&gt;最后一个结构的 VirtualAddress 与 SizeOfBlock 都为 0&lt;/p&gt;
+&lt;p&gt;3、具体项 宽度：2 字节&lt;/p&gt;
+&lt;p&gt;也就是这个数据&lt;/p&gt;
+&lt;p&gt;内存中的页大小是 1000H 也就是说 2 的 12 次方 就可以表示&lt;br /&gt;
+一个页内所有的偏移地址 具体项的宽度是 16 字节 高四位&lt;br /&gt;
+代表类型：值为 3 代表的是需要修改的数据 值为 0 代表的是&lt;br /&gt;
+用于数据对齐的数据，可以不用修改。也就是说 我们只关注&lt;br /&gt;
+高 4 位的值为 3 的就可以了.&lt;/p&gt;
+&lt;p&gt;4、VirtualAddress 宽度：4 字节&lt;/p&gt;
+&lt;p&gt;当前这一个块的数据，每一个低 12 位的值 + VirtualAddress 才是&lt;br /&gt;
+真正需要修复的数据的 RVA&lt;/p&gt;
+&lt;p&gt;真正的 RVA = VirtualAddress + 具体项的低 12 位&lt;/p&gt;
+&lt;p&gt;5、SizeOfBlock 宽度：4 字节&lt;/p&gt;
+&lt;p&gt;当前块的总大小&lt;/p&gt;
+&lt;p&gt;具体项的数量 = (SizeOfBlock - 8)/2&lt;/p&gt;
+&lt;h1 id=&#34;重定位表的利用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重定位表的利用&#34;&gt;#&lt;/a&gt; 重定位表的利用&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;破解&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;壳 写加密壳的时候，要先把重定位表移走。数据目录中的表是分散在各个节里的，如果对节进行加密，操作系统找不到表，就无法加载程序。因此加密前要先把表移动到新的节里。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;辅助&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对抗 HOOK，内核重载时。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vaUJpbmFyeS9wLzk3NDI2NzAuaHRtbA==&#34;&gt;https://www.cnblogs.com/iBinary/p/9742670.html&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fwb2xsb25fa3JqL2FydGljbGUvZGV0YWlscy83NzM3MDQ1Mg==&#34;&gt;https://blog.csdn.net/Apollon_krj/article/details/77370452&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwODkwNzU2L2FydGljbGUvZGV0YWlscy85MDA4MDg4MA==&#34;&gt;https://blog.csdn.net/qq_40890756/article/details/90080880&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3R1dHVjb28vYXJ0aWNsZS9kZXRhaWxzLzgzODI4NzEz&#34;&gt;https://blog.csdn.net/tutucoo/article/details/83828713&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="重定位表" />
+        <updated>2021-05-08T13:50:11.000Z</updated>
+    </entry>
+</feed>

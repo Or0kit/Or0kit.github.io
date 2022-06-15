@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"我的getprocaddress\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Win32/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84GetProcAddress%E5%87%BD%E6%95%B0/",
+            "url": "https://or0kit.github.io/Bin/Win32/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84GetProcAddress%E5%87%BD%E6%95%B0/",
+            "title": "实现自己的GetProcAddress函数",
+            "date_published": "2021-10-15T05:48:22.000Z",
+            "content_html": "<h1 id=\"正文\"><a class=\"anchor\" href=\"#正文\">#</a> 正文</h1>\n<p>宏 MAKEINTRESOURCE</p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vbWljcm96b25lL2FyY2hpdmUvMjAxMy8wNy8yOC8zMjIyMDAyLmh0bWw=\">https://www.cnblogs.com/microzone/archive/2013/07/28/3222002.html</span></p>\n",
+            "tags": [
+                "我的GetProcAddress"
+            ]
+        }
+    ]
+}

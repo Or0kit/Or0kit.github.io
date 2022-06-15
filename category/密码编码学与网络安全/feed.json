@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"密码编码学与网络安全\" category",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/%E5%AF%86%E7%A0%81%E5%AD%A6%E6%95%B0%E8%AE%BA%E5%9F%BA%E7%A1%80/",
+            "url": "https://or0kit.github.io/%E5%AF%86%E7%A0%81%E5%AD%A6%E6%95%B0%E8%AE%BA%E5%9F%BA%E7%A1%80/",
+            "title": "密码学数论基础",
+            "date_published": "2021-03-24T06:19:48.000Z",
+            "content_html": "<h1 id=\"数论基础\"><a class=\"anchor\" href=\"#数论基础\">#</a> 数论基础</h1>\n<h2 id=\"整除性和带余除法\"><a class=\"anchor\" href=\"#整除性和带余除法\">#</a> 整除性和带余除法</h2>\n<h2 id=\"整除性\"><a class=\"anchor\" href=\"#整除性\">#</a> 整除性</h2>\n<p><span class=\"label\">定义：</span><br />\na、b 是两个整数，b≠0 ，如果存在一个整数 m 使等式 a=m*b 成立，则称 b 整除 a，记为 b|a,a 是被除数，b 是除数。</p>\n<p>a/b 记为 b|a a 除以 b 记为 b 整除 a</p>\n<p><span class=\"label\">性质：</span></p>\n<ul>\n<li>若 a|1， 则 a=±1。</li>\n<li>若 a|b 且 b|a，则 a=±b。</li>\n<li>任何不等于零的数整除 0。</li>\n<li>若 a|b 且 b|c，则 a|c。<br />\n <code>11|66 且 66|198 =&gt; 11|198</code></li>\n<li>对任意整数 m，n，若 b|g 且 b|h，则可得出 b|（mg+nh）。</li>\n</ul>\n<p>之所以得出最后一条结论，是因为：</p>\n<ul>\n<li>若 b|g，存在 g1，使得 g 可以表示为 g=b*g1</li>\n<li>若 b|h, 则存在 h1，使得还可以表示为 h=b*h1</li>\n</ul>\n<p>所以：<br />\n <code>mg + nh = mbg1 + nbh1 = b * (mg1 + nh1)</code> <br />\n 得出 b 整除 mg+nh。</p>\n<p><span class=\"label\">例题</span><br />\n<img data-src=\"image001.png\" alt=\"\" /></p>\n<h3 id=\"带余除法\"><a class=\"anchor\" href=\"#带余除法\">#</a> 带余除法</h3>\n<p>对给定的任意一个正整数 n 和任意非负整数 a, 若用 n 除 a, 得到整数商 q 和整数余数 r, 则满足以下关系式:<br />\n <code>a = qn + r, 0 ≤ r &lt; n; q = |(a|b)|</code></p>\n<h2 id=\"欧几里得算法\"><a class=\"anchor\" href=\"#欧几里得算法\">#</a> 欧几里得算法</h2>\n<h3 id=\"最大公约数\"><a class=\"anchor\" href=\"#最大公约数\">#</a> 最大公约数</h3>\n<p>最大公约数，也称最大公因数、最大公因子，指两个或多个整数共有约数中最大的一个。</p>\n<p>对于整数 a,b,m, 若满足 a=mb, 则称非零整数 b 是 a 的一个因子。我们用 gcd (a,b) 来表示 a 的最大公因子。a 和 b 的最大公因子是能同时整除 a 和 b 的最大整数。另外，定义 gcd (0,0)=0。<br />\n更正式的描述是，正整数 c 称为 a 和 b 的最大公因子，如果<br />\n (1) c 是 a 和 b 的因子。<br />\n(2) a、b 的因子都是 c 的一个因子。</p>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n",
+            "tags": [
+                "数论基础"
+            ]
+        }
+    ]
+}

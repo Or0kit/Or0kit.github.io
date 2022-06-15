@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"rpl\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E6%AE%B5%E6%9D%83%E9%99%90%E6%A3%80%E6%B5%8B/",
+            "url": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E6%AE%B5%E6%9D%83%E9%99%90%E6%A3%80%E6%B5%8B/",
+            "title": "保护模式--段权限检测",
+            "date_published": "2021-07-29T14:22:31.000Z",
+            "content_html": "<h1 id=\"段权限检测\"><a class=\"anchor\" href=\"#段权限检测\">#</a> 段权限检测</h1>\n<h2 id=\"cpu权限等级划分\"><a class=\"anchor\" href=\"#cpu权限等级划分\">#</a> CPU 权限等级划分</h2>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p>CPU 一共四个等级. ring3 - ring 0 而操作系统只使用了 ring3 与 ring0 所以 ring3 就是应用程序，ring0 就是内核程序。<br />\n应用程序不可以执行特权指令，内核程序可以执行特权指令。</p>\n<h1 id=\"cpl-rpl-dpl-介绍\"><a class=\"anchor\" href=\"#cpl-rpl-dpl-介绍\">#</a> CPL RPL DPL 介绍</h1>\n<p>描述符特权级 (DPL) 域 ——(段描述符的第二个双字的 bit 13 和 bit 14) 确定该段的特权级。<br />\n请求特权级 (RPL) 域 ——(段选择符的 bit 0 和 bit 1) 确定一个段选择符的请求特权级。<br />\n当前特权级 (CPL) 域 ——(CS 段寄存器的 bit 0 和 bit 1) 指明当前运行的进程的特权级。术语当前特权级 (CPL) 就是指该域的设置。</p>\n<ul>\n<li><strong>当前特权级（CPL）</strong></li>\n</ul>\n<p>描述：</p>\n<p>段寄存器 CS 的后两位比特位称为当前特权级<br />\n注意：段选择子 SS 和 CS 的后两位比特位相同</p>\n<p><em>如：</em></p>\n<pre><code>→ CS = 0x001B\n→ 0x001B = 二进制:0000 0000 0001 1011\n→ 二进制:11 = 十进制:3\n→ 因此：当前进程处于3环\n</code></pre>\n<ul>\n<li><strong>请求特权级（RPL）</strong></li>\n</ul>\n<p>描述：</p>\n<p>RPL 是段选择子结构中的一部分<br />\n RPL 是针对段选择子而言的，每个段的选择子都有自己的 RPL<br />\nRPL 表示用什么权限去访问一个段</p>\n<p><em>例：</em></p>\n<pre><code>MOV AX,0008\nMOV DS,AX\n与\nMOV AX,000B\nMOV DS,AX\n指向的是同一个段描述符，但RPL不同\n</code></pre>\n<ul>\n<li><strong>3）数据段的权限检查</strong></li>\n</ul>\n<p>检查：CPL&lt;= DPL 并且 RPL&lt;= DPL（数值上的比较）</p>\n<p><em>例：</em></p>\n<pre><code>当CPL = 0时执行以下指令：\n  MOV AX,000B\t\t\t// RPL=3，请求权限为3\n  MOV DS,AX\t\t\t// 假设ax指向的段描述符的DPL=0\n上述指令虽然满足了CPL&lt;=DPL，但RPL&gt;DPL，因此执行失败\n</code></pre>\n<p>注意：代码段和系统端描述符的检查方式不一样</p>\n<p><strong>既然已经有 CPL（当前特权级别）了，为什么还要有 RPL（请求特权级别）呢？<br />\n原因：我们本可以用 “读写” 的权限去打开一个文件，但为了避免出错，有些时候我们使用 “只读” 的权限去打开</strong></p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTg4NDQ4L2FydGljbGUvZGV0YWlscy8xMDI1NjMzMjU=\">https://blog.csdn.net/qq_41988448/article/details/102563325</span></p>\n",
+            "tags": [
+                "CRL",
+                "DPL",
+                "RPL"
+            ]
+        }
+    ]
+}

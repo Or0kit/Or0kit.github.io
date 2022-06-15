@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;应急响应&#34; category</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2022-05-18T07:39:54.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/PenetrationTest/%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E6%80%9D%E8%B7%AF%E5%92%8C%E6%93%8D%E4%BD%9C/</id>
+        <title>应急响应思路和操作</title>
+        <link rel="alternate" href="https://or0kit.github.io/PenetrationTest/%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E6%80%9D%E8%B7%AF%E5%92%8C%E6%93%8D%E4%BD%9C/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94.png&#34; alt=&#34;应急响应&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思路&#34;&gt;#&lt;/a&gt; 思路&lt;/h1&gt;
+&lt;h2 id=&#34;应急响应定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应急响应定义&#34;&gt;#&lt;/a&gt; 应急响应定义&lt;/h2&gt;
+&lt;p&gt;应急响应定义：组织为了应对突发 / 重大信息安全事件的发生所做的准备，以及在事件发生后所采取的措施。&lt;/p&gt;
+&lt;p&gt;应急响应目标：采取紧急措施和行动，恢复业务到正常状态；调查安全事件发生的原因，避免同类事件再次发生；在需要司法机关介入时，提供法律认可的数字证据。&lt;/p&gt;
+&lt;h2 id=&#34;应急响应阶段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应急响应阶段&#34;&gt;#&lt;/a&gt; 应急响应阶段&lt;/h2&gt;
+&lt;p&gt;从&lt;strong&gt;业务流程方式&lt;/strong&gt;可以分为六个阶段：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;准备&lt;/strong&gt;：让我们严正以待，即在事件未发生时的准备工作，包括策略、计划、规范文档及具体的技术工具和平台，未雨绸膜&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;评估&lt;/strong&gt;：对情况综合评估，初步判断是什么类型的问题，受影响的系统及严重程度&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;遏制&lt;/strong&gt;：制止事态的扩大，限制攻击、破坏所波及的范围&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;根除&lt;/strong&gt;：对事件发生的原因进行分析，彻底解决问题，避免再次在同一个问题上犯错&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;恢复&lt;/strong&gt;：系统恢复常态&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跟踪&lt;/strong&gt;：针对事件的整改措施进行落实并监控是否有无异常，换句话叫安全运营中的持续改进，时刻保持危机感。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;应急响应思路流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应急响应思路流程&#34;&gt;#&lt;/a&gt; 应急响应思路流程&lt;/h2&gt;
+&lt;h3 id=&#34;收集信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#收集信息&#34;&gt;#&lt;/a&gt; 收集信息&lt;/h3&gt;
+&lt;p&gt;在赶往出事地点的路上以及还没有接触到具体业务时，要提前向客户询问清楚事件情况，如发现时间以及大致发生时间、事件造成的破坏、受害主机情况 (如系统、版本、内外网)、客户的具体处置要求&lt;/p&gt;
+&lt;h3 id=&#34;事件预定性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#事件预定性&#34;&gt;#&lt;/a&gt; 事件预定性&lt;/h3&gt;
+&lt;p&gt;在初步了解情况后先做一个&lt;strong&gt;事件性质预判&lt;/strong&gt;，判断下这个事件是个什么事件，是勒索还是挖矿还是其他事件。然后根据事件发生时间划定一个&lt;strong&gt;时间范围&lt;/strong&gt;，重点排查这个时间段内的情况，从影响范围中确认一个&lt;strong&gt;排查范围&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;取证分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#取证分析&#34;&gt;#&lt;/a&gt; 取证分析&lt;/h3&gt;
+&lt;p&gt;通过事件的初步定性取证，并且有选择的优先分析重点内容。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;取证注意事项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#取证注意事项&#34;&gt;#&lt;/a&gt; 取证注意事项&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;保护&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;保证数据的安全性：制作磁盘映像 —— 不在原始磁盘上操作&lt;br /&gt;
+保证数据完整性：取证中不使用可能破坏完整性的操作&lt;br /&gt;
+第三方监督：所有操作都有第三方在场监督&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;提取&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;优先提取易消失的证据：内存信息、系统进程、网络连接信息、路由信息、临时文件、缓存等&lt;br /&gt;
+文件系统：数据恢复、隐藏文件、加密文件、回收站、注册表、系统日志等&lt;br /&gt;
+应用系统：系统日志、中间件日志&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;证据在什么地方：日志、删除的文件、临时文件、缓存&lt;br /&gt;
+从证据中能发现什么？如何关联证据？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;定向分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#定向分析&#34;&gt;#&lt;/a&gt; 定向分析&lt;/h3&gt;
+&lt;p&gt;二次定性后，我们基本已经真正掌握了事件情况，这时就可以进行各种分析，对各种情况利用各种工具快速&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;4.png&#34; alt=&#34;4&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;5.png&#34; alt=&#34;5&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;6.png&#34; alt=&#34;6&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;7.png&#34; alt=&#34;7&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;8.png&#34; alt=&#34;8&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;9.png&#34; alt=&#34;9&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;实施思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实施思路&#34;&gt;#&lt;/a&gt; 实施思路&lt;/h1&gt;
+&lt;p&gt;大致可以分为五个部分：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E5%A4%84%E7%BD%AE%E6%AD%A5%E9%AA%A4.png&#34; alt=&#34;处置步骤&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;收集信息：收集客户信息和受害主机信息，如有病毒样本也收集&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;判断类型：判断是否是安全事件，何种安全事件，勒索、挖矿、断网、DoS 等等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;深入分析：日志分析、进程分析、启动项分析、样本分析。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;清理处置：直接杀掉进程，删除文件，打补丁，抑或是修复文件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;产出报告：整理并输出完整的安全事件报告。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;收集信息-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#收集信息-2&#34;&gt;#&lt;/a&gt; 收集信息&lt;/h2&gt;
+&lt;h3 id=&#34;受害情况&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#受害情况&#34;&gt;#&lt;/a&gt; 受害情况&lt;/h3&gt;
+&lt;h4 id=&#34;客户主机情况&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户主机情况&#34;&gt;#&lt;/a&gt; 客户主机情况&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;客户名称&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;什么区域的什么客户&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;感染主机数&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;感染了多数台主机&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;补丁情况&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;打了哪些补丁，是否存在补丁漏打&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;中毒现象&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;勒索 / 挖矿 / DoS / 僵尸网络 / 后门 / 木马&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;帐号密码&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;确认是否有弱密码&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;对外开发端口&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;对外开发了哪些端口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;开启的服务&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;开启了哪些服务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;操作系统版本&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;操作系统版本信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;客户需求&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;确认客户具体需求&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;取证&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#取证&#34;&gt;#&lt;/a&gt; 取证&lt;/h2&gt;
+&lt;p&gt;取证并非毫无头绪的，病毒本身必然有网络行为，内存必然有其二进制代码，它要么是单独的进程模块，要么是进程的 dll/so 模块，通常，为了保活，它极可能还有自己的启动项、网络心跳包。&lt;/p&gt;
+&lt;p&gt;可以归结为如下 4 点要素：&lt;strong&gt;流量、内存、模块、启动项。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;流量分析可以使用 Wireshark，主要分析下当前主机访问了哪些域名、URL、服务，或者有哪些外网 IP 在访问本地主机的哪些端口、服务和目录，又使用了何种协议等等。&lt;/p&gt;
+&lt;h3 id=&#34;可疑域名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可疑域名&#34;&gt;#&lt;/a&gt; 可疑域名&lt;/h3&gt;
+&lt;p&gt;如 asd333.2111.pw 这样的域名很明显是一个动态域名，极大可能就是一个恶意域名，有可能是 C2 服务器，&lt;/p&gt;
+&lt;h3 id=&#34;网络协议分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络协议分析&#34;&gt;#&lt;/a&gt; 网络协议分析&lt;/h3&gt;
+&lt;p&gt;IRC 协议在日常中很少使用，但常被用来建立僵尸网络，所以可以过滤筛选 IRC&lt;/p&gt;
+&lt;h3 id=&#34;外连&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#外连&#34;&gt;#&lt;/a&gt; 外连&lt;/h3&gt;
+&lt;p&gt;外连可以使用 TcpView 或者命令行下 netstat 命令排查&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;10.png&#34; alt=&#34;10&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;重点关注如下的外连和状态为 ESTABLISHED 的连接&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;chenyu-57068a53.localdomain.2674-&amp;gt; amsterdam.nl.eu.undernet.org.6667
+TCP    127.0.0.1:8588         127.0.0.1:49856        ESTABLISHED     5004
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;实施具体操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实施具体操作&#34;&gt;#&lt;/a&gt; 实施具体操作&lt;/h1&gt;
+&lt;p&gt;在简单做完定向分析并取证后，如果客户直接把系统重置了就不需要下一步了，如果客户要求从头到尾把系统排查一下那么就利用工具和手法进行排查。&lt;/p&gt;
+&lt;p&gt;对账户、进程、端口、服务、启动项、计划任务、文件、日志进行逐个检测，&lt;/p&gt;
+&lt;h2 id=&#34;日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#日志&#34;&gt;#&lt;/a&gt; 日志&lt;/h2&gt;
+&lt;p&gt;在取证那一步就做的工作，由于日志是最容易被删除或覆盖，所以一上去就要优先保存日志。&lt;/p&gt;
+&lt;p&gt;windows 下可疑打开事件管理器或者使用 EventLogExplorer、Logparse 等工具。&lt;/p&gt;
+&lt;p&gt;重要的事件日志 ID 如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Event ID(2000/XP/2003)&lt;/th&gt;
+&lt;th&gt;Event ID(Vista/7/8/2008/2012)&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;th&gt;日志名称&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;528&lt;/td&gt;
+&lt;td&gt;4624&lt;/td&gt;
+&lt;td&gt;成功登录&lt;/td&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;529&lt;/td&gt;
+&lt;td&gt;4625&lt;/td&gt;
+&lt;td&gt;失败登录&lt;/td&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;680&lt;/td&gt;
+&lt;td&gt;4776&lt;/td&gt;
+&lt;td&gt;成功 / 失败的账户认证&lt;/td&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;624&lt;/td&gt;
+&lt;td&gt;4720&lt;/td&gt;
+&lt;td&gt;创建用户&lt;/td&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;636&lt;/td&gt;
+&lt;td&gt;4732&lt;/td&gt;
+&lt;td&gt;添加用户到启用安全性的本地组中&lt;/td&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;632&lt;/td&gt;
+&lt;td&gt;4728&lt;/td&gt;
+&lt;td&gt;添加用户到启用安全性的全局组中&lt;/td&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2934&lt;/td&gt;
+&lt;td&gt;7030&lt;/td&gt;
+&lt;td&gt;服务创建错误&lt;/td&gt;
+&lt;td&gt;System&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2944&lt;/td&gt;
+&lt;td&gt;7040&lt;/td&gt;
+&lt;td&gt;IPSEC 服务服务的启动类型已从禁用更改为自动启动&lt;/td&gt;
+&lt;td&gt;System&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2949&lt;/td&gt;
+&lt;td&gt;7045&lt;/td&gt;
+&lt;td&gt;服务创建&lt;/td&gt;
+&lt;td&gt;System&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;账户&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#账户&#34;&gt;#&lt;/a&gt; 账户&lt;/h2&gt;
+&lt;p&gt;PChunter、D 盾&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E9%9A%90%E8%97%8F%E8%B4%A6%E6%88%B711-16494047086361.png&#34; alt=&#34;隐藏账户11&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;端口&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#端口&#34;&gt;#&lt;/a&gt; 端口&lt;/h2&gt;
+&lt;p&gt;注意以下状态的网络连接：&lt;strong&gt;ESTABLISHED：连接建立数据传输&lt;/strong&gt;。&lt;strong&gt;LISTEN：监听中等待连接&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tcpview、火绒剑、命令行下 netstat -ano：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A51.png&#34; alt=&#34;网络连接1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;DNSQuerySniffer：DNS 解析查询工具。可以通过此工具确定访问恶意域名的端口号，该工具还可以将主机访问过的所有域名记录下来。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A52DNS%E8%AE%B0%E5%BD%95.png&#34; alt=&#34;网络连接2DNS记录&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;进程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进程&#34;&gt;#&lt;/a&gt; 进程&lt;/h2&gt;
+&lt;p&gt;主要注意点大致就是：&lt;strong&gt;没有厂商名字&lt;/strong&gt;、没有&lt;strong&gt;签名验证信息&lt;/strong&gt;、没有&lt;strong&gt;描述信息&lt;/strong&gt;的可疑进程。还有典型的挖矿现象 (CPU 或内存资源占用长时间过高) 的进程。&lt;/p&gt;
+&lt;p&gt;Pchunter：黑色为微软官方进程，蓝色为外界安装软件进程，红色为可疑进程，同时注意进程参数。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;PChunter1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Process Explorer，进程浏览器。界面功能从左到右为：Process 进程、CPU 占比、Private Bytes 提交大小、Working Set (工作设置、内存)、PID、Description 描述、Company Name 公司名。&lt;/p&gt;
+&lt;p&gt;小技巧：被注入的进程属性里会多出 **.NET Assemblies&lt;strong&gt; 和&lt;/strong&gt;.NET Performance** 两个菜单&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;ProEXP%E8%BF%9B%E7%A8%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;启动项-计划任务-服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启动项-计划任务-服务&#34;&gt;#&lt;/a&gt; 启动项、计划任务、服务&lt;/h2&gt;
+&lt;p&gt;autoruns: 检查启动项、计划任务、服务最推荐的工具。autoruns 可以看到启动项的可执行文件路径和启动命令。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;autoruns1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;autoruns1%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;autoruns2DLL.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;autoruns3%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;WMI 后门：无文件，相对来说难以排查，但也可以使用 autoruns 排查。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;autoruns4WMI%E6%8E%92%E6%9F%A5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件&#34;&gt;#&lt;/a&gt; 文件&lt;/h2&gt;
+&lt;h3 id=&#34;程序运行记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#程序运行记录&#34;&gt;#&lt;/a&gt; 程序运行记录&lt;/h3&gt;
+&lt;p&gt;使用 WinPrefetchView 解析 Prefetch 文件夹中的.pf 文件取证。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B19.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;可疑文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可疑文件&#34;&gt;#&lt;/a&gt; 可疑文件&lt;/h3&gt;
+&lt;p&gt;可疑文件的排查可疑根据预判时确定的&lt;strong&gt;时间范围和影响范围&lt;/strong&gt;来缩小排查范围。&lt;/p&gt;
+&lt;p&gt;筛选要排查的时间范围内的文件，尤其是创建时间、修改时间在此时间范围内的文件以及临时文件、快捷方式&lt;/p&gt;
+&lt;h2 id=&#34;rootkit病毒查杀&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rootkit病毒查杀&#34;&gt;#&lt;/a&gt; Rootkit 病毒查杀&lt;/h2&gt;
+&lt;p&gt;火绒恶性木马专杀工具 hrkill, 单独下载运行。&lt;/p&gt;
+&lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Jicy5odW9yb25nLmNuL3RocmVhZC0xODU3NS0xLTEuaHRtbA==&#34;&gt;http://bbs.huorong.cn/thread-18575-1-1.html&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;或腾讯管家工具箱内下载 &amp;quot;系统急救箱&amp;quot; 运行扫描，过程中点击会重启两三次。&lt;/p&gt;
+&lt;p&gt;也可以选择 360 顽固病毒查杀。&lt;/p&gt;
+&lt;h2 id=&#34;清理与加固&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#清理与加固&#34;&gt;#&lt;/a&gt; 清理与加固&lt;/h2&gt;
+&lt;p&gt;漏洞和补丁，在应急响应中是不可或缺。如果黑客是通过某种漏洞入侵系统的，而在应急响应中，无法找出黑客所利用的漏洞，就会意味着，入侵行为可以反复发生。在终端侧，就会表现为病毒清理不干净，杀了又来，所以一定要找出漏洞。&lt;/p&gt;
+&lt;p&gt;找到漏洞后，就需要打上相应的补丁，这样才是一次完整的处置。&lt;/p&gt;
+&lt;p&gt;怎么查看系统补丁情况？以 Windows 为例，直接打开 cmd，输入命令 systeminfo 即可获取。&lt;/p&gt;
+</content>
+        <category term="应急响应" />
+        <updated>2022-05-18T07:39:54.000Z</updated>
+    </entry>
+</feed>

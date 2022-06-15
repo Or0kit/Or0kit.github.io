@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;psad&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-12-21T07:30:38.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99-Psad%E7%9A%84%E7%AD%BE%E5%90%8D%E5%8C%B9%E9%85%8D/</id>
+        <title>Linux防火墙-Psad的签名匹配</title>
+        <link rel="alternate" href="https://or0kit.github.io/Linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99-Psad%E7%9A%84%E7%AD%BE%E5%90%8D%E5%8C%B9%E9%85%8D/"/>
+        <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;Linux 防火墙实验报告&lt;/p&gt;
+&lt;h2 id=&#34;实验目的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验目的&#34;&gt;#&lt;/a&gt; 实验目的&lt;/h2&gt;
+&lt;p&gt;1. 掌握 Psad 是如何通过解析 iptables 日志信息来进行签名匹配；&lt;br /&gt;
+2. 掌握 psad 签名更新、查看 psad 的状态输出、取证和详细 / 调试模式。&lt;/p&gt;
+&lt;h2 id=&#34;实验内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验内容&#34;&gt;#&lt;/a&gt; 实验内容&lt;/h2&gt;
+&lt;p&gt;Psad 的高级主题：从签名匹配到操作系统指纹识别；&lt;/p&gt;
+&lt;h2 id=&#34;实验环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验环境&#34;&gt;#&lt;/a&gt; 实验环境&lt;/h2&gt;
+&lt;p&gt;Centos 7&lt;br /&gt;
+kali&lt;/p&gt;
+&lt;h2 id=&#34;实验步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验步骤&#34;&gt;#&lt;/a&gt; 实验步骤&lt;/h2&gt;
+&lt;p&gt;1、在目标主机上执行下面操作：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;psad - -sig-update&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2、构造端口为 0 流量：也可以自己构造其他攻击&lt;br /&gt;
+在扫描者主机执行下面操作&lt;br /&gt;
+ &lt;code&gt;hping3 -p 0 192.168.252.136&lt;/code&gt;  或者  &lt;code&gt;hping3 -S -t 0 -p 0 192.168.252.136&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3、检测 TCP 端口 0 流量，查看 psad 的状态输出&lt;br /&gt;
+在目标主机上执行下面操作：&lt;br /&gt;
+ &lt;code&gt;psad –S&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;4、查看电子邮件警报&lt;/p&gt;
+&lt;p&gt;在目标主机上执行下面操作：&lt;br /&gt;
+ &lt;code&gt;cat /var/spool/mail/root&lt;/code&gt;  或者在你的电子邮箱里查看&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;5、在目标主机上执行下面操作：&lt;br /&gt;
+ &lt;code&gt;psad  –A &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;psad  --debug&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="Psad" />
+        <updated>2021-12-21T07:30:38.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://or0kit.github.io/Linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99-psad%E6%A3%80%E6%B5%8B%E5%8F%AF%E7%96%91%E6%B5%81%E9%87%8F/</id>
+        <title>Linux防火墙-psad检测可疑流量</title>
+        <link rel="alternate" href="https://or0kit.github.io/Linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99-psad%E6%A3%80%E6%B5%8B%E5%8F%AF%E7%96%91%E6%B5%81%E9%87%8F/"/>
+        <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;Linux 防火墙实验报告&lt;/p&gt;
+&lt;h2 id=&#34;实验目的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验目的&#34;&gt;#&lt;/a&gt; 实验目的&lt;/h2&gt;
+&lt;p&gt;1. 学习 Psad 是如何通过解析 iptables 日志信息来检测端口扫描；&lt;br /&gt;
+2. 掌握 psad 监控 iptables 日志信息检测攻击和可疑流量。&lt;/p&gt;
+&lt;h2 id=&#34;实验内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验内容&#34;&gt;#&lt;/a&gt; 实验内容&lt;/h2&gt;
+&lt;p&gt;Psad 检测可疑流量；&lt;/p&gt;
+&lt;h2 id=&#34;实验环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验环境&#34;&gt;#&lt;/a&gt; 实验环境&lt;/h2&gt;
+&lt;p&gt;CentOS-7   IP: 192.168.252.137&lt;br /&gt;
+kali       IP: 192.168.252.128&lt;/p&gt;
+&lt;h2 id=&#34;实验步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验步骤&#34;&gt;#&lt;/a&gt; 实验步骤&lt;/h2&gt;
+&lt;p&gt;1、TCP connect () 扫描：标注源和目的 IP 地址、被扫描的 TCP 端口范围、发送的标记和 psad 分配给该扫描者的危险级别。&lt;/p&gt;
+&lt;p&gt;外部扫描者：&lt;br /&gt;
+ &lt;code&gt;(root💀kali)-[~]# nmap -sT -n 192.168.252.136 --max-rtt-timeout 500ms&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;CentOS7: 查看日志信息。&lt;br /&gt;
+ &lt;code&gt;grep SYN /var/log/messages | tail -n 1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2、TCP SYN 或半开放扫描&lt;/p&gt;
+&lt;p&gt;外部扫描者：&lt;br /&gt;
+ &lt;code&gt;(root💀kali)-[~]# nmap -sS -n 192.168.252.136 --max-rtt-timeout 500ms&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;目标主机： &lt;code&gt;cat  /var/log/messages&lt;/code&gt;      （找到相应的日志信息）&lt;br /&gt;
+根据日志信息找到与 connect () 扫描中的字段不同的原因。并给出相应的截图标注。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;3、TCP FIN、XMAS 和 NULL 扫描：找出每种扫描中 TCP 数据包的 iptables 日志信息的 TCP 标记部分&lt;/p&gt;
+&lt;p&gt;外部扫描者：&lt;br /&gt;
+ &lt;code&gt;(root💀kali)-[~]# nmap –sF -n 192.168.252.136&lt;/code&gt; &lt;br /&gt;
+ &lt;code&gt;(root💀kali)-[~]# nmap –sN -n 192.168.252.136&lt;/code&gt; &lt;br /&gt;
+ &lt;code&gt;(root💀kali)-[~]# nmap –sX -n 192.168.252.136&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;目标主机：tail /var/log/messages     根据具体情况查看日志信息。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;4、UDP 扫描：再截图中的协议、源和目的 IP 地址、端口号以及数据包长度给与明显标记。&lt;br /&gt;
+外部扫描者：&lt;br /&gt;
+ &lt;code&gt;(root💀kali)-[~]# nmap -sU -n 192.168.252.136&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;目标主机： &lt;code&gt;tail  /var/log/messages&lt;/code&gt;     根据具体情况查看日志信息。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="Psad" />
+        <updated>2021-12-21T06:09:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://or0kit.github.io/Linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99-Psad%E5%AE%89%E8%A3%85/</id>
+        <title>Linux防火墙--Psad安装</title>
+        <link rel="alternate" href="https://or0kit.github.io/Linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99-Psad%E5%AE%89%E8%A3%85/"/>
+        <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;Linux 防火墙实验&lt;/p&gt;
+&lt;h2 id=&#34;安装psad-踩坑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装psad-踩坑&#34;&gt;#&lt;/a&gt; 安装 PSad （踩坑！）&lt;/h2&gt;
+&lt;p&gt;执行 &lt;code&gt;yum install perl-IPTables-ChainMgr perl-Date-Calc perl-Unix-Syslog&lt;/code&gt;  命令&lt;/p&gt;
+&lt;p&gt;报错 No package XXX available&lt;/p&gt;
+&lt;p&gt;企业版 Linux 库配置包中安装扩展包：&lt;br /&gt;
+执行 &lt;code&gt;yum install epel-release.noarch&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;再次执行  &lt;code&gt;yum install perl-IPTables-ChainMgr perl-Date-Calc perl-Unix-Syslog&lt;/code&gt;  命令&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;下载 Psad&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;rpm -Uvh http://www.cipherdyne.org/psad/download/psad-2.4.2-1.x86_64.rpm&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;启动守护进程并检查状态:&lt;br /&gt;
+ &lt;code&gt;cd /etc/init.d/&lt;/code&gt; &lt;br /&gt;
+ &lt;code&gt;psad start&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;又报错  &lt;code&gt;[*] Could not find whois, edit /etc/psad/psad.conf at /usr/sbin/psad line 10928.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;安装 whois&lt;br /&gt;
+ &lt;code&gt;yum  install whois&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;安装完后再次执行 &lt;code&gt;psad start&lt;/code&gt;  又报错:  &lt;code&gt;Use of uninitialized value $config&amp;#123;&amp;quot;ENABLE_FIREWALLD&amp;quot;&amp;#125; in string eq at /usr/sbin/fwcheck_psad line 139.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Google 了一下，发现是版本问题，焯！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Psad 的创始人直接更了一个版本……&lt;/p&gt;
+&lt;p&gt;没办法只能重新开始安装了&lt;/p&gt;
+&lt;p&gt;删除 2.4.2 版本  &lt;code&gt;rpm -e psad-2.4.2-1.x86_64&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;安装下载 psad&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;root@CentOS7 ~&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# cd /usr/local/src&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# wget http://www.cipherdyne.org/psad/download/psad-2.4.6.tar.bz2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# wget http://www.cipherdyne.org/psad/download/psad-2.4.6.tar.bz2.asc&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# md5sum psad-2.4.6.tar.bz2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;附上 MD5&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;导入密钥公钥 验证 下载安装 bz2 解压程序&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# gpg --keyserver http://www.cipherdyne.org/public_key --recv 0D3E7410&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# gpg --verify ./psad-2.4.6.tar.bz2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# gpg --verify ./psad-2.4.6.tar.bz2.asc &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# yum -y install bzip2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;解压并安装 psad&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 src&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# tar -jxvf ./psad-2.4.6.tar.bz2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 psad-2.4.6&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# chmod a+x install.pl&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 psad-2.4.6&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# ./install.pl&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;启动 pasd&lt;br /&gt;
+ &lt;code&gt;[root@CentOS7 psad-2.4.6]# psad start&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;检查 psad 是否没有接收到任何 iptables 日志消息的第一件事是确保 iptables/ip6tables 策略配置为记录与合法流量无关的数据包。&lt;br /&gt;
+安装了 psad 之后，可以执行以下操作（以 root 用户身份）来测试 psad 是否能够查看 iptables 日志消息。&lt;br /&gt;
+执行 psad -S 或者 psad –Status , 查看是否有接收 iptables 日志消息。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 psad-2.4.6&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# iptables -I INPUT -i lo -p tcp --dport 3003 -j LOG --log-prefix &#34;Inbound &#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 psad-2.4.6&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# telnet localhost 3003&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;root@CentOS7 psad-2.4.6&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;# psad -S&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;OK，实验成功！&lt;/p&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;报错 No package XXX available: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20veGl4aWh1YW5nL3AvNTQwNTE4OC5odG1s&#34;&gt;https://www.cnblogs.com/xixihuang/p/5405188.html&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="Psad" />
+        <updated>2021-12-21T02:15:58.000Z</updated>
+    </entry>
+</feed>

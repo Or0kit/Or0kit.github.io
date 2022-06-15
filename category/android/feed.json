@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"android\" category",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/%E5%9C%A8Android%E4%B8%8A%E5%AE%89%E8%A3%85kali/",
+            "url": "https://or0kit.github.io/%E5%9C%A8Android%E4%B8%8A%E5%AE%89%E8%A3%85kali/",
+            "title": "在Android上安装kali",
+            "date_published": "2021-02-26T05:55:57.000Z",
+            "content_html": "<h1 id=\"️正文\"><a class=\"anchor\" href=\"#️正文\">#</a> <span class=\"label success\">✔️正文</span></h1>\n<p>就不多此一举了，还是看国光大佬写的吧<br />\n链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuc3Fsc2VjLmNvbS8yMDE4LzA1L3Rlcm11eC5odG1s\">https://www.sqlsec.com/2018/05/termux.html</span></p>\n",
+            "tags": [
+                "Android"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;节表属性说明&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 26 Nov 2020 16:59:49 +0800</pubDate>
+        <lastBuildDate>Thu, 26 Nov 2020 16:59:49 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Bin/WindowsPE/windowsPE%E7%BB%93%E6%9E%84/</guid>
+            <title>windowsPE结构</title>
+            <link>https://or0kit.github.io/Bin/WindowsPE/windowsPE%E7%BB%93%E6%9E%84/</link>
+            <category>PE结构</category>
+            <category>DOS头属性说明</category>
+            <category>标准PE头属性说明</category>
+            <category>扩展PE头属性说明</category>
+            <category>节表属性说明</category>
+            <pubDate>Thu, 26 Nov 2020 16:59:49 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;win32下的pe文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#win32下的pe文件&#34;&gt;#&lt;/a&gt; win32 下的 PE 文件:&lt;/h1&gt;
+&lt;p&gt;PE 是 Portable Execute 的缩写，是可移植可执行的意思，只要文件的数据结构遵循 PE 结构，就属于 PE 文件，windows 中常见的 PE 文件有&lt;/p&gt;
+&lt;p&gt;*.sys 驱动类文件&lt;/p&gt;
+&lt;p&gt;*.dll 动态链接库文件&lt;/p&gt;
+&lt;p&gt;*.exe 可执行文件&lt;/p&gt;
+&lt;p&gt;*.ocx 对象类别扩充组建&lt;/p&gt;
+&lt;p&gt;*.obj 目标文件等.&lt;/p&gt;
+&lt;p&gt;同样，linux 中使用的是 ELF 格式，和 windows 的 PE 格式有一定的差别，如:&lt;/p&gt;
+&lt;p&gt;可重定位文件 *.o&lt;/p&gt;
+&lt;p&gt;可执行文件如 /bin/ls 等&lt;/p&gt;
+&lt;p&gt;共享目标文件 *.so&lt;/p&gt;
+&lt;p&gt;核心转储文件 core&lt;/p&gt;
+&lt;p&gt;都遵循 ELF 数据结构. unix 从 system v4 开始也使用 ELF 了，而他们的始祖都是 unix system v3 的中 COFF. 如下图:&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;pe文件结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pe文件结构&#34;&gt;#&lt;/a&gt; PE 文件结构&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iYnMucGVkaXkuY29tL3RocmVhZC0xNDU5MTIuaHRt&#34;&gt;源自看雪论坛&lt;/span&gt;&lt;/p&gt;
+&lt;img data-src=&#34;/Bin/WindowsPE/windowsPE%E7%BB%93%E6%9E%84/pe.gif&#34; class=&#34;&#34; title=&#34;PE文件架构&#34;&gt;
+&lt;p&gt;win32 中 PE 的逻辑图:&lt;/p&gt;
+&lt;p&gt;一个标准的 PE 文件由 DOS 头，stub,NT 头 (包含 PE 标识，标准 PE 头和可选 PE 头三个成员), 节表，节的内容以及一些为了内存对齐而填充的 0.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dos头&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dos头&#34;&gt;#&lt;/a&gt; DOS 头&lt;/h2&gt;
+&lt;p&gt;DOS 头就是一堆数据，但它们是一个有序的有含义的组合在一起的结构体。&lt;br /&gt;
+DOS 头是为了兼容 DOS 程序而设的，现在基本已经用不上了，仅有两个有意义的字段，所以还是很简单的。&lt;br /&gt;
+DOS 头对应的结构体名称叫 IMAGE_DOS_HEADER&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x00&lt;/span&gt; WORD   e_magic                &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;                &lt;span class=&#34;token comment&#34;&gt;//&#34;MZ 标记&#34; 用于判断是否为可执行文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x3C&lt;/span&gt; DWORD  e_lfanew&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;              &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;                &lt;span class=&#34;token comment&#34;&gt;//PE 头相对于文件的偏移，用于定位 PE 文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;win32中pe的nt头&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#win32中pe的nt头&#34;&gt;#&lt;/a&gt; win32 中 PE 的 NT 头&lt;/h2&gt;
+&lt;p&gt;NT 头是 PE 文件中标准 PE 头和可选 PE 头的总体称谓，还包含一个 PE 标识。下面是它在 Visual C++ 6.0 中 WINNT.h 中的定义:&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_NT_HEADERS64&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD Signature&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IMAGE_FILE_HEADER FileHeader&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IMAGE_OPTIONAL_HEADER64 OptionalHeader&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; IMAGE_NT_HEADERS64&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;PIMAGE_NT_HEADERS64&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_NT_HEADERS&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    DWORD Signature&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                        &lt;span class=&#34;token comment&#34;&gt;//PE 标识&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IMAGE_FILE_HEADER FileHeader&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;           &lt;span class=&#34;token comment&#34;&gt;// 标准 PE 头 (也称文件头)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IMAGE_OPTIONAL_HEADER32 OptionalHeader&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 可选 PE 头&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; IMAGE_NT_HEADERS32&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;PIMAGE_NT_HEADERS32&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;第一个是 64bit 的 NT 头定义，第二个是 32bit 的。这里只探讨 32bit 的。标准 PE 头也叫文件头，这不重要，知道是那么个东西就行了，高端名词主要是为了严谨而取出来的，但是很多时候很晦涩，通俗易懂更易让人接受.&lt;/p&gt;
+&lt;h3 id=&#34;标准pe头&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标准pe头&#34;&gt;#&lt;/a&gt; 标准 PE 头&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;这些内容源自滴水的课件&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;span&gt;p&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x00&lt;/span&gt; WORD    Machine&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;              &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 程序运行的 CPU 型号：0x0 任何处理器 / 0x14C 386 及后续处理器									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x02&lt;/span&gt; WORD    NumberOfSections&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;     &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 文件中存在的节的总数，如果要新增节或者合并节 就要修改这个值.									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x04&lt;/span&gt; DWORD   TimeDateStamp&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 时间戳：文件的创建时间 (和操作系统的创建时间无关)，编译器填写的.									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x08&lt;/span&gt; DWORD   PointerToSymbolTable&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; 													&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x0C&lt;/span&gt; DWORD   NumberOfSymbols&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; 													&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x10&lt;/span&gt; WORD    SizeOfOptionalHeader&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 可选 PE 头的大小，32 位 PE 文件默认 E0h 64 位 PE 文件默认为 F0h  大小可以自定义.									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x12&lt;/span&gt; WORD    Characteristics&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;      &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 每个位有不同的含义，可执行文件值为 10F 即 0 1 2 3 8 位置 1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;可选pe头&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可选pe头&#34;&gt;#&lt;/a&gt; 可选 PE 头&lt;/h3&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;span&gt;p&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    Magic&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;			&lt;span class=&#34;token comment&#34;&gt;// 说明文件类型：10B 32 位下的 PE 文件     20B 64 位下的 PE 文件									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;BYTE    MajorLinkerVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;													&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;BYTE    MinorLinkerVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;													&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfCode&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 所有代码节的和，必须是 FileAlignment 的整数倍 编译器填的  没用									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfInitializedData&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 已初始化数据大小的和，必须是 FileAlignment 的整数倍 编译器填的  没用									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfUninitializedData&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 未初始化数据大小的和，必须是 FileAlignment 的整数倍 编译器填的  没用									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   AddressOfEntryPoint&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 程序入口									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   BaseOfCode&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 代码开始的基址，编译器填的   没用									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   BaseOfData&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 数据开始的基址，编译器填的   没用									&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   ImageBase&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 内存镜像基址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SectionAlignment&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 内存对齐&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   FileAlignment&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				    &lt;span class=&#34;token comment&#34;&gt;// 文件对齐&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    MajorOperatingSystemVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    MinorOperatingSystemVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    MajorImageVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    MinorImageVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    MajorSubsystemVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    MinorSubsystemVersion&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   Win32VersionValue&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfImage&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 内存中整个 PE 文件的映射的尺寸，可以比实际的值大，但必须是 SectionAlignment 的整数倍&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfHeaders&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 所有头 + 节表按照文件对齐后的大小，否则加载会出错。一定是文件对齐的整数倍&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   CheckSum&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 校验和，一些系统文件有要求。用来判断文件是否被修改.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    Subsystem&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WORD    DllCharacteristics&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;	&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfStackReserve&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 初始化时保留的堆栈大小 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfStackCommit&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 初始化时实际提交的大小 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfHeapReserve&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 初始化时保留的堆大小 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   SizeOfHeapCommit&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 初始化时实践提交的大小 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   LoaderFlags&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DWORD   NumberOfRvaAndSizes&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;				&lt;span class=&#34;token comment&#34;&gt;// 目录项数目&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;节表区段节区节段等等&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#节表区段节区节段等等&#34;&gt;#&lt;/a&gt; 节表（区段，节区，节段等等）&lt;/h2&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;span&gt;p&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;IMAGE_SIZEOF_SHORT_NAME&lt;/span&gt;              &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;8&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;_IMAGE_SECTION_HEADER&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x00&lt;/span&gt; BYTE Name&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;IMAGE_SIZEOF_SHORT_NAME&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;union&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x08&lt;/span&gt; DWORD PhysicalAddress&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x08&lt;/span&gt; DWORD VirtualSize&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; Misc&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x0c&lt;/span&gt; DWORD VirtualAddress&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x10&lt;/span&gt; DWORD SizeOfRawData&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x14&lt;/span&gt; DWORD PointerToRawData&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x18&lt;/span&gt; DWORD PointerToRelocations&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x1c&lt;/span&gt; DWORD PointerToLinenumbers&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x20&lt;/span&gt; WORD NumberOfRelocations&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x22&lt;/span&gt; WORD NumberOfLinenumbers&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;0x24&lt;/span&gt; DWORD Characteristics&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;1、  &lt;code&gt;Name&lt;/code&gt;  8 个字节 一般情况下是以 &amp;quot;\0&amp;quot; 结尾的 ASCII 吗字符串来标识的名称，内容可以自定义。&lt;/p&gt;
+&lt;p&gt;注意：该名称并不遵守必须以 &amp;quot;\0&amp;quot; 结尾的规律，如果不是以 &amp;quot;\0&amp;quot; 结尾，系统会截取 8 个字节的长度进行处理。&lt;/p&gt;
+&lt;p&gt;2、  &lt;code&gt;Misc&lt;/code&gt;  双字 是该节在没有对齐前的真实尺寸，该值可以不准确。&lt;/p&gt;
+&lt;p&gt;3、  &lt;code&gt;VirtualAddress&lt;/code&gt;  节区在内存中的偏移地址。加上 ImageBase 才是在内存中的真正地址。&lt;/p&gt;
+&lt;p&gt;4、  &lt;code&gt;SizeOfRawData&lt;/code&gt;   节在文件中对齐后的尺寸。&lt;/p&gt;
+&lt;p&gt;5、  &lt;code&gt;PointerToRawData&lt;/code&gt;  节区在文件中的偏移。&lt;/p&gt;
+&lt;p&gt;6、  &lt;code&gt;PointerToRelocations&lt;/code&gt;  在 obj 文件中使用。 对 exe 无意义。&lt;/p&gt;
+&lt;p&gt;7、  &lt;code&gt;PointerToLinenumbers&lt;/code&gt;  行号表的位置 调试的时候使用。&lt;/p&gt;
+&lt;p&gt;8、  &lt;code&gt;NumberOfRelocations&lt;/code&gt;  在 obj 文件中使用  对 exe 无意义。&lt;/p&gt;
+&lt;p&gt;9、  &lt;code&gt;NumberOfLinenumbers&lt;/code&gt;  行号表中行号的数量 调试的时候使用。&lt;/p&gt;
+&lt;p&gt;10、  &lt;code&gt;Characteristics&lt;/code&gt;  节的属性。&lt;/p&gt;
+&lt;h1 id=&#34;个人笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人笔记&#34;&gt;#&lt;/a&gt; 个人笔记&lt;/h1&gt;
+&lt;p&gt;BYTE 是字节的意思，字节是计算机存储容量的基本单位，一个字节由 8 位二进制数组成。&lt;br /&gt;
+bit 是位的意思，位是计算机中存储数据的最小单位，指二进制数中的一个位数，其值为 “0” 或 “1”&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;WORD = 2 * BYTE = 16 bit
+
+DWORD = 2 * WORD = 4 * BYTE = 32 bit
+
+QWORD = 2 * WDORD = 4 * WORD = 8 * BYTE = 64 bit
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;一个 BYTE 以十六进制显示，是一个 2 位十六进制数.&lt;br /&gt;
+ 一个 WORD 以十六进制显示，是一个 4 位十六进制数.&lt;br /&gt;
+ 一个 DWORD 以十六进制显示，是一个 8 位十六进制数.&lt;br /&gt;
+ 一个 QWORD 以十六进制显示，是一个 16 位十六进制数.&lt;/p&gt;
+&lt;h2 id=&#34;看pe文件查找重要信息的位置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#看pe文件查找重要信息的位置&#34;&gt;#&lt;/a&gt; 看 PE 文件，查找重要信息的位置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;查找 PE 结构的各个位置
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DOS 头 -&amp;gt;NT 头&lt;br /&gt;
+直接看 0x3c 到 0x3f 的数据，这个值是 PE 标识符的位置，既_IMAGE_NT_HEADER（NT 头）结构中的 Signature，为 50 45 既 ASCII 码字符 PE&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NT 头中的_IMAGE_FILE_HEADER FileHeader&lt;br /&gt;
+NT 头往后查 0x06（0d06），0x06 与 0x07 记录着节区的个数，如果要新增节或者合并节 就要修改这个值。&lt;br /&gt;
+NT 头往后查 0x14（0d20）, 0x14 与 0x15 记录着可选 PE 头的大小&lt;br /&gt;
+ NT 头往后查 0x18（0d24），就是 _IMAGE_OPTIONAL_HEADER（可选 PE 头）的开始&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NT 头中的_IMAGE_OPTIONAL_HEADER&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;+0x00	WORD    Magic;   说明文件类型：0x010B 32 位下的 PE 文件     0x20B 64 位下的 PE 文件&lt;/li&gt;
+&lt;li&gt;+0x10	DWORD   AddressOfEntryPoint;	程序入口&lt;/li&gt;
+&lt;li&gt;+0x1C	DWORD   ImageBase;		        内存镜像基址&lt;/li&gt;
+&lt;li&gt;+0x20	DWORD   SectionAlignment;		内存对齐&lt;/li&gt;
+&lt;li&gt;+0x24	DWORD   FileAlignment;			文件对齐&lt;/li&gt;
+&lt;li&gt;+0x38	DWORD   SizeOfImage;			内存中整个 PE 文件的映射的尺寸，可以比实际的值大，但必须是 SectionAlignment 的整数倍&lt;/li&gt;
+&lt;li&gt;+0x3C	DWORD   SizeOfHeaders;			所有头 + 节表按照文件对齐后的大小，否则加载会出错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;节表&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;位置查找：直接找 NT 头，往后查找 0x14 个字节，记下这里的可选 PE 头的大小。&lt;br /&gt;
+从 NT 头开头往后查找 0x18 + 记下的 PE 头的大小，这里就是第一个节表的位置。&lt;/li&gt;
+&lt;li&gt;每一个节表的大小为 40 字节。&lt;/li&gt;
+&lt;li&gt;+0x00        Name             节表的名字 8 个字节&lt;/li&gt;
+&lt;li&gt;+0x0C DWORD  VirtualAddress   节区在内存中的偏移地址。加上 ImageBase 才是在内存中的真正地址&lt;/li&gt;
+&lt;li&gt;+0x10 DWORD  SizeOfRawData    节在文件中对齐后的大小&lt;/li&gt;
+&lt;li&gt;+0x14 DWORD  PointerToRawData 节区在文件中的偏移&lt;/li&gt;
+&lt;li&gt;+0x24 DWORD  Characteristics  节的属性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2020 年 11 月 26 日 21:00:35&lt;/p&gt;
+&lt;h2 id=&#34;真正的程序入口&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#真正的程序入口&#34;&gt;#&lt;/a&gt; 真正的程序入口&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;2021年5月2日17:16:32&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0x10	DWORD   AddressOfEntryPoint;	程序入口
+&lt;ul&gt;
+&lt;li&gt;0x1C	DWORD   ImageBase;		        内存镜像基址&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AddressOfEntryPoint 只是相对 ImageBase 的偏移。&lt;/p&gt;
+&lt;p&gt;真正的程序开始的地方是 &lt;code&gt;ImageBase + AddressOfEntryPoint&lt;/code&gt; &lt;br /&gt;
+ 这也是 OD 开始断的地方。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

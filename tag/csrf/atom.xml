@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;csrf&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-02-01T11:53:47.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/PenetrationTest/Web-Security/web%E6%BC%8F%E6%B4%9E-CSRF/</id>
+        <title>web漏洞-CSRF</title>
+        <link rel="alternate" href="https://or0kit.github.io/PenetrationTest/Web-Security/web%E6%BC%8F%E6%B4%9E-CSRF/"/>
+        <content type="html">&lt;h1 id=&#34;csrf概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#csrf概念&#34;&gt;#&lt;/a&gt; CSRF 概念&lt;/h1&gt;
+&lt;p&gt;CSRF 跨站点请求伪造 (Cross—Site Request Forgery)，跟 XSS 攻击一样，存在巨大的危害性，你可以这样来理解：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;攻击者盗用了你的身份，以你的名义发送恶意请求，对服务器来说这个请求是完全合法的，但是却完成了攻击者所期望的一个操作，比如以你的名义发送邮件、发消息，盗取你的账号，添加系统管理员，甚至于购买商品、虚拟货币转账等。 如下：其中 Web A 为存在 CSRF 漏洞的网站，Web B 为攻击者构建的恶意网站，User C 为 Web A 网站的合法用户。尽管听起来跟 XSS 跨站脚本攻击有点相似，但事实上 CSRF 与 XSS 差别很大，XSS 利用的是站点内的信任用户，而 CSRF 则是通过伪装来自受信任用户的请求来利用受信任的网站。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;csrf攻击示意图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#csrf攻击示意图&#34;&gt;#&lt;/a&gt; CSRF 攻击示意图&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;首先用户 C 浏览并登录了受信任站点 A；&lt;br /&gt;
+登录信息验证通过以后，站点 A 会在返回给浏览器的信息中带上已登录的 cookie，cookie 信息会在浏览器端保存一定时间（根据服务端设置而定）；&lt;br /&gt;
+完成这一步以后，用户在没有登出（清除站点 A 的 cookie）站点 A 的情况下，访问恶意站点 B；&lt;br /&gt;
+这时恶意站点 B 的某个页面向站点 A 发起请求，而这个请求会带上浏览器端所保存的站点 A 的 cookie；&lt;br /&gt;
+站点 A 根据请求所带的 cookie，判断此请求为用户 C 所发送的。&lt;br /&gt;
+因此，站点 A 会报据用户 C 的权限来处理恶意站点 B 所发起的请求，而这个请求可能以用户 C 的身份发送 邮件、短信、消息，以及进行转账支付等操作，这样恶意站点 B 就达到了伪造用户 C 请求站点 A 的目的。&lt;br /&gt;
+受害者只需要做下面两件事情，攻击者就能够完成 CSRF 攻击：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;登录受信任站点 A，并在本地生成 cookie；&lt;/li&gt;
+&lt;li&gt;在不登出站点 A（清除站点 A 的 cookie）的情况下，访问恶意站点 B。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;很多情况下所谓的恶意站点，很有可能是一个存在其他漏洞（如 XSS）的受信任且被很多人访问的站点，这样，普通用户可能在不知不觉中便成为了受害者。&lt;/p&gt;
+&lt;h1 id=&#34;csrf漏洞检测&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#csrf漏洞检测&#34;&gt;#&lt;/a&gt; CSRF 漏洞检测：&lt;/h1&gt;
+&lt;p&gt;检测 CSRF 漏洞是一项比较繁琐的工作，最简单的方法就是抓取一个正常请求的数据包，去掉 Referer 字段后再重新提交，如果该提交还有效，那么基本上可以确定存在 CSRF 漏洞。&lt;/p&gt;
+&lt;p&gt;随着对 CSRF 漏洞研究的不断深入，不断涌现出一些专门针对 CSRF 漏洞进行检测的工具，如 CSRFTester，CSRF Request Builder 等。&lt;/p&gt;
+&lt;p&gt;以 CSRFTester 工具为例，CSRF 漏洞检测工具的测试原理如下：使用 CSRFTester 进行测试时，首先需要抓取我们在浏览器中访问过的所有链接以及所有的表单等信息，然后通过在 CSRFTester 中修改相应的表单等信息，重新提交，这相当于一次伪造客户端请求。如果修改后的测试请求成功被网站服务器接受，则说明存在 CSRF 漏洞，当然此款工具也可以被用来进行 CSRF 攻击。&lt;/p&gt;
+&lt;p&gt;客户端访问服务器时没有同服务器做安全验证&lt;/p&gt;
+&lt;p&gt;一切 http 参数可控&lt;/p&gt;
+&lt;p&gt;详细 CSRF 检测见&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTAxMTIyL2FydGljbGUvZGV0YWlscy8xMDY0MDg3MTQ=&#34;&gt; https://blog.csdn.net/qq_41901122/article/details/106408714&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;防御csrf攻击&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#防御csrf攻击&#34;&gt;#&lt;/a&gt; 防御 CSRF 攻击&lt;/h1&gt;
+&lt;h2 id=&#34;尽量使用post限制get&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#尽量使用post限制get&#34;&gt;#&lt;/a&gt; 尽量使用 POST，限制 GET&lt;/h2&gt;
+&lt;p&gt;GET 接口太容易被拿来做 CSRF 攻击，看上面示例就知道，只要构造一个 img 标签，而 img 标签又是不能过滤的数据。接口最好限制为 POST 使用，GET 则无效，降低攻击风险。&lt;br /&gt;
+当然 POST 并不是万无一失，攻击者只要构造一个 form 就可以，但需要在第三方页面做，这样就增加暴露的可能性。&lt;/p&gt;
+&lt;h2 id=&#34;将cookie设置为httponly&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将cookie设置为httponly&#34;&gt;#&lt;/a&gt; 将 cookie 设置为 HttpOnly&lt;/h2&gt;
+&lt;p&gt;CRSF 攻击很大程度上是利用了浏览器的 cookie，为了防止站内的 XSS 漏洞盗取 cookie, 需要在 cookie 中设置 “HttpOnly” 属性，这样通过程序（如 JavaScript 脚本、Applet 等）就无法读取到 cookie 信息，避免了攻击者伪造 cookie 的情况出现。&lt;br /&gt;
+在 Java 的 Servlet 的 API 中设置 cookie 为 HttpOnly 的代码如下：&lt;br /&gt;
+ &lt;code&gt;response.setHeader( &amp;quot;Set-Cookie&amp;quot;, &amp;quot;cookiename=cookievalue;HttpOnly&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;增加token&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#增加token&#34;&gt;#&lt;/a&gt; 增加 token&lt;/h2&gt;
+&lt;p&gt;CSRF 攻击之所以能够成功，是因为攻击者可以伪造用户的请求，该请求中所有的用户验证信息都存在于 cookie 中，因此攻击者可以在不知道用户验证信息的情况下直接利用用户的 cookie 来通过安全验证。由此可知，抵御 CSRF 攻击的关键在于：在请求中放入攻击者所不能伪造的信息，并且该信总不存在于 cookie 之中。鉴于此，系统开发人员可以在 HTTP 请求中以参数的形式加入一个随机产生的 token，并在服务端进行 token 校验，如果请求中没有 token 或者 token 内容不正确，则认为是 CSRF 攻击而拒绝该请求。&lt;br /&gt;
+假设请求通过 POST 方式提交，则可以在相应的表单中增加一个隐藏域：&lt;br /&gt;
+ &lt;code&gt;&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;_toicen&amp;quot; value=&amp;quot;tokenvalue&amp;quot;/&amp;gt;&lt;/code&gt; &lt;br /&gt;
+token 的值通过服务端生成，表单提交后 token 的值通过 POST 请求与参数一同带到服务端，每次会话可以使用相同的 token，会话过期，则 token 失效，攻击者因无法获取到 token，也就无法伪造请求。&lt;br /&gt;
+在 session 中添加 token 的实现代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;HttpSession session &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; request&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;getSession&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword type-declaration&#34;&gt;Object&lt;/span&gt; token &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; session&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;getAttribute&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;_token&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;token &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;null&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;I&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;I&lt;/span&gt; &lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;&#34;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;equals&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;token&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    session&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;setAttribute&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string double-quoted-string&#34;&gt;&#34;_token&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;UUID&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;randomUUIDO &lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;toString&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;通过referer识别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#通过referer识别&#34;&gt;#&lt;/a&gt; 通过 Referer 识别&lt;/h2&gt;
+&lt;p&gt;根据 HTTP 协议，在 HTTP 头中有一个字段叫 Referer，它记录了该 HTTP 请求的来源地址。在通常情况下，访问一个安全受限的页面的请求都来自于同一个网站。比如某银行的转账是通过用户访问 &lt;code&gt;http://www.xxx.com/transfer.do&lt;/code&gt;  页面完成的，用户必须先登录 &lt;code&gt;www.xxx.com&lt;/code&gt; ，然后通过单击页面上的提交按钮来触发转账事件。当用户提交请求时，该转账请求的 Referer 值就会是&lt;br /&gt;
+提交按钮所在页面的 URL（本例为 &lt;code&gt;www.xxx. com/transfer.do&lt;/code&gt; ）。如果攻击者要对银行网站实施 CSRF 攻击，他只能在其他网站构造请求，当用户通过其他网站发送请求到银行时，该请求的 Referer 的值是其他网站的地址，而不是银行转账页面的地址。因此，要防御 CSRF 攻击，银行网站只需要对于每一个转账请求验证其 Referer 值即可，如果是以 &lt;code&gt;www.xx.om&lt;/code&gt;  域名开头的地址，则说明该请求是来自银行网站自己的请求，是合法的；如果 Referer 是其他网站，就有可能是 CSRF 攻击，则拒绝该请求。&lt;br /&gt;
+取得 HTTP 请求 Referer：&lt;br /&gt;
+ &lt;code&gt;String referer = request.getHeader(&amp;quot;Referer&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;csrf-绕过referer技巧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#csrf-绕过referer技巧&#34;&gt;#&lt;/a&gt; CSRF-- 绕过 Referer 技巧&lt;/h1&gt;
+&lt;p&gt;CSRF 遇到 Referer 绕过的情况，有条件限制，不一定所有的 Refere 验证就可以绕过&lt;/p&gt;
+&lt;h2 id=&#34;referer条件为空条件时&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#referer条件为空条件时&#34;&gt;#&lt;/a&gt; referer 条件为空条件时&lt;/h2&gt;
+&lt;p&gt;解决方案:&lt;/p&gt;
+&lt;p&gt;利用 &lt;code&gt;ftp://, http://, https://, file://, javascript:, data: &lt;/code&gt; &lt;br /&gt;
+这个时候浏览器地址栏是 &lt;code&gt;file://&lt;/code&gt;  开头的，如果这个 HTML 页面向任何 http 站点提交请求的话，这些请求的 Referer 都是空的。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label&#34;&gt;例:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;利用 data: 协议&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;body&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&#34;token attr-name&#34;&gt;src&lt;/span&gt;&lt;span class=&#34;token attr-value&#34;&gt;&lt;span class=&#34;token punctuation attr-equals&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&#34;&lt;/span&gt;data:text/html;base64,PGZvcm0gbWV0aG9kPXBvc3QgYWN0aW9uPWh0dHA6Ly9hLmIuY29tL2Q+PGlucHV0IHR5cGU9dGV4dCBuYW1lPSdpZCcgdmFsdWU9JzEyMycvPjwvZm9ybT48c2NyaXB0PmRvY3VtZW50LmZvcm1zWzBdLnN1Ym1pdCgpOzwvc2NyaXB0Pg==&lt;span class=&#34;token punctuation&#34;&gt;&#34;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;bese64 编码 解码即可看到代码&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;利用 https 协议&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;https 向 http 跳转的时候 Referer 为空&lt;br /&gt;
+拿一个 https 的 webshell&lt;br /&gt;
+ &lt;code&gt;&amp;lt;iframe src=&amp;quot;https://xxxxx.xxxxx/attack.php&amp;quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;attack.php 写上 CSRF 攻击代码&lt;/p&gt;
+&lt;h2 id=&#34;判断referer是某域情况下绕过&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#判断referer是某域情况下绕过&#34;&gt;#&lt;/a&gt; 判断 Referer 是某域情况下绕过&lt;/h2&gt;
+&lt;p&gt;比如你找的 csrf 是 &lt;code&gt;http://xxx.com&lt;/code&gt;  验证的 referer 是验证的 &lt;code&gt;*.http://xx.com&lt;/code&gt;  可以找个二级域名 之后 &lt;code&gt;&amp;lt;img &amp;quot;csrf地址&amp;quot;&amp;gt;&lt;/code&gt;  之后在把文章地址发出去 就可以伪造。&lt;/p&gt;
+&lt;h2 id=&#34;判断referer是否存在某关键字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#判断referer是否存在某关键字&#34;&gt;#&lt;/a&gt; 判断 referer 是否存在某关键字&lt;/h2&gt;
+&lt;p&gt;referer 判断存在不存在 &lt;code&gt;http://google.com&lt;/code&gt;  这个关键词&lt;/p&gt;
+&lt;p&gt;在网站新建一个 &lt;code&gt;http://google.com&lt;/code&gt;  目录 把 CSRF 存放在 &lt;code&gt;http://google.com&lt;/code&gt;  目录，即可绕过&lt;/p&gt;
+&lt;h2 id=&#34;判断referer是否含有某域名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#判断referer是否含有某域名&#34;&gt;#&lt;/a&gt; 判断 referer 是否含有某域名&lt;/h2&gt;
+&lt;p&gt;判断了 Referer 开头是否以 &lt;code&gt;http://126.com&lt;/code&gt;  以及 126 子域名 不验证根域名为 &lt;code&gt;http://126.com&lt;/code&gt;  那么我这里可以构造子域名 &lt;code&gt;http://x.126.com.xxx.com&lt;/code&gt;  作为蠕虫传播的载体服务器，即可绕过。&lt;/p&gt;
+&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC82NzQwOGQ3M2M2NmQ=&#34;&gt;https://www.jianshu.com/p/67408d73c66d&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNjA2OTczL2FydGljbGUvZGV0YWlscy84NjUwNDc0Nw==&#34;&gt;https://blog.csdn.net/qq_41606973/article/details/86504747&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRjaGF0LmNzZG4ubmV0L2FjdGl2aXR5LzVhMGJhMzQ3ZTFmNzU1NTcxNDgzZWE1YQ==&#34;&gt;https://gitchat.csdn.net/activity/5a0ba347e1f755571483ea5a&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vRmx1b3Jlc2NlbmNlLXRqeS9wLzYxMDAzMTAuaHRtbA==&#34;&gt;https://www.cnblogs.com/Fluorescence-tjy/p/6100310.html&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="CSRF" />
+        <updated>2021-02-01T11:53:47.000Z</updated>
+    </entry>
+</feed>

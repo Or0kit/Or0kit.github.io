@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;中断请求级别&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-12-06T14:08:01.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/Bin/Core/Drive-Development/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80plus/</id>
+        <title>驱动开发-内核编程基础plus</title>
+        <link rel="alternate" href="https://or0kit.github.io/Bin/Core/Drive-Development/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80plus/"/>
+        <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;学习一下常用的驱动编程机制。&lt;/p&gt;
+&lt;h1 id=&#34;上下文环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上下文环境&#34;&gt;#&lt;/a&gt; 上下文环境&lt;/h1&gt;
+&lt;p&gt;应用层 EXE 有独立进程的概念。当这个 EXE 运行的时候，开发者可以很清楚地知道程序的定运行在哪一个线程中。对于内核驱动开发来说，进程的概念啊显得相当模糊，初学者往往不清楚自己的驱动代码具体运行在什么进程或线程中。&lt;/p&gt;
+&lt;p&gt;这就是需要了解的上下文 (Context) 概念，上下文泛指 CPU 在执行代码时，该代码所处的环境与状态。通俗来讲，这些环境包括（不仅限）：当前代码所属线程、中断请求级别、CPU 寄存器各状态。&lt;/p&gt;
+&lt;p&gt;这里可以做一个小实验，写代码验证一下。&lt;br /&gt;
+写一个简单的驱动代码，测试驱动入口函数和驱动卸载函数在执行时是属于哪一个进程的，只要在这两个函数中调用  &lt;code&gt;PsGetCurrentProcessId&lt;/code&gt;  函数获取当前进程 ID 就行。&lt;/p&gt;
+&lt;p&gt;这里我就直接说结果了。&lt;/p&gt;
+&lt;p&gt;无论是驱动入口函数还是驱动卸载函数，都隶属于进程 ID 为 4 的进程，也就是 SYSTEM 进程。&lt;/p&gt;
+&lt;p&gt;SYSTEM 进程其实是操作系统虚拟出来的一个进程，代表系统内核。一般来说内核代码都处于 SYSTEM 进程空间中，但驱动对象（DRIVER_OBJECT）的派遣例程一般工作在发起请求的进程中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;地址空间&lt;/strong&gt;，对 32 位系统来说，应用层程序有独立的 2GB 低地址虚拟内存空间，而高地址的 2GB 是内核共享的地址空间。&lt;br /&gt;
+在 64 位 Windows 中，虚拟地址空间的理论大小为 2 的 64 次方字节，但实际使用的仅一小部分，范围从  &lt;code&gt;0x000`00000000&lt;/code&gt;  至  &lt;code&gt;0x7FF`FFFFFFFF&lt;/code&gt;  的 8TB 用于应用层空间，范围从  &lt;code&gt;0xFFFF0800`00000000&lt;/code&gt;  至  &lt;code&gt;0xFFFFFFFF`FFFFFFFF&lt;/code&gt;  的 248TB 用于内核空间。&lt;/p&gt;
+&lt;h1 id=&#34;中断请求级别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#中断请求级别&#34;&gt;#&lt;/a&gt; 中断请求级别&lt;/h1&gt;
+&lt;h1 id=&#34;链表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#链表&#34;&gt;#&lt;/a&gt; 链表&lt;/h1&gt;
+&lt;p&gt;链表作为内核&lt;/p&gt;
+&lt;h1 id=&#34;自旋锁&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自旋锁&#34;&gt;#&lt;/a&gt; 自旋锁&lt;/h1&gt;
+&lt;h1 id=&#34;注册表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册表&#34;&gt;#&lt;/a&gt; 注册表&lt;/h1&gt;
+&lt;p&gt;注册表是 Windows 系统中最重要的数据配置存储结构，存储着系统绝大部分的核心配置信息。注册表实际上也是一种文件。这些文件大多数存储在&lt;strong&gt;系统盘&lt;/strong&gt; system32\config 目录下。&lt;/p&gt;
+&lt;p&gt;在资源管理器中我没有权限访问，懒得更改了，我在 cmd 中查看如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;C:\Windows\System32\config&amp;gt;dir&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;C:\Windows\System32\config 的目录&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;09  13:09    &amp;lt;DIR&amp;gt;          .&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;09  13:09    &amp;lt;DIR&amp;gt;          ..&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;06  00:57           524,288 BBI&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  16:46            28,672 BCD-Template&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;09  18:04        38,797,312 COMPONENTS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;06  00:57           786,432 DEFAULT&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;09  17:31         8,118,272 DRIVERS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  18:14            32,768 ELAM&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  16:37    &amp;lt;DIR&amp;gt;          Journal&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  16:37    &amp;lt;DIR&amp;gt;          RegBack&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;06  00:57           131,072 SAM&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;06  00:57            65,536 SECURITY&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;06  00:57       118,489,088 SOFTWARE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;05&amp;#x2F;06  00:57        24,903,680 SYSTEM&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  16:37    &amp;lt;DIR&amp;gt;          systemprofile&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  16:37    &amp;lt;DIR&amp;gt;          TxR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2022&amp;#x2F;01&amp;#x2F;26  16:40             8,192 userdiff&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;              11 个文件    191,885,312 字节&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;               6 个目录 50,612,371,456 可用字节&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;可以看到  &lt;code&gt;SOFTWARE&lt;/code&gt;  、  &lt;code&gt;SYSTEM&lt;/code&gt;  、  &lt;code&gt;SAM&lt;/code&gt;  、等文件，这些文件被以&lt;strong&gt;内存映射&lt;/strong&gt;的方式映射到内核空间，然后以一种被称为 “HIVE&amp;quot; 的方式组织起来、注册表 API 实际上操作的是这份 HIVE 内存数据，对 HIVE 数据的改动，最终会被回写到 config 目录下对应的文件中。&lt;/p&gt;
+&lt;p&gt;如果只是想单纯的使用注册表做数据读取或存储，可以没有必要深入去研究内核对注册表的实现方式。&lt;/p&gt;
+&lt;h2 id=&#34;注册表的打开与关闭&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册表的打开与关闭&#34;&gt;#&lt;/a&gt; 注册表的打开与关闭&lt;/h2&gt;
+&lt;h2 id=&#34;注册表的修改&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册表的修改&#34;&gt;#&lt;/a&gt; 注册表的修改&lt;/h2&gt;
+&lt;h2 id=&#34;注册表的读取&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册表的读取&#34;&gt;#&lt;/a&gt; 注册表的读取&lt;/h2&gt;
+&lt;h2 id=&#34;作业&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作业&#34;&gt;#&lt;/a&gt; 作业&lt;/h2&gt;
+&lt;h3 id=&#34;注册表实现驱动的自启&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册表实现驱动的自启&#34;&gt;#&lt;/a&gt; 注册表实现驱动的自启&lt;/h3&gt;
+&lt;p&gt;驱动文件的转移&lt;/p&gt;
+&lt;h1 id=&#34;文件操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件操作&#34;&gt;#&lt;/a&gt; 文件操作&lt;/h1&gt;
+&lt;h2 id=&#34;文件的打开与关闭&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件的打开与关闭&#34;&gt;#&lt;/a&gt; 文件的打开与关闭&lt;/h2&gt;
+&lt;h2 id=&#34;文件的读写&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件的读写&#34;&gt;#&lt;/a&gt; 文件的读写&lt;/h2&gt;
+&lt;h2 id=&#34;文件的删除&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件的删除&#34;&gt;#&lt;/a&gt; 文件的删除&lt;/h2&gt;
+&lt;p&gt;强行删除&lt;br /&gt;
+文件的保护&lt;/p&gt;
+&lt;h2 id=&#34;作业-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作业-2&#34;&gt;#&lt;/a&gt; 作业&lt;/h2&gt;
+&lt;p&gt;在内核中实现文件的拷贝&lt;/p&gt;
+&lt;h1 id=&#34;线程与事件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程与事件&#34;&gt;#&lt;/a&gt; 线程与事件&lt;/h1&gt;
+&lt;h2 id=&#34;使用系统线程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用系统线程&#34;&gt;#&lt;/a&gt; 使用系统线程&lt;/h2&gt;
+&lt;h2 id=&#34;使用同步事件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用同步事件&#34;&gt;#&lt;/a&gt; 使用同步事件&lt;/h2&gt;
+</content>
+        <category term="上下文环境" />
+        <category term="中断请求级别" />
+        <category term="链表" />
+        <category term="自旋锁" />
+        <category term="注册表" />
+        <category term="地址空间" />
+        <category term="文件操作" />
+        <category term="线程与事件" />
+        <updated>2021-12-06T14:08:01.000Z</updated>
+    </entry>
+</feed>

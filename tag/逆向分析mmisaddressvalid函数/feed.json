@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"逆向分析mmisaddressvalid函数\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E9%80%86%E5%90%91%E5%88%86%E6%9E%90MmIsAddressValid%E5%87%BD%E6%95%B0-10-10-12/",
+            "url": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E9%80%86%E5%90%91%E5%88%86%E6%9E%90MmIsAddressValid%E5%87%BD%E6%95%B0-10-10-12/",
+            "title": "保护模式-逆向分析MmIsAddressValid函数(10-10-12)",
+            "date_published": "2021-08-30T06:17:30.000Z",
+            "content_html": "<h1 id=\"逆向分析mmisaddressvalid函数\"><a class=\"anchor\" href=\"#逆向分析mmisaddressvalid函数\">#</a> 逆向分析 MmIsAddressValid 函数</h1>\n<h2 id=\"找到-mmisaddressvalid-函数\"><a class=\"anchor\" href=\"#找到-mmisaddressvalid-函数\">#</a> 找到 MmIsAddressValid 函数</h2>\n<p>方法一：在 windbg 中输入  <code>u MmIsAddressValid l1A</code></p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p>方法二：在 c:\\windows\\system32\\ 中找到内核程序，用 IDA 分析。</p>\n<p>ntkrnlpa.exe 2-9-9-12 分页内核<br />\n ntoskrnl.exe 10-10-12 分页内核</p>\n<p>打开 ntoskrnl.exe 后，加载 pdb 文件，即可查看函数名称。</p>\n<p><img data-src=\"image002.png\" alt=\"\" /></p>\n<h2 id=\"分析代码\"><a class=\"anchor\" href=\"#分析代码\">#</a> 分析代码</h2>\n<p>分析前，先聊聊函数头的 MOV EDI,EDI 指令。这条指令看起来什么也没做，但是很多系统函数开头都有这条指令，why？其实这是为了实现对函数行为的动态修改（热补丁），可以一下这篇文章 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N3YW5hYmluL2FydGljbGUvZGV0YWlscy8xNzU1MDg5Nw==\">函数开始处的 MOV EDI, EDI 的作用</span></p>\n<p><img data-src=\"image003.png\" alt=\"\" /></p>\n<p>函数主要是检测 P 位是否有效。<br />\nPAT 还没学，就不多逆了。</p>\n<h2 id=\"总结\"><a class=\"anchor\" href=\"#总结\">#</a> 总结</h2>\n<p>学习操作系统的汇编算法。</p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0t3YW5zeS9hcnRpY2xlL2RldGFpbHMvMTA4OTQ1MDY4\">https://blog.csdn.net/Kwansy/article/details/108945068</span></p>\n",
+            "tags": [
+                "逆向分析MmIsAddressValid函数"
+            ]
+        }
+    ]
+}

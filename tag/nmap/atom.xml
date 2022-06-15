@@ -1,0 +1,534 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Or0kit.github.io</id>
+    <title>Or0kit • Posts by &#34;nmap&#34; tag</title>
+    <link href="https://Or0kit.github.io" />
+    <updated>2021-03-09T08:14:20.000Z</updated>
+    <category term="Drozer" />
+    <category term="Algolia" />
+    <category term="同义词替换" />
+    <category term="xpath" />
+    <category term="win32api" />
+    <category term="WOW64" />
+    <category term="windows消息机制" />
+    <category term="虚拟内存" />
+    <category term="jsDelivr" />
+    <category term="First blog" />
+    <category term="markdown 学习" />
+    <category term="Android" />
+    <category term="替换密钥" />
+    <category term="数论基础" />
+    <category term="ADB" />
+    <category term="雷电模拟器" />
+    <category term="Hadoop" />
+    <category term="IDA" />
+    <category term="Windows逆向" />
+    <category term="SSH隧道" />
+    <category term="url" />
+    <category term="http" />
+    <category term="Nginx" />
+    <category term="Linux" />
+    <category term="CentOS7配置vsftp" />
+    <category term="Psad" />
+    <category term="fwsnort" />
+    <category term="应急响应" />
+    <category term="x86汇编指令" />
+    <category term="逆向" />
+    <category term="IDA学习" />
+    <category term="恶意代码分析实战入门" />
+    <category term="静态分析基础" />
+    <category term="动态分析技术基础" />
+    <category term="加壳" />
+    <category term="脱壳" />
+    <category term="C++壳" />
+    <category term="ESP寻址" />
+    <category term="定位Win32窗口回调函数" />
+    <category term="HOOK攻防" />
+    <category term="瞬时HOOK过检测" />
+    <category term="INLINE-HOOK" />
+    <category term="IAT HOOK" />
+    <category term="INLINE HOOK" />
+    <category term="进程监控" />
+    <category term="模块隐藏" />
+    <category term="进程通信" />
+    <category term="tlhelp32.h" />
+    <category term="进程遍历" />
+    <category term="模块遍历" />
+    <category term="TEB" />
+    <category term="PEB" />
+    <category term="R3层断链" />
+    <category term="外挂原理" />
+    <category term="DLL注入之进程间通信" />
+    <category term="Win临界区" />
+    <category term="Win互斥体" />
+    <category term="内存映射文件" />
+    <category term="内存映射共享" />
+    <category term="写拷贝" />
+    <category term="Win事件" />
+    <category term="线程同步" />
+    <category term="Win子窗口控件" />
+    <category term="win32文件函数" />
+    <category term="代码注入" />
+    <category term="窗口程序" />
+    <category term="消息机制" />
+    <category term="消息类型" />
+    <category term="私有内存" />
+    <category term="共享内存" />
+    <category term="设备对象" />
+    <category term="DC设备上下文" />
+    <category term="图形对象" />
+    <category term="创建线程" />
+    <category term="线程控制" />
+    <category term="线程相关API" />
+    <category term="线程上下文" />
+    <category term="CONTEXT结构体" />
+    <category term="物理内存" />
+    <category term="Windows进程" />
+    <category term="句柄表" />
+    <category term="远程线程函数" />
+    <category term="远程线程" />
+    <category term="DLL注入" />
+    <category term="DLL注入相关函数" />
+    <category term="WinMain函数" />
+    <category term="调用约定" />
+    <category term="我的GetProcAddress" />
+    <category term="资源文件" />
+    <category term="消息断点" />
+    <category term="通用控件" />
+    <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="PE课后作业" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="扩大节" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
+    <category term="button" />
+    <category term="单选框" />
+    <category term="复选框件" />
+    <category term="Edit" />
+    <category term="Combo Box" />
+    <category term="Tab" />
+    <category term="ListCtrl" />
+    <category term="MFC的本质" />
+    <category term="MFC的层次结构图" />
+    <category term="手动创建一个MFC程序" />
+    <category term="MFC的初始化过程" />
+    <category term="MFC运行时类型识别" />
+    <category term="关键字static" />
+    <category term="关键字const" />
+    <category term="MFC动态创建" />
+    <category term="MFC消息映射" />
+    <category term="结构体AFX_MSGMAP_ENTRY" />
+    <category term="结构体AFX_MSGM" />
+    <category term="MFC的三大类消息" />
+    <category term="数据传输" />
+    <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
+    <category term="STL" />
+    <category term="Vector容器" />
+    <category term="Deque容器" />
+    <category term="List容器" />
+    <category term="Set容器" />
+    <category term="Multiset容器" />
+    <category term="Map容器" />
+    <category term="Multimap容器" />
+    <category term="Stack容器" />
+    <category term="Queue容器" />
+    <category term="STL算法" />
+    <category term="STL迭代器" />
+    <category term="CobaltStrike" />
+    <category term="RedTeam" />
+    <category term="Apeache" />
+    <category term="Nmap" />
+    <category term="php" />
+    <category term="guestbook" />
+    <category term="SQLmap" />
+    <category term="apache" />
+    <category term="log" />
+    <category term="mysql主键" />
+    <category term="CSRF" />
+    <category term="SSRF" />
+    <category term="业务逻辑漏洞" />
+    <category term="xss" />
+    <category term="webshell流量特征" />
+    <category term="虚拟网卡" />
+    <category term="0环与3环的通信（常规方法）" />
+    <category term="内核空间" />
+    <category term="内核模块" />
+    <category term="遍历内核模块" />
+    <category term="定位未导出函数PspTiminateProcess" />
+    <category term="内核编程基础" />
+    <category term="ANSI_STRING" />
+    <category term="UNICODE_STRING" />
+    <category term="内核内存" />
+    <category term="上下文环境" />
+    <category term="中断请求级别" />
+    <category term="链表" />
+    <category term="自旋锁" />
+    <category term="注册表" />
+    <category term="地址空间" />
+    <category term="文件操作" />
+    <category term="线程与事件" />
+    <category term="内核重载" />
+    <category term="驱动调试" />
+    <category term="配置VS2019+WDK10" />
+    <category term="第一个驱动程序" />
+    <category term="调试驱动程序" />
+    <category term="OpenSCManager" />
+    <category term="CreateService" />
+    <category term="APC的本质" />
+    <category term="APC的备用队列" />
+    <category term="消息队列" />
+    <category term="PsConvertToGuiThread" />
+    <category term="win32k.sys" />
+    <category term="GUI线程" />
+    <category term="窗口程序的创建" />
+    <category term="消息循环" />
+    <category term="线性地址的管理" />
+    <category term="VAD树" />
+    <category term="_MMVAD" />
+    <category term="_MMVAD_FLAGS" />
+    <category term="VirtualAlloc" />
+    <category term="MEM_COMMIT与MEM_RESERVE" />
+    <category term="malloc" />
+    <category term="堆内存" />
+    <category term="栈内存" />
+    <category term="全局区内存" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
+    <category term="MmAddPhysicalMemoryEx" />
+    <category term="缺页异常" />
+    <category term="临界区" />
+    <category term="KPCR结构体" />
+    <category term="等待链表" />
+    <category term="调度链表" />
+    <category term="模拟线程切换" />
+    <category term="模拟挂起与恢复函数" />
+    <category term="进程的创建" />
+    <category term="获取当前进程" />
+    <category term="ETHREAD" />
+    <category term="KTHREAD" />
+    <category term="EPROCESS" />
+    <category term="KPROCESS" />
+    <category term="2-9-9-12分页" />
+    <category term="PAE" />
+    <category term="PDPTE" />
+    <category term="PDE" />
+    <category term="PTE" />
+    <category term="XD标志位" />
+    <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="TLB" />
+    <category term="CPU缓存" />
+    <category term="INVLPG指令" />
+    <category term="全局页" />
+    <category term="ShadowWalker" />
+    <category term="中断" />
+    <category term="异常" />
+    <category term="CLI指令" />
+    <category term="STI指令" />
+    <category term="INT2" />
+    <category term="INT8" />
+    <category term="中断门描述符" />
+    <category term="IDT" />
+    <category term="提权" />
+    <category term="TSS" />
+    <category term="跨段跳转流程" />
+    <category term="JMP FAR指令" />
+    <category term="任务门" />
+    <category term="LDT段描述符" />
+    <category term="LDT" />
+    <category term="CR0" />
+    <category term="CR2" />
+    <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
+    <category term="段寄存器结构" />
+    <category term="段描述符" />
+    <category term="段选择子" />
+    <category term="GDT表" />
+    <category term="调用门" />
+    <category term="调用门描述符" />
+    <category term="逆向分析MmIsAddressValid函数" />
+    <category term="error C2143" />
+    <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
+    <category term="陷阱门描述符" />
+    <category term="页目录表基址" />
+    <category term="页表的基址" />
+    <category term="0地址执行ShellCode" />
+    <category term="10-10-12分页" />
+    <category term="PDE_PTE" />
+    <category term="物理页" />
+    <category term="SSDT HOOK" />
+    <category term="OpenProcess" />
+    <category term="系统服务表" />
+    <category term="SSDT" />
+    <category term="SSDT HOOK隐藏" />
+    <category term="API进出内核" />
+    <category term="系统调用阶段总结" />
+    <category term="网络安全法" />
+    <category term="ASCII" />
+    <category term="GBK" />
+    <category term="ANSI" />
+    <category term="Unicode" />
+    <category term="UTF-8" />
+    <category term="URL 编码/解码" />
+    <category term="十进制" />
+    <category term="二进制" />
+    <category term="十六进制" />
+    <category term="内存" />
+    <category term="编写ShellCode实现IAT HOOK" />
+    <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
+    <category term="加载图标" />
+    <category term="提取图标" />
+    <category term="资源表" />
+    <category term="MFC命令传递" />
+    <category term="远控界面编写" />
+    <category term="HTML" />
+    <category term="文件包含" />
+    <category term="sql注入" />
+    <category term="经典定长指令" />
+    <category term="经典变长指令" />
+    <category term="指令前缀" />
+    <category term="进程句柄表" />
+    <category term="全局句柄表" />
+    <category term="KAPC" />
+    <category term="QueueUserAPC" />
+    <category term="NtQueueApcThread" />
+    <category term="KeInitializeApc" />
+    <category term="KeInsertQueueApc" />
+    <category term="KiInsertQueueApc" />
+    <category term="消息队列与线程" />
+    <category term="Windows线程切换" />
+    <category term="KiSwapContext" />
+    <category term="SwapContext" />
+    <category term="时钟中断" />
+    <category term="时间片管理" />
+    <category term="线程切换与TSS" />
+    <category term="线程切换与FS" />
+    <category term="线程切换与线程优先级" />
+    <category term="快速调用" />
+    <category term="中断调用" />
+    <category term="分析ReadProcessMemory" />
+    <category term="KiFastSystemCall" />
+    <category term="KiIntSystemCall" />
+    <category term="重写3环" />
+    <category term="文件上传" />
+    <category term="隐藏驱动" />
+    <category term="IopLoadDriver" />
+    <category term="延迟过程调用" />
+    <category term="进程挂靠" />
+    <category term="跨进程读写内存" />
+    <category term="APC" />
+    <category term="逆向分析NtReadVirtualMemory" />
+    <category term="逆向分析NtWriteVIrtualMemory" />
+    <category term="AD-Attack-Defense" />
+    <category term="payload" />
+    <category term="sysenter指令" />
+    <category term="KiFastCallEntry函数" />
+    <category term="KiSystemService函数" />
+    <category term="Trap_Frame" />
+    <category term="web安全" />
+    <category term="Pentest" />
+    <entry>
+        <id>https://or0kit.github.io/PenetrationTest/Web-Security/Nmap%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/</id>
+        <title>Nmap速查手册</title>
+        <link rel="alternate" href="https://or0kit.github.io/PenetrationTest/Web-Security/Nmap%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/"/>
+        <content type="html">&lt;h1 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuMmN0by5jb20vQXJ0aWNsZS8yMDE0MTIvMzYyMTg4Lmh0bWw=&#34;&gt;https://www.2cto.com/Article/201412/362188.html&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;nmap-简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nmap-简介&#34;&gt;#&lt;/a&gt; Nmap 简介&lt;/h1&gt;
+&lt;p&gt;Nmap 是 Network Mapper 的简称&lt;br /&gt;
+ Nmap 是一款开源免费的网络发现（Network Discovery）和安全审计（Security Auditing）工具&lt;br /&gt;
+ 1997 年由 Fyodor 创建&lt;/p&gt;
+&lt;p&gt;Nmap 四项基本功能：&lt;/p&gt;
+&lt;p&gt;1. 主机发现（Host Discovery）&lt;br /&gt;
+2. 端口扫描（Port Scanning）&lt;br /&gt;
+3. 版本侦测（Version Detection）&lt;br /&gt;
+4. 操作系统侦测（Operating System Detection）&lt;/p&gt;
+&lt;p&gt;这四项功能之间，又存在大致的依赖关系（通常情况下的顺序关系，但特殊应用另外考虑），首先需要进行主机发现，随&lt;br /&gt;
+后确定端口状况，然后确定端口上运行具体应用程序与版本信息，然后可以进行操作系统的侦测。而在四项基本功能的基&lt;br /&gt;
+础上，Nmap 提供防火墙与 IDS（IntrusionDetection System, 入侵检测系统）的规避技巧，可以综合应用到四个基本功&lt;br /&gt;
+能的各个阶段；另外 Nmap 提供强大的 NSE（Nmap Scripting Language）脚本引擎功能，脚本可以对基本功能进行补充&lt;br /&gt;
+和扩展。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;大致功能为:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主机存活检测&lt;/li&gt;
+&lt;li&gt;端口探测&lt;/li&gt;
+&lt;li&gt;服务识别&lt;/li&gt;
+&lt;li&gt;操作系统识别&lt;/li&gt;
+&lt;li&gt;硬件地址检测&lt;/li&gt;
+&lt;li&gt;服务版本识别&lt;/li&gt;
+&lt;li&gt;漏洞扫描，使用 nmap 自带脚本&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;nmap参数详解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nmap参数详解&#34;&gt;#&lt;/a&gt; Nmap 参数详解&lt;/h1&gt;
+&lt;h2 id=&#34;nmap支持主机名ip网段的表示方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nmap支持主机名ip网段的表示方式&#34;&gt;#&lt;/a&gt; Nmap 支持主机名，ip, 网段的表示方式&lt;/h2&gt;
+&lt;p&gt;例如:blah.highon.coffee, &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL25hbXAub3JnLzI0&#34;&gt;namp.org/24&lt;/span&gt;, 192.168.0.1;10.0.0-25.1-254&lt;/p&gt;
+&lt;p&gt;-iL filename                    从文件中读取待检测的目标，文件中的表示方法支持机名，ip, 网段&lt;br /&gt;
+ - iR hostnum                     随机选取，进行扫描。如果 - iR 指定为 0, 则是无休止的扫描&lt;br /&gt;
+ --exclude host1 [, host2]        从扫描任务中需要排除的主机&lt;br /&gt;
+ --exculdefile exclude_file      排除文件中的 IP, 格式和 - iL 指定扫描文件的格式相同&lt;/p&gt;
+&lt;h2 id=&#34;0x00-主机发现&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-主机发现&#34;&gt;#&lt;/a&gt; 0x00 主机发现&lt;/h2&gt;
+&lt;p&gt;-sL                     仅仅是显示，扫描的 IP 数目，不会进行任何扫描&lt;br /&gt;
+ - sn                     ping 扫描，即主机发现&lt;br /&gt;
+ - Pn                     不检测主机存活&lt;br /&gt;
+ - PS/PA/PU/PY [portlist]  TCP SYN Ping/TCP ACK Ping/UDP Ping 发现&lt;br /&gt;
+ - PE/PP/PM               使用 ICMP echo, timestamp and netmask 请求包发现主机&lt;br /&gt;
+ - PO [prococol list]      使用 IP 协议包探测对方主机是否开启&lt;br /&gt;
+ - n/-R                   不对 IP 进行域名反向解析 / 为所有的 IP 都进行域名的反响解析&lt;/p&gt;
+&lt;h2 id=&#34;0x01-扫描技巧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-扫描技巧&#34;&gt;#&lt;/a&gt; 0x01 扫描技巧&lt;/h2&gt;
+&lt;p&gt;-sS/sT/sA/sW/sM                 TCP SYN/TCP connect ()/ACK/TCP 窗口扫描 / TCP Maimon 扫描&lt;br /&gt;
+ - sU                             UDP 扫描&lt;br /&gt;
+ - sN/sF/sX                       TCP Null，FIN，and Xmas 扫描&lt;br /&gt;
+ --scanflags                     自定义 TCP 包中的 flags&lt;br /&gt;
+-sI zombie host[:probeport]     Idlescan&lt;br /&gt;
+-sY/sZ                          SCTP INIT/COOKIE-ECHO 扫描&lt;br /&gt;
+ - sO                             使用 IP protocol 扫描确定目标机支持的协议类型&lt;br /&gt;
+ - b “FTP relay host” 使用 FTP bounce scan&lt;/p&gt;
+&lt;h2 id=&#34;0x02-指定端口和扫描顺序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-指定端口和扫描顺序&#34;&gt;#&lt;/a&gt; 0x02 指定端口和扫描顺序&lt;/h2&gt;
+&lt;p&gt;-p                      特定的端口 -p80,443 或者 -p1-65535&lt;br /&gt;
+-p U:PORT               扫描 udp 的某个端口，-p U:53&lt;br /&gt;
+-F                      快速扫描模式，比默认的扫描端口还少&lt;br /&gt;
+ - r                      不随机扫描端口，默认是随机扫描的&lt;br /&gt;
+ --top-ports &amp;quot;number&amp;quot;    扫描开放概率最高的 number 个端口，出现的概率需要参考 nmap-services 文件，ubuntu 中该文件位于 /usr/share/nmap.nmap 默认扫前 1000 个&lt;br /&gt;
+ --port-ratio &amp;quot;ratio&amp;quot;    扫描指定频率以上的端口&lt;/p&gt;
+&lt;h2 id=&#34;0x03-服务版本识别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x03-服务版本识别&#34;&gt;#&lt;/a&gt; 0x03 服务版本识别&lt;/h2&gt;
+&lt;p&gt;-sV                             开放版本探测，可以直接使用 - A 同时打开操作系统探测和版本探测&lt;br /&gt;
+ --version-intensity &amp;quot;level&amp;quot;     设置版本扫描强度，强度水平说明了应该使用哪些探测报文。数值越高，服务越有可能被正确识别。默认是 7&lt;br /&gt;
+--version-light                 打开轻量级模式，为 --version-intensity 2 的别名&lt;br /&gt;
+ --version-all                   尝试所有探测，为 --version-intensity 9 的别名&lt;br /&gt;
+ --version-trace                 显示出详细的版本侦测过程信息&lt;/p&gt;
+&lt;h2 id=&#34;0x04-脚本扫描&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x04-脚本扫描&#34;&gt;#&lt;/a&gt; 0x04 脚本扫描&lt;/h2&gt;
+&lt;p&gt;-sC                             根据端口识别的服务，调用默认脚本&lt;br /&gt;
+ --script=”Lua scripts”          调用的脚本名&lt;br /&gt;
+ --script-args=n1=v1,[n2=v2]     调用的脚本传递的参数&lt;br /&gt;
+ --script-args-file=filename     使用文本传递参数&lt;br /&gt;
+ --script-trace                  显示所有发送和接收到的数据&lt;br /&gt;
+ --script-updatedb               更新脚本的数据库&lt;br /&gt;
+ --script-help=”Lua script”      显示指定脚本的帮助&lt;/p&gt;
+&lt;h2 id=&#34;0x05-os识别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x05-os识别&#34;&gt;#&lt;/a&gt; 0x05 OS 识别&lt;/h2&gt;
+&lt;p&gt;-O              启用操作系统检测，-A 来同时启用操作系统检测和版本检测&lt;br /&gt;
+ --osscan-limit  针对指定的目标进行操作系统检测 (至少需确知该主机分别有一个 open 和 closed 的端口)&lt;br /&gt;
+--osscan-guess  推测操作系统检测结果，当 Nmap 无法确定所检测的操作系统时，会尽可能地提供最相近的匹配，Nmap 默认进行这种匹配&lt;/p&gt;
+&lt;h2 id=&#34;0x06-防火墙ids躲避和欺骗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x06-防火墙ids躲避和欺骗&#34;&gt;#&lt;/a&gt; 0x06 防火墙 / IDS 躲避和欺骗&lt;/h2&gt;
+&lt;p&gt;-f; --mtu value                 指定使用分片、指定数据包的 MTU.&lt;br /&gt;
+-D decoy1,decoy2,ME             使用诱饵隐蔽扫描&lt;br /&gt;
+ - S IP-ADDRESS                   源地址欺骗&lt;br /&gt;
+ - e interface                    使用指定的接口&lt;br /&gt;
+ - g/--source-port PROTNUM       使用指定源端口&lt;br /&gt;
+ --proxies url1,[url2],...       使用 HTTP 或者 SOCKS4 的代理&lt;/p&gt;
+&lt;p&gt;--data-length NUM               填充随机数据让数据包长度达到 NUM&lt;br /&gt;
+--ip-options OPTIONS            使用指定的 IP 选项来发送数据包&lt;br /&gt;
+ --ttl VALUE                     设置 IP time-to-live 域&lt;br /&gt;
+ --spoof-mac ADDR/PREFIX/VEBDOR  MAC 地址伪装&lt;br /&gt;
+ --badsum                        使用错误的 checksum 来发送数据包&lt;/p&gt;
+&lt;h2 id=&#34;0x07-输出&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x07-输出&#34;&gt;#&lt;/a&gt; 0x07 输出&lt;/h2&gt;
+&lt;p&gt;-oN                     将标准输出直接写入指定的文件&lt;br /&gt;
+ - oX                     输出 xml 文件&lt;br /&gt;
+ - oS                     将所有的输出都改为大写&lt;br /&gt;
+ - oG                     输出便于通过 bash 或者 perl 处理的格式，非 xml&lt;br /&gt;
+-oA BASENAME            可将扫描结果以标准格式、XML 格式和 Grep 格式一次性输出&lt;br /&gt;
+ - v                      提高输出信息的详细度&lt;br /&gt;
+ - d level                设置 debug 级别，最高是 9&lt;br /&gt;
+--reason                显示端口处于带确认状态的原因&lt;br /&gt;
+ --open                  只输出端口状态为 open 的端口&lt;br /&gt;
+ --packet-trace          显示所有发送或者接收到的数据包&lt;br /&gt;
+ --iflist                显示路由信息和接口，便于调试&lt;br /&gt;
+ --log-errors            把日志等级为 errors/warings 的日志输出&lt;br /&gt;
+ --append-output         追加到指定的文件&lt;br /&gt;
+ --resume FILENAME       恢复已停止的扫描&lt;br /&gt;
+ --stylesheet PATH/URL   设置 XSL 样式表，转换 XML 输出&lt;br /&gt;
+ --webxml                从 namp.org 得到 XML 的样式&lt;br /&gt;
+ --no-sytlesheet         忽略 XML 声明的 XSL 样式表&lt;/p&gt;
+&lt;h2 id=&#34;0x08-其他选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x08-其他选项&#34;&gt;#&lt;/a&gt; 0x08 其他选项&lt;/h2&gt;
+&lt;p&gt;-6                      开启 IPv6&lt;br /&gt;
+-A                      OS 识别，版本探测，脚本扫描和 traceroute&lt;br /&gt;
+--datedir DIRNAME       说明用户 Nmap 数据文件位置&lt;br /&gt;
+ --send-eth /--send-ip  使用原以太网帧发送 / 在原 IP 层发送&lt;br /&gt;
+ --privileged            假定用户具有全部权限&lt;br /&gt;
+ --unprovoleged          假定用户不具有全部权限，创建原始套接字需要 root 权限&lt;br /&gt;
+ - V                      打印版本信息&lt;br /&gt;
+ - h                      输出帮助&lt;/p&gt;
+&lt;h1 id=&#34;nmap-例子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nmap-例子&#34;&gt;#&lt;/a&gt; nmap 例子&lt;/h1&gt;
+&lt;p&gt;使用 ping 检测 10.0.0.0/24 这个网段&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -sP 10.0.0.0/24&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用 SYN 的方法对全端口进行扫描，在 aggressive (4) 的时间模板下，同时对开放的端口进行端口识别&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -p1-65535 -sV -sS -T4 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;PS: -T 代表的是扫描的时候，一些控制选项 (TCP 的延迟时间，探测报文之间的间隔等) 的集合，具体的 man nmap 一下就知道了&lt;/p&gt;
+&lt;p&gt;使用 SYN 扫描，在 aggressive (4) 的时间模板下，探测操作系统的类型和版本，还有显示 traceroute 的结果，结果输出较为详细&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -v -sS -A -T4 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用 SYN 扫描，在 insane (5) 的时间模板下，探测操作系统的类型和版本，还有显示 traceroute 的结果，结果输出较为详细&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -v -sS -A -T5 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用 SYN 扫描，在 insane (5) 的时间模板下，探测操作系统的类型，还有显示 traceroute 的结果，操作系统的类型，结果输出较为详细&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -v -sV -O -sS -T5 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用 SYN 的方法对全端口进行扫描，同时对开放的端口进行端口识别，在 aggressive (4) 的时间模板下，探测操作系统的类型还有显示 traceroute 的结果，结果输出较为详细&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -v -p 1-65535 -sV -O -sS -T4 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;用 SYN 的方法对全端口进行扫描，同时对开放的端口进行端口识别，在 insane (5) 的时间模板下，探测操作系统的类型，还有显示 traceroute 的结果，结果输出较为详细&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -v -p 1-65535 -sV -O -sS -T5 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;从文件中读取需要扫描的 IP 列表&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -iL ip-address.txt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nmap 输出格式&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;扫描的结果输出到屏幕，同时会存储一份到 grep-output.txt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;nmap -sV -p 139,445 -oG grep-output.txt 10.0.1.0/24&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;扫描结果输出为 html&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;nmap -sS -sV -T5 10.0.1.99 --webxml -oX - | xsltproc --output file.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nmap 扫描 Netbios&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在子网中发现开放 netbios 的 IP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;nmap -sV -v -p139,445 10.0.0.1/24&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;扫描指定 netbios 的名称&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;nmap -sU --script nbstat.nse -p 137 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;扫描指定的目标，同时检测相关漏洞&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap --script-args=unsafe=1 --script smb-check-vulns.nse -p 445 target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;将 nmap 的 80 端口的扫描结果，通过管道交给 nikto 进行扫描&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Nmap Nikto Scan nmap -p80 10.0.1.0/24 -oG - | nikto.pl -h -&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;将 nmap 的 80,443 端口的扫描结果，通过管道交给 nikto 进行扫描&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;nmap -p80,443 10.0.1.0/24 -oG - | nikto.pl -h -&lt;/code&gt;&lt;/p&gt;
+</content>
+        <category term="Nmap" />
+        <updated>2021-03-09T08:14:20.000Z</updated>
+    </entry>
+</feed>

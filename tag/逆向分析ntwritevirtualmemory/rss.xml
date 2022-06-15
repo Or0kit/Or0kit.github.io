@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;逆向分析ntwritevirtualmemory&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 24 Jan 2022 00:55:34 +0800</pubDate>
+        <lastBuildDate>Mon, 24 Jan 2022 00:55:34 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Bin/Core/WindowsXp/Process-Thread/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B-%E8%BF%9B%E7%A8%8B%E6%8C%82%E9%9D%A0%E5%92%8C%E8%B7%A8%E8%BF%9B%E7%A8%8B%E8%AF%BB%E5%86%99%E5%86%85%E5%AD%98/</guid>
+            <title>进程与线程-进程挂靠和跨进程读写内存</title>
+            <link>https://or0kit.github.io/Bin/Core/WindowsXp/Process-Thread/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B-%E8%BF%9B%E7%A8%8B%E6%8C%82%E9%9D%A0%E5%92%8C%E8%B7%A8%E8%BF%9B%E7%A8%8B%E8%AF%BB%E5%86%99%E5%86%85%E5%AD%98/</link>
+            <category>进程挂靠</category>
+            <category>跨进程读写内存</category>
+            <category>APC</category>
+            <category>逆向分析NtReadVirtualMemory</category>
+            <category>逆向分析NtWriteVIrtualMemory</category>
+            <pubDate>Mon, 24 Jan 2022 00:55:34 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;需要有 APC 的基础，学完句柄表和 APC 后再回来分析。&lt;/p&gt;
+&lt;p&gt;额外小知识   &lt;code&gt;NUMA&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;要点回顾：&lt;/p&gt;
+&lt;p&gt;一个进程可以包含多个线程&lt;/p&gt;
+&lt;p&gt;一个进程至少要有一个线程&lt;/p&gt;
+&lt;p&gt;进程为线程提供资源，也就是提供 Cr3 的值，Cr3 中存储的是页目录表基址，Cr3 确定了，线程能访问的内存也就确定了。&lt;/p&gt;
+&lt;h1 id=&#34;进程挂靠&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进程挂靠&#34;&gt;#&lt;/a&gt; 进程挂靠&lt;/h1&gt;
+&lt;p&gt;首先要了解以下知识&lt;/p&gt;
+&lt;h2 id=&#34;进程与线程的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进程与线程的关系&#34;&gt;#&lt;/a&gt; 进程与线程的关系&lt;/h2&gt;
+&lt;p&gt;线程代码：&lt;/p&gt;
+&lt;p&gt;mov eax,dword ptr ds:[0x12345678]&lt;/p&gt;
+&lt;p&gt;CPU 如何解析 0x12345678 这个地址呢？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;CPU 解析线性地址时要通过页目录表来找对应的物理页，页目录表基址存在&lt;br /&gt;
+ Cr3 寄存器中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当前的 Cr3 的值来源于当前的进程 (_KPROCESS.DirectoryTableBase (+0x018))。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;线程与进程的关联&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线程与进程的关联&#34;&gt;#&lt;/a&gt; 线程与进程的关联&lt;/h2&gt;
+&lt;p&gt;线程是如何找到进程的呢？线程与进程是如何关联的呢？&lt;/p&gt;
+&lt;p&gt;在线程的结构体中：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+0x034 ApcState&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		+0x000 ApcListHead &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   		+0x010 Process &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   		+0x014 KernelApcInProgress&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   		+0x015 KernelApcPending&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   		+0x016 UserApcPending&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	+0x220 ThreadsProcess&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;有两处与进程相关的成员：  &lt;code&gt;Process&lt;/code&gt;  与  &lt;code&gt;ThreadsProcess&lt;/code&gt;  ，那么这两个成员与线程有什么关系呢？&lt;/p&gt;
+&lt;h2 id=&#34;0x044负责提供cr3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x044负责提供cr3&#34;&gt;#&lt;/a&gt; 0x044 负责提供 Cr3&lt;/h2&gt;
+&lt;p&gt;(分析 SwapContext 函数) 线程切换的时候，会比较_KTHREAD 结构体 0x044 处指定的 EPROCESS 是否为同一个，如果不是同一个，会将 0x044 处指定的 EPROCESS 的 DirectoryTableBase 的值取出，赋值给 Cr3。&lt;/p&gt;
+&lt;p&gt;所以，线程需要的 Cr3 的值来源于 0x044 处偏移指定的 EPROCESS.&lt;/p&gt;
+&lt;p&gt;可以得出以下结论：&lt;/p&gt;
+&lt;p&gt;0x220 亲生父母：这个线程谁创建的&lt;br /&gt;
+ 0x044 养父母：谁在为这个线程提供资源 (也就是提供 Cr3)&lt;br /&gt;
+ 一般情况下，0x220 与 0x44 指向的是同一个进程&lt;/p&gt;
+&lt;p&gt;那么 Cr3 的值可以随便改吗？&lt;/p&gt;
+&lt;h2 id=&#34;修改cr3的值&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改cr3的值&#34;&gt;#&lt;/a&gt; 修改 Cr3 的值&lt;/h2&gt;
+&lt;p&gt;正常情况下，Cr3 的值是由养父母提供的，但 Cr3 的值也可以改成和当前线程毫不相干的其他进程的 DirectoryTableBase。&lt;/p&gt;
+&lt;p&gt;线程代码：&lt;/p&gt;
+&lt;p&gt;mov cr3,A.DirectoryTableBase&lt;br /&gt;
+mov eax,dword ptr ds:[0x12345678]		//A 进程的 0x12345678 内存&lt;br /&gt;
+ mov cr3,B.DirectoryTableBase&lt;br /&gt;
+mov eax,dword ptr ds:[0x12345678]		//B 进程的 0x12345678 内存&lt;br /&gt;
+ mov cr3,C.DirectoryTableBase&lt;br /&gt;
+mov eax,dword ptr ds:[0x12345678]		//C 进程的 0x12345678 内存&lt;/p&gt;
+&lt;p&gt;将当前 Cr3 的值改为其他进程，称为 “进程挂靠”。&lt;/p&gt;
+&lt;p&gt;那可不可以只修改 Cr3 而不修改养父母？不可以，如果不修改养父母的值，一旦产生线程切换，就会变成自己读自己！&lt;/p&gt;
+&lt;p&gt;如果我们自己来写这个代码，在切换 Cr3 后关闭中断，并且不调用会导致线程切换的 API，就可以不用修改养父母的值。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
+&lt;p&gt;正常情况下，当前线程使用的 Cr3 是由其所属进程提供的 (ETHREAD 0x44 偏移处指定的 EPROCESS)，正是因为如此，A 进程中的线程只能访问 A 的内存。&lt;/p&gt;
+&lt;p&gt;如果要让 A 进程中的线程能够访问 B 进程的内存，就必须要修改 Cr3 的值为 B 进程的页目录表基址 (B.DirectoryTableBase)，这就是所谓的 “进程挂靠”。&lt;/p&gt;
+&lt;h1 id=&#34;跨进程读写内存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#跨进程读写内存&#34;&gt;#&lt;/a&gt; 跨进程读写内存&lt;/h1&gt;
+&lt;p&gt;跨进程的本质是 “进程挂靠”，正常情况下，A 进程的线程只能访问 A 进程的地址空间，如果 A 进程的线程想访问 B 进程的地址空间，就要修改当前的 Cr3 的值为 B 进程的页目录表基值 (KPROCESS.DirectoryTableBase)。&lt;br /&gt;
+即： &lt;code&gt;mov cr3,B.DirectoryTableBase&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;跨进程操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#跨进程操作&#34;&gt;#&lt;/a&gt; 跨进程操作&lt;/h2&gt;
+&lt;p&gt;A 进制中的线程代码：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov cr3,B.DirectoryTableBase		&amp;#x2F;&amp;#x2F; 切换 Cr3 的值为 B 进程&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov eax,dword ptr ds:[0x12345678]		&amp;#x2F;&amp;#x2F; 将进程 B 0x12345678 的值存的 eax 中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov dword ptr ds:[0x00401234],eax		&amp;#x2F;&amp;#x2F; 将数据存储到 0x00401234 中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov cr3,A.DirectoryTableBase		&amp;#x2F;&amp;#x2F; 切换回 Cr3 的值&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;此时  &lt;code&gt;0x00401234&lt;/code&gt;  中的数据还有吗？如何将数据传递给 A 进程的变量呢？&lt;/p&gt;
+&lt;h2 id=&#34;ntreadvirtualmemory-流程解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ntreadvirtualmemory-流程解析&#34;&gt;#&lt;/a&gt; NtReadVirtualMemory 流程解析&lt;/h2&gt;
+&lt;p&gt;一些关键函数的声明为：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;NTSTATUS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;NtReadVirtualMemory&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN HANDLE ProcessHandle&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 为进程对象提供一个打开的句柄。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN PVOID BaseAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供要读取的指定进程中的基址。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     OUT PVOID Buffer&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供缓冲区的地址，该缓冲区接收来自指定进程地址空间的内容。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN SIZE_T BufferSize&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供要从指定进程读取的请求字节数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     OUT PSIZE_T NumberOfBytesRead OPTIONAL &lt;span class=&#34;token comment&#34;&gt;// 接收传输到指定缓冲区的实际字节数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;NTSTATUS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;MmCopyVirtualMemory&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN PEPROCESS FromProcess&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN CONST VOID &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;FromAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN PEPROCESS ToProcess&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    OUT PVOID ToAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN SIZE_T BufferSize&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN KPROCESSOR_MODE PreviousMode&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    OUT PSIZE_T NumberOfBytesCopied&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;NTSTATUS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;MiDoMappedCopy&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN PEPROCESS FromProcess&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 为进程对象提供一个打开的句柄。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN CONST VOID &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;FromAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供要读取的指定进程中的基址。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN PEPROCESS ToProcess&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 为进程对象提供一个打开的句柄。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     OUT PVOID ToAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供缓冲区的地址，该缓冲区接收来自指定进程地址空间的内容。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN SIZE_T BufferSize&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供要从指定进程读取的请求字节数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN KPROCESSOR_MODE PreviousMode&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供以前的处理器模式。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     OUT PSIZE_T NumberOfBytesRead&lt;span class=&#34;token comment&#34;&gt;// 接收传输到指定缓冲区的实际字节数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;NTSTATUS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;MiDoPoolCopy&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN PEPROCESS FromProcess&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 为进程对象提供一个打开的句柄。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN CONST VOID &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;FromAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供要读取的指定进程中的基址。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN PEPROCESS ToProcess&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 为进程对象提供一个打开的句柄。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     OUT PVOID ToAddress&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供缓冲区的地址，该缓冲区接收来自指定进程地址空间的内容。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN SIZE_T BufferSize&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供要从指定进程读取的请求字节数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     IN KPROCESSOR_MODE PreviousMode&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 提供以前的处理器模式。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     OUT PSIZE_T NumberOfBytesRead&lt;span class=&#34;token comment&#34;&gt;// 接收传输到指定缓冲区的实际字节数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/*-- 这个函数将一个线程附加到目标进程的地址空间，并返回上一个附加进程前的 APC 状态信息。--*/&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;VOID&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;KeStackAttachProcess&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN PRKPROCESS Process&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    OUT PRKAPC_STATE ApcState&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/*-- 这个函数将一个线程从另一个进程的地址空间中分离出来，并恢复之前的连接状态。--*/&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;VOID&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;KeUnstackDetachProcess&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    IN PRKAPC_STATE ApcState &lt;span class=&#34;token comment&#34;&gt;// 提供一个指向 APC 状态结构的指针，该结构是由之前对堆栈附加进程的调用返回的。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;逆向分析-ntreadvirtualmemory&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逆向分析-ntreadvirtualmemory&#34;&gt;#&lt;/a&gt; 逆向分析 NtReadVirtualMemory&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;NtReadVirtualMemory 逆向分析  （点击展开）&lt;/summary&gt;&lt;div&gt;
+&lt;pre&gt;&lt;code&gt;; NTSTATUS __stdcall NtReadVirtualMemory(HANDLE ProcessHandle, PVOID BaseAddress, PVOID Buffer, SIZE_T NumberOfBytesToRead, PSIZE_T NumberOfBytesRead)
+PAGE:004DD2F6 _NtReadVirtualMemory@20 proc near       ; DATA XREF: .text:0042D858↑o
+PAGE:004DD2F6
+PAGE:004DD2F6 var_2C          = dword ptr -2Ch
+PAGE:004DD2F6 var_28          = dword ptr -28h
+PAGE:004DD2F6 Object          = dword ptr -24h
+PAGE:004DD2F6 AccessMode      = byte ptr -20h
+PAGE:004DD2F6 var_1C          = dword ptr -1Ch
+PAGE:004DD2F6 ms_exc          = CPPEH_RECORD ptr -18h
+PAGE:004DD2F6 ProcessHandle   = dword ptr  8
+PAGE:004DD2F6 BaseAddress     = dword ptr  0Ch
+PAGE:004DD2F6 Buffer          = dword ptr  10h
+PAGE:004DD2F6 NumberOfBytesToRead= dword ptr  14h
+PAGE:004DD2F6 NumberOfBytesRead= dword ptr  18h
+PAGE:004DD2F6
+PAGE:004DD2F6 ; __unwind &amp;#123; // __SEH_prolog
+PAGE:004DD2F6                 push    1Ch
+PAGE:004DD2F8                 push    offset stru_402EF0
+PAGE:004DD2FD                 call    __SEH_prolog
+PAGE:004DD302                 mov     eax, large fs:124h ; eax = 当前的KTHREAD
+PAGE:004DD308                 mov     edi, eax        ; edi = eax
+PAGE:004DD30A                 mov     al, [edi+_KTHREAD.PreviousMode]
+PAGE:004DD310                 mov     [ebp+AccessMode], al
+PAGE:004DD313                 mov     esi, [ebp+NumberOfBytesToRead]
+PAGE:004DD316                 test    al, al          ; 如果不是内核模式 （KernelMode = 0） 则对参数做一系列的验证。
+PAGE:004DD318                 jz      short loc_4DD380
+PAGE:004DD31A                 mov     eax, [ebp+BaseAddress]
+PAGE:004DD31D                 lea     edx, [eax+esi]
+PAGE:004DD320                 cmp     edx, eax
+PAGE:004DD322                 jb      short loc_4DD379
+PAGE:004DD324                 mov     eax, [ebp+Buffer]
+PAGE:004DD327                 lea     ecx, [eax+esi]
+PAGE:004DD32A                 cmp     ecx, eax
+PAGE:004DD32C                 jb      short loc_4DD379
+PAGE:004DD32E                 mov     eax, _MmHighestUserAddress ; MmHighestUserAddress = 0x7FFEFFFF  最高的用户层地址
+PAGE:004DD333                 cmp     edx, eax
+PAGE:004DD335                 ja      short loc_4DD379
+PAGE:004DD337                 cmp     ecx, eax
+PAGE:004DD339                 ja      short loc_4DD379
+PAGE:004DD33B                 mov     ebx, [ebp+NumberOfBytesRead] ; 判断 NumberOfBytesRead 参数是否存在（是否为NULL）
+PAGE:004DD33B                                         ;
+PAGE:004DD33B                                         ; if(NumberOfBytesRead)（是否为NULL）&amp;#123;
+PAGE:004DD33B                                         ;
+PAGE:004DD33B                                         ; ……………………
+PAGE:004DD33B                                         ; &amp;#125;
+PAGE:004DD33B                                         ; 不为NULL 执行 jz 跳走
+PAGE:004DD33E                 test    ebx, ebx
+PAGE:004DD340                 jz      short loc_4DD383
+PAGE:004DD342                 and     [ebp+ms_exc.registration.TryLevel], 0
+PAGE:004DD346                 mov     eax, _MmUserProbeAddress ; _MmUserProbeAddress = 0x7FFF0000 保护页的起始地址
+PAGE:004DD34B                 cmp     ebx, eax
+PAGE:004DD34D                 jb      short loc_4DD355
+PAGE:004DD34F                 mov     dword ptr [eax], 0
+PAGE:004DD355
+PAGE:004DD355 loc_4DD355:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+57↑j
+PAGE:004DD355                 mov     eax, [ebx]
+PAGE:004DD357                 mov     [ebx], eax
+PAGE:004DD359                 or      [ebp+ms_exc.registration.TryLevel], 0FFFFFFFFh
+PAGE:004DD35D                 jmp     short loc_4DD383
+PAGE:004DD35F ; ---------------------------------------------------------------------------
+PAGE:004DD35F
+PAGE:004DD35F loc_4DD35F:                             ; DATA XREF: .text:stru_402EF0↑o
+PAGE:004DD35F                 mov     eax, [ebp+ms_exc.exc_ptr]
+PAGE:004DD362                 mov     eax, [eax]
+PAGE:004DD364                 mov     eax, [eax]
+PAGE:004DD366                 mov     [ebp+var_2C], eax
+PAGE:004DD369                 xor     eax, eax
+PAGE:004DD36B                 inc     eax
+PAGE:004DD36C                 retn
+PAGE:004DD36D ; ---------------------------------------------------------------------------
+PAGE:004DD36D
+PAGE:004DD36D loc_4DD36D:                             ; DATA XREF: .text:stru_402EF0↑o
+PAGE:004DD36D                 mov     esp, [ebp+ms_exc.old_esp]
+PAGE:004DD370                 or      [ebp+ms_exc.registration.TryLevel], 0FFFFFFFFh
+PAGE:004DD374                 mov     eax, [ebp+var_2C]
+PAGE:004DD377                 jmp     short loc_4DD3F2
+PAGE:004DD379 ; ---------------------------------------------------------------------------
+PAGE:004DD379
+PAGE:004DD379 loc_4DD379:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+2C↑j
+PAGE:004DD379                                         ; NtReadVirtualMemory(x,x,x,x,x)+36↑j ...
+PAGE:004DD379                 mov     eax, 0C0000005h
+PAGE:004DD37E                 jmp     short loc_4DD3F2
+PAGE:004DD380 ; ---------------------------------------------------------------------------
+PAGE:004DD380
+PAGE:004DD380 loc_4DD380:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+22↑j
+PAGE:004DD380                 mov     ebx, [ebp+NumberOfBytesRead] ; ebx = NumberOfBytesRead
+PAGE:004DD383
+PAGE:004DD383 loc_4DD383:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+4A↑j
+PAGE:004DD383                                         ; NtReadVirtualMemory(x,x,x,x,x)+67↑j
+PAGE:004DD383                 xor     eax, eax
+PAGE:004DD385                 mov     [ebp+var_28], eax ; [ebp+var_28] = 0
+PAGE:004DD388                 mov     [ebp+var_1C], eax
+PAGE:004DD38B                 cmp     esi, eax
+PAGE:004DD38D                 jz      short loc_4DD3D2 ; ebx = NumberOfBytesRead
+PAGE:004DD38F                 push    eax             ; HandleInformation
+PAGE:004DD390                 lea     eax, [ebp+Object] ; eax = [ebp+Object] 的地址
+PAGE:004DD390                                         ;
+PAGE:004DD390                                         ; 函数执行成功后[ebp+Object]会指向一个对象体。
+PAGE:004DD390                                         ; 此处返回的是 进程结构体 EPROCESS
+PAGE:004DD393                 push    eax             ; Object
+PAGE:004DD394                 push    dword ptr [ebp+AccessMode] ; AccessMode
+PAGE:004DD397                 push    _PsProcessType  ; ObjectType
+PAGE:004DD39D                 push    10h             ; DesiredAccess
+PAGE:004DD39F                 push    [ebp+ProcessHandle] ; Handle
+PAGE:004DD3A2                 call    _ObReferenceObjectByHandle@24 ; ObReferenceObjectByHandle(x,x,x,x,x,x)
+PAGE:004DD3A7                 mov     [ebp+var_1C], eax
+PAGE:004DD3AA                 test    eax, eax
+PAGE:004DD3AC                 jnz     short loc_4DD3D2 ; ebx = NumberOfBytesRead
+PAGE:004DD3AE                 lea     eax, [ebp+var_28] ; 取临时变量的地址
+PAGE:004DD3B1                 push    eax             ; 从右向左 压入第一个参数 其值是一个地址 。
+PAGE:004DD3B2                 push    dword ptr [ebp+AccessMode] ; 其值为 CPU的工作模式
+PAGE:004DD3B5                 push    esi             ; 压入 NumberOfBytesToRead 也就是从指定进程读取的请求字节数
+PAGE:004DD3B5                                         ;
+PAGE:004DD3B5                                         ; 注意区分 NumberOfBytesRead  和 NumberOfBytesToRead
+PAGE:004DD3B6                 push    [ebp+Buffer]    ; Address
+PAGE:004DD3B9                 push    [edi+_KTHREAD.ApcState.Process] ; 当前线程的进程KPROCESS
+PAGE:004DD3BC                 push    [ebp+BaseAddress] ; int
+PAGE:004DD3BF                 push    [ebp+Object]    ; 目标进程的KPROCESS
+PAGE:004DD3C2                 call    _MmCopyVirtualMemory@28 ; NTSTATUS
+PAGE:004DD3C2                                         ; MmCopyVirtualMemory(
+PAGE:004DD3C2                                         ;     IN PEPROCESS FromProcess,
+PAGE:004DD3C2                                         ;     IN CONST VOID *FromAddress,
+PAGE:004DD3C2                                         ;     IN PEPROCESS ToProcess,
+PAGE:004DD3C2                                         ;     OUT PVOID ToAddress,
+PAGE:004DD3C2                                         ;     IN SIZE_T BufferSize,
+PAGE:004DD3C2                                         ;     IN KPROCESSOR_MODE PreviousMode,
+PAGE:004DD3C2                                         ;     OUT PSIZE_T NumberOfBytesCopied
+PAGE:004DD3C2                                         ;     )
+PAGE:004DD3C7                 mov     [ebp+var_1C], eax ; 如果成功的话返回值为0 var_1C = 0
+PAGE:004DD3CA                 mov     ecx, [ebp+Object] ; Object
+PAGE:004DD3CD                 call    @ObfDereferenceObject@4 ; 这个例程减少指定对象的引用计数，如果计数变为0，则执行 任何(whatever) 清除操作。
+PAGE:004DD3D2
+PAGE:004DD3D2 loc_4DD3D2:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+97↑j
+PAGE:004DD3D2                                         ; NtReadVirtualMemory(x,x,x,x,x)+B6↑j
+PAGE:004DD3D2                 test    ebx, ebx        ; ebx = NumberOfBytesRead
+PAGE:004DD3D4                 jz      short loc_4DD3EF
+PAGE:004DD3D6                 mov     [ebp+ms_exc.registration.TryLevel], 1
+PAGE:004DD3DD                 mov     eax, [ebp+var_28] ; var_28 指向了 传输到指定缓冲区的实际字节数。
+PAGE:004DD3E0                 mov     [ebx], eax      ; 传输到指定缓冲区的实际字节数 赋给 NumberOfBytesRead
+PAGE:004DD3E2                 jmp     short loc_4DD3EB
+PAGE:004DD3E4 ; ---------------------------------------------------------------------------
+PAGE:004DD3E4
+PAGE:004DD3E4 loc_4DD3E4:                             ; DATA XREF: .text:stru_402EF0↑o
+PAGE:004DD3E4                 xor     eax, eax
+PAGE:004DD3E6                 inc     eax
+PAGE:004DD3E7                 retn
+PAGE:004DD3E8 ; ---------------------------------------------------------------------------
+PAGE:004DD3E8
+PAGE:004DD3E8 loc_4DD3E8:                             ; DATA XREF: .text:stru_402EF0↑o
+PAGE:004DD3E8                 mov     esp, [ebp+ms_exc.old_esp]
+PAGE:004DD3EB
+PAGE:004DD3EB loc_4DD3EB:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+EC↑j
+PAGE:004DD3EB                 or      [ebp+ms_exc.registration.TryLevel], 0FFFFFFFFh
+PAGE:004DD3EF
+PAGE:004DD3EF loc_4DD3EF:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+DE↑j
+PAGE:004DD3EF                 mov     eax, [ebp+var_1C] ; 一切正常执行的话 eax = 0 既宏定义 STATUS_SUCCESS
+PAGE:004DD3F2
+PAGE:004DD3F2 loc_4DD3F2:                             ; CODE XREF: NtReadVirtualMemory(x,x,x,x,x)+81↑j
+PAGE:004DD3F2                                         ; NtReadVirtualMemory(x,x,x,x,x)+88↑j
+PAGE:004DD3F2                 call    __SEH_epilog
+PAGE:004DD3F7                 retn    14h
+PAGE:004DD3F7 ; &amp;#125; // starts at 4DD2F6
+PAGE:004DD3F7 _NtReadVirtualMemory@20 endp
+PAGE:004DD3F7
+PAGE:004DD3F7 ; ---------------------------------------------------------------------------
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;主要调用了 MmCopyVirtualMemory 函数。&lt;/p&gt;
+&lt;h3 id=&#34;逆向分析-mmcopyvirtualmemory&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逆向分析-mmcopyvirtualmemory&#34;&gt;#&lt;/a&gt; 逆向分析 MmCopyVirtualMemory&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;MmCopyVirtualMemory (点击展开)&lt;/summary&gt;&lt;div&gt;
+&lt;pre&gt;&lt;code&gt;; int __stdcall MmCopyVirtualMemory(PEX_RUNDOWN_REF FromProcess, int, PRKPROCESS, volatile void *Address, SIZE_T Length, KPROCESSOR_MODE AccessMode, int NumberOfBytesRead)
+PAGE:004DD258 _MmCopyVirtualMemory@28 proc near       ; CODE XREF: IopCheckHardErrorsDisabled(x)+73↑p
+PAGE:004DD258                                         ; LpcpCopyRequestData(x,x,x,x,x,x,x):loc_4CEE57↑p ...
+PAGE:004DD258
+PAGE:004DD258 FromProcess     = dword ptr  8
+PAGE:004DD258 FromAddress     = dword ptr  0Ch
+PAGE:004DD258 ToProcess       = dword ptr  10h
+PAGE:004DD258 Address         = dword ptr  14h
+PAGE:004DD258 Length          = dword ptr  18h
+PAGE:004DD258 AccessMode      = byte ptr  1Ch
+PAGE:004DD258 NumberOfBytesRead= dword ptr  20h
+PAGE:004DD258
+PAGE:004DD258                 mov     edi, edi
+PAGE:004DD25A                 push    ebp
+PAGE:004DD25B                 mov     ebp, esp
+PAGE:004DD25D                 cmp     [ebp+Length], 0 ; NumberOfBytesToRead 判断  从指定进程读取的请求字节数，是否为0
+PAGE:004DD261                 jnz     short loc_4DD26A
+PAGE:004DD263                 xor     eax, eax
+PAGE:004DD265                 jmp     loc_4DD2ED      ;  为 0 就直接返回了
+PAGE:004DD26A ; ---------------------------------------------------------------------------
+PAGE:004DD26A
+PAGE:004DD26A loc_4DD26A:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+9↑j
+PAGE:004DD26A                 push    ebx
+PAGE:004DD26B                 mov     ebx, [ebp+FromProcess] ; ebx = 要读取的进程的 EPROCESS 结构体。
+PAGE:004DD26E                 mov     ecx, ebx
+PAGE:004DD270                 mov     eax, large fs:124h
+PAGE:004DD276                 cmp     ebx, [eax+_KTHREAD.ApcState.Process] ; 判断要读取的进程 是否是当前进程
+PAGE:004DD279                 jnz     short loc_4DD27E
+PAGE:004DD27B                 mov     ecx, [ebp+ToProcess]
+PAGE:004DD27E
+PAGE:004DD27E loc_4DD27E:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+21↑j
+PAGE:004DD27E                 add     ecx, 80h ; &#39;€&#39;  ; 取 目标EPROCESS 的 RundownProtect 成员的值
+PAGE:004DD284                 mov     [ebp+FromProcess], ecx
+PAGE:004DD287                 call    @ExAcquireRundownProtection@4 ; 获得rundown保护
+PAGE:004DD28C                 test    al, al          ; 判断是否成功
+PAGE:004DD28E                 jnz     short loc_4DD297 ; 如果成功就跳走
+PAGE:004DD290                 mov     eax, 0C000010Ah ; 返回  STATUS_PROCESS_IS_TERMINATING
+PAGE:004DD295                 jmp     short loc_4DD2EC ; 如果失败，函数执行失败 返回
+PAGE:004DD297 ; ---------------------------------------------------------------------------
+PAGE:004DD297
+PAGE:004DD297 loc_4DD297:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+36↑j
+PAGE:004DD297                 cmp     [ebp+Length], 1FFh ; 判读要读取的字节大小是否超过0x1FF
+PAGE:004DD29E                 push    esi
+PAGE:004DD29F                 push    edi
+PAGE:004DD2A0                 mov     edi, [ebp+NumberOfBytesRead] ; edi =  指向NumberOfBytesRead的地址
+PAGE:004DD2A0                                         ;
+PAGE:004DD2A0                                         ; 在 NtReadVirtualMemory  中传来的此值是一个地址。
+PAGE:004DD2A0                                         ; 应该是返回用的
+PAGE:004DD2A3                 jbe     short loc_4DD2C8 ; 小于等于则跳转
+PAGE:004DD2A5                 push    edi             ; 压入 指向NumberOfBytesRead的地址
+PAGE:004DD2A6                 push    dword ptr [ebp+AccessMode] ; AccessMode
+PAGE:004DD2A9                 push    [ebp+Length]    ; Length
+PAGE:004DD2AC                 push    [ebp+Address]   ; ToAddress
+PAGE:004DD2AF                 push    [ebp+ToProcess] ; ToProcess
+PAGE:004DD2B2                 push    [ebp+FromAddress] ; FromAddress
+PAGE:004DD2B5                 push    ebx             ; FromProcess
+PAGE:004DD2B6                 call    _MiDoMappedCopy@28 ; NTSTATUS
+PAGE:004DD2B6                                         ; MiDoMappedCopy (
+PAGE:004DD2B6                                         ;     IN PEPROCESS FromProcess,
+PAGE:004DD2B6                                         ;     IN CONST VOID *FromAddress,
+PAGE:004DD2B6                                         ;     IN PEPROCESS ToProcess,
+PAGE:004DD2B6                                         ;     OUT PVOID ToAddress,
+PAGE:004DD2B6                                         ;     IN SIZE_T BufferSize,
+PAGE:004DD2B6                                         ;     IN KPROCESSOR_MODE PreviousMode,
+PAGE:004DD2B6                                         ;     OUT PSIZE_T NumberOfBytesRead
+PAGE:004DD2B6                                         ;     )
+PAGE:004DD2BB                 mov     esi, eax
+PAGE:004DD2BD                 cmp     esi, 0C00000A1h
+PAGE:004DD2C3                 jnz     short loc_4DD2E0
+PAGE:004DD2C5                 and     dword ptr [edi], 0
+PAGE:004DD2C8
+PAGE:004DD2C8 loc_4DD2C8:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+4B↑j
+PAGE:004DD2C8                 push    edi             ; 压入 指向NumberOfBytesRead的地址
+PAGE:004DD2C9                 push    dword ptr [ebp+AccessMode] ; AccessMode
+PAGE:004DD2CC                 push    [ebp+Length]    ; Length
+PAGE:004DD2CF                 push    [ebp+Address]   ; ToAddress
+PAGE:004DD2D2                 push    [ebp+ToProcess] ; ToProcess
+PAGE:004DD2D5                 push    [ebp+FromAddress] ; FromAddress
+PAGE:004DD2D8                 push    ebx             ; FromProcess
+PAGE:004DD2D9                 call    _MiDoPoolCopy@28 ; NTSTATUS
+PAGE:004DD2D9                                         ; MiDoPoolCopy (
+PAGE:004DD2D9                                         ;      IN PEPROCESS FromProcess,
+PAGE:004DD2D9                                         ;      IN CONST VOID *FromAddress,
+PAGE:004DD2D9                                         ;      IN PEPROCESS ToProcess,
+PAGE:004DD2D9                                         ;      OUT PVOID ToAddress,
+PAGE:004DD2D9                                         ;      IN SIZE_T BufferSize,
+PAGE:004DD2D9                                         ;      IN KPROCESSOR_MODE PreviousMode,
+PAGE:004DD2D9                                         ;      OUT PSIZE_T NumberOfBytesRead
+PAGE:004DD2D9                                         ;      )
+PAGE:004DD2DE                 mov     esi, eax
+PAGE:004DD2E0
+PAGE:004DD2E0 loc_4DD2E0:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+6B↑j
+PAGE:004DD2E0                 mov     ecx, [ebp+FromProcess] ; RunRef
+PAGE:004DD2E3                 call    @ExReleaseRundownProtection@4 ; ExReleaseRundownProtection(x)
+PAGE:004DD2E8                 pop     edi
+PAGE:004DD2E9                 mov     eax, esi
+PAGE:004DD2EB                 pop     esi
+PAGE:004DD2EC
+PAGE:004DD2EC loc_4DD2EC:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+3D↑j
+PAGE:004DD2EC                 pop     ebx
+PAGE:004DD2ED
+PAGE:004DD2ED loc_4DD2ED:                             ; CODE XREF: MmCopyVirtualMemory(x,x,x,x,x,x,x)+D↑j
+PAGE:004DD2ED                 pop     ebp
+PAGE:004DD2EE                 retn    1Ch
+PAGE:004DD2EE _MmCopyVirtualMemory@28 endp
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;这个函数会  &lt;code&gt;cmp     [ebp+Length], 1FFh &lt;/code&gt; ; 判读要读取的字节大小是否超过 0x1FF，如果没有超过就会调用  &lt;code&gt;_MiDoPoolCopy&lt;/code&gt;  函数，超过的话就会调用  &lt;code&gt;_MiDoMappedCopy&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;_MiDoMappedCopy&lt;/code&gt;  有些地方没逆懂，但关键地方都一样。详细看  &lt;code&gt;_MiDoPoolCopy&lt;/code&gt;  了。&lt;/p&gt;
+&lt;h3 id=&#34;逆向分析-_midopoolcopy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逆向分析-_midopoolcopy&#34;&gt;#&lt;/a&gt; 逆向分析 _MiDoPoolCopy&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;_MiDoPoolCopy (点击展开)&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;逆向分析-kestackattachprocess&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逆向分析-kestackattachprocess&#34;&gt;#&lt;/a&gt; 逆向分析 KeStackAttachProcess&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;KeStackAttachProcess (点击展开)&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;逆向分析-kiattachprocess&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逆向分析-kiattachprocess&#34;&gt;#&lt;/a&gt; 逆向分析 KiAttachProcess&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;KiAttachProcess (点击展开)&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;逆向分析-kiswapprocess&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逆向分析-kiswapprocess&#34;&gt;#&lt;/a&gt; 逆向分析 KiSwapProcess&lt;/h3&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;KiSwapProcess (点击展开)&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;函数调用流程中的各个函数总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#函数调用流程中的各个函数总结&#34;&gt;#&lt;/a&gt; 函数调用流程中的各个函数总结&lt;/h3&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;NtReadVirtualMemory实现路径 (点击展开)&lt;/summary&gt;&lt;div&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;NtReadVirtualMemory&lt;/code&gt;  做了一些验证后调用了  &lt;code&gt;MmCopyVirtualMemory&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;MmCopyVirtualMemory&lt;/code&gt;  在这个函数中判断了缓冲区的大小，如果缓冲区大小大于池移动阈值，则尝试通过直接映射写入内存。这里根据情况调用  &lt;code&gt;MiDoMappedCopy&lt;/code&gt;  和  &lt;code&gt;MiDoPoolCopy&lt;/code&gt; 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;MiDoMappedCopy&lt;/code&gt;  函数有很多结构体还没学，暂时逆不懂，先逆  &lt;code&gt;MiDoPoolCopy&lt;/code&gt;  了。  &lt;code&gt;MiDoPoolCopy&lt;/code&gt;  函数在读取内存的方法是先在内核层申请一份和要读取的字节大小一样的内存，然后调用了  &lt;code&gt;KeStackAttachProcess&lt;/code&gt;  函数。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这里先说  &lt;code&gt;KeStackAttachProcess&lt;/code&gt;  函数了，这个函数首先判断了要附加的进程是不是当前进程，然后又判断当前线程是不是已经处于挂靠状态了，如果处于挂靠状态的话，把原来的 APC 状态保存到 ApcState 变量中，否则的话就把原来的 APC 状态保存到线程结构体的 KTHREAD 的  &lt;code&gt;SavedApcState&lt;/code&gt;  成员中。  这里是判断之后调用  &lt;code&gt;KiAttachProcess &lt;/code&gt; 函数时传递的参数不一样来实现的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如下：&lt;/p&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;Thread&lt;span class=&#34;token operator&#34;&gt;-&gt;&lt;/span&gt;ApcStateIndex &lt;span class=&#34;token operator&#34;&gt;!=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 已经处于挂靠状态&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;KiAttachProcess&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;Thread&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; Process&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; OldIrql&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; ApcState&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 会把原来的 APC 状态赋给 ApcState 变量，是上层函数返回的变量。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 没有处于挂靠状态&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;KiAttachProcess&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;Thread&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; Process&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; OldIrql&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;Thread&lt;span class=&#34;token operator&#34;&gt;-&gt;&lt;/span&gt;SavedApcState&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 传递当前线程的 SavedApcState，用它来接收以前的 APC 状态。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            ApcState&lt;span class=&#34;token operator&#34;&gt;-&gt;&lt;/span&gt;Process &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token constant&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 标识一下，在 KeStackAttachProcess 中会判断&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 &lt;code&gt;KiAttachProcess &lt;/code&gt; 函数中，先把当前线程 KTEHREAD 的 ApcState 成员保存了一份赋值给了一个指针变量 ，这个指针变量是这个函数的参数，如果线程已将处于挂靠状态，那么这个指针变量就是上层函数的临时变量，如果没有处于挂靠状态那么这个指针变量就是当前线程 KTHREAD 的 &lt;code&gt;SavedApcState&lt;/code&gt;  成员。&lt;br /&gt;
+然后把当前线程 KTHREAD 的  &lt;code&gt;ApcState&lt;/code&gt;  保存到了这个指针变量中，&lt;strong&gt;这一步既保存了没挂靠前的 APC 状态&lt;/strong&gt;，之后初始化新的线程 KTHREAD 的  &lt;code&gt;ApcState&lt;/code&gt;  成员。&lt;br /&gt;
+然后判断目标进程的状态是否在内存中，如果在内存中，就把所有处于 ready 状态的线程，移动到全局就绪链表中，然后调用了  &lt;code&gt;KiSwapProcess&lt;/code&gt;  函数后就返回了。&lt;br /&gt;
+如果进程的状态不是在内存中，则判断其状态是不是 ProcessOutOfMemory 既不在内存中，如果是则设置其状态为正在转移，然后把进程 KPROCESS 的  &lt;code&gt;SwapListEntry&lt;/code&gt;  成员挂入到  &lt;code&gt;KiProcessInSwapListHead&lt;/code&gt;  中。&lt;br /&gt;
+&lt;strong&gt; &lt;code&gt;SwapListEntry&lt;/code&gt;  成员在《Windows 内核原理与实现》一书中有介绍：  &lt;code&gt;KiProcessInSwapListHead&lt;/code&gt;  这是等待被插入的进程链表，它是一个单链表。当一个进程要被换出内存时，通过此成员加入到以  &lt;code&gt;KiProcessOutSwapListHead&lt;/code&gt;  为链头的单链表中；当一个进程要被换入内存时，通过此成员加入到以  &lt;code&gt;KiProcessInSwapListHead&lt;/code&gt;  为链头的单链表中。&lt;/strong&gt;&lt;br /&gt;
+如果状态不是 ProcessOutOfMemory 的话，会直接执行这一步： 清除前一个进程中的活动处理器位，并设置被附加进程中的活动处理器位。&lt;br /&gt;
+绕后调用了  &lt;code&gt;KiSwapThread&lt;/code&gt;  函数&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;调用  &lt;code&gt;KiSwapProcess&lt;/code&gt;  函数：这个函数主要更新了 GDT 中的 LDT 描述符和 IDT 中的 int 2h, 并交换 CR3 来将地址空间交换到另一个进程。 它还将 I/O 权限映射交换到新进程。&lt;/li&gt;
+&lt;li&gt;调用  &lt;code&gt;KiSwapThread&lt;/code&gt; ，主动调用线程切换，既把目标进程的线程激活，使其在内存中，直到线程切换切回来，因为 APC 的状态已经更换成了目标进程，而 Cr3 是取线程的 APC 状态中的进程 KPROCESS 中的  &lt;code&gt;DirectoryTableBase&lt;/code&gt;  成员， 所以切换回来后，线程的 Cr3 也就改了，至此挂靠完成了。真是巧妙呀。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;挂靠后又回到了  &lt;code&gt;MiDoPoolCopy&lt;/code&gt;  函数中，然后就开始复制内存了，把目标进程空间的内存，复制到了内核空间。然后调用了  &lt;code&gt;KeUnstackDetachProcess&lt;/code&gt;  解除了挂靠状态， &lt;code&gt;KeUnstackDetachProcess&lt;/code&gt;  最终也是调用了  &lt;code&gt;KiSwapProcess&lt;/code&gt;  函数不在细说了。解除挂靠后又挂靠了回了原来的自己的进程，然后把在内核空间的内存数据复制到了，原来线程空间指定的缓存区中，然后就解除挂靠了，之后又释放了在内核空间申请的内存空间，统计了一下复制了多少字节数后返回了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;ntwritevirtualmemory-流程分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ntwritevirtualmemory-流程分析&#34;&gt;#&lt;/a&gt; NtWriteVirtualMemory 流程分析&lt;/h2&gt;
+&lt;p&gt;此函数的调用流程与  &lt;code&gt;NtReadVirtualMemory&lt;/code&gt;  一样。&lt;/p&gt;
+&lt;p&gt;NtReadVirtualMemory -&amp;gt; MmCopyVirtualMemory -&amp;gt; MiDoMappedCopy 或者 MiDoPoolCopy&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;（点击展开）&lt;/summary&gt;&lt;div&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 ; NTSTATUS __stdcall NtWriteVirtualMemory (HANDLE ProcessHandle, PVOID BaseAddress, PVOID Buffer, SIZE_T NumberOfBytesToWrite, PSIZE_T NumberOfBytesWritten)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 _NtWriteVirtualMemory@20 proc near      ; DATA XREF: .text:0042D9C4↑o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 var_2C          &amp;#x3D; dword ptr -2Ch&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 NumberOfBytesRead&amp;#x3D; dword ptr -28h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 Object          &amp;#x3D; dword ptr -24h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 AccessMode      &amp;#x3D; byte ptr -20h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 Status          &amp;#x3D; dword ptr -1Ch&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 ms_exc          &amp;#x3D; CPPEH_RECORD ptr -18h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 ProcessHandle   &amp;#x3D; dword ptr  8&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 BaseAddress     &amp;#x3D; dword ptr  0Ch&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 Buffer          &amp;#x3D; dword ptr  10h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 NumberOfBytesToWrite&amp;#x3D; dword ptr  14h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 NumberOfBytesWritten&amp;#x3D; dword ptr  18h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400 ; __unwind &amp;#123; &amp;#x2F;&amp;#x2F;__SEH_prolog&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD400                 push    1Ch&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD402                 push    offset stru_402F08&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD407                 call    __SEH_prolog&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD40C                 mov     eax, large fs:124h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD412                 mov     edi, eax        ; edi &amp;#x3D; 当先线程的 KTHREAD&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD414                 mov     al, [edi+_KTHREAD.PreviousMode]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD41A                 mov     [ebp+AccessMode], al&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD41D                 mov     esi, [ebp+NumberOfBytesToWrite] ; esi &amp;#x3D; NumberOfBytesToWrite&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD420                 test    al, al          ; 与操作 判断 al 是否等于 0，既当前模式是否是内核模式&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD422                 jz      short loc_4DD48A&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD424                 mov     eax, [ebp+BaseAddress]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD427                 lea     edx, [eax+esi]  ; edx &amp;#x3D; BaseAddress + NuberOfBytesToWrite&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD42A                 cmp     edx, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD42C                 jb      short loc_4DD483&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD42E                 mov     eax, [ebp+Buffer]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD431                 lea     ecx, [eax+esi]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD434                 cmp     ecx, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD436                 jb      short loc_4DD483&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD438                 mov     eax, _MmHighestUserAddress&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD43D                 cmp     edx, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD43F                 ja      short loc_4DD483&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD441                 cmp     ecx, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                 ja      short loc_4DD483 ; if ( (BaseAddress + NuberOfBytesToWrite &amp;gt; BaseAddress) ||&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ; (Buffer + NuberOfBytesToWrite &amp;gt; Buffer) ||&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ; (BaseAddress + NuberOfBytesToWrite) &amp;gt; MM_HIGHEST_USER_ADDRESS) ||&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ; (Buffer + NuberOfBytesToWrite) &amp;gt; MM_HIGHEST_USER_ADDRESS))&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ; )&amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ;    return ……&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD443                                         ; &amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD445                 mov     ebx, [ebp+NumberOfBytesWritten]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD448                 test    ebx, ebx        ; 判断 NumberOfBytesWritten 是否为 空 因为是可选参数&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD44A                 jz      short loc_4DD48D ; 如果为空就跳转&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD44C                 and     [ebp+ms_exc.registration.TryLevel], 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD450                 mov     eax, _MmUserProbeAddress ; _MmUserProbeAddress &amp;#x3D; 0x7FFF0000 保护页的起始地址&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD455                 cmp     ebx, eax        ; 比较一下&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD457                 jb      short loc_4DD45F ; 小于就跳转&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD459                 mov     dword ptr [eax], 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD45F&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD45F loc_4DD45F:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+57↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD45F                 mov     eax, [ebx]      ; 判读一下这个值是否可读可写&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;58&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                 mov     [ebx], eax      ; ProbeForWriteUlong_ptr (Address) &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;59&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                                         ;     if ((Address) &amp;gt;&amp;#x3D; (ULONG_PTR * const) MM_USER_PROBE_ADDRESS) &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;60&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                                         ;         *(volatile ULONG_PTR * const) MM_USER_PROBE_ADDRESS &amp;#x3D; 0;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;61&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                                         ;     &amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;62&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                                         ;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;63&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                                         ;     *(volatile ULONG_PTR *)(Address) &amp;#x3D; *(volatile ULONG_PTR *)(Address);&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;64&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD461                                         ; &amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;65&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD463                 or      [ebp+ms_exc.registration.TryLevel], 0FFFFFFFFh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;66&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD467                 jmp     short loc_4DD48D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;67&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD469 ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;68&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD469&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;69&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD469 loc_4DD469:                             ; DATA XREF: .text:stru_402F08↑o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;70&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD469                 mov     eax, [ebp+ms_exc.exc_ptr]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;71&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD46C                 mov     eax, [eax]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;72&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD46E                 mov     eax, [eax]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;73&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD470                 mov     [ebp+var_2C], eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;74&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD473                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;75&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD475                 inc     eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;76&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD476                 retn&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;77&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD477 ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;78&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD477&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;79&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD477 loc_4DD477:                             ; DATA XREF: .text:stru_402F08↑o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;80&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD477                 mov     esp, [ebp+ms_exc.old_esp]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;81&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD47A                 or      [ebp+ms_exc.registration.TryLevel], 0FFFFFFFFh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;82&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD47E                 mov     eax, [ebp+var_2C]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;83&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD481                 jmp     short loc_4DD4FC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;84&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD483 ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;85&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD483&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;86&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD483 loc_4DD483:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+2C↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;87&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD483                                         ; NtWriteVirtualMemory (x,x,x,x,x)+36↑j ...&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;88&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD483                 mov     eax, 0C0000005h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;89&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD488                 jmp     short loc_4DD4FC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;90&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48A ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;91&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48A&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;92&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48A loc_4DD48A:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+22↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;93&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48A                 mov     ebx, [ebp+NumberOfBytesWritten]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;94&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;95&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48D loc_4DD48D:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+4A↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;96&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48D                                         ; NtWriteVirtualMemory (x,x,x,x,x)+67↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;97&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48D                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;98&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD48F                 mov     [ebp+NumberOfBytesRead], eax ; NumberOfBytesRead &amp;#x3D; 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;99&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD492                 mov     [ebp+Status], eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;100&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD495                 cmp     esi, eax        ; esi &amp;#x3D; NumberOfBytesToWrite&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;101&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD495                                         ; 判断要写入的字节数是否为 0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;102&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD497                 jz      short loc_4DD4DC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;103&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD499                 push    eax             ; HandleInformation&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;104&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD49A                 lea     eax, [ebp+Object]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;105&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD49D                 push    eax             ; Object&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;106&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD49E                 push    dword ptr [ebp+AccessMode] ; AccessMode&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;107&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4A1                 push    _PsProcessType  ; ObjectType&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;108&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4A7                 push    20h ; &amp;#39; &amp;#39;       ; DesiredAccess&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;109&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4A9                 push    [ebp+ProcessHandle] ; Handle&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;110&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4AC                 call    _ObReferenceObjectByHandle@24 ; ObReferenceObjectByHandle (x,x,x,x,x,x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;111&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B1                 mov     [ebp+Status], eax ; Status &amp;#x3D; ObReferenceObjectByHandle (ProcessHandle,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;112&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B1                                         ;                                            PROCESS_VM_WRITE,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;113&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B1                                         ;                                            PsProcessType,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;114&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B1                                         ;                                            PreviousMode,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;115&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B1                                         ;                                            (PVOID *)&amp;amp;Process,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;116&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B1                                         ;                                            NULL);&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;117&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B4                 test    eax, eax        ; 判断是否执行成功&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;118&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B6                 jnz     short loc_4DD4DC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;119&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4B8                 lea     eax, [ebp+NumberOfBytesRead]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;120&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4BB                 push    eax             ; NumberOfBytesRead&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;121&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4BC                 push    dword ptr [ebp+AccessMode] ; AccessMode&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;122&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4BF                 push    esi             ; Length&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;123&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4C0                 push    [ebp+BaseAddress] ; Address&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;124&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4C3                 push    [ebp+Object]    ; 目标进程 KPROCESS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;125&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4C6                 push    [ebp+Buffer]    ; int&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;126&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4C9                 push    [edi+_KTHREAD.ApcState.Process] ; 当前线程的进程 KPROCESS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;127&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                 call    _MmCopyVirtualMemory@28 ; NTSTATUS&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;128&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ; MmCopyVirtualMemory (&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;129&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     IN PEPROCESS FromProcess,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;130&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     IN CONST VOID *FromAddress,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;131&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     IN PEPROCESS ToProcess,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;132&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     OUT PVOID ToAddress,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;133&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     IN SIZE_T BufferSize,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;134&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     IN KPROCESSOR_MODE PreviousMode,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;135&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     OUT PSIZE_T NumberOfBytesCopied&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;136&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4CC                                         ;     )&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;137&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4D1                 mov     [ebp+Status], eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;138&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4D4                 mov     ecx, [ebp+Object] ; Object&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;139&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4D7                 call    @ObfDereferenceObject@4 ; ObfDereferenceObject (x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;140&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4DC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;141&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4DC loc_4DD4DC:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+97↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;142&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4DC                                         ; NtWriteVirtualMemory (x,x,x,x,x)+B6↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;143&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4DC                 test    ebx, ebx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;144&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4DE                 jz      short loc_4DD4F9&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;145&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4E0                 mov     [ebp+ms_exc.registration.TryLevel], 1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;146&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4E7                 mov     eax, [ebp+NumberOfBytesRead]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;147&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4EA                 mov     [ebx], eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;148&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4EC                 jmp     short loc_4DD4F5&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;149&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4EE ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;150&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4EE&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;151&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4EE loc_4DD4EE:                             ; DATA XREF: .text:stru_402F08↑o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;152&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4EE                 xor     eax, eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;153&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F0                 inc     eax&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;154&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F1                 retn&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;155&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F2 ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;156&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;157&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F2 loc_4DD4F2:                             ; DATA XREF: .text:stru_402F08↑o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;158&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F2                 mov     esp, [ebp+ms_exc.old_esp]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;159&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F5&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;160&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F5 loc_4DD4F5:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+EC↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;161&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F5                 or      [ebp+ms_exc.registration.TryLevel], 0FFFFFFFFh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;162&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F9&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;163&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F9 loc_4DD4F9:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+DE↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;164&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4F9                 mov     eax, [ebp+Status]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;165&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4FC&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;166&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4FC loc_4DD4FC:                             ; CODE XREF: NtWriteVirtualMemory (x,x,x,x,x)+81↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;167&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4FC                                         ; NtWriteVirtualMemory (x,x,x,x,x)+88↑j&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;168&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD4FC                 call    __SEH_epilog&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;169&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD501                 retn    14h&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;170&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD501 ; &amp;#125; &amp;#x2F;&amp;#x2F;starts at 4DD400&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;171&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD501 _NtWriteVirtualMemory@20 endp&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;172&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD501&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;173&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PAGE:004DD501 ; ---------------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;传递的参数不一样，就造成了不一样的效果。&lt;/p&gt;
+&lt;p&gt;分完就会发现读写的操作完全是一个逆过程。&lt;/p&gt;
+&lt;h1 id=&#34;总结-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结-2&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
+&lt;p&gt;NtReadVirtualMemory 流程解析：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;NtWriteVirtualMemory 流程解析：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;分析其不同：&lt;br /&gt;
+NtReadVirtualMemory&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image007.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;NtWriteVirtualMemory&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image008.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;实践&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实践&#34;&gt;#&lt;/a&gt; 实践&lt;/h2&gt;
+&lt;p&gt;重写函数&lt;/p&gt;
+&lt;p&gt;R0 R3 ?&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

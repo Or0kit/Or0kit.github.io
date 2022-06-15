@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"jsdelivr\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/%E5%85%B3%E4%BA%8EjsDelivr%E5%8F%88%E8%A2%ABDNS%E6%B1%A1%E6%9F%93/",
+            "url": "https://or0kit.github.io/%E5%85%B3%E4%BA%8EjsDelivr%E5%8F%88%E8%A2%ABDNS%E6%B1%A1%E6%9F%93/",
+            "title": "关于jsDelivr又被DNS污染",
+            "date_published": "2022-05-18T16:56:09.000Z",
+            "content_html": "<h1 id=\"楔子\"><a class=\"anchor\" href=\"#楔子\">#</a> 楔子</h1>\n<p>这两天打不开博客了，上网冲浪一番才知道原因，原来是  <code>jsDelivr</code>  又被 DNS 污染了，详细见：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyOTUxNTYwL2FydGljbGUvZGV0YWlscy8xMjQ4NDQ1NzE=\">https://blog.csdn.net/qq_42951560/article/details/124844571</span>。</p>\n<p>我用的是  <code>shoka</code>  主题，于是我就试着在 VSCode 中把 <code>shoka</code>  主题下文件中所有的  <code>cdn.jsdelivr.net</code>  替换为了  <code>fastly.jsdelivr.net</code>  。</p>\n<p>当然文件都提前备份了一遍。</p>\n<p>于是就解决了。</p>\n<p>博客可以打开了。</p>\n",
+            "tags": [
+                "jsDelivr"
+            ]
+        }
+    ]
+}

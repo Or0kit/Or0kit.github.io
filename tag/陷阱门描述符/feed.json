@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"陷阱门描述符\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E9%99%B7%E9%98%B1%E9%97%A8/",
+            "url": "https://or0kit.github.io/Bin/Core/WindowsXp/Protect-Mode/%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F-%E9%99%B7%E9%98%B1%E9%97%A8/",
+            "title": "保护模式-陷阱门",
+            "date_published": "2021-08-13T06:40:28.000Z",
+            "content_html": "<h1 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h1>\n<p>Windows 使用了中断门，用于系统调用和调试（比如调试断点）</p>\n<p>IF 位，是标志寄存器 EFLEAG，下标为 9 的位置。</p>\n<p>中断门和陷阱门都不可以传递参数，可能它们的作用被 CPU 制造商规定为辅助作用，但是操作系统怎么使用，就看操作系统的设计者怎么想的。</p>\n<p>它们的段描述符区别在于 TYPE 域，且都是系统段描述符</p>\n<p>这些都是 CPU 层面的概念，操作系统只是使用，然后根据硬件返回出来的值（在硬件方面可能就是电压表示的二进制）进行判断对与错，然后操作系统会提示用户正确或错误。</p>\n<p>转自<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTg4NDQ4L2FydGljbGUvZGV0YWlscy8xMDI1OTk5NjE=\"> https://blog.csdn.net/qq_41988448/article/details/102599961</span> 的评论</p>\n<h2 id=\"陷阱门与中断门的区别\"><a class=\"anchor\" href=\"#陷阱门与中断门的区别\">#</a> 陷阱门与中断门的区别</h2>\n<p>中断门执行时，会将 IF 标志位清零，但陷阱门不会</p>\n<p>IF=0 时：程序不再接收可屏蔽中断</p>\n<p>可屏蔽中断：比如程序正在运行时，我们通过键盘敲击了锁屏的快捷键，若 IF 位为 1，CPU 就能够接收到我们敲击键盘的指令并锁屏</p>\n<p>可屏蔽中断：<br />\n简述：保存断点入栈，响应经中断控制器 8259 优先级判断后的中断请求，恢复断点。<br />\nI/O 设备发出的所有中断 (IRQ) 都可以产生可屏蔽中断，受标志位 IF 的影响，根据中断循序标志的设置来判断 CPU 是否响应中断请求。</p>\n<blockquote>\n<p>接口发出中断请求<br />\n当前指令执行完后，CPU 响应中断<br />\n中断类型号 N 送 CPU<br />\n 当前的 EFR CS HE EIP 推入栈<br />\n清除 IF (中断允许标志位，IF=0，禁止 CPU 响应外部中断请求，IF=1，允许响应) 和 TF（跟踪标志，也称单步执行，CPU 按跟踪方式执行）<br />\n由中断类型号，查中断向量表获得中断服务子程序的入口地址<br />\n CPU 执行中断子程序<br />\n开中断<br />\n IRET 指令使 EIP CS HE EFR 弹出栈 ，返回被中断的源程序</p>\n</blockquote>\n<p>不可屏蔽中断：不可阻止的中断请求。如： 当突然断电，CPU 不是立马死掉，CPU 内部有一个电容，断电的时候，还会运行一会儿，用于处理后续工作，这个是不可屏蔽中断。</p>\n<h2 id=\"trap-gate-descriptor\"><a class=\"anchor\" href=\"#trap-gate-descriptor\">#</a> Trap-Gate-Descriptor</h2>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<h2 id=\"实践\"><a class=\"anchor\" href=\"#实践\">#</a> 实践</h2>\n<p>知道了理论，开始实践。<br />\n和中断门一样的流程，只是我们构造的描述符有一点不同： <code>0040EF00`00081020</code>   把中断门的 <code>EE</code>  改为了 <code>EF</code></p>\n<p>代码还是以前的代码，结果也是一样的。<br />\n不再复写一份了（懒）。</p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NDI1MjQzL2FydGljbGUvZGV0YWlscy84MzY1NzIwMw==\">https://blog.csdn.net/qq_35425243/article/details/83657203</span></p>\n",
+            "tags": [
+                "IDT",
+                "提权",
+                "陷阱门描述符"
+            ]
+        }
+    ]
+}

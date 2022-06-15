@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"业务逻辑漏洞\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/PenetrationTest/Web-Security/web%E6%BC%8F%E6%B4%9E-%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E/",
+            "url": "https://or0kit.github.io/PenetrationTest/Web-Security/web%E6%BC%8F%E6%B4%9E-%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E/",
+            "title": "web漏洞-业务逻辑漏洞",
+            "date_published": "2021-03-09T08:15:23.000Z",
+            "content_html": "<h1 id=\"找回密码\"><a class=\"anchor\" href=\"#找回密码\">#</a> 找回密码</h1>\n<h1 id=\"支付漏洞\"><a class=\"anchor\" href=\"#支付漏洞\">#</a> 支付漏洞</h1>\n<p>直接改数据包中的金额，金额改动时多试一些值 <code>0.01、1、10、100、……</code></p>\n<p>数量改为 <code>-1</code>  个、 <code>9999999999</code>  超大数、 <code>小数</code> 四舍五入、五舍六入。<br />\n数量不能小于 <code>1</code> ，改为 <code>1.1、1.5、1.6</code> 。<br />\n数据包重放。</p>\n<p>运费的参数</p>\n<p>转账功能 转账金额改为负，别人给自己转钱</p>\n<p>订单号的更改（金额、商品）用便宜的订单去付费贵的商品</p>\n<h1 id=\"越权\"><a class=\"anchor\" href=\"#越权\">#</a> 越权</h1>\n<p>还是找关键参数</p>\n<h1 id=\"reference\"><a class=\"anchor\" href=\"#reference\">#</a> Reference</h1>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWJ1Zi5jb20vYXJ0aWNsZXMvd2ViLzE5NTgzNy5odG1s\">逻辑漏洞挖掘初步总结篇</span></p>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vWC1jYWlqaS9wLzExMjA5OTYzLmh0bWw=\">Web 安全测试中常见逻辑漏洞解析（实战篇）</span></p>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI5OTE2OTIvYXJ0aWNsZS9kZXRhaWxzLzgyOTUzMjEz\">常见逻辑漏洞</span></p>\n<p>挖掘出属于自己思维的逻辑漏洞。</p>\n",
+            "tags": [
+                "业务逻辑漏洞"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"api进出内核\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Core/WindowsXp/SystemCall/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8-%E6%80%BB%E7%BB%93/",
+            "url": "https://or0kit.github.io/Bin/Core/WindowsXp/SystemCall/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8-%E6%80%BB%E7%BB%93/",
+            "title": "系统调用-总结",
+            "date_published": "2022-03-13T06:37:38.000Z",
+            "content_html": "<h1 id=\"楔子\"><a class=\"anchor\" href=\"#楔子\">#</a> 楔子</h1>\n<p>学完 APC 后，梳理一下学到的知识，看看能不能从 3 环进 0 环再回 3 环来。</p>\n<h1 id=\"流程梳理\"><a class=\"anchor\" href=\"#流程梳理\">#</a> 流程梳理</h1>\n<p>以 R3 函数  <code>ReadProcessMemory</code>  为例</p>\n<p>先分析函数调用流程</p>\n<p><code>ReadProcessMemory</code>  调用了从 ntdll 中 导入的函数  <code>NtReadVirtualMemory</code></p>\n<p>在  <code>ntdll</code>  中查看 此函数</p>\n<figure class=\"highlight raw\"><figcaption data-lang=\"\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>_NtReadVirtualMemory@20 proc near    \t\t\t\t</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>mov     eax, 0BAh       ; NtReadVirtualMemory\t\t\t\t</pre></td></tr><tr><td data-num=\"3\"></td><td><pre>mov     edx, 7FFE0300h\t\t\t\t</pre></td></tr><tr><td data-num=\"4\"></td><td><pre> call    dword ptr [edx]\t\t\t\t</pre></td></tr><tr><td data-num=\"5\"></td><td><pre>retn    14h</pre></td></tr></table></figure><p>可以看到这个函数只有短短几行汇编代码：给 eax 赋个值，然后给 edx 个地址，然后 call 一下 edx 指向的地址，然后就平栈（由于 STDCALL 调用约定）返回了。</p>\n<p>首先我们要知道 这里调用的是什么函数</p>\n<p>在 0x7FFE0000 的位置是一个名为  <code>KUSER_SHARED_DATA</code>  的结构体，这个结构体与 0 环 FFDF0000 存储的数据一模一样，是由同一个物理页映射的。\t\t\t\t\t\t\t\t\t\t\t\t\t<br />\n在其偏移 0x300 的位置有一个成员其存储的就是调用方式，如今的 CPU 都支持快速调用了，所以一般存储的是 ntdll 中的 KiFastSystemCall 函数</p>\n<p>查看这个函数</p>\n<figure class=\"highlight raw\"><figcaption data-lang=\"\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>_KiFastSystemCall@0 proc near \t\t\t\t\t\t\t\t\t\t\t\t\t</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>mov edx, esp\t\t\t\t\t\t\t\t\t\t\t\t\t</pre></td></tr><tr><td data-num=\"3\"></td><td><pre> sysenter</pre></td></tr></table></figure><p>将 esp 存储在 edx 中后就执行了 sysenter 指令</p>\n<p>sysenter 指令就是取出了存储在 MSR 寄存器中的 CS、ESP、EIP，这是提升权限所必须的</p>\n<p>这个时候 EIP 改变了，在我的计算机上 MSR [176] 中存储的地址是内核文件中的 KiFastCallEntry 函数</p>\n<p>快速调用进 0 环后，0 环的堆栈指向 TrapFrame+0x78 的位置，接下来的\t\t\t\t\t\t<br />\n就是填充这个结构了。\t\t\t\t\t\t<br />\n填充完毕后，也就是保存好 3 环的堆栈和寄存器环境后\t\t\t\t\t\t<br />\n准备调用 0 环的函数。\t\t\t\t\t\t<br />\n调用完函数后 ebp 和 esp 又指向了 TrapFrame</p>\n<p>判断 ETHREAD 是否有用户 APC 需要处理，如果有就处理 APC，一直到没有用户 APC 需要处理，这里是一个循环。<br />\n没有用户 APC 需要处理后就跳出了循环</p>\n<p>后面的一些汇编代码我在内核中跟了一下。</p>\n<p>如下：</p>\n<p><img data-src=\"image001.png\" alt=\"\" /></p>\n<p>以上汇编代码只有在最后跳到了 KiSystemCallExit2 中 其他判断都没跳。</p>\n",
+            "tags": [
+                "API进出内核"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"加壳\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/Win32/C++%E5%A3%B3%E7%BC%96%E5%86%99/",
+            "url": "https://or0kit.github.io/Bin/Win32/C++%E5%A3%B3%E7%BC%96%E5%86%99/",
+            "title": "C++壳编写",
+            "date_published": "2022-04-04T11:54:19.000Z",
+            "content_html": "<h1 id=\"楔子\"><a class=\"anchor\" href=\"#楔子\">#</a> 楔子</h1>\n<p>因为有之前编写滴水教程中的加壳项目的经验，想要深入了解一下加壳。</p>\n<p>并且之前看了任晓珲前辈的《黑客免杀攻防》一书，想借鉴其第十一章的编写 C++ 壳的思路，设计一个自己的 C++ 壳。</p>\n<h1 id=\"正文\"><a class=\"anchor\" href=\"#正文\">#</a> 正文</h1>\n<p>以我目前对壳的了解，壳无非就是对 PE 结构进行各种操作，并且不影响其原本的功能。</p>\n<p>了解 UPX 壳和 ASP 壳</p>\n<h2 id=\"编写-c-壳\"><a class=\"anchor\" href=\"#编写-c-壳\">#</a> 编写 C++ 壳</h2>\n<p>预处理</p>\n<ol>\n<li>读取目标文件并确定文件体积</li>\n<li>读取代码段的相关信息</li>\n<li>将代码段属性修改为可读、可写、可执行</li>\n<li>对代码段进行简单的异或加密处理。</li>\n</ol>\n<p>植入 Stub</p>\n<ol>\n<li>读取保存在资源中的 Stub 部分，并计算其体积；</li>\n<li>依据此体积添加区段；</li>\n<li>将 Stub 复制到新区段中，对 Stub 进行重定位等一系列操作处理；</li>\n<li>修改入口到 Stub 处，并将原入口点传递给 Stub，留以备用。</li>\n</ol>\n<p>Stub 执行</p>\n<ol>\n<li>读取被加密区域的起始及结束偏移；</li>\n<li>使用异或算法解密相关区域的代码；</li>\n<li>弹出对话框提示相关信息（演示效果）</li>\n<li>根据保存下的原 OEP 信息，执行原程序。</li>\n</ol>\n<p>这是《黑客免杀攻防》一书中编写的一个简单的 C++ 壳的加壳思路，对于被加壳文件来说改变了其 OEP 的位置，使其指向了新增的区段中的 Stub 代码，由 Stub 进行一些列的解密操作，然后再执行原程序的 OEP。</p>\n<p>其中编写用编写 dll 的方式生成 Stub 部分，并且完全控制它的</p>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL09yMGtpdC9PcjBwYWNrQmFzZQ==\">https://github.com/Or0kit/Or0packBase</span></p>\n",
+            "tags": [
+                "加壳",
+                "脱壳",
+                "C++壳"
+            ]
+        }
+    ]
+}

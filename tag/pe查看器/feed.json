@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Or0kit • All posts by \"pe查看器\" tag",
+    "description": "临渊羡鱼，不如退而结网",
+    "home_page_url": "https://Or0kit.github.io",
+    "items": [
+        {
+            "id": "https://or0kit.github.io/Bin/WindowsPE/PE%E9%A1%B9%E7%9B%AE-%E7%BC%96%E5%86%99PE%E6%9F%A5%E7%9C%8B%E5%99%A8/",
+            "url": "https://or0kit.github.io/Bin/WindowsPE/PE%E9%A1%B9%E7%9B%AE-%E7%BC%96%E5%86%99PE%E6%9F%A5%E7%9C%8B%E5%99%A8/",
+            "title": "PE项目-编写PE查看器",
+            "date_published": "2022-03-23T11:49:51.000Z",
+            "content_html": "<h1 id=\"楔子\"><a class=\"anchor\" href=\"#楔子\">#</a> 楔子</h1>\n<p>快要实习了，整理一下所学知识，编写一个工具，以 PE 查看器为基础进行扩展。</p>\n<h1 id=\"编写pe查看器\"><a class=\"anchor\" href=\"#编写pe查看器\">#</a> 编写 PE 查看器</h1>\n<p>首先就是编写图像化界面，这个根据我所学可以用 MFC 或 Win32 ，因为最近在重新学习面对象的编程，所以准备使用 MFC 编写。</p>\n<div class=\"tab\" data-id=\"id1\" data-title=\"脑中的构思宏图是：\">\n<ol>\n<li>绘制一个对话框界面</li>\n<li>添加一个标签页，这个标签页上显示的为 PE 相关的信息</li>\n</ol>\n<ul>\n<li>第一个标签页上添加三个  <code>ListControl</code>  控件\n<ul>\n<li>第一个  <code>ListCtrl</code>  是显示正在运行的所有进程的信息，有进程的名字、进程 ID、进程的线程数、进程所属的用户名字。并且可以对每项进行右键操作。\n<ul>\n<li>右键功能暂定为：打开进程文件所在位置、关闭进程、查看其在内存中的 PE 结构。</li>\n</ul>\n</li>\n<li>第二个  <code>ListCtrl</code>  显示在第一个   <code>ListCtrl</code>  中所选中的进程的线程信息，有线程 ID、线程的优先级、线程的开始地址。并且可以对每项进行右键操作。\n<ul>\n<li>右键功能暂定为：关闭线程。</li>\n</ul>\n</li>\n<li>第三个  <code>ListCtrl</code>  显示在第一个   <code>ListCtrl</code>  中所选中的进程的模块信息。</li>\n</ul>\n</li>\n</ul>\n<ol start=\"3\">\n<li>目前仅实现一个标签页上的功能。</li>\n</ol>\n</div>\n<p>以上功能，有的需要管理员权限才能运行，我们就要查看当前进程的运行权限，并显示在一个位置。借此也可添加一个右键获取管理员权限功能，或者添加一个按钮，当是管理员权限时就不显示此按钮。</p>\n<p>还有一件事，当拖入文件进入程序后默认解析 PE 文件，打开 PE 结构解析的页面。</p>\n<h2 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h2>\n",
+            "tags": [
+                "MFC",
+                "PE查看器"
+            ]
+        }
+    ]
+}
