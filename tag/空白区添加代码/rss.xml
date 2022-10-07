@@ -8,8 +8,8 @@
         <pubDate>Sun, 02 May 2021 16:58:59 +0800</pubDate>
         <lastBuildDate>Sun, 02 May 2021 16:58:59 +0800</lastBuildDate>
         <category>Algolia</category>
-        <category>同义词替换</category>
         <category>Drozer</category>
+        <category>同义词替换</category>
         <category>xpath</category>
         <category>win32api</category>
         <category>WOW64</category>
@@ -19,8 +19,8 @@
         <category>First blog</category>
         <category>markdown 学习</category>
         <category>Android</category>
-        <category>数论基础</category>
         <category>替换密钥</category>
+        <category>数论基础</category>
         <category>ADB</category>
         <category>雷电模拟器</category>
         <category>Hadoop</category>
@@ -29,41 +29,17 @@
         <category>SSH隧道</category>
         <category>url</category>
         <category>http</category>
-        <category>Linux</category>
+        <category>应急响应</category>
         <category>Nginx</category>
+        <category>Linux</category>
         <category>CentOS7配置vsftp</category>
         <category>Psad</category>
         <category>fwsnort</category>
-        <category>应急响应</category>
         <category>x86汇编指令</category>
-        <category>PE课后作业</category>
-        <category>MFC</category>
-        <category>PE查看器</category>
-        <category>PE结构</category>
-        <category>DOS头属性说明</category>
-        <category>标准PE头属性说明</category>
-        <category>扩展PE头属性说明</category>
-        <category>节表属性说明</category>
-        <category>空白区添加代码</category>
-        <category>RVA与FOA</category>
-        <category>合并节</category>
-        <category>注入</category>
-        <category>导入表注入</category>
-        <category>导出表</category>
-        <category>导入表</category>
-        <category>扩大节</category>
-        <category>新增节</category>
-        <category>移动NT头</category>
-        <category>移动导出表</category>
-        <category>移动重定位表</category>
-        <category>重定位表</category>
-        <category>静态链接库</category>
-        <category>动态链接库</category>
-        <category>句柄</category>
+        <category>动态分析技术基础</category>
+        <category>静态分析基础</category>
         <category>逆向</category>
         <category>IDA学习</category>
-        <category>静态分析基础</category>
-        <category>动态分析技术基础</category>
         <category>恶意代码分析实战入门</category>
         <category>加壳</category>
         <category>脱壳</category>
@@ -121,12 +97,37 @@
         <category>我的GetProcAddress</category>
         <category>资源文件</category>
         <category>消息断点</category>
+        <category>PE课后作业</category>
         <category>通用控件</category>
         <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>扩大节</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
         <category>CobaltStrike</category>
+        <category>RedTeam</category>
         <category>Apeache</category>
-        <category>Nmap</category>
         <category>php</category>
+        <category>Nmap</category>
         <category>guestbook</category>
         <category>SQLmap</category>
         <category>apache</category>
@@ -138,22 +139,7 @@
         <category>xss</category>
         <category>webshell流量特征</category>
         <category>虚拟网卡</category>
-        <category>RedTeam</category>
-        <category>python</category>
-        <category>SSH</category>
-        <category>python文件读取</category>
-        <category>数据分析</category>
-        <category>socket</category>
-        <category>数据库编程</category>
-        <category>python内置属性</category>
-        <category>scrapy</category>
-        <category>测试</category>
-        <category>BHP</category>
-        <category>Python的import功能</category>
-        <category>木马</category>
         <category>button</category>
-        <category>multiprocessing</category>
-        <category>threading</category>
         <category>单选框</category>
         <category>复选框件</category>
         <category>Edit</category>
@@ -174,6 +160,20 @@
         <category>MFC的三大类消息</category>
         <category>数据传输</category>
         <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
         <category>非可变序列算法</category>
         <category>可变序列算法</category>
         <category>排序算法</category>
@@ -209,15 +209,15 @@
         <category>VAD树</category>
         <category>_MMVAD</category>
         <category>_MMVAD_FLAGS</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
         <category>VirtualAlloc</category>
         <category>MEM_COMMIT与MEM_RESERVE</category>
         <category>malloc</category>
         <category>堆内存</category>
         <category>栈内存</category>
         <category>全局区内存</category>
-        <category>共享物理页</category>
-        <category>共享文件</category>
-        <category>LoadLibrary的本质</category>
         <category>MmAddPhysicalMemoryEx</category>
         <category>缺页异常</category>
         <category>消息队列</category>
@@ -245,13 +245,13 @@
         <category>PTE</category>
         <category>XD标志位</category>
         <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
-        <category>PWT</category>
-        <category>PDT</category>
         <category>TLB</category>
-        <category>CPU缓存</category>
         <category>INVLPG指令</category>
         <category>全局页</category>
         <category>ShadowWalker</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>CPU缓存</category>
         <category>中断</category>
         <category>异常</category>
         <category>CLI指令</category>
@@ -270,24 +270,24 @@
         <category>CR0</category>
         <category>CR2</category>
         <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
         <category>段寄存器结构</category>
         <category>段描述符</category>
         <category>段选择子</category>
         <category>GDT表</category>
-        <category>CRL</category>
-        <category>DPL</category>
-        <category>RPL</category>
         <category>调用门</category>
         <category>调用门描述符</category>
         <category>逆向分析MmIsAddressValid函数</category>
-        <category>CALL与CALL FAR</category>
         <category>error C2143</category>
         <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
         <category>陷阱门描述符</category>
+        <category>10-10-12分页</category>
         <category>页目录表基址</category>
         <category>页表的基址</category>
         <category>0地址执行ShellCode</category>
-        <category>10-10-12分页</category>
         <category>PDE_PTE</category>
         <category>物理页</category>
         <category>SSDT HOOK</category>
@@ -308,13 +308,14 @@
         <category>二进制</category>
         <category>十六进制</category>
         <category>内存</category>
+        <category>x64</category>
         <category>编写ShellCode实现IAT HOOK</category>
         <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
         <category>加载图标</category>
         <category>提取图标</category>
         <category>资源表</category>
-        <category>傀儡进程加密壳</category>
-        <category>ZwUnmapViewOfSection函数</category>
         <category>HTML</category>
         <category>文件包含</category>
         <category>sql注入</category>
@@ -334,6 +335,9 @@
         <category>经典定长指令</category>
         <category>经典变长指令</category>
         <category>指令前缀</category>
+        <category>串口</category>
+        <category>过滤</category>
+        <category>键盘过滤</category>
         <category>KAPC</category>
         <category>QueueUserAPC</category>
         <category>NtQueueApcThread</category>
@@ -366,14 +370,29 @@
         <category>APC</category>
         <category>逆向分析NtReadVirtualMemory</category>
         <category>逆向分析NtWriteVIrtualMemory</category>
-        <category>payload</category>
         <category>AD-Attack-Defense</category>
+        <category>payload</category>
         <category>sysenter指令</category>
         <category>KiFastCallEntry函数</category>
         <category>KiSystemService函数</category>
         <category>Trap_Frame</category>
         <category>web安全</category>
         <category>Pentest</category>
+        <category>磁盘虚拟</category>
+        <category>PDO</category>
+        <category>Windows中从击键到内核的过程</category>
+        <category>KEYBOARD_INPUT_DATA结构</category>
+        <category>IRP完成回调函数</category>
+        <category>DriverEntry函数的定义</category>
+        <category>WDF_DRIVER_CONFIG结构</category>
+        <category>EvtDriverDeviceAdd函数</category>
+        <category>FAT12/16磁盘卷</category>
+        <category>磁盘的过滤</category>
+        <category>具有还原功能的磁盘卷过滤驱动</category>
+        <category>文件系统</category>
+        <category>Minifilter</category>
+        <category>boot驱动</category>
+        <category>bitmap</category>
         <item>
             <guid isPermalink="true">https://or0kit.github.io/Bin/WindowsPE/%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E7%A9%BA%E7%99%BD%E5%8C%BA%E6%B7%BB%E5%8A%A0%E4%BB%A3%E7%A0%81/</guid>
             <title>任意代码空白区添加代码</title>

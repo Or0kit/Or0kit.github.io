@@ -3,10 +3,10 @@
     <id>https://Or0kit.github.io</id>
     <title>Or0kit • Posts by &#34;远控界面编写&#34; tag</title>
     <link href="https://Or0kit.github.io" />
-    <updated>2022-04-04T14:59:21.000Z</updated>
+    <updated>2022-09-04T14:59:21.000Z</updated>
     <category term="Algolia" />
-    <category term="同义词替换" />
     <category term="Drozer" />
+    <category term="同义词替换" />
     <category term="xpath" />
     <category term="win32api" />
     <category term="WOW64" />
@@ -16,8 +16,8 @@
     <category term="First blog" />
     <category term="markdown 学习" />
     <category term="Android" />
-    <category term="数论基础" />
     <category term="替换密钥" />
+    <category term="数论基础" />
     <category term="ADB" />
     <category term="雷电模拟器" />
     <category term="Hadoop" />
@@ -26,41 +26,17 @@
     <category term="SSH隧道" />
     <category term="url" />
     <category term="http" />
-    <category term="Linux" />
+    <category term="应急响应" />
     <category term="Nginx" />
+    <category term="Linux" />
     <category term="CentOS7配置vsftp" />
     <category term="Psad" />
     <category term="fwsnort" />
-    <category term="应急响应" />
     <category term="x86汇编指令" />
-    <category term="PE课后作业" />
-    <category term="MFC" />
-    <category term="PE查看器" />
-    <category term="PE结构" />
-    <category term="DOS头属性说明" />
-    <category term="标准PE头属性说明" />
-    <category term="扩展PE头属性说明" />
-    <category term="节表属性说明" />
-    <category term="空白区添加代码" />
-    <category term="RVA与FOA" />
-    <category term="合并节" />
-    <category term="注入" />
-    <category term="导入表注入" />
-    <category term="导出表" />
-    <category term="导入表" />
-    <category term="扩大节" />
-    <category term="新增节" />
-    <category term="移动NT头" />
-    <category term="移动导出表" />
-    <category term="移动重定位表" />
-    <category term="重定位表" />
-    <category term="静态链接库" />
-    <category term="动态链接库" />
-    <category term="句柄" />
+    <category term="动态分析技术基础" />
+    <category term="静态分析基础" />
     <category term="逆向" />
     <category term="IDA学习" />
-    <category term="静态分析基础" />
-    <category term="动态分析技术基础" />
     <category term="恶意代码分析实战入门" />
     <category term="加壳" />
     <category term="脱壳" />
@@ -118,12 +94,37 @@
     <category term="我的GetProcAddress" />
     <category term="资源文件" />
     <category term="消息断点" />
+    <category term="PE课后作业" />
     <category term="通用控件" />
     <category term="WM_NOTIFY消息类型" />
+    <category term="MFC" />
+    <category term="PE查看器" />
+    <category term="RVA与FOA" />
+    <category term="PE结构" />
+    <category term="DOS头属性说明" />
+    <category term="标准PE头属性说明" />
+    <category term="扩展PE头属性说明" />
+    <category term="节表属性说明" />
+    <category term="空白区添加代码" />
+    <category term="合并节" />
+    <category term="导入表" />
+    <category term="注入" />
+    <category term="导入表注入" />
+    <category term="导出表" />
+    <category term="扩大节" />
+    <category term="新增节" />
+    <category term="移动NT头" />
+    <category term="移动导出表" />
+    <category term="移动重定位表" />
+    <category term="重定位表" />
+    <category term="静态链接库" />
+    <category term="动态链接库" />
+    <category term="句柄" />
     <category term="CobaltStrike" />
+    <category term="RedTeam" />
     <category term="Apeache" />
-    <category term="Nmap" />
     <category term="php" />
+    <category term="Nmap" />
     <category term="guestbook" />
     <category term="SQLmap" />
     <category term="apache" />
@@ -135,22 +136,7 @@
     <category term="xss" />
     <category term="webshell流量特征" />
     <category term="虚拟网卡" />
-    <category term="RedTeam" />
-    <category term="python" />
-    <category term="SSH" />
-    <category term="python文件读取" />
-    <category term="数据分析" />
-    <category term="socket" />
-    <category term="数据库编程" />
-    <category term="python内置属性" />
-    <category term="scrapy" />
-    <category term="测试" />
-    <category term="BHP" />
-    <category term="Python的import功能" />
-    <category term="木马" />
     <category term="button" />
-    <category term="multiprocessing" />
-    <category term="threading" />
     <category term="单选框" />
     <category term="复选框件" />
     <category term="Edit" />
@@ -171,6 +157,20 @@
     <category term="MFC的三大类消息" />
     <category term="数据传输" />
     <category term="ini文件的读写" />
+    <category term="python" />
+    <category term="SSH" />
+    <category term="python文件读取" />
+    <category term="数据分析" />
+    <category term="socket" />
+    <category term="数据库编程" />
+    <category term="python内置属性" />
+    <category term="multiprocessing" />
+    <category term="threading" />
+    <category term="scrapy" />
+    <category term="测试" />
+    <category term="BHP" />
+    <category term="Python的import功能" />
+    <category term="木马" />
     <category term="非可变序列算法" />
     <category term="可变序列算法" />
     <category term="排序算法" />
@@ -206,15 +206,15 @@
     <category term="VAD树" />
     <category term="_MMVAD" />
     <category term="_MMVAD_FLAGS" />
+    <category term="共享物理页" />
+    <category term="共享文件" />
+    <category term="LoadLibrary的本质" />
     <category term="VirtualAlloc" />
     <category term="MEM_COMMIT与MEM_RESERVE" />
     <category term="malloc" />
     <category term="堆内存" />
     <category term="栈内存" />
     <category term="全局区内存" />
-    <category term="共享物理页" />
-    <category term="共享文件" />
-    <category term="LoadLibrary的本质" />
     <category term="MmAddPhysicalMemoryEx" />
     <category term="缺页异常" />
     <category term="消息队列" />
@@ -242,13 +242,13 @@
     <category term="PTE" />
     <category term="XD标志位" />
     <category term="逆向分析MmIsAddressValid函数(2-9-9-12)" />
-    <category term="PWT" />
-    <category term="PDT" />
     <category term="TLB" />
-    <category term="CPU缓存" />
     <category term="INVLPG指令" />
     <category term="全局页" />
     <category term="ShadowWalker" />
+    <category term="PWT" />
+    <category term="PDT" />
+    <category term="CPU缓存" />
     <category term="中断" />
     <category term="异常" />
     <category term="CLI指令" />
@@ -267,24 +267,24 @@
     <category term="CR0" />
     <category term="CR2" />
     <category term="CR4" />
+    <category term="CRL" />
+    <category term="DPL" />
+    <category term="RPL" />
     <category term="段寄存器结构" />
     <category term="段描述符" />
     <category term="段选择子" />
     <category term="GDT表" />
-    <category term="CRL" />
-    <category term="DPL" />
-    <category term="RPL" />
     <category term="调用门" />
     <category term="调用门描述符" />
     <category term="逆向分析MmIsAddressValid函数" />
-    <category term="CALL与CALL FAR" />
     <category term="error C2143" />
     <category term="error C2275" />
+    <category term="CALL与CALL FAR" />
     <category term="陷阱门描述符" />
+    <category term="10-10-12分页" />
     <category term="页目录表基址" />
     <category term="页表的基址" />
     <category term="0地址执行ShellCode" />
-    <category term="10-10-12分页" />
     <category term="PDE_PTE" />
     <category term="物理页" />
     <category term="SSDT HOOK" />
@@ -305,13 +305,14 @@
     <category term="二进制" />
     <category term="十六进制" />
     <category term="内存" />
+    <category term="x64" />
     <category term="编写ShellCode实现IAT HOOK" />
     <category term="ShellCode原则" />
+    <category term="傀儡进程加密壳" />
+    <category term="ZwUnmapViewOfSection函数" />
     <category term="加载图标" />
     <category term="提取图标" />
     <category term="资源表" />
-    <category term="傀儡进程加密壳" />
-    <category term="ZwUnmapViewOfSection函数" />
     <category term="HTML" />
     <category term="文件包含" />
     <category term="sql注入" />
@@ -331,6 +332,9 @@
     <category term="经典定长指令" />
     <category term="经典变长指令" />
     <category term="指令前缀" />
+    <category term="串口" />
+    <category term="过滤" />
+    <category term="键盘过滤" />
     <category term="KAPC" />
     <category term="QueueUserAPC" />
     <category term="NtQueueApcThread" />
@@ -363,22 +367,37 @@
     <category term="APC" />
     <category term="逆向分析NtReadVirtualMemory" />
     <category term="逆向分析NtWriteVIrtualMemory" />
-    <category term="payload" />
     <category term="AD-Attack-Defense" />
+    <category term="payload" />
     <category term="sysenter指令" />
     <category term="KiFastCallEntry函数" />
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
     <category term="Pentest" />
+    <category term="磁盘虚拟" />
+    <category term="PDO" />
+    <category term="Windows中从击键到内核的过程" />
+    <category term="KEYBOARD_INPUT_DATA结构" />
+    <category term="IRP完成回调函数" />
+    <category term="DriverEntry函数的定义" />
+    <category term="WDF_DRIVER_CONFIG结构" />
+    <category term="EvtDriverDeviceAdd函数" />
+    <category term="FAT12/16磁盘卷" />
+    <category term="磁盘的过滤" />
+    <category term="具有还原功能的磁盘卷过滤驱动" />
+    <category term="文件系统" />
+    <category term="Minifilter" />
+    <category term="boot驱动" />
+    <category term="bitmap" />
     <entry>
         <id>https://or0kit.github.io/Programming/MFC/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E8%BF%9C%E6%8E%A7-01%E7%95%8C%E9%9D%A2%E7%BC%96%E5%86%99%E5%92%8C%E8%AE%BE%E8%AE%A1/</id>
         <title>从零开始写远控-01界面编写和设计</title>
         <link rel="alternate" href="https://or0kit.github.io/Programming/MFC/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E8%BF%9C%E6%8E%A7-01%E7%95%8C%E9%9D%A2%E7%BC%96%E5%86%99%E5%92%8C%E8%AE%BE%E8%AE%A1/"/>
         <content type="html">&lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
 &lt;p&gt;早就想学习如何编写远控了。&lt;br /&gt;
-前几天网上冲浪看到了一篇博客，其博主看教程是 11 年的了（11 年了）的网名为老狼的前辈的教程，于是我也在网上找了一下教程，虽然已经有些年头了，不过这并不影响我们学习大规模软件开发的设计思想。&lt;/p&gt;
-&lt;p&gt;注：&lt;strong&gt;因为目前本人水平有限，有些内容会搬运教程中的教案，如若侵权，请留言，本人即刻删除。&lt;/strong&gt;&lt;/p&gt;
+前几天网上冲浪看到了一篇博客，其博主看教程是 11 年（11 年了）的网名为老狼的前辈的教程，于是我也在网上找了一下这个教程，虽然已经有些年头了，不过这并不影响我们学习大规模软件开发的设计思想。&lt;/p&gt;
+&lt;p&gt;注：&lt;strong&gt;因为目前本人水平有限，有些内容会搬运教程中的教案，如有侵犯，即刻删除。&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;正文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正文&#34;&gt;#&lt;/a&gt; 正文&lt;/h1&gt;
 &lt;p&gt;创建一个基于对话框的 MFC 项目。&lt;/p&gt;
 &lt;p&gt;首先设计主控端的界面。&lt;/p&gt;
@@ -445,9 +464,8 @@
 &lt;/ol&gt;
 &lt;p&gt;我们来考虑一下以后的扩展问题，假如我们要加入新的列那会不会很麻烦，我们每一个列都写入了固定的顺序 (0--6) 没有考虑扩展，比如在 CPU 列的后面加入显示内存大小，那么加入的就是第 5 列，而第 5 列恰好是摄头，这样如果更改的话，就会很麻烦。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解决这个问题的方式就是用枚举 enum 写入列的顺序时不写入硬编码 (0----6) 而是写入枚举成员这样我们只需很小的改动就能达到目的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;很多知识都是这个样，学习到的知识只有到实践中才体会到用处很大，枚举变量就是一个例子，我开始学习时感觉这个一点用处都没有，但在实践中感觉用&lt;br /&gt;
-枚举解决问题更简单。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这里算是学到了一个新的用法！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;很多知识都是这个样，学习到的知识只有到实践中才体会到用处很大，枚举变量就是一个例子，我刚开始学习时并不知道这个有什么用，实践中才发现用&lt;br /&gt;
+枚举解决问题更简单，更高效。&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;因为这个列表比较重要所以要放到一个每一个文件都能访问到的文件很自然的就是 stdafx.h（在如今的 VS2019 中，我把他们放到了 pch.h）&lt;/li&gt;
 &lt;/ol&gt;
@@ -760,6 +778,6 @@ ID:  IDB_BITMAP_MAIN&lt;/li&gt;
 &lt;p&gt;至此界面框架编写完毕。&lt;/p&gt;
 </content>
         <category term="远控界面编写" />
-        <updated>2022-04-04T14:59:21.000Z</updated>
+        <updated>2022-09-04T14:59:21.000Z</updated>
     </entry>
 </feed>
