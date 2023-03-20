@@ -377,7 +377,6 @@
         <category>KiSystemService函数</category>
         <category>Trap_Frame</category>
         <category>web安全</category>
-        <category>Pentest</category>
         <category>磁盘虚拟</category>
         <category>PDO</category>
         <category>Windows中从击键到内核的过程</category>
@@ -393,6 +392,19 @@
         <category>Minifilter</category>
         <category>boot驱动</category>
         <category>bitmap</category>
+        <category>_KUSER_SHARED_DATA</category>
+        <category>哈希表</category>
+        <category>Sfilter</category>
+        <category>Windows网络编程</category>
+        <category>协议层次和服务模型</category>
+        <category>IP地址</category>
+        <category>端口号</category>
+        <category>DNS</category>
+        <category>网络地址转换NAT</category>
+        <category>分布式网络应用程序</category>
+        <category>客户/服务器模型</category>
+        <category>浏览器/服务器模型</category>
+        <category>P2P模型</category>
         <item>
             <guid isPermalink="true">https://or0kit.github.io/Bin/Core/WindowsXp/HadleTable/%E5%8F%A5%E6%9F%84%E8%A1%A8/</guid>
             <title>句柄表</title>
@@ -428,7 +440,7 @@
 &lt;li&gt;句柄就是索引&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;句柄表在哪&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#句柄表在哪&#34;&gt;#&lt;/a&gt; 句柄表在哪&lt;/h3&gt;
-&lt;p&gt;在当前进程的 EPROCESS 结构体的 0xc4 的位置&lt;/p&gt;
+&lt;p&gt;在当前进程的 &lt;code&gt;EPROCESS&lt;/code&gt;  结构体的 0xc4 的位置&lt;/p&gt;
 &lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; dt _EPROCESS						&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x0c4 ObjectTable      : _HANDLE_TABLE		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;...&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;kd&amp;gt; dt _HANDLE_TABLE &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nt!_HANDLE_TABLE				&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x000 TableCode  &amp;#x2F;&amp;#x2F;   句柄表&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x004 QuotaProcess&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x008 UniqueProcessId&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x00c HandleTableLock&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   +0x01c HandleTableList		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ...&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;下面详细介绍句柄表的结构。&lt;/p&gt;
 &lt;h3 id=&#34;句柄表的结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#句柄表的结构&#34;&gt;#&lt;/a&gt; 句柄表的结构&lt;/h3&gt;
 &lt;p&gt;句柄表是一个多层结构。&lt;br /&gt;

@@ -81,7 +81,8 @@
                 "分析ReadProcessMemory",
                 "KiFastSystemCall",
                 "KiIntSystemCall",
-                "重写3环"
+                "重写3环",
+                "_KUSER_SHARED_DATA"
             ]
         }
     ]

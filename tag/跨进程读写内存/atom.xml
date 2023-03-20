@@ -374,7 +374,6 @@
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
-    <category term="Pentest" />
     <category term="磁盘虚拟" />
     <category term="PDO" />
     <category term="Windows中从击键到内核的过程" />
@@ -390,6 +389,19 @@
     <category term="Minifilter" />
     <category term="boot驱动" />
     <category term="bitmap" />
+    <category term="_KUSER_SHARED_DATA" />
+    <category term="哈希表" />
+    <category term="Sfilter" />
+    <category term="Windows网络编程" />
+    <category term="协议层次和服务模型" />
+    <category term="IP地址" />
+    <category term="端口号" />
+    <category term="DNS" />
+    <category term="网络地址转换NAT" />
+    <category term="分布式网络应用程序" />
+    <category term="客户/服务器模型" />
+    <category term="浏览器/服务器模型" />
+    <category term="P2P模型" />
     <entry>
         <id>https://or0kit.github.io/Bin/Core/WindowsXp/Process-Thread/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B-%E8%BF%9B%E7%A8%8B%E6%8C%82%E9%9D%A0%E5%92%8C%E8%B7%A8%E8%BF%9B%E7%A8%8B%E8%AF%BB%E5%86%99%E5%86%85%E5%AD%98/</id>
         <title>进程与线程-进程挂靠和跨进程读写内存</title>
@@ -431,13 +443,7 @@
 &lt;h2 id=&#34;修改cr3的值&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改cr3的值&#34;&gt;#&lt;/a&gt; 修改 Cr3 的值&lt;/h2&gt;
 &lt;p&gt;正常情况下，Cr3 的值是由养父母提供的，但 Cr3 的值也可以改成和当前线程毫不相干的其他进程的 DirectoryTableBase。&lt;/p&gt;
 &lt;p&gt;线程代码：&lt;/p&gt;
-&lt;p&gt;mov cr3,A.DirectoryTableBase&lt;br /&gt;
-mov eax,dword ptr ds:[0x12345678]		//A 进程的 0x12345678 内存&lt;br /&gt;
- mov cr3,B.DirectoryTableBase&lt;br /&gt;
-mov eax,dword ptr ds:[0x12345678]		//B 进程的 0x12345678 内存&lt;br /&gt;
- mov cr3,C.DirectoryTableBase&lt;br /&gt;
-mov eax,dword ptr ds:[0x12345678]		//C 进程的 0x12345678 内存&lt;/p&gt;
-&lt;p&gt;将当前 Cr3 的值改为其他进程，称为 “进程挂靠”。&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov cr3,A.DirectoryTableBase&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov eax,dword ptr ds:[0x12345678]		&amp;#x2F;&amp;#x2F;A 进程的 0x12345678 内存&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov cr3,B.DirectoryTableBase&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov eax,dword ptr ds:[0x12345678]		&amp;#x2F;&amp;#x2F;B 进程的 0x12345678 内存&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov cr3,C.DirectoryTableBase&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mov eax,dword ptr ds:[0x12345678]		&amp;#x2F;&amp;#x2F;C 进程的 0x12345678 内存&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;将当前 Cr3 的值改为其他进程，称为 “进程挂靠”。&lt;/p&gt;
 &lt;p&gt;那可不可以只修改 Cr3 而不修改养父母？不可以，如果不修改养父母的值，一旦产生线程切换，就会变成自己读自己！&lt;/p&gt;
 &lt;p&gt;如果我们自己来写这个代码，在切换 Cr3 后关闭中断，并且不调用会导致线程切换的 API，就可以不用修改养父母的值。&lt;/p&gt;
 &lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;

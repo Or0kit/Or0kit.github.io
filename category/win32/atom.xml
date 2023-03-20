@@ -374,7 +374,6 @@
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
-    <category term="Pentest" />
     <category term="磁盘虚拟" />
     <category term="PDO" />
     <category term="Windows中从击键到内核的过程" />
@@ -390,6 +389,19 @@
     <category term="Minifilter" />
     <category term="boot驱动" />
     <category term="bitmap" />
+    <category term="_KUSER_SHARED_DATA" />
+    <category term="哈希表" />
+    <category term="Sfilter" />
+    <category term="Windows网络编程" />
+    <category term="协议层次和服务模型" />
+    <category term="IP地址" />
+    <category term="端口号" />
+    <category term="DNS" />
+    <category term="网络地址转换NAT" />
+    <category term="分布式网络应用程序" />
+    <category term="客户/服务器模型" />
+    <category term="浏览器/服务器模型" />
+    <category term="P2P模型" />
     <entry>
         <id>https://or0kit.github.io/Bin/Win32/Win32%E9%A1%B9%E7%9B%AE-%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E7%9B%91%E6%8E%A7%E5%99%A8/</id>
         <title>Win32项目-函数调用监控器</title>
@@ -496,7 +508,8 @@
 &lt;/ol&gt;
 &lt;p&gt;这是《黑客免杀攻防》一书中编写的一个简单的 C++ 壳的加壳思路，对于被加壳文件来说改变了其 OEP 的位置，使其指向了新增的区段中的 Stub 代码，由 Stub 进行一些列的解密操作，然后再执行原程序的 OEP。&lt;/p&gt;
 &lt;p&gt;其中编写用编写 dll 的方式生成 Stub 部分，并且完全控制它的&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL09yMGtpdC9PcjBwYWNrQmFzZQ==&#34;&gt;https://github.com/Or0kit/Or0packBase&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;结果&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结果&#34;&gt;#&lt;/a&gt; 结果&lt;/h1&gt;
+&lt;p&gt;一一实现以上功能。代码放在 github 了：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL09yMGtpdC9PcjBwYWNrQmFzZQ==&#34;&gt;https://github.com/Or0kit/Or0packBase&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="加壳" />
         <category term="脱壳" />

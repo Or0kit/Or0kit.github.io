@@ -5,8 +5,8 @@
         <link>https://Or0kit.github.io</link>
         <description>临渊羡鱼，不如退而结网</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 04 Sep 2022 22:59:21 +0800</pubDate>
-        <lastBuildDate>Sun, 04 Sep 2022 22:59:21 +0800</lastBuildDate>
+        <pubDate>Wed, 15 Jun 2022 22:59:21 +0800</pubDate>
+        <lastBuildDate>Wed, 15 Jun 2022 22:59:21 +0800</lastBuildDate>
         <category>Algolia</category>
         <category>Drozer</category>
         <category>同义词替换</category>
@@ -377,7 +377,6 @@
         <category>KiSystemService函数</category>
         <category>Trap_Frame</category>
         <category>web安全</category>
-        <category>Pentest</category>
         <category>磁盘虚拟</category>
         <category>PDO</category>
         <category>Windows中从击键到内核的过程</category>
@@ -393,12 +392,25 @@
         <category>Minifilter</category>
         <category>boot驱动</category>
         <category>bitmap</category>
+        <category>_KUSER_SHARED_DATA</category>
+        <category>哈希表</category>
+        <category>Sfilter</category>
+        <category>Windows网络编程</category>
+        <category>协议层次和服务模型</category>
+        <category>IP地址</category>
+        <category>端口号</category>
+        <category>DNS</category>
+        <category>网络地址转换NAT</category>
+        <category>分布式网络应用程序</category>
+        <category>客户/服务器模型</category>
+        <category>浏览器/服务器模型</category>
+        <category>P2P模型</category>
         <item>
             <guid isPermalink="true">https://or0kit.github.io/Programming/MFC/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E8%BF%9C%E6%8E%A7-01%E7%95%8C%E9%9D%A2%E7%BC%96%E5%86%99%E5%92%8C%E8%AE%BE%E8%AE%A1/</guid>
             <title>从零开始写远控-01界面编写和设计</title>
             <link>https://or0kit.github.io/Programming/MFC/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E8%BF%9C%E6%8E%A7-01%E7%95%8C%E9%9D%A2%E7%BC%96%E5%86%99%E5%92%8C%E8%AE%BE%E8%AE%A1/</link>
             <category>远控界面编写</category>
-            <pubDate>Sun, 04 Sep 2022 22:59:21 +0800</pubDate>
+            <pubDate>Wed, 15 Jun 2022 22:59:21 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
 &lt;p&gt;早就想学习如何编写远控了。&lt;br /&gt;
 前几天网上冲浪看到了一篇博客，其博主看教程是 11 年（11 年了）的网名为老狼的前辈的教程，于是我也在网上找了一下这个教程，虽然已经有些年头了，不过这并不影响我们学习大规模软件开发的设计思想。&lt;/p&gt;

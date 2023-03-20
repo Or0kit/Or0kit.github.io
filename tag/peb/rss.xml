@@ -377,7 +377,6 @@
         <category>KiSystemService函数</category>
         <category>Trap_Frame</category>
         <category>web安全</category>
-        <category>Pentest</category>
         <category>磁盘虚拟</category>
         <category>PDO</category>
         <category>Windows中从击键到内核的过程</category>
@@ -393,6 +392,19 @@
         <category>Minifilter</category>
         <category>boot驱动</category>
         <category>bitmap</category>
+        <category>_KUSER_SHARED_DATA</category>
+        <category>哈希表</category>
+        <category>Sfilter</category>
+        <category>Windows网络编程</category>
+        <category>协议层次和服务模型</category>
+        <category>IP地址</category>
+        <category>端口号</category>
+        <category>DNS</category>
+        <category>网络地址转换NAT</category>
+        <category>分布式网络应用程序</category>
+        <category>客户/服务器模型</category>
+        <category>浏览器/服务器模型</category>
+        <category>P2P模型</category>
         <item>
             <guid isPermalink="true">https://or0kit.github.io/Bin/Win32/WinDLL%E6%B3%A8%E5%85%A5%E4%B9%8B%E6%A8%A1%E5%9D%97%E9%9A%90%E8%97%8F/</guid>
             <title>WinDLL注入之模块隐藏</title>

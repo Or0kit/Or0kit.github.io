@@ -374,7 +374,6 @@
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
-    <category term="Pentest" />
     <category term="磁盘虚拟" />
     <category term="PDO" />
     <category term="Windows中从击键到内核的过程" />
@@ -390,6 +389,19 @@
     <category term="Minifilter" />
     <category term="boot驱动" />
     <category term="bitmap" />
+    <category term="_KUSER_SHARED_DATA" />
+    <category term="哈希表" />
+    <category term="Sfilter" />
+    <category term="Windows网络编程" />
+    <category term="协议层次和服务模型" />
+    <category term="IP地址" />
+    <category term="端口号" />
+    <category term="DNS" />
+    <category term="网络地址转换NAT" />
+    <category term="分布式网络应用程序" />
+    <category term="客户/服务器模型" />
+    <category term="浏览器/服务器模型" />
+    <category term="P2P模型" />
     <entry>
         <id>https://or0kit.github.io/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/</id>
         <title>中华人民共和国网络安全法</title>

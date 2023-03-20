@@ -374,7 +374,6 @@
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
-    <category term="Pentest" />
     <category term="磁盘虚拟" />
     <category term="PDO" />
     <category term="Windows中从击键到内核的过程" />
@@ -390,6 +389,19 @@
     <category term="Minifilter" />
     <category term="boot驱动" />
     <category term="bitmap" />
+    <category term="_KUSER_SHARED_DATA" />
+    <category term="哈希表" />
+    <category term="Sfilter" />
+    <category term="Windows网络编程" />
+    <category term="协议层次和服务模型" />
+    <category term="IP地址" />
+    <category term="端口号" />
+    <category term="DNS" />
+    <category term="网络地址转换NAT" />
+    <category term="分布式网络应用程序" />
+    <category term="客户/服务器模型" />
+    <category term="浏览器/服务器模型" />
+    <category term="P2P模型" />
     <entry>
         <id>https://or0kit.github.io/Bin/WindowsPE/PE%E9%A1%B9%E7%9B%AE-%E7%BC%96%E5%86%99PE%E6%9F%A5%E7%9C%8B%E5%99%A8/</id>
         <title>PE项目-编写PE查看器</title>

@@ -3,7 +3,7 @@
     <id>https://Or0kit.github.io</id>
     <title>Or0kit • Posts by &#34;远控界面编写&#34; tag</title>
     <link href="https://Or0kit.github.io" />
-    <updated>2022-09-04T14:59:21.000Z</updated>
+    <updated>2022-06-15T14:59:21.000Z</updated>
     <category term="Algolia" />
     <category term="Drozer" />
     <category term="同义词替换" />
@@ -374,7 +374,6 @@
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
-    <category term="Pentest" />
     <category term="磁盘虚拟" />
     <category term="PDO" />
     <category term="Windows中从击键到内核的过程" />
@@ -390,6 +389,19 @@
     <category term="Minifilter" />
     <category term="boot驱动" />
     <category term="bitmap" />
+    <category term="_KUSER_SHARED_DATA" />
+    <category term="哈希表" />
+    <category term="Sfilter" />
+    <category term="Windows网络编程" />
+    <category term="协议层次和服务模型" />
+    <category term="IP地址" />
+    <category term="端口号" />
+    <category term="DNS" />
+    <category term="网络地址转换NAT" />
+    <category term="分布式网络应用程序" />
+    <category term="客户/服务器模型" />
+    <category term="浏览器/服务器模型" />
+    <category term="P2P模型" />
     <entry>
         <id>https://or0kit.github.io/Programming/MFC/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E8%BF%9C%E6%8E%A7-01%E7%95%8C%E9%9D%A2%E7%BC%96%E5%86%99%E5%92%8C%E8%AE%BE%E8%AE%A1/</id>
         <title>从零开始写远控-01界面编写和设计</title>
@@ -778,6 +790,6 @@ ID:  IDB_BITMAP_MAIN&lt;/li&gt;
 &lt;p&gt;至此界面框架编写完毕。&lt;/p&gt;
 </content>
         <category term="远控界面编写" />
-        <updated>2022-09-04T14:59:21.000Z</updated>
+        <updated>2022-06-15T14:59:21.000Z</updated>
     </entry>
 </feed>

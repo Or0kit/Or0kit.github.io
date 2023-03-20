@@ -1,0 +1,994 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Or0kit • Posts by &#34;p2p模型&#34; tag</title>
+        <link>https://Or0kit.github.io</link>
+        <description>临渊羡鱼，不如退而结网</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 20 Mar 2023 21:14:52 +0800</pubDate>
+        <lastBuildDate>Mon, 20 Mar 2023 21:14:52 +0800</lastBuildDate>
+        <category>Algolia</category>
+        <category>Drozer</category>
+        <category>同义词替换</category>
+        <category>xpath</category>
+        <category>win32api</category>
+        <category>WOW64</category>
+        <category>windows消息机制</category>
+        <category>虚拟内存</category>
+        <category>jsDelivr</category>
+        <category>First blog</category>
+        <category>markdown 学习</category>
+        <category>Android</category>
+        <category>替换密钥</category>
+        <category>数论基础</category>
+        <category>ADB</category>
+        <category>雷电模拟器</category>
+        <category>Hadoop</category>
+        <category>IDA</category>
+        <category>Windows逆向</category>
+        <category>SSH隧道</category>
+        <category>url</category>
+        <category>http</category>
+        <category>应急响应</category>
+        <category>Nginx</category>
+        <category>Linux</category>
+        <category>CentOS7配置vsftp</category>
+        <category>Psad</category>
+        <category>fwsnort</category>
+        <category>x86汇编指令</category>
+        <category>动态分析技术基础</category>
+        <category>静态分析基础</category>
+        <category>逆向</category>
+        <category>IDA学习</category>
+        <category>恶意代码分析实战入门</category>
+        <category>加壳</category>
+        <category>脱壳</category>
+        <category>C++壳</category>
+        <category>ESP寻址</category>
+        <category>定位Win32窗口回调函数</category>
+        <category>HOOK攻防</category>
+        <category>瞬时HOOK过检测</category>
+        <category>INLINE-HOOK</category>
+        <category>IAT HOOK</category>
+        <category>INLINE HOOK</category>
+        <category>进程监控</category>
+        <category>模块隐藏</category>
+        <category>进程通信</category>
+        <category>tlhelp32.h</category>
+        <category>进程遍历</category>
+        <category>模块遍历</category>
+        <category>外挂原理</category>
+        <category>DLL注入之进程间通信</category>
+        <category>TEB</category>
+        <category>PEB</category>
+        <category>R3层断链</category>
+        <category>Win临界区</category>
+        <category>Win事件</category>
+        <category>线程同步</category>
+        <category>Win互斥体</category>
+        <category>内存映射文件</category>
+        <category>内存映射共享</category>
+        <category>写拷贝</category>
+        <category>Win子窗口控件</category>
+        <category>win32文件函数</category>
+        <category>代码注入</category>
+        <category>窗口程序</category>
+        <category>消息机制</category>
+        <category>消息类型</category>
+        <category>私有内存</category>
+        <category>共享内存</category>
+        <category>设备对象</category>
+        <category>DC设备上下文</category>
+        <category>图形对象</category>
+        <category>创建线程</category>
+        <category>线程控制</category>
+        <category>线程相关API</category>
+        <category>线程上下文</category>
+        <category>CONTEXT结构体</category>
+        <category>物理内存</category>
+        <category>Windows进程</category>
+        <category>句柄表</category>
+        <category>远程线程函数</category>
+        <category>远程线程</category>
+        <category>DLL注入</category>
+        <category>DLL注入相关函数</category>
+        <category>WinMain函数</category>
+        <category>调用约定</category>
+        <category>我的GetProcAddress</category>
+        <category>资源文件</category>
+        <category>消息断点</category>
+        <category>PE课后作业</category>
+        <category>通用控件</category>
+        <category>WM_NOTIFY消息类型</category>
+        <category>MFC</category>
+        <category>PE查看器</category>
+        <category>RVA与FOA</category>
+        <category>PE结构</category>
+        <category>DOS头属性说明</category>
+        <category>标准PE头属性说明</category>
+        <category>扩展PE头属性说明</category>
+        <category>节表属性说明</category>
+        <category>空白区添加代码</category>
+        <category>合并节</category>
+        <category>导入表</category>
+        <category>注入</category>
+        <category>导入表注入</category>
+        <category>导出表</category>
+        <category>扩大节</category>
+        <category>新增节</category>
+        <category>移动NT头</category>
+        <category>移动导出表</category>
+        <category>移动重定位表</category>
+        <category>重定位表</category>
+        <category>静态链接库</category>
+        <category>动态链接库</category>
+        <category>句柄</category>
+        <category>CobaltStrike</category>
+        <category>RedTeam</category>
+        <category>Apeache</category>
+        <category>php</category>
+        <category>Nmap</category>
+        <category>guestbook</category>
+        <category>SQLmap</category>
+        <category>apache</category>
+        <category>log</category>
+        <category>mysql主键</category>
+        <category>CSRF</category>
+        <category>SSRF</category>
+        <category>业务逻辑漏洞</category>
+        <category>xss</category>
+        <category>webshell流量特征</category>
+        <category>虚拟网卡</category>
+        <category>button</category>
+        <category>单选框</category>
+        <category>复选框件</category>
+        <category>Edit</category>
+        <category>Combo Box</category>
+        <category>Tab</category>
+        <category>ListCtrl</category>
+        <category>MFC的本质</category>
+        <category>MFC的层次结构图</category>
+        <category>手动创建一个MFC程序</category>
+        <category>MFC的初始化过程</category>
+        <category>MFC运行时类型识别</category>
+        <category>关键字static</category>
+        <category>关键字const</category>
+        <category>MFC动态创建</category>
+        <category>MFC消息映射</category>
+        <category>结构体AFX_MSGMAP_ENTRY</category>
+        <category>结构体AFX_MSGM</category>
+        <category>MFC的三大类消息</category>
+        <category>数据传输</category>
+        <category>ini文件的读写</category>
+        <category>python</category>
+        <category>SSH</category>
+        <category>python文件读取</category>
+        <category>数据分析</category>
+        <category>socket</category>
+        <category>数据库编程</category>
+        <category>python内置属性</category>
+        <category>multiprocessing</category>
+        <category>threading</category>
+        <category>scrapy</category>
+        <category>测试</category>
+        <category>BHP</category>
+        <category>Python的import功能</category>
+        <category>木马</category>
+        <category>非可变序列算法</category>
+        <category>可变序列算法</category>
+        <category>排序算法</category>
+        <category>迭代器</category>
+        <category>使用自定义对象</category>
+        <category>0环与3环的通信（常规方法）</category>
+        <category>内核空间</category>
+        <category>内核模块</category>
+        <category>遍历内核模块</category>
+        <category>定位未导出函数PspTiminateProcess</category>
+        <category>内核编程基础</category>
+        <category>ANSI_STRING</category>
+        <category>UNICODE_STRING</category>
+        <category>内核内存</category>
+        <category>上下文环境</category>
+        <category>中断请求级别</category>
+        <category>链表</category>
+        <category>自旋锁</category>
+        <category>注册表</category>
+        <category>地址空间</category>
+        <category>文件操作</category>
+        <category>线程与事件</category>
+        <category>内核重载</category>
+        <category>配置VS2019+WDK10</category>
+        <category>第一个驱动程序</category>
+        <category>驱动调试</category>
+        <category>调试驱动程序</category>
+        <category>OpenSCManager</category>
+        <category>CreateService</category>
+        <category>APC的本质</category>
+        <category>APC的备用队列</category>
+        <category>线性地址的管理</category>
+        <category>VAD树</category>
+        <category>_MMVAD</category>
+        <category>_MMVAD_FLAGS</category>
+        <category>共享物理页</category>
+        <category>共享文件</category>
+        <category>LoadLibrary的本质</category>
+        <category>VirtualAlloc</category>
+        <category>MEM_COMMIT与MEM_RESERVE</category>
+        <category>malloc</category>
+        <category>堆内存</category>
+        <category>栈内存</category>
+        <category>全局区内存</category>
+        <category>MmAddPhysicalMemoryEx</category>
+        <category>缺页异常</category>
+        <category>消息队列</category>
+        <category>PsConvertToGuiThread</category>
+        <category>win32k.sys</category>
+        <category>GUI线程</category>
+        <category>窗口程序的创建</category>
+        <category>消息循环</category>
+        <category>临界区</category>
+        <category>KPCR结构体</category>
+        <category>模拟线程切换</category>
+        <category>模拟挂起与恢复函数</category>
+        <category>等待链表</category>
+        <category>调度链表</category>
+        <category>ETHREAD</category>
+        <category>KTHREAD</category>
+        <category>进程的创建</category>
+        <category>获取当前进程</category>
+        <category>EPROCESS</category>
+        <category>KPROCESS</category>
+        <category>2-9-9-12分页</category>
+        <category>PAE</category>
+        <category>PDPTE</category>
+        <category>PDE</category>
+        <category>PTE</category>
+        <category>XD标志位</category>
+        <category>逆向分析MmIsAddressValid函数(2-9-9-12)</category>
+        <category>TLB</category>
+        <category>INVLPG指令</category>
+        <category>全局页</category>
+        <category>ShadowWalker</category>
+        <category>PWT</category>
+        <category>PDT</category>
+        <category>CPU缓存</category>
+        <category>中断</category>
+        <category>异常</category>
+        <category>CLI指令</category>
+        <category>STI指令</category>
+        <category>INT2</category>
+        <category>INT8</category>
+        <category>中断门描述符</category>
+        <category>IDT</category>
+        <category>提权</category>
+        <category>跨段跳转流程</category>
+        <category>JMP FAR指令</category>
+        <category>TSS</category>
+        <category>任务门</category>
+        <category>LDT段描述符</category>
+        <category>LDT</category>
+        <category>CR0</category>
+        <category>CR2</category>
+        <category>CR4</category>
+        <category>CRL</category>
+        <category>DPL</category>
+        <category>RPL</category>
+        <category>段寄存器结构</category>
+        <category>段描述符</category>
+        <category>段选择子</category>
+        <category>GDT表</category>
+        <category>调用门</category>
+        <category>调用门描述符</category>
+        <category>逆向分析MmIsAddressValid函数</category>
+        <category>error C2143</category>
+        <category>error C2275</category>
+        <category>CALL与CALL FAR</category>
+        <category>陷阱门描述符</category>
+        <category>10-10-12分页</category>
+        <category>页目录表基址</category>
+        <category>页表的基址</category>
+        <category>0地址执行ShellCode</category>
+        <category>PDE_PTE</category>
+        <category>物理页</category>
+        <category>SSDT HOOK</category>
+        <category>OpenProcess</category>
+        <category>系统服务表</category>
+        <category>SSDT</category>
+        <category>SSDT HOOK隐藏</category>
+        <category>API进出内核</category>
+        <category>系统调用阶段总结</category>
+        <category>网络安全法</category>
+        <category>ASCII</category>
+        <category>GBK</category>
+        <category>ANSI</category>
+        <category>Unicode</category>
+        <category>UTF-8</category>
+        <category>URL 编码/解码</category>
+        <category>十进制</category>
+        <category>二进制</category>
+        <category>十六进制</category>
+        <category>内存</category>
+        <category>x64</category>
+        <category>编写ShellCode实现IAT HOOK</category>
+        <category>ShellCode原则</category>
+        <category>傀儡进程加密壳</category>
+        <category>ZwUnmapViewOfSection函数</category>
+        <category>加载图标</category>
+        <category>提取图标</category>
+        <category>资源表</category>
+        <category>HTML</category>
+        <category>文件包含</category>
+        <category>sql注入</category>
+        <category>MFC命令传递</category>
+        <category>远控界面编写</category>
+        <category>STL</category>
+        <category>Vector容器</category>
+        <category>Deque容器</category>
+        <category>List容器</category>
+        <category>Set容器</category>
+        <category>Multiset容器</category>
+        <category>Map容器</category>
+        <category>Multimap容器</category>
+        <category>Stack容器</category>
+        <category>Queue容器</category>
+        <category>priority_queue容器</category>
+        <category>经典定长指令</category>
+        <category>经典变长指令</category>
+        <category>指令前缀</category>
+        <category>串口</category>
+        <category>过滤</category>
+        <category>键盘过滤</category>
+        <category>KAPC</category>
+        <category>QueueUserAPC</category>
+        <category>NtQueueApcThread</category>
+        <category>KeInitializeApc</category>
+        <category>KeInsertQueueApc</category>
+        <category>KiInsertQueueApc</category>
+        <category>进程句柄表</category>
+        <category>全局句柄表</category>
+        <category>消息队列与线程</category>
+        <category>Windows线程切换</category>
+        <category>KiSwapContext</category>
+        <category>SwapContext</category>
+        <category>时钟中断</category>
+        <category>时间片管理</category>
+        <category>线程切换与TSS</category>
+        <category>线程切换与FS</category>
+        <category>线程切换与线程优先级</category>
+        <category>快速调用</category>
+        <category>中断调用</category>
+        <category>分析ReadProcessMemory</category>
+        <category>KiFastSystemCall</category>
+        <category>KiIntSystemCall</category>
+        <category>重写3环</category>
+        <category>文件上传</category>
+        <category>隐藏驱动</category>
+        <category>IopLoadDriver</category>
+        <category>延迟过程调用</category>
+        <category>进程挂靠</category>
+        <category>跨进程读写内存</category>
+        <category>APC</category>
+        <category>逆向分析NtReadVirtualMemory</category>
+        <category>逆向分析NtWriteVIrtualMemory</category>
+        <category>AD-Attack-Defense</category>
+        <category>payload</category>
+        <category>sysenter指令</category>
+        <category>KiFastCallEntry函数</category>
+        <category>KiSystemService函数</category>
+        <category>Trap_Frame</category>
+        <category>web安全</category>
+        <category>磁盘虚拟</category>
+        <category>PDO</category>
+        <category>Windows中从击键到内核的过程</category>
+        <category>KEYBOARD_INPUT_DATA结构</category>
+        <category>IRP完成回调函数</category>
+        <category>DriverEntry函数的定义</category>
+        <category>WDF_DRIVER_CONFIG结构</category>
+        <category>EvtDriverDeviceAdd函数</category>
+        <category>FAT12/16磁盘卷</category>
+        <category>磁盘的过滤</category>
+        <category>具有还原功能的磁盘卷过滤驱动</category>
+        <category>文件系统</category>
+        <category>Minifilter</category>
+        <category>boot驱动</category>
+        <category>bitmap</category>
+        <category>_KUSER_SHARED_DATA</category>
+        <category>哈希表</category>
+        <category>Sfilter</category>
+        <category>Windows网络编程</category>
+        <category>协议层次和服务模型</category>
+        <category>IP地址</category>
+        <category>端口号</category>
+        <category>DNS</category>
+        <category>网络地址转换NAT</category>
+        <category>分布式网络应用程序</category>
+        <category>客户/服务器模型</category>
+        <category>浏览器/服务器模型</category>
+        <category>P2P模型</category>
+        <item>
+            <guid isPermalink="true">https://or0kit.github.io/Programming/NetworkProgramming/Windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%9401%E5%9B%9B%E4%B8%A4%E6%8B%A8%E5%8D%83%E6%96%A4/</guid>
+            <title>Windows网络编程——01四两拨千斤</title>
+            <link>https://or0kit.github.io/Programming/NetworkProgramming/Windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%9401%E5%9B%9B%E4%B8%A4%E6%8B%A8%E5%8D%83%E6%96%A4/</link>
+            <category>Windows网络编程</category>
+            <category>协议层次和服务模型</category>
+            <category>IP地址</category>
+            <category>端口号</category>
+            <category>DNS</category>
+            <category>网络地址转换NAT</category>
+            <category>分布式网络应用程序</category>
+            <category>客户/服务器模型</category>
+            <category>浏览器/服务器模型</category>
+            <category>P2P模型</category>
+            <pubDate>Mon, 20 Mar 2023 21:14:52 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;楔子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#楔子&#34;&gt;#&lt;/a&gt; 楔子&lt;/h1&gt;
+&lt;p&gt;准备系统的学习总结一下 Windows 网络编程，为了远控毕设，也为了后面学（NDIS）协议驱动打基础。&lt;/p&gt;
+&lt;p&gt;参考资料：《Windows 网络编程》&lt;/p&gt;
+&lt;p&gt;需要知道的概念比较多。&lt;/p&gt;
+&lt;h1 id=&#34;基础概念扫盲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础概念扫盲&#34;&gt;#&lt;/a&gt; 基础概念扫盲&lt;/h1&gt;
+&lt;p&gt;网上冲浪看到的，可以更好地理解网络应用程序开发。&lt;/p&gt;
+&lt;h2 id=&#34;为什么需要计算机网络&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么需要计算机网络&#34;&gt;#&lt;/a&gt; 为什么需要计算机网络&lt;/h2&gt;
+&lt;p&gt;如下图所示，A、B、C 三个不同地域的主机要想进行通信不是凭空就可以通信的，而是需要基于互联网进行互相连接、通信。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image001.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;为什么需要协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么需要协议&#34;&gt;#&lt;/a&gt; 为什么需要协议&lt;/h2&gt;
+&lt;p&gt;如下图所示，红和蓝是联合攻打绿，它们以烽火为信号出动攻打绿，那么这时候就需要一个约定，比如红先点烽火，然后蓝看见了狼烟再点烽火，红看见了蓝的狼烟之后熄灭烽火，以此表示自己看见了，而蓝看见了红熄灭烽火之后也熄灭自己的烽火以此表示自己知道红看见了此信号，而后两人就需要再约定信号一起整顿出军以确保没有失误。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;所以我们知道蓝和红之间的通信不能保证 100% 成功，但是要尽量保证没有失误的话就需要一遍又一遍的去确认，而这些一次又一次的确定就是双方定下的协议；由此我们可以清楚的认识到我们在网络通信中是必须要有协议的存在的。&lt;/p&gt;
+&lt;h2 id=&#34;为什么需要这么多协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么需要这么多协议&#34;&gt;#&lt;/a&gt; 为什么需要这么多协议&lt;/h2&gt;
+&lt;p&gt;上文中我们举了两军协同作战，他们之间有个作战协议，而一旦作战成功，夺下对方城池那就需要另外一个瓜分战果的协议，所以每个不同的场景都会有对应的协议，这是有这么多协议的原因。&lt;/p&gt;
+&lt;p&gt;如下图所示，我们的计算机网络也有很多协议，下面是分为五层，如果你了解过计算机网络协议应该会知道七层模型、五层模型，但本章节不讲七层模型而是选择五层模型，因为七层模型是一种理想化的模型，实际应用我们用到的是五层模型。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image003.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;如何定位互联网上的终端&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何定位互联网上的终端&#34;&gt;#&lt;/a&gt; 如何定位互联网上的终端&lt;/h2&gt;
+&lt;p&gt;首先我们熟知的系统是通过线程 ID、进程 ID 知道对应的线程和进程的，在每个国家公民都是有身份证号码的，这也用来定位你这个人；在互联网上同样也有这样一个标识去确认终端，这就是 IP 地址。&lt;/p&gt;
+&lt;p&gt;IP 地址以 &amp;quot;.&amp;quot; 符号分割，一共有四组，例如：120.120.120.120，每一组都是的区间都是 0 到 255，IP 地址的组成是网络号加上主机号，而具体的界定我们可以查看下文。&lt;/p&gt;
+&lt;p&gt;IP 地址分为 5 类，其分别如下所示：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;起始地址&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;结束地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A 类&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0.0.0.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;127.255.255.255&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;B 类&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;128.0.0.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;191.255.255.255&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C 类&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;192.0.0.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;223.255.255.255&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;D 类&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;224.0.0.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;239.255.255.255&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;E 类&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;240.0.0.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;247.255.255.255&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;不需要死记硬背，需要的时候自己查下就可以，具体含义网上很多，这里不过多赘述。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image004.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;如何区分出网络号-主机号&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何区分出网络号-主机号&#34;&gt;#&lt;/a&gt; 如何区分出网络号、主机号&lt;/h2&gt;
+&lt;p&gt;如上图中我们可以知道 IP 地址分成了网络号和主机号两部分，通过子网掩码可以从 IP 地址中区分出网络号，其运算规则是：&lt;strong&gt;网络号 = IP 地址 &amp;amp;(按位与) 子网掩码&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们查看自己本机的 IP 地址和子网掩码来计算：&lt;/p&gt;
+&lt;p&gt;IP 地址： 192.168.8.117&lt;br /&gt;
+ 子网掩码： 255.255.255.0&lt;/p&gt;
+&lt;p&gt;IP 地址：192.168.8.117，子网掩码：255.255.255.0，将这两个转为二进制则为：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;11000000.10101000.00001000.01110101&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;11111111.11111111.11111111.00000000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;我们进行按位与运算，结果就是：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;11000000.10101000.00001000.00000000&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;C0.A8.08.00&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;192.168.8.0&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;那么在这里&lt;strong&gt; 192.168.8.0&lt;/strong&gt; 就是其网络号。&lt;/p&gt;
+&lt;p&gt;同样我们可以根据子网掩码来获取主机号，其运算规则是：&lt;strong&gt;主机号 = IP 地址 &amp;amp;(按位与) ~(取反) 子网掩码&lt;/strong&gt;。&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;~ 11111111.11111111.11111111.00000000 &amp;#x2F;&amp;#x2F; 取反子网掩码&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  00000000.00000000.00000000.11111111&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;amp; 11000000.10101000.00001000.01110101 &amp;#x2F;&amp;#x2F; 按位与&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  00000000.00000000.00000000.01110101&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Dec -&amp;gt; 0.0.0.117 &amp;#x2F;&amp;#x2F; 十进制结果&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;最终结果我们知道了其主机号为&lt;strong&gt; 0.0.0.117&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;子网掩码本质上是 32 位的二进制，只不过是为了看着直观一些就转为了十进制，子网掩码 1 所对应的位为网络号位，而 0 所对应的位为主机号位，其用来区分有几个子网，例如这里我们的 &lt;strong&gt;255.255.255.0&lt;/strong&gt; ，转为二进制实际上前 24 位是网络位，后 8 位是主机位，那也就表示我们只有一个子网，在这里我们的子网地址范围就是： &lt;strong&gt;192.168.8.0-192.168.8.255&lt;/strong&gt; ，可用的主机号计算公式就是 &lt;strong&gt;2 的 8（主机位）次方 - 2&lt;/strong&gt; ，这里结果也就是 254，为什么我们还需要减去 2，这是因为根据计算方法， &lt;strong&gt;192.168.8.0 就是网络号（代表当前网络），&lt;/strong&gt; 同时根据定义， &lt;strong&gt;主机号位全为 1 的地址为此网段的广播地址&lt;/strong&gt; ，此时的广播地址为 &lt;strong&gt;192.168.8.255&lt;/strong&gt; ，去掉网络地址和广播地址，也就是 254 个主机号可用。&lt;/p&gt;
+&lt;p&gt;而如果我们的子网掩码为 &lt;strong&gt;255.255.255.192&lt;/strong&gt; ，转为二进制就是 &lt;strong&gt;11111111.11111111.11111111.11000000&lt;/strong&gt; ，可以看见其在我们的原先的后 8 位主机位中占用了 2 位作为网络位，现在有 26 个 1，那么根据二进制非 0 即 1，其表现方式就有 &lt;strong&gt;11000000、10000000、00000000、01000000&lt;/strong&gt; ，也就是说我们将原有的&lt;strong&gt; 192.168.8.0&lt;/strong&gt; 这个网络分成了四份，即 4 个子网，也可以理解为这里就是 &lt;strong&gt;2 的 2（后 8 位主机位中占用了 2 位）次方&lt;/strong&gt; ，现在我们将它们转换成 10 进制就分别是 &lt;strong&gt;0、64、128、192&lt;/strong&gt; ，那么这 4 段网络的范围如下所示：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;192.168.8.0 - 192.168.8.63&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;192.168.8.64 - 192.168.8.127&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;192.168.8.128 - 192.168.8.191&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;192.168.8.192 - 192.168.8.255&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;端口号是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#端口号是什么&#34;&gt;#&lt;/a&gt; 端口号是什么&lt;/h2&gt;
+&lt;p&gt;问题：系统中有很多个进程连着网，比如 QQ、微信、迅雷... 那么系统是如何区分出数据包应该分给哪个进程呢？&lt;/p&gt;
+&lt;p&gt;答案：系统是根据端口号来区分出数据包应该分给哪个进程，每个联网的进程都会分配一个系统唯一的 ID，发送数据包的时候这个 ID 也会放进去，接受数据包的时候就可以根据这个 ID 来分别出对应进程，这个 ID 也就是端口号。&lt;/p&gt;
+&lt;p&gt;注意：端口号的范围就是&lt;strong&gt; 0-65535&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;网关是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网关是什么&#34;&gt;#&lt;/a&gt; 网关是什么&lt;/h2&gt;
+&lt;p&gt;如下图所示，路由器就是一个网关，网关就相当于是网络的一扇门，关内是一个网络，A、B、C、D 都可以在这个网内进行通信，就不需要网关了，而如果 A 想跟 E 进行通信就需要通过网关将你的请求转发去通信，这是因为 E 不在关内。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image005.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dns是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dns是什么&#34;&gt;#&lt;/a&gt; DNS 是什么&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS13d3cteDY5ZDg0Ym96MmZnNXg5cTlha2E0ODF4LmJhaWR1LmNvbQ==&#34;&gt;假设你访问的是 www.baidu.com&lt;/span&gt;，这是一个域名，但是这个域名你想要去访问到真正的那些展示给你的资源其背后对应的正是某个服务器的 IP，根据这个 IP 和对应的端口你才可以访问到资源，而将域名和 IP 进行关联的正是 DNS。&lt;/p&gt;
+&lt;p&gt;DNS 服务器通过记录域名和 IP 的关联，当你想要去访问某个域名的时候，就需要给 DNS 服务器发送请求，而后 DNS 服务器接收到你的请求，将请求中想要查询的域名在 DNS 服务器本身的记录中去搜索找到对应的 IP，最后返回给你。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image006.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;网络应用程序开发基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络应用程序开发基础&#34;&gt;#&lt;/a&gt; 网络应用程序开发基础&lt;/h1&gt;
+&lt;p&gt;网络编程的基础是计算机网络，先了解网络程序设计中涉及的计算机网络方面的基础知识，包括各种网络术语、网络拓扑结构、网络协议等。&lt;/p&gt;
+&lt;p&gt;基于计算机网络开发的分布式网络应用程序种类多样，设计需求也千差万别，本章对常用的网络程序设计方法进行归纳，由高层至底层分别介绍了面向应用的网络编程方法、基于 TCP/IP 协议栈的网络编程方法和面向原始帧的网络编程方法。&lt;/p&gt;
+&lt;h2 id=&#34;计算机网络基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#计算机网络基础&#34;&gt;#&lt;/a&gt; 计算机网络基础&lt;/h2&gt;
+&lt;h3 id=&#34;协议层次和服务模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#协议层次和服务模型&#34;&gt;#&lt;/a&gt; 协议层次和服务模型&lt;/h3&gt;
+&lt;p&gt;计算机网络，是指将地理位置不同且具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，在网络操作系统、网络管理软件及网络通信协议的管理和协调下，实现资源共享和信息传递的计算机系统。&lt;/p&gt;
+&lt;p&gt;总的来说，计算机网络的组成基本上包括计算机、网络操作系统、传输媒体以及相应的应用软件四部分。&lt;/p&gt;
+&lt;p&gt;计算机网络是一个极为复杂的系统，网络中有许多部分：大量的应用程序和协议、各种类型的端系统，以及各种类型的链路级媒体。面对这种复杂的系统，如何简化管理是非常重要的。为了降低设计难度，网络设计者以分层的方式组织协议以及实现这些协议的网络硬件和软件。协议分层具有概念化和结构化的优点，每一层都建立在它的下层之上，使用它的下层提供的服务，下层对它的上层隐藏服务实现的细节。&lt;/p&gt;
+&lt;p&gt;一个机器上的第 n 层与另一个机器的第 n 层交流，所使用的规则和协定合起来被称为第 n 层协议。这里的协议，是指通信双方关于如何进行通信的一种约定，每个协议属于某个层次。特定系统所使用的一组协议被称为协议栈（protocol stack）。&lt;/p&gt;
+&lt;h4 id=&#34;osi参考模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#osi参考模型&#34;&gt;#&lt;/a&gt; OSI 参考模型&lt;/h4&gt;
+&lt;p&gt;在 OSI 出现之前，计算机网络中存在多种体系结构，其中以 IBM 公司的系统网络体系结构（System Network Architecture，SNA）和 DEC 公司的数字网络体系结构（Digital Network Architecture，DNA）最为著名。&lt;/p&gt;
+&lt;p&gt;为了解决不同体系结构的网络互连问题，国际标准化组织 ISO 于 1981 年制定了开放系统互连参考模型（Open System Interconnection Reference Model，OSI/RM）。&lt;/p&gt;
+&lt;p&gt;这个模型把网络通信的工作分为 7 层，它们由低到高分别是物理层（physical layer）、数据链路层（data link layer）、网络层（network layer）、传输层（transport layer）、会话层（session layer）、表示层（presentation layer）和应用层（application layer）。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image009.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;第 1 层到第 3 层属于 OSI 参考模型的低三层，负责创建网络通信连接的链路；第 4 层到第 7 层为 OSI 参考模型的高四层，具体负责端到端的数据通信。&lt;/p&gt;
+&lt;p&gt;每层完成一定的功能，每层都直接为其上层提供服务，并且所有层次都互相支持，而网络通信则可以自上而下（在发送端）或者自下而上（在接收端）双向进行。当然并不是每一通信都需要经过 OSI 的全部七层，有的甚至只需要双方对应的某一层即可。物理接口之间的转接，以及中继器与中继器之间的连接就只需在物理层中进行；而路由器与路由器之间的连接则只需经过网络层以下的三层。&lt;/p&gt;
+&lt;p&gt;总的来说，双方的通信是在对等层次上进行的，不能在不对等层次上进行。&lt;/p&gt;
+&lt;h4 id=&#34;tcpip参考模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tcpip参考模型&#34;&gt;#&lt;/a&gt; TCP/IP 参考模型&lt;/h4&gt;
+&lt;p&gt;ISO 制定的 OSI 参考模型过于庞大、复杂，招致了许多批评。与此对照，由技术人员自己开发的 TCP/IP 协议栈获得了更为广泛的应用。&lt;/p&gt;
+&lt;p&gt;TCP/IP 协议栈是美国国防部高级研究规划局计算机网（Advanced Research Projects Agency Network，ARPANET）和其后继因特网使用的参考模型。TCP/IP 参考模型分为五个层次：应用层、传输层、网络层、链路层和物理层，如图 1-1b 所示。&lt;/p&gt;
+&lt;p&gt;在 TCP/IP 参考模型中，去掉了 OSI 参考模型中的会话层和表示层（这两层的功能被合并到应用层实现）。以下分别介绍各层的主要功能。&lt;/p&gt;
+&lt;h5 id=&#34;应用层&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用层&#34;&gt;#&lt;/a&gt; 应用层&lt;/h5&gt;
+&lt;p&gt;应用层是网络应用程序及其应用层协议存留的层次。TCP/IP 协议簇的应用层协议包括 Finger（用户信息协议）、文件传输协议（File Transfer Protocol，FTP）、超文本传输协议（Hypertext Transfer Protocol，HTTP）、Telent（远程终端协议）、简单邮件传输协议（Simple Mail Transfer Protocol，SMTP）、因特网中继聊天 Internet Relay Chat，IRC）、网络新闻传输协议（Network News Transfer Protocol，NNTP）等。&lt;/p&gt;
+&lt;p&gt;应用层之间交换的数据单位为消息流或报文（message）。&lt;/p&gt;
+&lt;h5 id=&#34;传输层&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#传输层&#34;&gt;#&lt;/a&gt; 传输层&lt;/h5&gt;
+&lt;p&gt;在 TCP/IP 模型中，传输层的功能是使源端主机和目标端主机上的对等实体可以进行会话。在传输层定义了两种服务质量不同的协议，即传输控制协议（Transmission Control Protocol，TCP）和用户数据报协议（User Datagram Protocol，UDP）。&lt;/p&gt;
+&lt;p&gt;TCP 协议是一个面向连接的、可靠的协议，为应用程序提供了面向连接的服务。这种服务将一台主机发出的消息流无差错地发往互联网上的其他主机。在发送端，它负责把上层传送下来的消息流分成数据段并传递给下层；在接收端，它负责把收到的数据包进行重组后递交给上层。另外，TCP 协议还要处理网络拥塞控制，在网络拥塞时帮助发送源抑制其传输速度；提供端到端的流量控制，避免缓慢接收的接收方没有足够的缓冲区接收发送方发送的大量数据。TCP 的协议数据传输单元为 TCP 数据段（TCP segment）。&lt;/p&gt;
+&lt;p&gt;UDP 协议是一个不可靠的、无连接的协议，为应用程序提供无连接的服务。这种服务主要适用于广播数据发送和不需要对报文进行排序和流量控制的场合。UDP 的协议数据传输单元为 UDP 数据报（UDP datagram）。&lt;/p&gt;
+&lt;h5 id=&#34;网络层&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络层&#34;&gt;#&lt;/a&gt; 网络层&lt;/h5&gt;
+&lt;p&gt;网络层是整个 TCP/IP 协议栈的核心。网络层的功能是通过路径选择把分组发往目标网络或主机，进行网络拥塞控制以及差错控制。&lt;/p&gt;
+&lt;p&gt;网际协议（Internet Protocol，IP）是网络层的重要协议，该协议定义了数据包中的各个字段以及端系统和路由器如何作用于这些字段。&lt;/p&gt;
+&lt;p&gt;网络层中的另一个协议 Internet 控制报文协议（Internet Control Message Protocol，ICMP）用于在 IP 主机、路由器之间传递控制消息。控制消息包括网络是否畅通、主机是否可达、路由是否可用等网络本身的消息。这些控制消息虽然并不传输用户数据，但是对于用户数据的传递起着重要的作用。&lt;/p&gt;
+&lt;p&gt;另外网络层也包括决定路由的选路协议（如 RIP、OSPF 等），数据包根据选定的路由从源传输到目的地。&lt;/p&gt;
+&lt;p&gt;网络层的协议数据传输单元为数据包（packet），或称为分组。&lt;/p&gt;
+&lt;h5 id=&#34;数据链路层&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据链路层&#34;&gt;#&lt;/a&gt; 数据链路层&lt;/h5&gt;
+&lt;p&gt;数据链路层负责物理层和网络层之间的通信，将网络层接收到的数据分割成特定的、可被物理层传输的帧，并交付物理层进行实际的数据传送。&lt;/p&gt;
+&lt;p&gt;数据链路层提供的服务取决于应用于该链路层的协议，常用的协议包括以太网的 802.3 协议、Wi-Fi 的 802.11 协议和点对点协议（PPP）等。因为数据包从源到目的地传送通常需要经过几条链路，所以它可能被沿途不同链路上的不同链路层协议处理。&lt;/p&gt;
+&lt;p&gt;数据链路层的协议数据传输单元为帧（frame）。&lt;/p&gt;
+&lt;h5 id=&#34;物理层&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#物理层&#34;&gt;#&lt;/a&gt; 物理层&lt;/h5&gt;
+&lt;p&gt;链路层的任务是将整个帧从一个网络元素移动到邻近的网络元素，而物理层的任务是将该帧中的一个一个比特从一个节点移动到下一个节点。该层中的协议仍然是链路相关的，并且进一步与链路（如双绞线、单模光纤）的实际传输媒体相关。对应于不同的传输媒体，跨越这些链路移动一个比特的方式也不同。&lt;/p&gt;
+&lt;p&gt;物理层的协议数据传输单元为比特（bit）。&lt;/p&gt;
+&lt;h3 id=&#34;网络程序寻址方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络程序寻址方式&#34;&gt;#&lt;/a&gt; 网络程序寻址方式&lt;/h3&gt;
+&lt;p&gt;在邮寄信件时，邮政业务需要提供收信人的地址；在电话交流时，电话系统需要拨号者提供通信对方的电话号码。与之类似，在一个网络程序与另一网络程序通信之前，必须告诉网络某些信息以标识另一个程序。在 TCP/IP 中，网络应用程序使用两个信息来唯一标识一个特定的应用程序：&lt;strong&gt;IP 地址和端口号&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在具体的网络应用中，IP 地址和端口号的使用还会遇到一些更复杂的变化，比如名称解析、网络地址转换等。&lt;/p&gt;
+&lt;h4 id=&#34;ip地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ip地址&#34;&gt;#&lt;/a&gt; IP 地址&lt;/h4&gt;
+&lt;p&gt;互联网上的每个主机和路由器都有 IP 地址，它将网络号和主机号编码在一起。这个组合在全网范围内是唯一的（原则上，互联网上没有两个机器有相同的 IP 地址）。&lt;/p&gt;
+&lt;p&gt;IP 地址是二进制数字，具有 IPv4 和 IPv6 两种类型，分别对应于已经标准化的网际协议的两个版本。IPv4 地址的长度为 32 位，用于标识 40 亿个不同的地址。对于今天的 Internet 来说，这个地址范围并不能满足实际使用的需要。IPv6 地址的长度为 128 位。&lt;/p&gt;
+&lt;p&gt;在表示 IP 地址以便于人们使用方面，为 IP 的两个版本采用了不同的约定。按照惯例，将 IPv4 地址写为一组 4 个用句点隔开的十进制数字（例如 10.0.0.3. ，这被称为 “&lt;strong&gt;点分十进制&lt;/strong&gt;” 表示法。&lt;br /&gt;
+点分十进制字符串中的 4 个数字表示 IP 地址的 4 个字节的内容，每个部分都是 0~255 之间的数字。&lt;/p&gt;
+&lt;p&gt;另一方面，根据约定，16 字节的 IPv6 地址被表示为用冒号隔开的十六进制数字的组合（例如 2000:fdb8:0000:0000:0000:0023:7865:28a1. ，每一组数字表示 2 字节的地址，可以省略前导 0 和只包含 0 的组序列。&lt;/p&gt;
+&lt;p&gt;就 IPv4 地址而言，最初对 IP 地址编址的方法是分类编址方法，如图 1-2 所示，IP 地址的网络部分被限制长度为 8、16 或 24 比特，分别称为 A、B 和 C 类网络，D 类网络用于多播，E 类网络保留供今后使用。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image010.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;此外还有一些地址段有特殊的用法，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;10.0.0.0 ~ 10.255.255.255&lt;/code&gt; 、 &lt;code&gt;172.16.0.0 ~ 172.31.255.255&lt;/code&gt; 、 &lt;code&gt;192.168.0.0 ~ 192.168.255.255&lt;/code&gt;  是私有地址，这些地址被大量用于内部的局域网络中，以免以后接入公网时引起地址混乱。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;127.0.0.0~127.255.255.255&lt;/code&gt;  是保留地址，用于本地回环测试，发送到这个地址的封包不会被传输到线路上，而是被当作到来的封包直接在本地处理，这允许发送者不需要知道网络号就可以完成封包的发送。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;169.254.0.0 ~ 169.254.255.255&lt;/code&gt;  是保留地址。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;0.0.0.0&lt;/code&gt;  表示所有不清楚的主机和目的网络，一般在网络配置中设置了缺省网关，那么 Windows 系统会自动产生一个目的地址为 &lt;code&gt;0.0.0.0&lt;/code&gt;  的缺省路由。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;255.255.255.255&lt;/code&gt;  表示限制广播地址，对本机来说，它指本网段内（同一广播域）的所有主机。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;端口号&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#端口号&#34;&gt;#&lt;/a&gt; 端口号&lt;/h4&gt;
+&lt;p&gt;网络层 IP 地址用来寻址指定的计算机或者网络设备，而传输层的端口号用来确定运行在目的设备上的应用程序。端口号是 16 位的，范围在 &lt;code&gt;0～65535&lt;/code&gt;  之间。在设备上寻址端口号时经常使用的形式是 “ &lt;code&gt;IP:端口号&lt;/code&gt; ”，通信的两端都要使用端口号来唯一标识其主机内运行的特定应用程序。&lt;/p&gt;
+&lt;p&gt;许多公共服务都使用固定的端口号，例如万维网（World Wide Web，WWW）服务器默认使用的端口号是 80，FTP 服务器使用的端口号是 21，SMTP 服务器使用的端口号是 25 等。自定义的服务一般使用高于 1024 的端口号。&lt;/p&gt;
+&lt;h4 id=&#34;名称解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#名称解析&#34;&gt;#&lt;/a&gt; 名称解析&lt;/h4&gt;
+&lt;p&gt;在一个基于 TCP/IP 的网络中，IP 地址被用来唯一标识网络上的一台计算机。如果某台计算机想访问网络中的其他计算机，首先必须知道目标计算机的 IP 地址，然后使用该 IP 地址与其通信。&lt;/p&gt;
+&lt;p&gt;但在实际应用中，用户很少直接使用 IP 地址来访问网络中的资源，而是习惯使用便于记忆的计算机名或域名。比如当用户在浏览器地址栏中输入 &amp;quot; &lt;code&gt;http://www.test.com&lt;/code&gt; &amp;quot; 想要访问网络中的某台服务器时，客户计算机必须通过一个地址转换过程，将该域名转换成该服务器的 IP 地址，这个名称转换过程是通过名称解析服务完成的。&lt;/p&gt;
+&lt;p&gt;名称解析服务可以访问广泛来源的信息，两种主要的来源分别是： &lt;code&gt;域名系统&lt;/code&gt; （Domain Name System，DNS）和 &lt;code&gt;本地配置数据库&lt;/code&gt; （一般是操作系统中用于本地名称与 IP 地址映射的特殊机制，如 Windows 系统中的 NetBIOS 解析）。&lt;/p&gt;
+&lt;h4 id=&#34;网络地址转换&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络地址转换&#34;&gt;#&lt;/a&gt; 网络地址转换&lt;/h4&gt;
+&lt;p&gt;IP 地址是短缺的资源，对于整个 Internet 来说，长期的解决方案是迁移到 IPv6，这个转化正在慢慢进行，但是要想真正完成需要经过很多年的时间。这样，人们必须找到一个快速的、能够马上投入使用的解决方法。网络地址转换（Network Address Translation，NAT）是接入广域网（WAN）的一种技术，能够将私有（保留）地址转化为合法的 IP 地址，它被广泛应用于各种 Internet 接入方式和各种类型的网络中。NAT 不仅完美地解决了 IP 地址不足的问题，而且还能够有效地避免来自网络外部的攻击，隐藏并保护网络内部的计算机。&lt;/p&gt;
+&lt;p&gt;NAT 的实现方式有三种，即静态转换、动态转换和端口多路复用。&lt;/p&gt;
+&lt;p&gt;静态转换是指将内部网络的私有 IP 地址转换为公有 IP 地址时，IP 地址对是一对一的，是一成不变的，某个私有 IP 地址只转换为某个公有 IP 地址。借助于静态转换，可以实现外部网络对内部网络中某些特定设备（如服务器）的访问。&lt;/p&gt;
+&lt;p&gt;动态转换是指将内部网络的私有 IP 地址转换为公用 IP 地址时，IP 地址是不确定的，是随机的，所有被授权访问 Internet 的私有 IP 地址都可随机转换为任何指定的合法 IP 地址。也就是说，只要指定哪些内部地址可以进行转换，以及用哪些合法地址作为外部地址，就可以进行动态转换。动态转换可以使用多个合法外部地址集。当 ISP 提供的合法 IP 地址略少于网络内部的计算机数量，可以采用动态转换的方式。&lt;/p&gt;
+&lt;p&gt;端口多路复用是指改变外出数据包的源端口并进行端口地址转换（Port Address Translation，PAT）。内部网络的所有主机均可共享一个合法外部 IP 地址实现对 Internet 的访问，从而可以最大限度地节约 IP 地址资源。同时，又可隐藏网络内部的所有主机，有效避免来自 Internet 的攻击。因此，目前网络中应用最多的就是端口多路复用方式。&lt;/p&gt;
+&lt;p&gt;NAT 有效解决了 IP 地址短缺的问题，但是它也带来了一些新的问题，使得开发点对点通信应用程序会有很多附加的考虑，主要体现在：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;处于 NAT 后面的主机不能充当服务器直接接收外部主机的连接请求，必须对 NAT 设备进行相应的配置才能完成外部地址与内部服务器地址的映射。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;处于不同 NAT 之后的两台主机无法建立直接的 UDP 或 TCP 连接，必须使用中介服务器来帮助它们完成初始化的工作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;分布式网络应用程序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分布式网络应用程序&#34;&gt;#&lt;/a&gt; 分布式网络应用程序&lt;/h2&gt;
+&lt;p&gt;随着计算机技术的发展和应用的深入，分布式网络应用程序在构建企业级的应用中更加流行。这类程序的主要特点是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;分布式网络应用程序将整个应用程序的处理分成几个部分，分别在不同的机器上运行，这里的 “分布” 包含两层含义：地理上的分布和数据处理的分布。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多台主机之间交互协作，共同完成一个任务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;就网络访问而言，分布式应用对用户来说是透明的，其目标在于提供一个环境，该环境隐藏了计算机和服务的地理位置，使它们看上去就像在本地一样。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;从应用场合来看，分布式网络应用程序大致可分为以下五类：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;远程控制类应用程序。远程控制类应用程序的目的是远程操作对方主机的行为。其主要工作过程是：程序与远程主机建立会话，根据控制需求，传送命令，使用统一的操作界面操控多台主机。典型的应用有远程协助、木马远程监控等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网络探测类应用程序。网络探测类应用程序的目的是通过灵活的探测包构造能力获得期望的探测结果。其主要工作过程是：选择较低层的网络编程接口，根据探测需求，构造特殊请求，对探测目标进行各类请求的发送，接收并分析响应，给出探测结论。典型的应用有端口扫描、操作系统探测、网络爬虫等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网络管理类应用程序。网络管理类应用程序的目的是对网络数据和网络设备进行监管，发现异常，限制应用等。其主要工作过程是：根据网络管理需求，选择合适的网络编程接口，使用特定的网络管理协议进行设备的状态监控，或通过强大的流量分析能力对网络进出流量进行监控。典型的应用有网络管理、上网监控、网络流量分析、入侵检测等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;远程通信类应用程序。远程通信类应用程序的目的在于提供用户间的各类通信渠道。其主要工作过程是：根据通信需求，选择合适的通信模型，为文字聊天、文件传输、语音视频等用户应用设计稳定可靠的传输通道。典型的应用有即时通信、电子邮件客户端、联机游戏等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;信息发布类应用程序。信息发布类应用程序的目的在于发布信息。其主要工作过程是：在公开知名的地址上开放服务，等待用户的信息查询和发布请求，提供有效的信息展示能力。典型的应用有 WWW 服务器、FTP 服务器、Whois 服务器等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;网络编程方法纵览&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络编程方法纵览&#34;&gt;#&lt;/a&gt; 网络编程方法纵览&lt;/h2&gt;
+&lt;p&gt;根据实际工作的具体需求，实现网络程序设计的方法很多，如套接字编程、基于 NDIS 的编程、Web 网站开发等等。每一种编程方法都可以实现数据的传输，但不同方法的工作机制差别很大，其实现能力也有很大差别。在实际运用中需要首先明确这些方法的工作层次和特点，然后选择适合的编程方法。从网络数据的内容来看，不同的编程方法可操控的数据可以是链路层上的帧、网络层上的数据包、传输层上的数据段或应用层上的消息流。以下参考操控网络数据的层次分别阐述常用的网络编程方法。&lt;/p&gt;
+&lt;h3 id=&#34;面向应用的网络编程方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向应用的网络编程方法&#34;&gt;#&lt;/a&gt; 面向应用的网络编程方法&lt;/h3&gt;
+&lt;p&gt;在应用层上有大量针对具体应用、特定协议的网络应用程序编程方法，这些方法屏蔽了大量网络操作的细节，提供简单的接口用于访问应用程序中的数据流。面向应用的网络编程方法主要有以下几种。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;WinInet 编程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;WinInet 编程面向 Internet 常用协议中消息流的访问，这些协议包括 HTTP 协议、FTP 协议和 Gopher 文件传输协议。WinInet 函数的语法与常用的 Win32API 函数的语法类似，这使得使用这些协议就像使用本地硬盘上的文件一样容易。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;基于 WWW 应用的网络编程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;WWW 又称为万维网或 Web，WWW 应用是 Internet 上最广泛的应用。它用 HTML 来表达信息，用超链接将全世界的网站连成一个整体，用浏览器这种统一的形式来浏览，为人们提供了一个图文并茂的多媒体信息世界。WWW 已经深入应用到各行各业。无论是电子商务、电子政务、数字企业、数字校园，还是各种基于 WWW 的信息处理系统、信息发布系统和远程教育系统，都采用了网站的形式。这种巨大的需求催生了各种基于 WWW 应用的网络编程技术，主要包括网页制作工具（如 Frontpage、Dreamweaver、Flash 和 Firework 等）、动态服务器页面的制作技术（如 ASP、JSP 和 PHP 等）。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;面向 SOA 的 Web Service 网络编程随着业务应用程序对业务需求的灵活性要求逐步提高，传统紧耦合的面向对象模型已不再适合，面向服务的体系架构（Service-Oriented Architecture，SOA）可以根据需求通过网络对松散耦合的粗粒度应用组件进行分布式部署、组合和使用。在 SOA 方式下，服务之间通过简单、精确定义的接口进行通信，不涉及底层编程接口和通信模型。SOA 可以看作是 B/S 模型、XML/Web Service 技术之后的自然延伸。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Web Service 是一种常见的 SOA 的实现方式，是松散耦合的可复用的软件模块。Web Service 完全基于 XML（可扩展标记语言）、XSD（XML Schema）等独立于平台和软件供应商的标准，是创建可互操作的、分布式应用程序的新平台。&lt;/p&gt;
+&lt;p&gt;在 Internet 上发布后，Web Service 能够通过标准协议在程序中访问。在谷歌、新浪微博等传统 WWW 应用平台下已发布了大量通过 Web Service 可远程访问的公共 API 访问接口，尤其是在云计算方兴未艾的趋势下，越来越多的程序需要跨平台交互，基于 Web Service 的网络程序设计将得到越来越广泛的应用。&lt;/p&gt;
+&lt;h3 id=&#34;基于tcpip协议栈的网络编程方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基于tcpip协议栈的网络编程方法&#34;&gt;#&lt;/a&gt; 基于 TCP/IP 协议栈的网络编程方法&lt;/h3&gt;
+&lt;p&gt;基于 TCP/IP 协议栈的网络编程是最基本的网络编程方式，主要是使用各种编程语言，利用操作系统提供的套接字网络编程接口，直接开发各种网络应用程序。在套接字通信中，常用套接字类型包括三类：流式套接字（用于在传输层提供面向连接、可靠的数据传输服务）、数据报套接字（用于在传输层提供无连接的数据传输服务）和原始套接字（用于网络层上的数据包访问）。&lt;/p&gt;
+&lt;p&gt;这种编程方式由于直接利用网络协议栈提供的服务来实现网络应用，所以层次比较低，编程者有较大的自由度。这种编程要求程序设计者深入了解 TCP/IP 的相关知识，掌握套接字编程接口的主要功能和使用方法。&lt;/p&gt;
+&lt;h3 id=&#34;面向原始帧的网络编程方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向原始帧的网络编程方法&#34;&gt;#&lt;/a&gt; 面向原始帧的网络编程方法&lt;/h3&gt;
+&lt;p&gt;在网络上直接发送和接收数据帧是最原始的数据访问方式。在这个层面上，程序员能够控制网卡的工作模式，灵活地访问帧中的各个字段。然而，这种灵活性也增加了程序设计的复杂性，要求程序员深入掌握操作系统底层的驱动原理，并具备较强的编程能力。面向原始帧的网络编程方法主要有以下几种。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直接网卡编程技术&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在 OSI/RM 模型中，物理层和数据链路层的主要功能一般由硬件 —— 网络适配器（网络接口卡或网卡）来完成，每个工作站都安装有一个或多个网卡，每个网卡上都有自己的控制器，用以确定何时发送数据，何时从网络上接收数据，并负责执行网络协议所规定的规程，如构成帧、计算帧检验序列、执行编码译码转换等。&lt;/p&gt;
+&lt;p&gt;对于不同的网络芯片，其编程方法略有区别，但原理相似，多使用汇编语言，通过操纵网卡寄存器实现对网卡微处理器的控制，完成数据帧的发送与接收。&lt;/p&gt;
+&lt;p&gt;直接网卡编程为用户提供了直接控制网卡工作的能力，速度很快。但是这种编程方法比较抽象，要求编程人员具有一定的汇编语言基础，且由于不同厂商的网卡之间有很大的差异，程序的通用性较差。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;基于 Packet Driver 的网络编程方法&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;为了屏蔽网络适配器的内部实现细节，使用户与网卡之间的通信更为方便，几乎所有的网卡生产厂家都提供相应的网卡驱动程序，其中包含了 Packet Driver 编程接口，由它来屏蔽网卡的具体工作细节，在上层应用软件和底层的网卡驱动程序之间提供一个接口。&lt;/p&gt;
+&lt;p&gt;使用 Packet Driver 不用针对网卡硬件编程，使用较为方便，且 Packet Driver 作为一个网络编程标准，适用于所有网卡。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;基于 NDIS 的网络编程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;网络驱动程序接口规范（Network Driver Interface Specification，NDIS）是一个较为成熟的驱动接口标准，它包含局域网网卡驱动程序标准、广域网网卡驱动程序标准以及存在于协议和网络之间的中间驱动程序标准。它为网络驱动抽象了网络硬件，指定了分层网络驱动间的标准接口，因此，它为上层驱动（如网络传输）抽象了管理硬件的下层驱动。同时 NDIS 也维护了网络驱动的状态信息和参数，这包括到函数的指针、句柄等。&lt;/p&gt;
+&lt;p&gt;NDIS 在网络编程中占据着重要的地位，许多编程方法都是基于 NDIS 实现的。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;WinPcap 编程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;WinPcap 是一个 Windows 平台下访问网络中数据链路层的开源库，能够用于捕获网络数据包并进行分析。&lt;/p&gt;
+&lt;p&gt;WinPcap 为程序员提供了一套标准的网络数据包捕获接口，包括了一个内核级的数据包过滤器，一个低层的动态链接库（Packet.dll），一个高层的依赖于系统的库（wpcap.dll）。它可以独立于 TCP/IP 协议栈进行原始数据包的发送和接收，主要提供了直接在网卡上捕获原始数据包、核心层数据包过滤、通过网卡直接发送原始数据包和网络流量统计等功能。&lt;/p&gt;
+&lt;p&gt;目前 WinPcap 已经达到了工业标准的应用要求，是非常成熟、实用的捕获与分析网络数据包的技术框架。&lt;/p&gt;
+&lt;h1 id=&#34;网络程序通信模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络程序通信模型&#34;&gt;#&lt;/a&gt; 网络程序通信模型&lt;/h1&gt;
+&lt;p&gt;网络程序通信模型是网络应用程序设计的基础，决定了网络功能在每个通信节点的部署。本章首先探讨网络应用软件与网络通信之间的关系，从会聚点问题引出网络程序通信模型的重要性；重点介绍 &lt;code&gt;客户/服务器&lt;/code&gt; 模型，从 &lt;code&gt;客户/服务器&lt;/code&gt; 模型的基本概念入手，深入讨论客户端和服务器之间的数量、位置和角色关系，归纳服务器软件的特点，并从多个角度对服务器的类别进行分析；最后介绍了 &lt;code&gt;浏览器/服务器&lt;/code&gt; 模型和 &lt;code&gt;P2P模型&lt;/code&gt; 的基本概念和优缺点。&lt;/p&gt;
+&lt;p&gt;透彻地理解网络程序通信模型的相关概念在网络程序设计过程中是十分重要的，能够使设计者从过去所学的网络构造原理转移到网络应用设计的层面上来，并在网络应用设计中有目的地选择适合的通信模型，搭建合理的程序架构。&lt;/p&gt;
+&lt;h2 id=&#34;网络应用软件与网络通信之间的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络应用软件与网络通信之间的关系&#34;&gt;#&lt;/a&gt; 网络应用软件与网络通信之间的关系&lt;/h2&gt;
+&lt;p&gt;网络通信是由底层物理网络和各层通信协议实现的，物理网络建立了相互连通的通信实体，通信协议在各个层次上以规范的消息格式和不同的服务能力保证了数据传输过程中的寻址、路由、转发、可靠性维护、流量控制、拥塞控制等一系列传输能力。网络硬件与协议实现相结合，形成了一个能使网络中任意一对计算机上的应用程序相互通信的基本通信结构。&lt;/p&gt;
+&lt;p&gt;在计算机网络环境中，运行于协议栈之上并借助协议栈实现通信的网络应用程序，为用户提供了使用网络的简单界面，主要承担三个方面的功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;实现通信能力。在协议簇的不同层次上选择特定通信服务，调用相应的接口函数实现数据传输功能。比如在文件传输应用中，使用客户 / 服务器模型，选择 TCP 协议完成数据传输。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;处理程序逻辑。根据程序功能，对网络交换的数据进行加工处理，从而满足用户的种种需求。以文件传输为例，网络应用程序应具备对文件的访问权限管理、断点续传等维护功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供用户交互界面。接受用户的操作指示，将操作指示转换为机器可识别的命令进行处理，并将处理结果显示于用户界面。在文件传输应用中，需提供文件下载选项、文件传输进度的实时显示等界面指示功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;网络通信为网络应用软件提供了网络通信为网络应用软件提供了强大的通信功能，应用软件为网络通信提供了灵活方便的操作平台。实际上，在网络通信层面，仅仅提供了一个通用的通信架构，只负责传送信息；而在网络应用软件层面，仅仅考虑通信接口的调用。两者之间还需要有一些策略，这些策略能够对通信次序、通信过程、通信角色等问题进行协调和约束，从而合理组织分布在网络不同位置的应用程序，使其能够有序、正确地处理实际业务。&lt;/p&gt;
+&lt;p&gt;以下从会聚点问题引出网络通信模型设计的必要性，重点介绍客户 / 服务器模型、浏览器 / 服务器模型和 P2P 模型。&lt;/p&gt;
+&lt;h2 id=&#34;会聚点问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#会聚点问题&#34;&gt;#&lt;/a&gt; 会聚点问题&lt;/h2&gt;
+&lt;p&gt;尽管 TCP/IP 指明了数据如何在一对正在进行通信的应用程序间传递，但它并没有规定对等的应用程序在什么时间，以及为什么要进行交互，也没有规定程序员在一个分布式环境下应如何组织这样的应用程序。如果没有通信模型，会发生什么情况？我们来看一个典型的会聚点问题。&lt;/p&gt;
+&lt;p&gt;设想操作员试图在分布于两个位置的机器上启动两个程序，并让它们通信，如图 2-1 所示。由于计算机的运行远比人的速度快得多，在某人启动第一个程序后，该程序开始执行并向其对等程序发送消息，在几个微妙内，它便发现对等程序不存在，于是就发出一条错误消息，然后退出。在这个过程中，某人启动了第二个程序，不幸的是，当第二个程序开始执行时，它发现对等程序已经终止，于是也退出了。这个过程可能会重复很多次，但由于每个程序的执行速度远快于用户的操作速度，因此它们在同一瞬间向对方发送消息并从此继续通信下去的概率是很低的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image011.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;由此看来，互联网仅仅提供了一个通用的通信架构，网络协议只是规定了应用程序在通信时所必须遵循的约定，并不解决用户的各种具体应用问题，而且它只负责传递数据，还有很多关于通信功能和通信实体的组织协调策略尚没有考虑，主要包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;确定通信双方的角色，用以部署每个通信实体的具体功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;确定通信双方的通信次序，用以安排不同角色的通信实体的启动和停止时机以及交互顺序。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;确定通信的传送形式，用以指导应用程序对底层传输服务的选择。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;为了保证网络中的分布式应用程序能够协同工作，不同网络模型对以上问题给出了不同的考虑。&lt;/p&gt;
+&lt;h2 id=&#34;客户服务器模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户服务器模型&#34;&gt;#&lt;/a&gt; 客户 / 服务器模型&lt;/h2&gt;
+&lt;p&gt;在网络应用进程通信时，最主要的进程间交互的模型是客户 / 服务器（Client/Server，C/S）模型。客户 / 服务器模型的建立基于以下两点：&lt;/p&gt;
+&lt;p&gt;首先，建立网络的起因是网络中软硬件资源、运算能力和信息不均等，需要共享，从而造就拥有众多资源的主机提供服务、资源较少的客户请求服务这一非对等关系。&lt;/p&gt;
+&lt;p&gt;其次，网络间进程通信完全是异步的，相互通信的进程既不存在父子关系，也不共享内存缓冲区，因此需要一种机制为希望通信的进程建立联系，为二者的数据交换提供同步。&lt;/p&gt;
+&lt;p&gt;客户 / 服务器模型开始流行于 20 世纪 90 年代，该模型将网络应用程序分为两部分，服务器负责数据管理，客户完成与用户的交互。该模型具有健壮的数据操纵和事务处理能力、数据安全性和完整性约束。&lt;/p&gt;
+&lt;h3 id=&#34;基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本概念&#34;&gt;#&lt;/a&gt; 基本概念&lt;/h3&gt;
+&lt;p&gt;在客户 / 服务器模型中，客户和服务器分别是两个独立的应用程序，即计算机软件。&lt;/p&gt;
+&lt;p&gt;客户（Client），请求的主动方，向服务器发出服务请求，接收服务器返回的应答。&lt;/p&gt;
+&lt;p&gt;服务器（Server），请求的被动方，开放服务，等待请求，收到请求后，提供服务，做出响应。&lt;/p&gt;
+&lt;p&gt;用户（User），使用计算机的人。&lt;/p&gt;
+&lt;p&gt;客户 / 服务器模型最重要的特点是非对等相互作用，即客户与服务器处于不平等的地位，服务器拥有客户所不具备的硬件和软件资源以及运算能力，服务器提供服务，客户请求服务。&lt;/p&gt;
+&lt;p&gt;客户 / 服务器模型相互作用的简单过程如图所示。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image012.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在这个过程中，服务器处于被动服务的地位。首先服务器要先启动，并根据客户请求提供相应的服务，服务器的工作过程如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;打开一个通信通道，告知服务器进程所在主机将要在某一公认的端口（通常是 RFC 文档中分配的知名端口或双方协商的端口）上接收客户请求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;等待客户的请求到达该端口。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务器接收到服务请求，处理该请求并发送应答。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;返回第 2 步，等待并处理另一个客户的请求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当特定条件满足时，关闭服务器。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意，在步骤 3 服务器处理客户请求的过程中，服务器的设计可能会有很多策略。比如在处理简单客户请求时，服务器通常用单线程循环处理的方式工作；而在处理复杂不均等客户请求时，为了能够并发地接收多个客户的服务请求，服务器会创建一个新的进程或线程来处理每个客户的请求。另外，当使用不同的底层传输服务时，服务器在通信模块的调用上也会有所差别。&lt;/p&gt;
+&lt;p&gt;客户采取的是主动请求方式，其工作过程如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;打开一个通信通道，告知客户进程所在主机将要向某一公认的端口（通常是 RFC 文档中分配的知名端口或双方协商的端口）上请求服务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;向服务器发送请求报文，等待并接收应答，然后继续提出请求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;请求结束后，关闭通信通道并终止进程。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意：在步骤 1，当使用不同的底层传输服务时，客户在通信模块的调用上会有所差别，比如使用 TCP 的客户需要首先连接到服务器所在主机的特定监听端口后再请求服务，而使用 UDP 的客户只需要在指定服务器地址后直接发送服务请求。&lt;/p&gt;
+&lt;h3 id=&#34;客户服务器关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户服务器关系&#34;&gt;#&lt;/a&gt; 客户 / 服务器关系&lt;/h3&gt;
+&lt;p&gt;尽管我们经常说起客户和服务器，但在一般情况下，一个特定的程序到底是客户还是服务器并不总是很清晰，客户和服务器之间的交互是任意的。在实际的网络应用中，往往形成错综复杂的 C/S 交互局面。&lt;/p&gt;
+&lt;h4 id=&#34;客户与服务器的数量关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户与服务器的数量关系&#34;&gt;#&lt;/a&gt; 客户与服务器的数量关系&lt;/h4&gt;
+&lt;p&gt;从客户和服务器的数量来看，存在两种关系：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;多个客户进程同时访问一个服务器进程（n:1. 。在 Internet 上的各种服务器都能同时为多个客户提供服务。例如 Web 服务器在提供 Web 服务时，往往同时有上万个用户通过各类浏览器（作为客户）访问网页，服务器在设计和开发时应具备快速响应能力，能够区分不同客户的请求，能够公平地为多个客户提供服务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一个客户进程同时访问多个服务器提供的服务 1:n）。不同的服务器提供的服务各有不同，客户为了得到具体的服务器内容，需要向多个服务器提交请求。例如同时打开多个窗口的浏览器，每个窗口连接一个网站，当在一个窗口中浏览网页时，可能另一个窗口正在下载页面文件或图像。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;客户与服务器的位置关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户与服务器的位置关系&#34;&gt;#&lt;/a&gt; 客户与服务器的位置关系&lt;/h4&gt;
+&lt;p&gt;从客户和服务器所处的网络环境来看，存在三种情况，如图所示。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image013.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;客户和服务器运行在同一台机器上。因为没有涉及物理网络，这是最简单的一种部署，数据从客户或服务器发出，沿着 TCP/IP 协议栈下行，然后在内部返回，沿着 TCP/IP 协议栈上行作为输入。在网络应用程序开发时，这种设置有很多优点。首先这种方法提供了一种理想的实验环境，包不会丢失、延迟或不按顺序递交；其次由于没有网络延迟，所以可以很容易粗略地判断客户和服务器应用程序的性能；最后作为一种进程间通信的方法，可以方便地把两个本来独立的功能通过网络交互的形式组合起来。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;客户和服务器运行在同一个局域网内的不同机器上。这个环境涉及真正的网络，但是这个环境仍然还是近乎理想化的，数据包几乎不会丢失、乱序。网络打印机是一个常见的例子，一个局域网可能为几台主机只配置一个打印机，其中一个主机充当服务器，接收来自其他主机（客户）的打印请求，并把这些数据放到缓冲区中等候打印机打印。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;客户和服务器运行于广域网不同网络内的机器上。广域网可以是 Internet 或是公司的内部网，两个应用程序不在同一个局域网内，从一个应用程序发出到另一个应用程序的 IP 数据包必须经过一个或若干个路由器转发。这种环境比前两种复杂得多，常常会由于网络拥塞、震荡等问题导致数据丢失、乱序。在网络应用程序开发时，这种情形要求程序设计者考虑很多因素，比如要考虑可靠性的问题，选择可靠的传输服务，或在应用程序设计中增加可靠性的维护功能。另外，经过网络地址转换后的内网地址是无法通过广域网直接访问的，在程序部署时也需要考虑这一机制带来的影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;客户与服务器的角色关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户与服务器的角色关系&#34;&gt;#&lt;/a&gt; 客户与服务器的角色关系&lt;/h4&gt;
+&lt;p&gt;从应用程序的角色来看，存在三种情况：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;应用程序作为纯粹的客户运行。在这种情况下，客户软件只有主动发出请求和接收响应的能力，例如浏览器作为 Web 服务器的客户运行就是单纯的客户角色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应用程序作为纯粹的服务器运行。在这种情况下，服务器软件单纯提供自身资源具备的服务，例如文件服务器提供文件的上传与下载。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应用程序同时具有客户和服务器两种角色。一个服务器在提供服务的过程中可能并不具备该服务所需的所有资源，例如文件服务器为了给文件标注准确的访问时间，需要获得当时的标准时间，但是该服务器没有日期时钟，那么为了获得这个时间，该服务器会作为客户向时间服务器发出请求，在这种情况下，文件服务器同时担当了客户和服务器两种角色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;以上从数量、位置和角色三个方面，分析了在真实的网络应用中客户和服务器的关系，我们观察到客户与服务器的关系并不是简单的 1 对 1，其传输路径可能跨越若干网络，其角色复杂多样，这要求我们在应用程序设计过程中，需要结合实际情况注意以下两点：&lt;/p&gt;
+&lt;p&gt;第一，不同形式的客户 / 服务器角色，其程序的设计方法各有不同，应在实际操作过程中考虑到这种差别。&lt;/p&gt;
+&lt;p&gt;第二，应用场景不同，客户和服务器关系也不同，应结合应用程序对服务的效率与公平性需求、对网络传输可靠性的需求、对资源的访问需求等综合决策，给出合理的网络程序设计方案。&lt;/p&gt;
+&lt;h3 id=&#34;服务器软件的特点与分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务器软件的特点与分类&#34;&gt;#&lt;/a&gt; 服务器软件的特点与分类&lt;/h3&gt;
+&lt;h4 id=&#34;服务器的特权和复杂性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务器的特权和复杂性&#34;&gt;#&lt;/a&gt; 服务器的特权和复杂性&lt;/h4&gt;
+&lt;p&gt;由于服务器软件往往需要访问操作系统保护的数据资源、计算资源以及协议端口，所以服务器软件常常具有一些特定的系统权限。服务器软件在提供服务的过程中，为了保证其服务功能不会粗心地将特权传递给访问它的客户，服务器的设计和开发要非常小心。除了基本的网络通信和服务功能，服务器还应具备处理以下问题的能力：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;鉴别 —— 验证客户的身份；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;授权 —— 确定某个给定的客户是否被允许访问服务器所提供的服务；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据安全 —— 确保数据不被无意泄露或损坏；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;保密 —— 防止对有关个人的信息进行未授权的访问；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;保护 —— 确保网络应用程序不能滥用系统资源。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外，对于那些执行高强度计算或处理大量数据的服务器，还要考虑增加并发处理请求的能力，使其运行更加高效。&lt;/p&gt;
+&lt;p&gt;综合来看，相比客户，特权的保护和并发操作等使服务器的设计与实现更加复杂。&lt;/p&gt;
+&lt;h4 id=&#34;无连接和面向连接的服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无连接和面向连接的服务器&#34;&gt;#&lt;/a&gt; 无连接和面向连接的服务器&lt;/h4&gt;
+&lt;p&gt;对于网络应用程序的设计，首要的决定是在传输层选择一种传输服务：无连接服务或面向连接服务。这两种服务直接对应于 TCP/IP 协议簇的两个主要的传输层协议：UDP 协议和 TCP 协议。如果客户和服务器使用 UDP 进行通信，那么交互就是无连接的；如果使用 TCP，那么交互就是面向连接的。&lt;/p&gt;
+&lt;p&gt;从应用程序设计者的角度看，无连接的交互和面向连接的交互之间有很大的区别，其服务能力决定了下层系统所提供的可靠性等级。TCP 提供了通过互联网络进行通信所需的可靠性维护能力：它验证数据的到达；对未到达的报文段自动重传；计算数据上的校验和以保证数据在传输过程中没有损坏；使用序号以确保数据按序到达并自动忽略重复的分组；提供了流量控制功能以确保发送方发送数据的速度不要超过接收方的承受能力；如果下层网络因任何原因变得无法运行，TCP 将通知客户和服务器。与 TCP 相比，UDP 并没有在可靠传输上做出任何保证，数据可能会丢失、重复、延迟或者传递失序。客户和服务器必须采取合适的措施检查并更正这样的差错。&lt;/p&gt;
+&lt;p&gt;使用 TCP 的服务器是面向连接的服务器。面向连接的服务器的主要优势是易于编程。这是由于传输层 TCP 协议已经自动处理了分组的丢失、交付失序等不可靠问题，面向连接的服务器只要管理和使用这些连接就可以保证数据传送功能的可靠运行。&lt;/p&gt;
+&lt;p&gt;面向连接的服务器也存在缺点。由于每个连接需要操作系统额外为其分配资源，而且 TCP 在一个空闲的连接上几乎不发送分组，假如一个服务器之前已经与很多个客户建立了连接，那么在某种极端的情况下，当这些客户所在的系统都同时崩溃或网络连接中断时，TCP 并不会发送任何通知报文，面向连接的服务器之前已经分配给这些连接的数据结构（包括缓冲区空间）等在一段较长的时间内会一直被占用，如果不断有客户崩溃，服务器可能会耗尽资源，进而终止运行。&lt;/p&gt;
+&lt;p&gt;使用 UDP 的服务器是无连接的服务器。无连接的服务器不需要在传输数据过程中维护连接，因此数据投递非常灵活高效。尽管无连接的服务器没有资源耗尽问题的困扰，但它们不能依赖下层传输协议提供可靠的投递，通信的一方或双方必须担当起可靠交付的责任。比如：如果没有响应到达，客户要承担超时重传请求的责任；如果服务器需要将其响应分为若干个分组，还需实现数据缓存和重组机制。对于网络应用程序的设计者来说，这些可靠性维护的工作可能十分困难，需要对协议设计具备相当的专业知识。&lt;/p&gt;
+&lt;p&gt;在选择无连接的服务器时的另一个考虑是该服务器是否需要广播或组播通信，由于 TCP 只能提供点到点通信，它不能提供广播或组播通信，这些服务需要使用 UDP。&lt;/p&gt;
+&lt;p&gt;总之，面向连接的服务器和无连接的服务器使用了不同的传输服务，在编程复杂性、数据传输代价等方面各有优缺点，两类服务器的选择，关键在于结合网络运行环境和应用程序的实际需求确定一种最适合的传输层协议。&lt;/p&gt;
+&lt;h4 id=&#34;无状态和有状态的服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无状态和有状态的服务器&#34;&gt;#&lt;/a&gt; 无状态和有状态的服务器&lt;/h4&gt;
+&lt;p&gt;我们把状态信息理解为服务器所维护的、关于它与客户交互的信息。&lt;/p&gt;
+&lt;p&gt;无状态的服务器不保存任何状态信息，要求每次客户的请求是无二义性的，也就是说无论一个请求何时到达或重复到达，服务器都应给出相同的响应。在对可靠性要求较高的情况，尤其是使用无连接传输时，这类服务器设计会比较常见。数据在网络中传输很有可能出现重复、延迟、丢失或失序交付，如果传输协议不能保证可靠交付，那么可以通过设计可靠交付的应用协议来弥补这一缺陷。&lt;/p&gt;
+&lt;p&gt;有状态的服务器维护了与其存在交互历史的客户的状态信息，这些状态信息减少了客户和服务器间交换的报文内容，帮助服务器在接收到客户发来的请求时能够快速做出响应。尽管状态信息可以提高效率，但是状态的维护是一个复杂的问题。如果报文丢失、重复或交付失序，或者如果客户计算机崩溃或重启动，则一个服务器中的状态信息就会变得不正确，此后，在服务器计算响应时，如果使用了不正确的状态信息，就可能产生不正确的响应（错误的文件读取结果、混乱的用户标识、重复写文件等）。&lt;/p&gt;
+&lt;p&gt;一个服务器到底是无状态还是有状态，更多取决于应用协议而不是实现，如果应用协议规定了某个报文的含义在某种方式上依赖于先前的一些报文，那么它就不可能提供无状态的交互。&lt;/p&gt;
+&lt;h4 id=&#34;循环服务器和并发服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#循环服务器和并发服务器&#34;&gt;#&lt;/a&gt; 循环服务器和并发服务器&lt;/h4&gt;
+&lt;p&gt;一个服务器通常被设计为面向多个客户提供服务，那么服务器在一个时刻能够处理多少客户的请求呢？循环服务器描述了在一个时刻只处理一个请求的服务器实现方式，并发服务器描述了在一个时刻可以处理多个请求的服务器实现方式。&lt;/p&gt;
+&lt;p&gt;循环服务器通过在单线程内设置循环控制实现对多个客户请求的逐一响应。这种服务器的设计、编程、调试和修改是最容易的，因此，只要循环执行的服务器对预期的负载能提供足够快的响应速度，多数程序员会选择这种循环的设计。循环服务器往往在由无连接协议承载的简单服务中工作得很好。&lt;/p&gt;
+&lt;p&gt;将并发引入服务器中的主要原因是需要给多个客户提供快速响应时间。并发性可以在以下几种情况下缩短响应时间：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;构造响应要求有相当的 I/O 时间。允许服务器并发地计算响应，意味着即使机器只有一个 CPU，它也可以部分重叠地使用处理器和外设，这样当处理器忙于计算一个响应时，I/O 设备可以将数据传送到存储器中，而这可能是其他响应所需要的，这使得服务器避免了无谓的 I/O 等待。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;每个请求需要的响应处理时间变化很大。时间分片允许单个处理器处理那些只要求少量处理的请求，而不必等待处理完那些需要长处理时间的请求，这保证了服务器提供服务的公平性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务器运行在一个拥有多处理器的计算机上。可以允许不同处理器为不同的请求做出响应。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;并发服务器通过使请求处理和 I/O 部分重叠而达到高性能。这种服务器的开发和调试代价较高，在面向连接的服务器设计中，用并发方式处理多个客户的请求是目前最广泛使用的服务器类型。常见的并发服务器的实现方法是多线程或单线程异步 I/O 机制。在多线程实现方法中，服务器主线程为每个到来的客户请求创建一个新的子服务线程。一般这类服务器的代码由两部分组成：第一部分代码负责监听并接收客户请求，为客户请求创建一个新的服务线程；另一部分代码负责处理单个客户的请求。在单线程异步 I/O 实现方法中，服务器主线程管理多个连接，通过使用异步 I/O 捕获最先满足 I/O 条件的连接并进行处理，以此在单个线程中及时处理 I/O 事件，达到表面上的并发性。&lt;/p&gt;
+&lt;p&gt;循环服务器和并发服务器的选择取决于对单个客户请求的处理时延。我们定义 “服务器的请求处理时间” 为服务器处理单个孤立的请求所花费的时间，定义 “客户的观测响应时间” 为客户发送一个请求至服务器响应之间的全部时延。&lt;/p&gt;
+&lt;p&gt;循环服务器在以下两种情况下是不能满足应用需求的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;客户的观测响应时间远大于服务器的请求处理时间。如果服务器正在处理一个已经存在的客户请求时另一个请求到达了，系统便将这个新的请求排队，那么第二个客户要等待服务器处理完之前的请求和当前客户的请求后才能收到响应。假如客户请求到达过于频繁，服务器来不及处理，会使得队列越来越长，对客户的响应时间也越来越长，此时循环服务器已不能满足需求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务器的请求处理时间大于单个请求要求的时间范围。如果一个服务器的设计能力为可处理 K 个客户，而每个客户每秒发送 N 个请求，则此服务器的请求处理时间必须小于每个请求 1/（KN）秒。如果服务器不能以所要求的速率处理完一个请求，那么等待其服务的客户请求队列最终将溢出。为了避免可能具有很长请求处理时间的客户请求队列溢出，设计者必须考虑服务器的并发实现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;客户服务器模型的优缺点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#客户服务器模型的优缺点&#34;&gt;#&lt;/a&gt; 客户 / 服务器模型的优缺点&lt;/h3&gt;
+&lt;p&gt;客户 / 服务器模型的优点如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;结构简单。系统中不同类型的任务分别由客户和服务器承担，有利于发挥不同机器平台的优势。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持分布式、并发环境。特别是当客户和服务器之间的关系是多对多时，可以有效地提高资源的利用率和共享程度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务器集中管理资源，有利于权限控制和系统安全。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可扩展性较好。可有效地集成和扩展原有的软、硬件资源。以前在其他环境下积累的数据和软件均可在 C/S 中通过集成而继续使用，并且可以透明地访问多个异构的数据源，自由地选用不同厂家的数据应用开发工具，具有高度的灵活性，客户和服务器均可单独地升级。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;客户 / 服务器模型存在以下局限：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;缺乏有效的安全性。由于客户与服务器直接相连，当在客户上存取一些敏感数据时，由于用户能够直接访问中心数据库，就可能造成敏感数据的修改或丢失。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;客户负荷过重。随着计算机处理的事务越来越复杂，客户程序也日渐冗长。同时由于事务处理规则的变化，也需要随时更新客户程序，这就相应地增加了维护困难和工作量。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务器工作效率低。由于每个客户都要直接连接到服务器以访问数据资源，这就使得服务器不得不因为客户的访问而消耗大量原本就十分紧张的服务器资源，从而造成服务器工作效率不高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;容易造成网络阻塞。多个客户对服务器的同时访问可能会使得服务器所处的网络流量剧增，进而形成网络阻塞。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;浏览器服务器模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#浏览器服务器模型&#34;&gt;#&lt;/a&gt; 浏览器 / 服务器模型&lt;/h2&gt;
+&lt;h3 id=&#34;基本概念-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本概念-2&#34;&gt;#&lt;/a&gt; 基本概念&lt;/h3&gt;
+&lt;p&gt;浏览器 / 服务器（Browser/Server，B/S）模型是随着 Internet 技术的兴起，对 C/S 模型的一种变化或者改进，它在 20 世纪 90 年代中期逐渐形成和发展。在这种 B/S 模型中，用户界面完全通过 WWW 浏览器实现，一部分事务逻辑在前端（浏览器）实现，但是主要事务逻辑在服务器端实现，通常以三层架构部署实施。主要包括以下三层：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;客户端表示层。由 Web 浏览器组成，它不存放任何应用程序。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应用服务器层。由一台或多台服务器（Web 服务器也位于这一层）组成，处理应用中的所有业务逻辑、对数据库的访问等工作。该层具有良好的可扩展性，可以随着应用的需要任意增加服务器的数目。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据中心层。由数据库系统组成，用于存放业务数据。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;浏览器 / 服务器模型是一种特殊的客户 / 服务器模型，特殊之处在于这种模型的客户一般是某种流行的浏览器，使用 HTTP 协议通信。其实现机制是利用了不断成熟的 WWW 浏览器技术，结合浏览器的多种脚本语言 (VBScript、JavaScript 等) 和 ActiveX 技术，用通用浏览器实现原来需要复杂专用软件才能实现的客户功能，节约了开发成本。&lt;/p&gt;
+&lt;h3 id=&#34;浏览器服务器工作的一般过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#浏览器服务器工作的一般过程&#34;&gt;#&lt;/a&gt; 浏览器 / 服务器工作的一般过程&lt;/h3&gt;
+&lt;p&gt;浏览器 / 服务器工作的一般过程如图所示。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image014.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;首先，用户通过浏览器向 Web 服务器提出 HTTP 请求。&lt;/p&gt;
+&lt;p&gt;然后，Web 服务器根据请求调出相应的 HTML、XML 文档或 ASP、JSP 文件。如果是 HTML 或 XML 文档，则直接返回给浏览器；如果是 ASP、JSP 等动态脚本文档，Web 服务器首先执行文档中的服务器脚本程序，然后把执行结果返回给浏览器。&lt;/p&gt;
+&lt;p&gt;最后，浏览器接收到 Web 服务器发回的页面内容，显示给用户。&lt;/p&gt;
+&lt;h3 id=&#34;览器服务器模型的优缺点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#览器服务器模型的优缺点&#34;&gt;#&lt;/a&gt; 览器 / 服务器模型的优缺点&lt;/h3&gt;
+&lt;p&gt;浏览器 / 服务器模型的优点是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;具有分布性特点，可以随时随地进行查询、浏览等业务处理；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;业务扩展简单方便，通过增加网页即可增加服务器功能；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;维护简单方便，只需要改变网页，即可实现所有用户的同步更新；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开发简单，共享性强。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;浏览器 / 服务器模型的缺点是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;操作是以鼠标为最基本的操作方式，无法满足快速操作的要求；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;页面动态刷新，响应速度明显降低；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;功能弱化，难以实现传统模式下的特殊功能要求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;p2p模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#p2p模型&#34;&gt;#&lt;/a&gt; P2P 模型&lt;/h2&gt;
+&lt;h3 id=&#34;p2p的基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#p2p的基本概念&#34;&gt;#&lt;/a&gt; P2P 的基本概念&lt;/h3&gt;
+&lt;p&gt;随着应用规模的不断扩大，软件复杂度不断提高，面对巨大的用户群，单服务器成为性能的瓶颈。尤其是出现了拒绝服务（Denial of Service，DoS）攻击后，更凸显了客户 / 服务器模型的问题，服务器是网络中最容易受到攻击的节点，只要海量地向服务器发出服务请求，就能导致服务器瘫痪，以致所有的客户都不能得到服务响应。&lt;/p&gt;
+&lt;p&gt;此外，客户的硬件性能不断提高，但在客户 / 服务器模型中，客户只做一些简单的工作，造成资源的巨大浪费。&lt;/p&gt;
+&lt;p&gt;由此看来，客户 / 服务器模型已不能满足有效利用客户系统资源的需求。为了解决这些问题，出现了 P2P 技术。&lt;/p&gt;
+&lt;p&gt;P2P 是 Peer-to-Peer 的简写，Peer 在英语里有 “对等者” 和 “伙伴” 的意义。因此，从字面上看，P2P 可以理解为对等互联网。国内的媒体一般将 P2P 翻译成 “点对点” 或者 “端对端”，学术界则统一称为对等计算。P2P 可以定义为：网络的参与者共享它们所拥有的一部分资源（处理能力、存储能力、网络连接能力、打印机等），这些共享资源通过网络提供服务和内容，能被其他对等节点（Peer）直接访问而无需经过中间实体。在此，网络中的参与者既是资源（服务和内容）提供者（Server），又是资源获取者（Client）。&lt;/p&gt;
+&lt;p&gt;从计算模式上来说，P2P 打破了传统的 C/S 模型，在网络中的每个节点，其地位都是对等的。P2P 与 C/S 模型的对比如图 2-5 所示。图 2-5a 是典型的客户 / 服务器模型的交互形态，一个服务器面向多个客户提供服务，服务器集中管理资源，并负责资源的维护、共享等功能。图 2-5b 是典型的 P2P 模型的交互形态，每个节点既充当服务器，为其他节点提供服务，同时也享用其他节点提供的服务。&lt;/p&gt;
+&lt;p&gt;P2P 模型具有以下特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;非中心化。P2P 是全分布式系统，网络中的资源和服务分散在所有的节点上，信息的传输和服务的实现都直接在节点之间进行，可以无需中间环节和服务器的介入，避免了可能的瓶颈。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可扩展性。用户可以随时加入该网络，服务器的需求增加，系统的资源和服务能力也同步扩充。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;健壮性。P2P 架构天生具有耐攻击、高容错的优点。由于服务是分散在各个节点之间的，部分节点或网络遭到破坏对其他部分的影响很小。P2P 网络一般在部分节点失效时能够自动调整整体拓扑，保持其他节点的连通性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自治性。节点来自不同的所有者，不存在全局的控制者，节点可以随时加入或退出 P2P 系统。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;高性价比。性能优势是 P2P 被广泛关注的一个重要原因。采用 P2P 架构可以有效地利用互联网中散布的大量普通节点，将计算任务或存储资料分布到所有节点上。利用其中闲置的计算能力或存储空间，达到高性能计算和海量存储的目的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;隐私保护。在 P2P 网络中，由于信息的传输分散在各节点之间，无需经过某个集中环节，用户的隐私信息被窃听和泄露的可能性大大缩小。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;负载均衡。P2P 网络环境下由于每个节点既是服务器又是客户，减少了传统 C/S 结构中对服务器计算能力、存储能力的要求，同时因为资源分布在多个节点上，更好地实现了整个网络的负载均衡。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P2P 和 C/S 模型的对比:&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image015.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;p2p网络的拓扑结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#p2p网络的拓扑结构&#34;&gt;#&lt;/a&gt; P2P 网络的拓扑结构&lt;/h3&gt;
+&lt;p&gt;拓扑结构是指分布式系统中各个计算单元之间的物理或逻辑的互联关系，节点之间的拓扑结构一直是确定系统类型的重要依据。P2P 系统主要采用非集中式的拓扑结构，根据结构关系可以将 P2P 系统细分为四种拓扑形式。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;中心化拓扑（Centralized Topology）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;中心化拓扑的资源发现依赖中心化的目录系统，其优点是维护简单，资源发现效率高，缺点是与传统 C/S 结构类似，容易造成单点故障、访问的 “热点” 现象和版权纠纷等相关问题。这是第一代 P2P 网络采用的结构模式，经典案例是著名的 MP3 共享软件 Napster。该软件通过一个中央索引服务器保存所有 Napster 用户上传的音乐文件索引和存放位置的信息。当某个用户需要某个音乐文件时，首先连接到 Napster 中央索引服务器，在服务器上进行检索，服务器返回存有该文件的用户信息，再由请求者直接连接到文件的所有者传输文件。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;全分布式非结构化拓扑（Decentralized Unstructured Topology）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;全分布式非结构化拓扑在重叠网络（overlay network）上采用随机图的组织方式，节点度数服从 Power-law 规律（幂律法则），能够较快发现目的节点，面对网络的动态变化，体现了较好的容错能力，因此具有较好的可用性。采用这种拓扑结构最典型的案例是 Gnutella。Gnutella 没有中央索引服务器，是更加纯粹的 P2P 系统。每台机器在 Gnutella 网络中是真正的对等关系，既是客户又是服务器，被称为对等机（Servent，即 Server+Client 的组合）。当一台计算机要下载一个文件，它首先以文件名或者关键字生成一个查询，并把这个查询发送给与它相连的所有计算机，这些计算机上如果有这个文件，则与查询的机器建立连接，如果没有这个文件，则继续在自己相邻的计算机之间转发这个查询，直到找到文件为止。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;全分布式结构化拓扑（Decentralized Structured Topology）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;全分布式结构化拓扑主要采用分布式散列表（Distributed Hash Table，DHT）技术来组织网络中的节点。DHT 是一个由广域范围大量节点共同维护的巨大散列表。散列表被分割成不连续的块，每个节点分配一个属于自己的散列块，并成为这个散列块的管理者。通过加密散列函数，一个对象的名字或关键词被映射为 128 位或 160 位的散列值。DHT 类结构能够自适应节点的动态加入 / 退出，有着良好的可扩展性、鲁棒性、节点 ID 分配的均匀性和自组织能力。由于重叠网络采用了确定性拓扑结构，DHT 可以精确地发现节点。经典的案例是 Tapestry、Pastry、Chord 和 CAN。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;半分布式拓扑（Partially Decentralized Topology）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;半分布式拓扑吸取了中心化拓扑和全分布式非结构化拓扑的优点，选择性能较高（处理、存储、带宽等方面性能）的节点作为超级节点（supernode 或 hub），在各个超级节点上存储了系统中其他部分节点的信息，发现算法仅在超级节点之间转发，超级节点再将查询请求转发给适当的叶子节点。半分布式结构也是一个层次式结构，超级节点之间构成一个高速转发层，超级节点和所负责的普通节点构成若干层次。采用这种结构的最典型的案例就是 KaZaa。&lt;/p&gt;
+&lt;p&gt;每种拓扑结构的 P2P 网络都有其优缺点，在实际应用中，需要从可扩展性、可靠性、可维护性、发现算法的效率、复杂查询等方面综合权衡，选择适合的拓扑结构来组织 P2P 应用的节点功能。&lt;/p&gt;
+&lt;h2 id=&#34;实验&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验&#34;&gt;#&lt;/a&gt; 实验&lt;/h2&gt;
+&lt;p&gt;1. 结合 Wireshark 网络流量分析工具对网页邮件登录过程进行捕获和分析，说明其基本的工作流程。&lt;/p&gt;
+&lt;p&gt;2. 结合 Wireshark 网络流量分析工具对迅雷登录和文件下载过程进行捕获和分析，说明其基本的工作流程。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

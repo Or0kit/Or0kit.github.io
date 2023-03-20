@@ -377,7 +377,6 @@
         <category>KiSystemService函数</category>
         <category>Trap_Frame</category>
         <category>web安全</category>
-        <category>Pentest</category>
         <category>磁盘虚拟</category>
         <category>PDO</category>
         <category>Windows中从击键到内核的过程</category>
@@ -393,6 +392,19 @@
         <category>Minifilter</category>
         <category>boot驱动</category>
         <category>bitmap</category>
+        <category>_KUSER_SHARED_DATA</category>
+        <category>哈希表</category>
+        <category>Sfilter</category>
+        <category>Windows网络编程</category>
+        <category>协议层次和服务模型</category>
+        <category>IP地址</category>
+        <category>端口号</category>
+        <category>DNS</category>
+        <category>网络地址转换NAT</category>
+        <category>分布式网络应用程序</category>
+        <category>客户/服务器模型</category>
+        <category>浏览器/服务器模型</category>
+        <category>P2P模型</category>
         <item>
             <guid isPermalink="true">https://or0kit.github.io/Bin/Core/Drive-Development/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-%E9%9A%90%E8%97%8F%E9%A9%B1%E5%8A%A8/</guid>
             <title>驱动开发-隐藏驱动</title>

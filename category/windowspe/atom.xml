@@ -374,7 +374,6 @@
     <category term="KiSystemService函数" />
     <category term="Trap_Frame" />
     <category term="web安全" />
-    <category term="Pentest" />
     <category term="磁盘虚拟" />
     <category term="PDO" />
     <category term="Windows中从击键到内核的过程" />
@@ -390,6 +389,19 @@
     <category term="Minifilter" />
     <category term="boot驱动" />
     <category term="bitmap" />
+    <category term="_KUSER_SHARED_DATA" />
+    <category term="哈希表" />
+    <category term="Sfilter" />
+    <category term="Windows网络编程" />
+    <category term="协议层次和服务模型" />
+    <category term="IP地址" />
+    <category term="端口号" />
+    <category term="DNS" />
+    <category term="网络地址转换NAT" />
+    <category term="分布式网络应用程序" />
+    <category term="客户/服务器模型" />
+    <category term="浏览器/服务器模型" />
+    <category term="P2P模型" />
     <entry>
         <id>https://or0kit.github.io/Bin/WindowsPE/PE%E9%A1%B9%E7%9B%AE-%E7%BC%96%E5%86%99PE%E6%9F%A5%E7%9C%8B%E5%99%A8/</id>
         <title>PE项目-编写PE查看器</title>
@@ -1335,7 +1347,19 @@ DOS 头对应的结构体名称叫 IMAGE_DOS_HEADER&lt;/p&gt;
 &lt;p&gt;8、  &lt;code&gt;NumberOfRelocations&lt;/code&gt;  在 obj 文件中使用  对 exe 无意义。&lt;/p&gt;
 &lt;p&gt;9、  &lt;code&gt;NumberOfLinenumbers&lt;/code&gt;  行号表中行号的数量 调试的时候使用。&lt;/p&gt;
 &lt;p&gt;10、  &lt;code&gt;Characteristics&lt;/code&gt;  节的属性。&lt;/p&gt;
-&lt;h1 id=&#34;个人笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人笔记&#34;&gt;#&lt;/a&gt; 个人笔记&lt;/h1&gt;
+&lt;details&gt;&lt;summary&gt;标志(属性块) 常用特征值对照表：&lt;/summary&gt;&lt;div&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00000020h] [IMAGE_SCN_CNT_CODE                &amp;#x2F;&amp;#x2F; Section contains code.(包含可执行代码)]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00000040h] [IMAGE_SCN_CNT_INITIALIZED_DATA    &amp;#x2F;&amp;#x2F; Section contains initialized data.(该块包含已初始化的数据)]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00000080h] [IMAGE_SCN_CNT_UNINITIALIZED_DATA  &amp;#x2F;&amp;#x2F; Section contains uninitialized data.(该块包含未初始化的数据)]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00000200h] [IMAGE_SCN_LNK_INFO                &amp;#x2F;&amp;#x2F; Section contains comments or some other type of information.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00000800h] [IMAGE_SCN_LNK_REMOVE              &amp;#x2F;&amp;#x2F; Section contents will not become part of image.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00001000h] [IMAGE_SCN_LNK_COMDAT              &amp;#x2F;&amp;#x2F; Section contents comdat.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00004000h] [IMAGE_SCN_NO_DEFER_SPEC_EXC       &amp;#x2F;&amp;#x2F; Reset speculative exceptions handling bits in the TLB entries for this section.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00008000h] [IMAGE_SCN_GPREL                   &amp;#x2F;&amp;#x2F; Section content can be accessed relative to GP.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：00500000h] [IMAGE_SCN_ALIGN_16BYTES           &amp;#x2F;&amp;#x2F; Default alignment if no others are specified.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：01000000h] [IMAGE_SCN_LNK_NRELOC_OVFL         &amp;#x2F;&amp;#x2F; Section contains extended relocations.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：02000000h] [IMAGE_SCN_MEM_DISCARDABLE         &amp;#x2F;&amp;#x2F; Section can be discarded.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：04000000h] [IMAGE_SCN_MEM_NOT_CACHED          &amp;#x2F;&amp;#x2F; Section is not cachable.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：08000000h] [IMAGE_SCN_MEM_NOT_PAGED           &amp;#x2F;&amp;#x2F; Section is not pageable.]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：10000000h] [IMAGE_SCN_MEM_SHARED              &amp;#x2F;&amp;#x2F; Section is shareable (该块为共享块).]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：20000000h] [IMAGE_SCN_MEM_EXECUTE             &amp;#x2F;&amp;#x2F; Section is executable.(该块可执行)]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：40000000h] [IMAGE_SCN_MEM_READ                &amp;#x2F;&amp;#x2F; Section is readable.(该块可读)]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;[值：80000000h] [IMAGE_SCN_MEM_WRITE               &amp;#x2F;&amp;#x2F; Section is writeable.(该块可写)]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;各种常见块(Sections) 的描述：&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;[.text]   [指令代码.]&lt;br /&gt;
+[.data]   [初始化的数据.]&lt;br /&gt;
+[.idata]  [导入表.]&lt;br /&gt;
+[.rsrc]   [资源数据.]&lt;br /&gt;
+[.reloc]  [基地址重定位表.]&lt;br /&gt;
+[.edata]  [输出表.]&lt;br /&gt;
+[.tls]    [thread local storage, 线程局部存储器.]&lt;br /&gt;
+[.rdata]  [存放调试目录和说明字符串.]&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h1 id=&#34;小记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小记&#34;&gt;#&lt;/a&gt; 小记&lt;/h1&gt;
 &lt;p&gt;BYTE 是字节的意思，字节是计算机存储容量的基本单位，一个字节由 8 位二进制数组成。&lt;br /&gt;
 bit 是位的意思，位是计算机中存储数据的最小单位，指二进制数中的一个位数，其值为 “0” 或 “1”&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;WORD = 2 * BYTE = 16 bit
