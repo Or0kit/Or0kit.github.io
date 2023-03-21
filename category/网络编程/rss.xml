@@ -406,9 +406,9 @@
         <category>浏览器/服务器模型</category>
         <category>P2P模型</category>
         <item>
-            <guid isPermalink="true">https://or0kit.github.io/Programming/NetworkProgramming/Windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%9401%E5%9B%9B%E4%B8%A4%E6%8B%A8%E5%8D%83%E6%96%A4/</guid>
-            <title>Windows网络编程——01四两拨千斤</title>
-            <link>https://or0kit.github.io/Programming/NetworkProgramming/Windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%9401%E5%9B%9B%E4%B8%A4%E6%8B%A8%E5%8D%83%E6%96%A4/</link>
+            <guid isPermalink="true">https://or0kit.github.io/Programming/NetworkProgramming/Windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%9401%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+            <title>Windows网络编程——01基础知识</title>
+            <link>https://or0kit.github.io/Programming/NetworkProgramming/Windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%9401%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
             <category>Windows网络编程</category>
             <category>协议层次和服务模型</category>
             <category>IP地址</category>
@@ -670,7 +670,7 @@
 &lt;p&gt;WinPcap 为程序员提供了一套标准的网络数据包捕获接口，包括了一个内核级的数据包过滤器，一个低层的动态链接库（Packet.dll），一个高层的依赖于系统的库（wpcap.dll）。它可以独立于 TCP/IP 协议栈进行原始数据包的发送和接收，主要提供了直接在网卡上捕获原始数据包、核心层数据包过滤、通过网卡直接发送原始数据包和网络流量统计等功能。&lt;/p&gt;
 &lt;p&gt;目前 WinPcap 已经达到了工业标准的应用要求，是非常成熟、实用的捕获与分析网络数据包的技术框架。&lt;/p&gt;
 &lt;h1 id=&#34;网络程序通信模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络程序通信模型&#34;&gt;#&lt;/a&gt; 网络程序通信模型&lt;/h1&gt;
-&lt;p&gt;网络程序通信模型是网络应用程序设计的基础，决定了网络功能在每个通信节点的部署。本章首先探讨网络应用软件与网络通信之间的关系，从会聚点问题引出网络程序通信模型的重要性；重点介绍 &lt;code&gt;客户/服务器&lt;/code&gt; 模型，从 &lt;code&gt;客户/服务器&lt;/code&gt; 模型的基本概念入手，深入讨论客户端和服务器之间的数量、位置和角色关系，归纳服务器软件的特点，并从多个角度对服务器的类别进行分析；最后介绍了 &lt;code&gt;浏览器/服务器&lt;/code&gt; 模型和 &lt;code&gt;P2P模型&lt;/code&gt; 的基本概念和优缺点。&lt;/p&gt;
+&lt;p&gt;网络程序通信模型是网络应用程序设计的基础，决定了网络功能在每个通信节点的部署。本章首先探讨网络应用软件与网络通信之间的关系，从会聚点问题引出网络程序通信模型的重要性；重点介绍&lt;strong&gt;客户 / 服务器&lt;/strong&gt;模型，从客户 / 服务器模型的基本概念入手，深入讨论客户端和服务器之间的数量、位置和角色关系，归纳服务器软件的特点，并从多个角度对服务器的类别进行分析；最后介绍了&lt;strong&gt;浏览器 / 服务器&lt;/strong&gt;模型和&lt;strong&gt; P2P 模型&lt;/strong&gt;的基本概念和优缺点。&lt;/p&gt;
 &lt;p&gt;透彻地理解网络程序通信模型的相关概念在网络程序设计过程中是十分重要的，能够使设计者从过去所学的网络构造原理转移到网络应用设计的层面上来，并在网络应用设计中有目的地选择适合的通信模型，搭建合理的程序架构。&lt;/p&gt;
 &lt;h2 id=&#34;网络应用软件与网络通信之间的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络应用软件与网络通信之间的关系&#34;&gt;#&lt;/a&gt; 网络应用软件与网络通信之间的关系&lt;/h2&gt;
 &lt;p&gt;网络通信是由底层物理网络和各层通信协议实现的，物理网络建立了相互连通的通信实体，通信协议在各个层次上以规范的消息格式和不同的服务能力保证了数据传输过程中的寻址、路由、转发、可靠性维护、流量控制、拥塞控制等一系列传输能力。网络硬件与协议实现相结合，形成了一个能使网络中任意一对计算机上的应用程序相互通信的基本通信结构。&lt;/p&gt;
